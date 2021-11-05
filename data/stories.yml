@@ -2,11 +2,20 @@ version: "2.0"
 
 stories:
 
-- story: story_thankyou
-  steps:
-  - intent: thankyou
-  - action: utter_noworries
+# - story: story_thankyou
+#   steps:
+#   - intent: thankyou
+#   - action: utter_noworries
 
+- story: story_add
+  steps:
+  - intent: add_item
+  - action: item_quantity_form
+  - slot_was_set:
+    - item: null
+  - slot_was_set:
+    - number: null
+  - action: utter_done
 
 
 # - story: happy path

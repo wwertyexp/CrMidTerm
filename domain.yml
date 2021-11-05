@@ -1,13 +1,6 @@
 version: "2.0"
 
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - bot_challenge
-  - thankyou
-  - items
   - add_item
   - inform
   - show_list

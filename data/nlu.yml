@@ -1,89 +1,98 @@
 version: "2.0"
 
 nlu:
-- intent: greet
-  examples: |
-    - hey
-    - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+# - intent: greet
+#   examples: |
+#     - hey
+#     - hello
+#     - hi
+#     - hello there
+#     - good morning
+#     - good evening
+#     - moin
+#     - hey there
+#     - let's go
+#     - hey dude
+#     - goodmorning
+#     - goodevening
+#     - good afternoon
 
-- intent: goodbye
-  examples: |
-    - good afternoon
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
+# - intent: goodbye
+#   examples: |
+#     - good afternoon
+#     - cu
+#     - good by
+#     - cee you later
+#     - good night
+#     - bye
+#     - goodbye
+#     - have a nice day
+#     - see you around
+#     - bye bye
+#     - see you later
 
-- intent: affirm
-  examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+# - intent: affirm
+#   examples: |
+#     - yes
+#     - y
+#     - indeed
+#     - of course
+#     - that sounds good
+#     - correct
 
-- intent: deny
-  examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
+# - intent: deny
+#   examples: |
+#     - no
+#     - n
+#     - never
+#     - I don't think so
+#     - don't like that
+#     - no way
+#     - not really
 
-- intent: bot_challenge
-  examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+# - intent: bot_challenge
+#   examples: |
+#     - are you a bot?
+#     - are you a human?
+#     - am I talking to a bot?
+#     - am I talking to a human?
 
-- intent: thankyou
-  examples: |
-    - Thanks
-    - Thank you
-    - Thank you so much
-    - Thanks bot
-    - Thanks for that
-    - cheers
-    - cheers bro
-    - ok thanks!
-    - perfect thank you
-    - thanks a bunch for everything
-    - thanks for the help
-    - thanks a lot
-    - amazing, thanks
-    - cool, thanks
-    - cool thank you
+# - intent: thankyou
+#   examples: |
+#     - Thanks
+#     - Thank you
+#     - Thank you so much
+#     - Thanks bot
+#     - Thanks for that
+#     - cheers
+#     - cheers bro
+#     - ok thanks!
+#     - perfect thank you
+#     - thanks a bunch for everything
+#     - thanks for the help
+#     - thanks a lot
+#     - amazing, thanks
+#     - cool, thanks
+#     - cool thank you
 
 - intent: add_item
   examples: |
-    - add a [apple](item) to the shopping list
+    - add a [apple](item) to the memo
     - i want to buy a [banana](item)
+    - i would like to add [apple](item)
+    - insert [banana](item) in the notes
+    - insert [banana](item) in the memo
+    - remember me to buy some [orange](item)
+    - i want to buy some [banana](item)
 
 - intent: show_list
   examples: |
     - show me the shopping list
     - let me see the shopping list
+    - show me the list
+    - i want to see the list
+    - list all the items
+    - what's in the list?
 
 - intent: inform
   examples: |

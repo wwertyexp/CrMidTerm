@@ -1,0 +1,73 @@
+[
+  {
+    "text": "four",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "four",
+        "entity": "number"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "item",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.9963542222976685,
+        "value": "four",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "remember me to buy some orange",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "value": "orange",
+        "entity": "item"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "item",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.6036892533302307,
+        "value": "remember",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "item",
+        "start": 24,
+        "end": 30,
+        "confidence_entity": 0.9378467798233032,
+        "value": "orange",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "three",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "three",
+        "entity": "number"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "item",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.7953013777732849,
+        "value": "three",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  }
+]
