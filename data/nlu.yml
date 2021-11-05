@@ -576,3 +576,106 @@ nlu:
   # - [Creamsicle](item)
   # - [Pepper](item)
   # - [Vinegar](item)
+
+- intent: out_of_scope
+  examples: |
+    - He didn't know where he was supposed to go for his interview.
+    - She thought she wanted to be an editor, until she got a job and realized she hated detail work.
+    - I like articles deemed fake news because they are entertaining.
+    - I couldn’t possibly love anything in the world more than I love my dog.
+    - I'm just trying to stop you from making a big mistake.
+    - Tom just got that big promotion he's been waiting for.
+    - Tom pulled out a big wad of cash out of his pocket.
+    - The church was white and brown and looked very old.
+    - We need a car big enough for the whole family.
+    - Everyone says In-N-Out is the best fast-food restaurant in the country, but honestly, I was very underwhelmed.
+    - Anticipating a cold winter, we bought a bigger stove.
+    - I was so into it, I lost track of time and missed my soccer practice.
+    - He carried the bananas in a cardboard box on his head.
+    - I put my headphones on and listened to some smooth jazz.
+    - You must know the sound of each letter in the English alphabet.
+    - She had always harbored a secret jealousy for Youtubers, even those who appeared outwardly dumb and were often mocked on Twitter.
+    - She paid over a thousand dollars a month for her tiny studio apartment, which did not have a dishwasher or consistent heating.
+    - Is there a big market for this kind of thing these days?
+    - What did the taxidermist say she'd charge you?
+    - Let's all just take a moment to breathe, please!
+    - My mom drove me to school fifteen minutes late on Tuesday.
+    - Last night there was a big fire in the neighbourhood.
+    - I'd like you to show me where the sweaters are.
+    - In city after city, big public meetings were held.
+    - A big bomb fell, and a great many people lost their lives.
+    - She bought him a camera that was too clunky to fit in his shirt pocket.
+    - My hands are too big to fit into these gloves.
+    - The door slammed down on my hand, and I screamed like a little baby.
+    - Tom just got that big promotion he's been waiting for.
+    - Be patient because I can’t do it all right now.
+    - this is a sarcastic phrase meaning that something unlucky happened.
+    - Today is the first day he made it to work on time in a while.
+    - When I went to the cabin up north, I had to bring a lot of board games to entertain myself.
+    - Those hairless cats are completely loyal to their owners.
+    - Dozens of houses were burned down in that big fire.
+    - Me and my sister don’t see each other anymore.
+    - She considered reporting her landlord for inhospitable living conditions, but she was worried they would retaliate against her.
+    - You use this when someone is very afraid or very sick.
+    - How long did you think you could get away with this?
+    - Pluto may not be a planet anymore, but it's a planet in my heart.
+    - Mary was impressed by the big organ in the church.
+    - The moms and dads all sat around drinking coffee and eating donuts.
+    - We've been making this recipe for generations.
+    - Tom works for a big advertising firm in Boston.
+    - Crime is certainly on the increase in many of our cities.
+    - I found a gold coin on the playground after school today.
+    - I studied ethics in school because everything else bored me.
+    - I think that little device on the wall is a bomb.
+    - The road to hell is paved with good intentions.
+    - You can't talk to me unless you tell me your favorite color.
+    - This is my operating room, so you all need to shut up.
+    - I wish I had met my uncle yesterday like I was supposed to.
+    - in the next 40-50 years I plan on opening up my own business.
+    - My papa once told me he wasn’t scared of dying.
+    - They hadn't updated the store's sign in decades.
+    - I'm just trying to stop you from making a big mistake.
+    - Do you think our lives will ever go back to normal?
+    - Why not go back to them and tell them you changed your mind?
+    - Did you hear about the new animal discovered in Ecuador?
+    - A billionaire doesn't know what it means to be broke.
+    - The police violently defend it.
+    - I was a baby when I was born.
+    - My shoes tie up in a bow.
+    - Thinking of the past is weird.
+    - They could be together.
+    - I want to meet his sister-in-law.
+    - I need to clean my room.
+    - This glass is breakable.
+    - They rode their bikes to the beach.
+    - I have a first name and a surname.
+    - They are so cute.
+    - She sells Christmas trees.
+    - It's hard to distinguish fake news.
+    - You need therapy.
+    - I’d like to be catcalled.
+    - Hairless cats look demonic.
+    - She hated first dates.
+    - Do you know that man with a big hat on?
+    - Land is good.
+    - Don't even look at me!
+    - I am a football fan.
+    - My brother’s dog barks a lot.
+    - I’d like to honor a person.
+    - You can either stay or leave.
+    - It was a tough time.
+    - I want to see you.
+    - I got a new cat.
+    - I put on my slippers.
+    - There used to be big trees around my house.
+    - The president gets a lot of criticism.
+    - We already know the truth.
+    - Racecar backwards is racecar.
+    - Monday was not my best day.
+    - I am so thankful for this opportunity.
+    - My water bottle is white and made of steel.
+    - The teacher tested us in English.
+    - When do they test the tornado sirens?
+    - He wears suspenders instead of a belt.
+    - How long did it take?
+    - Have you got a match?

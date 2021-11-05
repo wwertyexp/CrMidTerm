@@ -1,0 +1,18 @@
+[
+  {
+    "text": "how many apples are there in the list",
+    "intent": "show_list",
+    "intent_prediction": {
+      "name": "add_item",
+      "confidence": 0.9959694147109985
+    }
+  },
+  {
+    "text": "add four apples to the shopping list",
+    "intent": "add_item",
+    "intent_prediction": {
+      "name": "show_list",
+      "confidence": 0.9999449253082275
+    }
+  }
+]

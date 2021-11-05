@@ -1,0 +1,40 @@
+{
+  "inform": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 84,
+    "confused_with": {}
+  },
+  "show_list": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.8571428571428571,
+    "support": 7,
+    "confused_with": {
+      "add_item": 1
+    }
+  },
+  "add_item": {
+    "precision": 0.875,
+    "recall": 0.875,
+    "f1-score": 0.875,
+    "support": 8,
+    "confused_with": {
+      "show_list": 1
+    }
+  },
+  "accuracy": 0.9797979797979798,
+  "macro avg": {
+    "precision": 0.9107142857142857,
+    "recall": 0.9107142857142857,
+    "f1-score": 0.9107142857142857,
+    "support": 99
+  },
+  "weighted avg": {
+    "precision": 0.9797979797979798,
+    "recall": 0.9797979797979798,
+    "f1-score": 0.9797979797979798,
+    "support": 99
+  }
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "text": "three",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "three",
+        "entity": "number"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Tomato",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Tomato",
+        "entity": "item"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Lime",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "Lime",
+        "entity": "item"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "add four apples to the shopping list",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "four",
+        "entity": "number"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "value": "apples",
+        "entity": "item"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "item",
+        "start": 4,
+        "end": 8,
+        "confidence_entity": 0.8029183745384216,
+        "value": "four",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "item",
+        "start": 9,
+        "end": 15,
+        "confidence_entity": 0.9999287128448486,
+        "value": "apples",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "remember me to buy some orange",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "value": "orange",
+        "entity": "item"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "item",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.9702842235565186,
+        "value": "remember",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "item",
+        "start": 24,
+        "end": 30,
+        "confidence_entity": 0.9902507066726685,
+        "value": "orange",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "four",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "four",
+        "entity": "number"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "item",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.9996891021728516,
+        "value": "four",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  }
+]

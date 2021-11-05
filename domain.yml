@@ -4,6 +4,7 @@ intents:
   - add_item
   - inform
   - show_list
+  - out_of_scope
 
 entities:
   - item
@@ -63,6 +64,9 @@ responses:
 
   utter_ask_item:
   - text: "what do you want to add to the shopping list?"
+
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?
 
 session_config:
   session_expiration_time: 60
