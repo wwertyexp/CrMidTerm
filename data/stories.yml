@@ -15,6 +15,7 @@ stories:
     - item: null
   - slot_was_set:
     - number: null
+  - action: action_add
   - action: utter_done
 
 
