@@ -5,3 +5,5 @@ models/
 __pycache__/
 # ignore pycache
 __pycache__/__pycache__/
+
+results/config-orig
