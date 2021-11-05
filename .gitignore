@@ -1,0 +1,7 @@
+models/
+
+
+# ignore pycache
+__pycache__/
+# ignore pycache
+__pycache__/__pycache__/

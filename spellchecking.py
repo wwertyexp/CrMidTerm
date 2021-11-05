@@ -1,0 +1,42 @@
+from rasa.nlu.components import Component
+from rasa.nlu import utils
+from rasa.nlu.model import Metadata
+from rasa.shared.nlu.constants import TEXT
+from spellchecker import SpellChecker
+spell = SpellChecker()
+
+class CorrectSpelling(Component):
+
+    name = "Spell_checker"
+    provides = ["message"]
+    requires = ["message"]
+    language_list = ["en"]
+
+    def __init__(self, component_config=None):
+        super(CorrectSpelling, self).__init__(component_config)
+
+    def train(self, training_data, cfg, **kwargs):
+        """Not needed, because the the model is pretrained"""
+        pass
+
+    def process(self, message, **kwargs):
+        """Retrieve the text message, do spelling correction word by word,
+        then append all the words and form the sentence,
+        pass it to next component of pipeline"""
+
+        # print("TIPO DI MESSAGE",type(message))
+        # print('MESSAGE',message)
+        # print('MESSAGE.text',message.text)
+        # print('MESSAGE.text',message.data[TEXT])
+
+        try:
+            textdata = message.data[TEXT]
+            textdata = textdata.split()
+            new_message = ' '.join(spell.correction(w) for w in textdata)
+            message.data[TEXT] = new_message
+        except KeyError:
+            pass
+
+    def persist(self,file_name, model_dir):
+        """Pass because a pre-trained model is already persisted"""
+        pass
