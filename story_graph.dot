@@ -1,20 +1,23 @@
 digraph  {
 0 [class="start active", fillcolor=green, fontsize=12, label=START, style=filled];
 "-1" [class=end, fillcolor=red, fontsize=12, label=END, style=filled];
-1 [class=active, fontsize=12, label=action_session_start];
-2 [class=active, fontsize=12, label=item_quantity_form];
-3 [class=active, fontsize=12, label=action_add];
-4 [class=active, fontsize=12, label=utter_done];
-8 [class="intent dashed active", label="  ?  ", shape=rect];
-9 [class="intent active", fillcolor=lightblue, label="i want to buy one banana", shape=rect, style=filled];
-10 [class="intent active", fillcolor=lightblue, label="i want to buy 2 bananas", shape=rect, style=filled];
+1 [class=active, fontsize=12, label=item_quantity_form];
+2 [class=active, fontsize=12, label=action_add];
+3 [class=active, fontsize=12, label=utter_done];
+13 [class=active, fontsize=12, label=item_quantity_form];
+14 [class="intent dashed active", label="  ?  ", shape=rect];
+15 [class="intent active", fillcolor=lightblue, label="i want to buy two bananas", shape=rect, style=filled];
+16 [class="intent active", fillcolor=lightblue, label="i want to buy one banana", shape=rect, style=filled];
+17 [class="intent active", fillcolor=lightblue, label="i want to buy a banana", shape=rect, style=filled];
 0 -> "-1"  [class="", key=NONE, label=""];
-0 -> 1  [class=active, key=NONE, label=""];
-1 -> 9  [class=active, key=0];
+0 -> 15  [class=active, key=0];
+1 -> 2  [class=active, key=NONE, label=""];
 2 -> 3  [class=active, key=NONE, label=""];
-3 -> 4  [class=active, key=NONE, label=""];
-4 -> 8  [class=active, key=NONE, label=""];
-4 -> 10  [class=active, key=0];
-9 -> 2  [class=active, key=0];
-10 -> 2  [class=active, key=0];
+3 -> "-1"  [class="", key=NONE, label=""];
+3 -> 16  [class=active, key=0];
+3 -> 17  [class=active, key=0];
+13 -> 14  [class=active, key=NONE, label=""];
+15 -> 1  [class=active, key=0];
+16 -> 1  [class=active, key=0];
+17 -> 13  [class=active, key=0];
 }

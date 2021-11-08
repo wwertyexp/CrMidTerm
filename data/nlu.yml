@@ -1888,7 +1888,7 @@ nlu:
     - How long did it take?
     - Have you got a match?
 
-- synonym: one
+- synonym: 1
   examples: |
     - a
     - an
