@@ -107,11 +107,6 @@ nlu:
 
 - intent: inform
   examples: |
-    - [2](number)
-    - [three](number)
-    - [four](number)
-    - [4](number) [apples](item)
-    - [four](number)
     - [Dumpling](item)
     - [Stewed](item)
     - [Apricot](item)
