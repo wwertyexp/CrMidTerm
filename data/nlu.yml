@@ -109,1690 +109,7 @@ nlu:
     - what's in the list?
     - how many [apples](item) are there in the list?
 
-- intent: inform
-  examples: |
-    - [Dumpling](item)
-    - [Stewed](item)
-    - [Apricot](item)
-    - [Heart](item)
-    - [Cannelloni](item)
-    - [Persimmon](item)
-    - [Lychee](item)
-    - [Bread](item)
-    - [Popover](item)
-    - [Mushrooms](item)
-    - [Sauerkraut](item)
-    - [Chives](item)
-    - [Currants](item)
-    - [Cereal](item)
-    - [Brioche](item)
-    - [Sausage](item)
-    - [Pear](item)
-    - [Butterfinger](item)
-    - [Whatchamacallit](item)
-    - [Spanakopitta](item)
-    - [Snowpeas](item)
-    - [Knockwurst](item)
-    - [Papaya](item)
-    - [Tomato](item)
-    - [Yokan](item)
-    - [Pickles](item)
-    - [Jam](item)
-    - [Octopus](item)
-    - [Daiquiri](item)
-    - [Radish](item)
-    - [Rum](item)
-    - [Jai](item)
-    - [Liverwurst](item)
-    - [Clementine](item)
-    - [Papad](item)
-    - [Mimosa](item)
-    - [Kumquat](item)
-    - [Bison](item)
-    - [Lemon](item)
-    - [Bologna](item)
-    - [Sangria](item)
-    - [Codfish](item)
-    - [Greens](item)
-    - [Veal](item)
-    - [Cream](item)
-    - [Pralines](item)
-    - [Blueberries](item)
-    - [Zucchini](item)
-    - [Johnnycake](item)
-    - [Tortellini](item)
-    - [Marshmallow](item)
-    - [Cheeseburger](item)
-    - [Whiskey](item)
-    - [Ravioli](item)
-    - [Sturgeon](item)
-    - [Natto](item)
-    - [Bluberries](item)
-    - [Duck](item)
-    - [Margarine](item)
-    - [Bulgur](item)
-    - [Dove](item)
-    - [Pizza](item)
-    - [Icing](item)
-    - [Chutney](item)
-    - [Mousse](item)
-    - [Glug](item)
-    - [Pretzels](item)
-    - [Croaker](item)
-    - [Lime](item)
-    - [Spaghetti](item)
-    - [Goulash](item)
-    - [Watercress](item)
-    - [Wine](item)
-    - [Cornmeal](item)
-    - [Cauliflower](item)
-    - [Enchilada](item)
-    - [Pomegranate](item)
-    - [Croissant](item)
-    - [Margarita](item)
-    - [Soursop](item)
-    - [Berries](item)
-    - [Gin](item)
-    - [Gelato](item)
-    - [Mango](item)
-    - [Spinach](item)
-    - [Chard](item)
-    - [Water](item)
-    - [Trout](item)
-    - [Casabe](item)
-    - [Apple](item)
-    - [Sardines](item)
-    - [Noodles](item)
-    - [Corn](item)
-    - [Fudge](item)
-    - [Mustard](item)
-    - [Quail](item)
-    - [Halvah](item)
-    - [Cherries](item)
-    - [Chitterlings](item)
-    - [Potato](item)
-    - [Zombie](item)
-    - [Blackberries](item)
-    - [Chorizo](item)
-    - [Rutabaga](item)
-    - [Flan](item)
-    - [Sirloin](item)
-    - [Ray](item)
-    - [Seaweed](item)
-    - [Sorbet](item)
-    - [Crab](item)
-    - [Clams](item)
-    - [Ladoo](item)
-    - [Mayonnaise](item)
-    - [Burdock](item)
-    - [Tuna](item)
-    - [Churros](item)
-    - [Bruschetta](item)
-    - [Kamikaze](item)
-    - [Meatball](item)
-    - [Gimlet](item)
-    - [Kibby](item)
-    - [Snails](item)
-    - [Artichoke](item)
-    - [Waffle](item)
-    - [Ham](item)
-    - [Muffin](item)
-    - [Sprouts](item)
-    - [Asparagus](item)
-    - [Brains](item)
-    - [Manhattan](item)
-    - [Bacon](item)
-    - [Miso](item)
-    - [Prunes](item)
-    - [Marmalade](item)
-    - [Injera](item)
-    - [Stinger](item)
-    - [Gizzard](item)
-    - [Jagerbomb](item)
-    - [Cantaloupe](item)
-    - [Blintz](item)
-    - [Cocktail](item)
-    - [Beignet](item)
-    - [Pork](item)
-    - [Onions](item)
-    - [Steak](item)
-    - [Crayfish](item)
-    - [Empanada](item)
-    - [Topping](item)
-    - [Strudel](item)
-    - [Escarole](item)
-    - [Butter](item)
-    - [Hamburger](item)
-    - [Raspberries](item)
-    - [Beans](item)
-    - [Biscuit](item)
-    - [Custard](item)
-    - [Tiramisu](item)
-    - [Vermicelli](item)
-    - [Upma](item)
-    - [Multigrain](item)
-    - [Macaroni](item)
-    - [Lettuce](item)
-    - [Cod](item)
-    - [Almonds](item)
-    - [Avocado](item)
-    - [Pancakes](item)
-    - [Congee](item)
-    - [Doughnut](item)
-    - [Alexander](item)
-    - [Opossum](item)
-    - [Whey](item)
-    - [Basbousa](item)
-    - [Strawberries](item)
-    - [Ketchup](item)
-    - [Coffee](item)
-    - [Ostrich](item)
-    - [Taro](item)
-    - [Cheese](item)
-    - [Vodka](item)
-    - [Tamarind](item)
-    - [Date](item)
-    - [Mullet](item)
-    - [Gordita](item)
-    - [Cabbage](item)
-    - [Broccoli](item)
-    - [Pannetone](item)
-    - [Kishke](item)
-    - [Scone](item)
-    - [Couscous](item)
-    - [Chickpeas](item)
-    - [Coconut](item)
-    - [Tamale](item)
-    - [Soup](item)
-    - [Skittles](item)
-    - [Roe](item)
-    - [Cilantro](item)
-    - [Buttermilk](item)
-    - [Roll](item)
-    - [Croutons](item)
-    - [Guava](item)
-    - [Bagel](item)
-    - [Armadillo](item)
-    - [Adobo](item)
-    - [Apple-raspberry](item)
-    - [Kefir](item)
-    - [Beaver](item)
-    - [Salsa](item)
-    - [Taffy](item)
-    - [Focaccia](item)
-    - [Fritter](item)
-    - [Peaches](item)
-    - [Pastry](item)
-    - [Horseradish](item)
-    - [Barley](item)
-    - [Gravy](item)
-    - [Chicken](item)
-    - [Tea](item)
-    - [Pasta](item)
-    - [Broccoflower](item)
-    - [Seabreeze](item)
-    - [Bratwurst](item)
-    - [Salsify](item)
-    - [Mackerel](item)
-    - [Vegetables](item)
-    - [Goat](item)
-    - [Scrapple](item)
-    - [Venison/deer](item)
-    - [Haddock](item)
-    - [Pike](item)
-    - [Baklava](item)
-    - [Jicama](item)
-    - [Jelly](item)
-    - [Applesauce](item)
-    - [Bibimbap](item)
-    - [Bouillabaisse](item)
-    - [Calabaza](item)
-    - [Herring](item)
-    - [Chestnuts](item)
-    - [Manicotti](item)
-    - [Eel](item)
-    - [Dasheen](item)
-    - [Stew](item)
-    - [Livers](item)
-    - [Kidney](item)
-    - [Falafel](item)
-    - [Artichokes](item)
-    - [Hayacas](item)
-    - [Crumpet](item)
-    - [Parsley](item)
-    - [Scallops](item)
-    - [Pepperoni](item)
-    - [Moose](item)
-    - [Toffee](item)
-    - [Pumpkin](item)
-    - [Peach](item)
-    - [Meatballs](item)
-    - [Cornbread](item)
-    - [Milk](item)
-    - [Hash](item)
-    - [Shortening](item)
-    - [Basil](item)
-    - [Caramel](item)
-    - [Ghee](item)
-    - [Puffs](item)
-    - [Martini](item)
-    - [Turnover](item)
-    - [Cranberries](item)
-    - [Crackers](item)
-    - [Fondant](item)
-    - [Ambrosia](item)
-    - [Borscht](item)
-    - [Celery](item)
-    - [Cheesecake](item)
-    - [Christophine](item)
-    - [Orange](item)
-    - [Tabbouleh](item)
-    - [Pastrami](item)
-    - [Okra](item)
-    - [Rolo](item)
-    - [Quinoa](item)
-    - [Peanuts](item)
-    - [Quesadilla](item)
-    - [Oatmeal](item)
-    - [Turnip](item)
-    - [Eggplant](item)
-    - [Licorice](item)
-    - [Turkey](item)
-    - [Hazelnuts](item)
-    - [Sushi](item)
-    - [Liver](item)
-    - [Barracuda](item)
-    - [Beef](item)
-    - [Syrup](item)
-    - [Tequila](item)
-    - [Sweetbreads](item)
-    - [Crepe](item)
-    - [Prune](item)
-    - [Pineapple](item)
-    - [Sugar](item)
-    - [Vegetarian](item)
-    - [Cactus](item)
-    - [Caribou](item)
-    - [Plums](item)
-    - [Lamb](item)
-    - [Halibut](item)
-    - [Flounder](item)
-    - [Catfish](item)
-    - [Peppers](item)
-    - [Crisp](item)
-    - [Yeast](item)
-    - [Anchovy](item)
-    - [Cookies](item)
-    - [Salami](item)
-    - [Chilaquiles](item)
-    - [Beer](item)
-    - [Pho](item)
-    - [Tortilla](item)
-    - [Kohlrabi](item)
-    - [Carp](item)
-    - [Parsnips](item)
-    - [Pheasant](item)
-    - [Sixlets](item)
-    - [Potatoes](item)
-    - [Lentils](item)
-    - [Shark](item)
-    - [Pears](item)
-    - [Soybeans](item)
-    - [Wheat](item)
-    - [Yogurt](item)
-    - [Paella](item)
-    - [Wonton](item)
-    - [Meringues](item)
-    - [Chimichanga](item)
-    - [Raccoon](item)
-    - [Goose](item)
-    - [Toblerone](item)
-    - [Egg](item)
-    - [Molasses](item)
-    - [Banana](item)
-    - [Vada](item)
-    - [Fudgesicle](item)
-    - [Shrimp](item)
-    - [Olives](item)
-    - [Squid](item)
-    - [Rice](item)
-    - [Watermelon](item)
-    - [Trifle](item)
-    - [Cress](item)
-    - [Grapefruit](item)
-    - [Mojito](item)
-    - [Tripe](item)
-    - [Squirrel](item)
-    - [Swordfish](item)
-    - [Beets](item)
-    - [Chips](item)
-    - [Mortadella](item)
-    - [Tahini](item)
-    - [Turtle](item)
-    - [Carrots](item)
-    - [Kale](item)
-    - [Spoonbread](item)
-    - [Cashews](item)
-    - [Popcorn](item)
-    - [Apples](item)
-    - [Fig](item)
-    - [Gumdrops](item)
-    - [Garlic](item)
-    - [Millet](item)
-    - [Radishes](item)
-    - [Pompano](item)
-    - [Dip](item)
-    - [Fruit](item)
-    - [Hummus](item)
-    - [Honey](item)
-    - [Chiliburger](item)
-    - [Pretzel](item)
-    - [Bear](item)
-    - [Raisins](item)
-    - [Burrito](item)
-    - [Truffles](item)
-    - [Starfruit](item)
-    - [Brandy](item)
-    - [Greyhound](item)
-    - [Pakora](item)
-    - [Calzone](item)
-    - [Gumbo](item)
-    - [Kimchi](item)
-    - [Pocky](item)
-    - [Meat](item)
-    - [Candy](item)
-    - [Nougat](item)
-    - [Plum](item)
-    - [Sandwich](item)
-    - [Collards](item)
-    - [Tomatoes](item)
-    - [Lobster](item)
-    - [Salmon](item)
-    - [Celeriac](item)
-    - [Eggnog](item)
-    - [Firni](item)
-    - [Scotch](item)
-    - [Pie](item)
-    - [Squash](item)
-    - [Cake](item)
-    - [Lard](item)
-    - [Grasshopper](item)
-    - [Snowpea](item)
-    - [Luffa](item)
-    - [Sopaipilla](item)
-    - [Cobbler](item)
-    - [Ratatouille](item)
-    - [Chocolate](item)
-    - [Apricots](item)
-    - [Breadsticks](item)
-    - [Rabbit](item)
-    - [Nectarine](item)
-    - [Cassava](item)
-    - [Pimiento](item)
-    - [Leek](item)
-    - [Peas](item)
-    - [Abalone](item)
-    - [Gazpacho](item)
-    - [Granola](item)
-    - [Poi](item)
-    - [Thuringer](item)
-    - [Sambar](item)
-    - [Bananas](item)
-    - [Tannier](item)
-    - [Oysters](item)
-    - [Edamame](item)
-    - [Walnuts](item)
-    - [Tongue](item)
-    - [Lambsquarter](item)
-    - [Ceviche](item)
-    - [Pupusa](item)
-    - [Soyburger](item)
-    - [Nuts](item)
-    - [Breadfruit](item)
-    - [Sherbet](item)
-    - [Oats](item)
-    - [Mussels](item)
-    - [Screwdriver](item)
-    - [Rhubarb](item)
-    - [Relish](item)
-    - [Naan](item)
-    - [Cookie](item)
-    - [Lasagna](item)
-    - [Cucumber](item)
-    - [Fish](item)
-    - [Guacamole](item)
-    - [Fufu](item)
-    - [Tilapia](item)
-    - [Mushroom](item)
-    - [Popsicle](item)
-    - [Hominy](item)
-    - [Knish](item)
-    - [Grapes](item)
-    - [Tangerine](item)
-    - [Radicchio](item)
-    - [Grits](item)
-    - [Plantain](item)
-    - [Pecans](item)
-    - [Haupia](item)
-    - [Porgy](item)
-    - [Whiting](item)
-    - [Pudding](item)
-    - [Yam](item)
-    - [Gnocchi](item)
-    - [Lemonade](item)
-    - [Perch](item)
-    - [Creamsicle](item)
-    - [Pepper](item)
-    - [Vinegar](item)
-    - [Macaroni or pasta salad with chicken](item)
-    - [Butter](item)
-    - [Fried cauliflower](item)
-    - [Herring](item)
-    - [Cereal (General Mills Kix)](item)
-    - [Fried green beans](item)
-    - [Trail mix](item)
-    - [Cottage cheese](item)
-    - [Fruit smoothie juice drink](item)
-    - [Lamb chop](item)
-    - [Broccoli and chicken](item)
-    - [Hors d'oeuvres](item)
-    - [Cereal (Malt-O-Meal Cocoa Dyno-Bites)](item)
-    - [Crabs in tomato-based sauce](item)
-    - [Beef goulash](item)
-    - [Chicken or turkey vegetable soup with noodles](item)
-    - [Chicken "wings" with hot sauce](item)
-    - [Scallops](item)
-    - [Jagerbomb](item)
-    - [Queso cotija](item)
-    - [Rice cereal with mixed fruits](item)
-    - [Lentil curry with rice](item)
-    - [Taro leaves](item)
-    - [Lobster with bread stuffing](item)
-    - [Lemon](item)
-    - [Enchilada with chicken and beans](item)
-    - [Vegetable soup with chicken broth](item)
-    - [Cereal (General Mills Chex Corn)](item)
-    - [Chicken or turkey chow mein or chop suey with noodles](item)
-    - [Peppers and onions](item)
-    - [Veal chop](item)
-    - [Beef barbecue submarine sandwich](item)
-    - [Pork roast](item)
-    - [Cereal (General Mills Fiber One)](item)
-    - [Calzone](item)
-    - [Beef stroganoff soup](item)
-    - [Guava](item)
-    - [White sauce or gravy](item)
-    - [Beef with barbecue sauce](item)
-    - [Spaghetti sauce with seafood](item)
-    - [Reese's Peanut Butter Cup](item)
-    - [Nuts](item)
-    - [Water Chesnut](item)
-    - [Manhattan](item)
-    - [Chicken in cream sauce with noodles and vegetable](item)
-    - [Chicken or turkey and rice with mushroom sauce](item)
-    - [Cabbage soup](item)
-    - [Beef curry with rice](item)
-    - [Broccoli cheese soup](item)
-    - [Chili with beans](item)
-    - [Quesadilla](item)
-    - [Vegetables in pastry](item)
-    - [Raccoon](item)
-    - [Burrito](item)
-    - [Sweet and sour shrimp](item)
-    - [Sushi](item)
-    - [Fried stuffed potatoes](item)
-    - [Honey mustard dip](item)
-    - [Cress](item)
-    - [Kishke](item)
-    - [McDouble (McDonalds)](item)
-    - [Chicken fillet](item)
-    - [Beef salad](item)
-    - [Croissant sandwich](item)
-    - [Pesto sauce](item)
-    - [Almonds](item)
-    - [Ice cream cone](item)
-    - [Turkey stick](item)
-    - [Cereal (Post Great Grains](item)
-    - [Chicken or turkey and potatoes with gravy](item)
-    - [Vegetable beef soup with noodles or pasta](item)
-    - [Snowpea](item)
-    - [Pad Thai with meat](item)
-    - [Sweet potato fries](item)
-    - [Coffee and chicory](item)
-    - [Trail mix with pretzels](item)
-    - [Turkey and bacon submarine sandwich](item)
-    - [Stewed pig's feet](item)
-    - [Cereal or granola bar with nuts](item)
-    - [Porcupine balls with mushroom sauce](item)
-    - [Seaweed soup](item)
-    - [Wheat flour fritter](item)
-    - [Italian Ice](item)
-    - [Vegetable soup](item)
-    - [Chicken or turkey and noodles with soy-based sauce](item)
-    - [Fruit flavored snack](item)
-    - [Vegetable beef soup](item)
-    - [Pizza with meat and vegetables](item)
-    - [Milk chocolate candy](item)
-    - [Shrimp salad](item)
-    - [Lambsquarter](item)
-    - [Octopus salad](item)
-    - [Cassava Pasteles](item)
-    - [Bacon strip](item)
-    - [Sirloin](item)
-    - [Hot chocolate / Cocoa](item)
-    - [Chicken or turkey and noodles with gravy](item)
-    - [Tomato vegetable soup with noodles](item)
-    - [Stewed codfish](item)
-    - [Canadian Club and soda](item)
-    - [Vegetarian vegetable soup](item)
-    - [Green beans](item)
-    - [Burdock](item)
-    - [Lamb or mutton](item)
-    - [Spanish rice with ground beef](item)
-    - [Caramel](item)
-    - [Kale](item)
-    - [Chicken or turkey garden salad with cheese](item)
-    - [Funnel cake with sugar](item)
-    - [Egg and cheese on biscuit](item)
-    - [Cereal (Quaker Cap'n Crunch's Peanut Butter Crunch)](item)
-    - [Ham pot pie](item)
-    - [Arepa Dominicana](item)
-    - [Grape juice drink](item)
-    - [Mullet](item)
-    - [Spaghetti sauce with meat and added vegetables](item)
-    - [Candy](item)
-    - [Frozen mocha coffee drink](item)
-    - [Falafel](item)
-    - [Pork barbecue sandwich or Sloppy Joe](item)
-    - [Bamboo shoots](item)
-    - [Garlic sauce](item)
-    - [Tuna salad wrap sandwich](item)
-    - [Mexican casserole made with ground beef](item)
-    - [Chorizo](item)
-    - [Cereal (Quaker Cap'n Crunch's Crunchberries)](item)
-    - [Cereal (Post Great Grains Raisins](item)
-    - [Chicken or turkey soup with vegetables](item)
-    - [Chicken or turkey divan](item)
-    - [Cucumber salad made with cucumber and vinegar](item)
-    - [Sausage on biscuit](item)
-    - [Fruit juice drink (Sunny D)](item)
-    - [Fruit peel](item)
-    - [Fruit and vegetable smoothie](item)
-    - [Cantaloupe nectar](item)
-    - [Bananas](item)
-    - [Kohlrabi](item)
-    - [Fruit juice drink](item)
-    - [Cereal or granola bar (Kashi Chewy)](item)
-    - [Chicken submarine sandwich](item)
-    - [Plantain soup](item)
-    - [Taquito or flauta with chicken and cheese](item)
-    - [Winter squash](item)
-    - [Ice cream sandwich](item)
-    - [Wheat bun as ingredient in sandwiches](item)
-    - [Dietetic or low calorie hard candy](item)
-    - [Energy Drink](item)
-    - [Ham luncheon meat](item)
-    - [Tuna noodle casserole with vegetables and mushroom sauce](item)
-    - [Seafood stew with potatoes and vegetables excluding carrots](item)
-    - [Pinto beans and rice](item)
-    - [Cereal (General Mills Cocoa Puffs)](item)
-    - [Cereal (Kellogg's Special K Vanilla Almond)](item)
-    - [Fruit snacks candy](item)
-    - [Bananas and strawberry](item)
-    - [Nachos with cheese](item)
-    - [Beef with cream or white sauce](item)
-    - [Chicken or turkey and noodles with cream or white sauce](item)
-    - [Fig](item)
-    - [Venison/deer jerky](item)
-    - [Milk shake with malt](item)
-    - [Infant formula](item)
-    - [Chicken or turkey salad with nuts and/or fruits](item)
-    - [Chinese pancake](item)
-    - [Sweet potato tots](item)
-    - [Linguini with vegetables and seafood in white wine sauce](item)
-    - [Chili con carne with beans and rice](item)
-    - [Stuffed grape leaves with lamb and rice](item)
-    - [Vegetarian stew](item)
-    - [Welsh rarebit](item)
-    - [Moo Goo Gai Pan](item)
-    - [Breaded brains](item)
-    - [Green peas](item)
-    - [Meatballs](item)
-    - [Goat](item)
-    - [Daiquiri](item)
-    - [Cereal beverage with beet roots](item)
-    - [Parsley](item)
-    - [Whopper (Burger King)](item)
-    - [Tortellini](item)
-    - [Beef sloppy joe](item)
-    - [Shrimp chips](item)
-    - [Collards](item)
-    - [Stewed chicken with tomato-based sauce](item)
-    - [Paella](item)
-    - [Split peas](item)
-    - [Puerto Rican seasoning with ham](item)
-    - [Ham and vegetables including carrots broccoli](item)
-    - [Fritter](item)
-    - [Relish](item)
-    - [Rice and potato soup](item)
-    - [Chicken or turkey parmigiana](item)
-    - [Banana apple dessert](item)
-    - [Whole wheat cereal with apples](item)
-    - [Fruit juice and water drink](item)
-    - [Chicken and vegetables au gratin with rice](item)
-    - [Noodle and potato soup](item)
-    - [Pork chow mein or chop suey with noodles](item)
-    - [Cereal (Kashi GOLEAN)](item)
-    - [Millet](item)
-    - [Seafood soup with vegetables excluding carrots](item)
-    - [Venison or deer stew with potatoes and vegetables excluding carrots](item)
-    - [Hunan beef](item)
-    - [Pinto beans and brown rice](item)
-    - [Korean dressing or marinade](item)
-    - [Seafood newburg](item)
-    - [Golden Cadillac](item)
-    - [Black beans and brown rice](item)
-    - [Guacamole with tomatoes](item)
-    - [Artichoke dip](item)
-    - [Turkey or chicken burger](item)
-    - [Pepperpot soup](item)
-    - [Pine nuts](item)
-    - [Caramel candy](item)
-    - [Kiwi fruit](item)
-    - [Beef and macaroni with cheese sauce](item)
-    - [Poppy seed dressing](item)
-    - [Mustard cabbage](item)
-    - [Barley](item)
-    - [Crayfish](item)
-    - [Pan Dulce](item)
-    - [Pasta with tomato-based sauce and poultry](item)
-    - [Gimlet](item)
-    - [Bean paste](item)
-    - [Bananas and pineapple](item)
-    - [Ocean perch](item)
-    - [Carrots and peas](item)
-    - [Vegetable lasagna](item)
-    - [Lime souffle](item)
-    - [Lima bean soup](item)
-    - [Turkey with vegetable](item)
-    - [Pad Thai with chicken](item)
-    - [Rice cereal with bananas](item)
-    - [Frozen fruit juice bar](item)
-    - [Sambar](item)
-    - [Tomatoes as ingredient in omelet](item)
-    - [Turrnip greens](item)
-    - [Nachos with chicken](item)
-    - [Fried broccoli](item)
-    - [Luncheon meat sandwich](item)
-    - [Chicken fillet sandwich](item)
-    - [Stuffed tomato](item)
-    - [Vodka](item)
-    - [Tomato sandwich](item)
-    - [Seafood souffle](item)
-    - [Black beans with meat](item)
-    - [Fruit salad](item)
-    - [Pasta with sauce and meat](item)
-    - [Chicken or turkey vegetable soup with potato and cheese](item)
-    - [Sangria](item)
-    - [Alfredo sauce with seafood and added vegetables](item)
-    - [Vegetarian pot pie](item)
-    - [Orange juice](item)
-    - [Fruit juice beverage](item)
-    - [Cereal (General Mills Frankenberry)](item)
-    - [Macaroni or pasta salad with shrimp](item)
-    - [Porgy](item)
-    - [Zucchini lasagna](item)
-    - [Stewed potatoes](item)
-    - [Broccoli casserole with noodles](item)
-    - [Melba toast](item)
-    - [Meat broth](item)
-    - [Yogurt](item)
-    - [Vegetable beef soup with rice](item)
-    - [Macaroni or pasta salad](item)
-    - [Applesauce](item)
-    - [Alexander](item)
-    - [Salami](item)
-    - [Enchilada with chicken](item)
-    - [Pineapple salad with dressing](item)
-    - [Crab imperial](item)
-    - [Animal fat or drippings](item)
-    - [Tomato beef noodle soup](item)
-    - [Gelatin dessert](item)
-    - [Fish shish kabob with vegetables](item)
-    - [Breading or batter as ingredient in food](item)
-    - [Squash and corn](item)
-    - [Stewed corned beef](item)
-    - [Egg omelet or scrambled egg](item)
-    - [Pork and beef sausage](item)
-    - [Tuna loaf](item)
-    - [Cheese](item)
-    - [Sandwich](item)
-    - [Cereal (General Mills Cheerios Chocolate)](item)
-    - [Cucumber](item)
-    - [Oat bran cereal](item)
-    - [Ham croquette](item)
-    - [Veal scallopini](item)
-    - [Whopper Jr (Burger King)](item)
-    - [Potato and cheese soup](item)
-    - [Cheese souffle](item)
-    - [Soupy rice mixture with chicken and potatoes](item)
-    - [Strawberry milk](item)
-    - [Cocoa powder](item)
-    - [Coconut cream](item)
-    - [Roast beef sandwich](item)
-    - [Avocado dressing](item)
-    - [Rice with raisins](item)
-    - [Frozen margarita](item)
-    - [Apple](item)
-    - [Mock chicken legs](item)
-    - [Brandy](item)
-    - [Lo mein](item)
-    - [Egg drop soup](item)
-    - [Fruit juice blend](item)
-    - [Mixed cereal](item)
-    - [Pomegranate juice](item)
-    - [Chicken cornbread](item)
-    - [Cereal (Kellogg's Smart Start Strong)](item)
-    - [Cuban sandwich](item)
-    - [Black beans and white rice](item)
-    - [M&M's Milk Chocolate Candies](item)
-    - [Fish in lemon-butter sauce with starch item](item)
-    - [Vegetables and rice](item)
-    - [Split pea soup](item)
-    - [Christophine](item)
-    - [Peanut bar](item)
-    - [Injera](item)
-    - [Chicken or turkey a la king with vegetables including carrots](item)
-    - [Hamburger](item)
-    - [Leek soup](item)
-    - [Quesadilla with vegetables](item)
-    - [Asian stir fry vegetables](item)
-    - [Meat loaf made with beef](item)
-    - [Coffee creamer](item)
-    - [Shrimp chow mein or chop suey with noodles](item)
-    - [Taco or tostada salad with meat](item)
-    - [Ham and cheese submarine sandwich](item)
-    - [Oat bran](item)
-    - [Cereal (Kashi GOLEAN Crunch Honey Almond Flax)](item)
-    - [Eggplant and meat casserole](item)
-    - [Caesar dressing](item)
-    - [Margarine-oil blend](item)
-    - [Beef and rice with soy-based sauce](item)
-    - [Chow fun noodles with meat and vegetables](item)
-    - [Cream of wheat](item)
-    - [Shrimp cocktail](item)
-    - [Alfredo sauce with meat and added vegetables](item)
-    - [Sausage and spaghetti sauce sandwich](item)
-    - [Burrito with meat and sour cream](item)
-    - [Cereal (Kashi Autumn Wheat)](item)
-    - [Banana](item)
-    - [Double cheeseburger](item)
-    - [Salisbury steak dinner](item)
-    - [Beef rolls](item)
-    - [Chili con carne with chicken or turkey and beans](item)
-    - [Lobster salad](item)
-    - [Pasta with cream sauce](item)
-    - [Big Mac (McDonalds)](item)
-    - [Sausage](item)
-    - [Lard](item)
-    - [Cereal (Kellogg's Special K Cinnamon Pecan)](item)
-    - [Blackberry juice](item)
-    - [Hamburger wrap sandwich](item)
-    - [Chocolate-flavored sprinkles](item)
-    - [Apple juice beverage](item)
-    - [Chili con carne without beans](item)
-    - [Rice soup](item)
-    - [Potatoes with cheese and broccoli](item)
-    - [Pastrami](item)
-    - [Potato patty](item)
-    - [Butter replacement](item)
-    - [Chimichanga with chicken](item)
-    - [Gravy](item)
-    - [Cereal (Malt-O-Meal Colossal Crunch)](item)
-    - [Oatmeal cereal with fruit](item)
-    - [Raspberries](item)
-    - [Cassaba melon](item)
-    - [Turkey with barbecue sauce](item)
-    - [Cheese spread](item)
-    - [Shrimp and noodles with tomato sauce](item)
-    - [Barbecue sauce](item)
-    - [Beef and noodles with meat sauce and cheese](item)
-    - [Beef sausage](item)
-    - [Macaroni and cheese](item)
-    - [Cereal (Kellogg's Frosted Flakes)](item)
-    - [Meat and corn hominy soup](item)
-    - [Cabbage salad or coleslaw with pineapple](item)
-    - [Radishes](item)
-    - [Chocolate](item)
-    - [Seven-layer salad](item)
-    - [Cake or cupcake](item)
-    - [Sweet potato chips](item)
-    - [Beef curry](item)
-    - [Lentil curry](item)
-    - [Brazil nuts](item)
-    - [Peanut butter and jelly sandwich](item)
-    - [Caribou](item)
-    - [Quarter Pounder (McDonalds)](item)
-    - [Chicken and rice dinner](item)
-    - [Fufu](item)
-    - [Asian chicken or turkey garden salad](item)
-    - [Mixed vegetable juice](item)
-    - [Meatball and spaghetti sauce submarine sandwich](item)
-    - [Sirloin beef](item)
-    - [Congee](item)
-    - [Cannelloni](item)
-    - [Kimchi](item)
-    - [Gin and Tonic](item)
-    - [Pepperoni](item)
-    - [Chicken patty or nuggets](item)
-    - [Nutritional powder mix (Slim Fast)](item)
-    - [Pie shell](item)
-    - [Peanut Bar](item)
-    - [Creme brulee](item)
-    - [Chow fun noodles with vegetables](item)
-    - [Blackeyed peas](item)
-    - [Stewed rice](item)
-    - [Cornmeal coconut dessert](item)
-    - [Crab soup](item)
-    - [Sopaipilla](item)
-    - [Cereal (Malt-O-Meal Golden Puffs)](item)
-    - [Cereal (Post Golden Crisp)](item)
-    - [Cereal or granola bar (Quaker Granola Bites)](item)
-    - [Biscuit](item)
-    - [Veal cutlet or steak](item)
-    - [Fry sauce](item)
-    - [Daikon radish](item)
-    - [Bread](item)
-    - [Corn dog](item)
-    - [Spaghetti with corned beef](item)
-    - [Glug](item)
-    - [Chicken or turkey a la king with vegetables excluding carrorts](item)
-    - [Bologna and cheese sandwich](item)
-    - [Fat back](item)
-    - [Lobster newburg](item)
-    - [Nutritional powder mix (EAS Whey Protein Powder)](item)
-    - [Chicken or turkey vegetable soup](item)
-    - [Avocado](item)
-    - [Spaghetti sauce with added vegetables](item)
-    - [Egg casserole with bread](item)
-    - [Ham and rice with mushroom sauce](item)
-    - [Nutrition bar (Clif Bar)](item)
-    - [Turkey salad or turkey spread sandwich](item)
-    - [Stuffed pork roast](item)
-    - [Green beans and potatoes](item)
-    - [Cereal (General Mills Honey Nut Clusters)](item)
-    - [Cereal (General Mills Count Chocula)](item)
-    - [Meat loaf with potatoes](item)
-    - [Apple-grape juice](item)
-    - [Lemonade](item)
-    - [Vegetable submarine sandwich](item)
-    - [Ham stroganoff](item)
-    - [Goulash](item)
-    - [Hot peppers](item)
-    - [Corned beef patty](item)
-    - [Whopper with cheese (Burger King)](item)
-    - [Apples with ham](item)
-    - [Watercress broth with shrimp](item)
-    - [MILKY WAY Bar](item)
-    - [Cornish game hen](item)
-    - [Beef and rice with gravy](item)
-    - [Chicken wing](item)
-    - [Cereal (Kellogg's Froot Loops Marshmallow)](item)
-    - [Turkey with gravy](item)
-    - [Cereal (Nature Valley Granola)](item)
-    - [Zucchini](item)
-    - [Apples](item)
-    - [Ham and noodles with cream or white sauce](item)
-    - [Beef brisket](item)
-    - [Spaghetti sauce](item)
-    - [Alfredo sauce with added vegetables](item)
-    - [Lima beans and corn](item)
-    - [Roll](item)
-    - [Buttermilk](item)
-    - [Vegetable chicken rice soup](item)
-    - [Apple-raspberry](item)
-    - [Sherbet](item)
-    - [Corn nuts](item)
-    - [Dill dip](item)
-    - [Puerto Rican sandwich](item)
-    - [Tamale with chicken](item)
-    - [Thistle leaves](item)
-    - [Palak Paneer](item)
-    - [Gerber Graduates Finger Snacks Cereal](item)
-    - [Haddock cake or patty](item)
-    - [Taco or tostada with meat and sour cream](item)
-    - [Applesauce and apricots](item)
-    - [Fried okra](item)
-    - [Beef and noodles](item)
-    - [Cereal (Post Shredded Wheat)](item)
-    - [Scotch](item)
-    - [Soft taco with fish](item)
-    - [Goat ribs](item)
-    - [Frozen yogurt sandwich](item)
-    - [Baked beans from fast food / restaurant](item)
-    - [Cereal (Malt-O-Meal Cinnamon Toasters)](item)
-    - [Bear](item)
-    - [Bruschetta](item)
-    - [Hummus](item)
-    - [Meat with gravy](item)
-    - [Peas and brown rice](item)
-    - [Bean cake](item)
-    - [Vermicelli](item)
-    - [Pinto beans with meat](item)
-    - [Pea soup](item)
-    - [Coconut](item)
-    - [Slush frozen drink](item)
-    - [Taco or tostada with fish](item)
-    - [Cereal (Kellogg's Honey Smacks)](item)
-    - [Kumquat](item)
-    - [Breadfruit](item)
-    - [Sugared pecans](item)
-    - [Fish and vegetable soup](item)
-    - [Chicken or turkey soup](item)
-    - [Sopa de tortilla](item)
-    - [Beignet](item)
-    - [Bagel](item)
-    - [Vegetable and turkey](item)
-    - [Barracuda](item)
-    - [Chicken or turkey with mushroom sauce](item)
-    - [Beef enchilada dinner](item)
-    - [Kefir](item)
-    - [Scallops with cheese sauce](item)
-    - [Beef with vegetables including carrots](item)
-    - [Taco or tostada with meat and beans](item)
-    - [Cream cheese spread](item)
-    - [Cereal (Post Great Grains Banana Nut Crunch)](item)
-    - [Oatmeal cereal](item)
-    - [Pasta with sauce](item)
-    - [Frozen yogurt](item)
-    - [Kidney](item)
-    - [Espresso coffee beans](item)
-    - [Carrot juice](item)
-    - [Fish and rice with mushroom sauce](item)
-    - [Turkey or chicken sausage](item)
-    - [Oatmeal beverage with water](item)
-    - [Fruit](item)
-    - [Caramel dip](item)
-    - [Barfi or Burfi](item)
-    - [Cereal (Kashi Heart to Heart Honey Toasted Oat)](item)
-    - [Spanish stew](item)
-    - [Salsa](item)
-    - [Alfredo sauce](item)
-    - [Coconut milk](item)
-    - [Cereal (Quaker Honey Graham Oh's)](item)
-    - [Enchilada with meat](item)
-    - [Peanut brittle](item)
-    - [Cereal (Kellogg's All-Bran Complete Wheat Flakes)](item)
-    - [Passion fruit juice](item)
-    - [Chicken or turkey and vegetables excluding carrots](item)
-    - [Ripe plantain meat pie](item)
-    - [Pizza with cheese and extra vegetables](item)
-    - [Funnel cake with sugar and fruit](item)
-    - [Stewed goat](item)
-    - [Shrimp gumbo](item)
-    - [Cream puff](item)
-    - [Stuffed tannier fritters](item)
-    - [Cheesecake](item)
-    - [Dietetic or low calorie candy](item)
-    - [Corn chips](item)
-    - [Strudel](item)
-    - [Chicken or turkey and corn hominy soup](item)
-    - [Coffee cake](item)
-    - [Cheesecake with fruit](item)
-    - [Kit Kat](item)
-    - [Yogurt dressing](item)
-    - [Rabbit stew with potatoes and vegetables](item)
-    - [Cheese sauce](item)
-    - [Kidney beans and brown rice](item)
-    - [Hash](item)
-    - [Macaroni or noodles with cheese and frankfurters or hot dogs](item)
-    - [Ham or pork and potatoes with gravy](item)
-    - [Chimichanga with meat](item)
-    - [Watermelon juice](item)
-    - [Broccoli salad with cauliflower](item)
-    - [Tomato juice](item)
-    - [Turnover](item)
-    - [Rice meal fritter](item)
-    - [Banana chips](item)
-    - [Lime](item)
-    - [Lamb hocks](item)
-    - [Beef steak with onions](item)
-    - [Cassava](item)
-    - [Cottonseed oil](item)
-    - [Chicken or turkey corn soup with noodles](item)
-    - [Seafood paella](item)
-    - [Broccoflower](item)
-    - [Chicken "wings"](item)
-    - [Chicken leg](item)
-    - [Steak tartare](item)
-    - [Chicken or turkey and rice with soy-based sauce](item)
-    - [Tomato beef soup](item)
-    - [Clams Casino](item)
-    - [Tomato rice soup](item)
-    - [Double cheeseburger (Burger King)](item)
-    - [Cereal (Quaker Cap'n Crunch)](item)
-    - [Salmon soup](item)
-    - [Breakfast meat as ingredient in omelet](item)
-    - [Reuben sandwich](item)
-    - [Beef with vegetables excluding carrots](item)
-    - [Licorice](item)
-    - [Fruit mixture](item)
-    - [Noodle soup](item)
-    - [Chicken or turkey mushroom soup](item)
-    - [Cereal (Kellogg's Smorz)](item)
-    - [M&M's Peanut Butter Chocolate Candies](item)
-    - [Szechuan beef](item)
-    - [Corn syrup](item)
-    - [Vodka and cola](item)
-    - [Polish sausage](item)
-    - [Haupia](item)
-    - [Flan](item)
-    - [Light ice cream cone](item)
-    - [Egg roll](item)
-    - [Brussels sprouts](item)
-    - [Black beans and rice](item)
-    - [Butterscotch hard candy](item)
-    - [Mustard](item)
-    - [Champagne punch](item)
-    - [TWIX Peanut Butter Cookie Bars](item)
-    - [Beef and rice with cream sauce](item)
-    - [Taco or tostada salad with chicken](item)
-    - [Shrimp and noodles with soy-based sauce](item)
-    - [Alfredo sauce with meat](item)
-    - [Enchilada sauce](item)
-    - [Goose](item)
-    - [Nutrition bar (South Beach Living Meal Bar)](item)
-    - [Meat loaf made with beef and pork](item)
-    - [Apples and chicken](item)
-    - [Sweet and sour chicken or turkey](item)
-    - [Cereal (General Mills Chex Chocolate)](item)
-    - [Macaroni or noodles with cheese and tuna](item)
-    - [Alfredo sauce with poultry](item)
-    - [Lamb or mutton and potatoes with tomato-based sauce](item)
-    - [Fruit juice](item)
-    - [Tilapia](item)
-    - [Sausage balls](item)
-    - [Sausage and noodles with cream or white sauce](item)
-    - [Meat with tomato-based sauce](item)
-    - [Spanish rice](item)
-    - [Chicken barbecue sandwich](item)
-    - [Tuna and rice with mushroom sauce](item)
-    - [Shellfish and noodles with tomato-based sauce](item)
-    - [Meat spread or potted meat](item)
-    - [Dietetic or low calorie mints](item)
-    - [Grapefruit](item)
-    - [Fava beans](item)
-    - [Gelatin dessert with fruit](item)
-    - [Queso Fresco](item)
-    - [Beef dinner](item)
-    - [Tannier](item)
-    - [Mackerel](item)
-    - [Shrimp and noodles with cheese sauce](item)
-    - [Chicken or turkey and noodles with cheese sauce](item)
-    - [Stewed dried beef](item)
-    - [Wasabi paste](item)
-    - [Stuffed cabbage rolls with beef and rice](item)
-    - [Rice milk](item)
-    - [Crab cake sandwich](item)
-    - [Cheeseburger slider](item)
-    - [Pudding](item)
-    - [Rice paper](item)
-    - [Apricot nectar](item)
-    - [Corn](item)
-    - [Mixed cereal with applesauce and bananas](item)
-    - [SNICKERS Bar](item)
-    - [Fish curry with rice](item)
-    - [Oats](item)
-    - [Yellow string beans](item)
-    - [Bacon and tomato dressing](item)
-    - [Creamy dressing](item)
-    - [Veal](item)
-    - [Popsicle](item)
-    - [Oyster fritter](item)
-    - [Oatmeal with applesauce and bananas](item)
-    - [Wild pig](item)
-    - [Casabe](item)
-    - [Caramel with nuts and cereal](item)
-    - [Salmon](item)
-    - [Fish and vegetables including carrots](item)
-    - [Apricot](item)
-    - [Energy drink (Monster)](item)
-    - [Frozen dinner](item)
-    - [Apple salad with dressing](item)
-    - [Cereal (Kellogg's Low Fat Granola)](item)
-    - [Kung pao chicken](item)
-    - [Cereal (Kellogg's Raisin Bran Crunch)](item)
-    - [Pineapple](item)
-    - [Fennel bulb](item)
-    - [Flounder with crab stuffing](item)
-    - [Tofu and vegetables including carrots](item)
-    - [Meat pie](item)
-    - [Pickles](item)
-    - [Tuna salad sandwich](item)
-    - [Beef stew](item)
-    - [Tropical fruit medley](item)
-    - [Beef and potatoes](item)
-    - [Cereal or granola bar (Quaker Chewy Granola Bar)](item)
-    - [Codfish](item)
-    - [Pork](item)
-    - [Mayonnaise](item)
-    - [Cracker chips](item)
-    - [Beef broth](item)
-    - [Potato sticks](item)
-    - [Ceviche](item)
-    - [Celery](item)
-    - [Grape leaves stuffed with rice](item)
-    - [Licuado or Batido](item)
-    - [Rum cake](item)
-    - [Cabbage](item)
-    - [Cape Cod](item)
-    - [Bologna](item)
-    - [Beef jerky](item)
-    - [Scallops and noodles with cheese sauce](item)
-    - [Sesame seeds](item)
-    - [Liver](item)
-    - [Strawberries](item)
-    - [Blueberry juice](item)
-    - [Salisbury steak](item)
-    - [Egg white omelet](item)
-    - [Jelly sandwich](item)
-    - [Chicken egg foo yung](item)
-    - [Butterfinger Crisp](item)
-    - [Custard](item)
-    - [Chocolate dip](item)
-    - [Pocky](item)
-    - [Peanuts](item)
-    - [Seafood garden salad with seafood](item)
-    - [Spaghetti and meatballs dinner](item)
-    - [Tamale casserole with meat](item)
-    - [Cashew butter](item)
-    - [Cereal (Kellogg's Cocoa Krispies)](item)
-    - [Breakfast link](item)
-    - [Soy nut butter](item)
-    - [Cheese dip with chili pepper](item)
-    - [Fish and vegetables excluding carrots](item)
-    - [Skittles](item)
-    - [Cake or pancake made with rice flour and/or dried beans](item)
-    - [Spanakopitta](item)
-    - [Stewed salmon](item)
-    - [Onion soup](item)
-    - [Chicken stew](item)
-    - [Gordita](item)
-    - [Lasagna with cheese and meat sauce](item)
-    - [Topping from cheese pizza](item)
-    - [Pasta with cream sauce and poultry](item)
-    - [Macaroni or noodles with cheese](item)
-    - [Oxtail soup](item)
-    - [Taquito or flauta with egg](item)
-    - [Lobster gumbo](item)
-    - [Tomato noodle soup](item)
-    - [Pretzel chips](item)
-    - [Pasta with tomato-based sauce and cheese](item)
-    - [Cornmeal beverage](item)
-    - [Cereal (Malt-O-Meal Coco-Roos)](item)
-    - [Cheddar cheese soup](item)
-    - [Egg and steak on biscuit](item)
-    - [Papaya nectar](item)
-    - [Vegetarian chili](item)
-    - [Fajita with vegetables](item)
-    - [Pork sausage](item)
-    - [Stuffed chicken](item)
-    - [Coconut oil](item)
-    - [Cereal (Kellogg's Special K)](item)
-    - [Stuffed grape leaves with beef and rice](item)
-    - [Textured vegetable protein](item)
-    - [Sports drink](item)
-    - [Cereal (Malt-O-Meal Honey Graham Squares)](item)
-    - [Ice cream cake](item)
-    - [Fried eggplant](item)
-    - [Milk shake](item)
-    - [Dressing with oysters](item)
-    - [Tamal in a leaf](item)
-    - [Shrimp and noodles](item)
-    - [Flavored pasta](item)
-    - [Rum](item)
-    - [Swiss steak](item)
-    - [Tuna with cream or white sauce](item)
-    - [Snails](item)
-    - [Poke greens](item)
-    - [Spinach soup](item)
-    - [Whiskey sour](item)
-    - [Hot and sour soup](item)
-    - [Potato and ham fritters](item)
-    - [Frozen yogurt cone](item)
-    - [Passion fruit](item)
-    - [Popcorn](item)
-    - [Truffles](item)
-    - [Cream cheese](item)
-    - [Brunswick stew](item)
-    - [Mussels with tomato-based sauce](item)
-    - [Toblerone](item)
-    - [Chicken and vegetable entree with noodles and cream sauce](item)
-    - [Chimichanga with meat and sour cream](item)
-    - [Wheat germ](item)
-    - [Black bean soup](item)
-    - [Eggplant](item)
-    - [Gumbo](item)
-    - [Fish and rice with tomato-based sauce](item)
-    - [Tuna pot pie](item)
-    - [Horseradish sauce](item)
-    - [TWIX Chocolate Fudge Cookie Bars](item)
-    - [Liquid from stewed kidney beans](item)
-    - [Tutti-fruitti pudding](item)
-    - [Tomato and cucumber salad made with tomato](item)
-    - [Ham or pork with gravy](item)
-    - [Instant soup](item)
-    - [Puerto Rican seasoning with ham and tomato sauce](item)
-    - [Sweet potato paste](item)
-    - [Macaroni or pasta salad with meat](item)
-    - [Alfalfa sprouts](item)
-    - [Mushroom soup](item)
-    - [Sardines with mustard sauce](item)
-    - [Cereal (General Mills Golden Grahams)](item)
-    - [Broccoli](item)
-    - [Plum](item)
-    - [Chocolate beverage powder](item)
-    - [Apple yogurt dessert](item)
-    - [Almond chicken](item)
-    - [Vada](item)
-    - [Cereal (General Mills Cheerios Frosted)](item)
-    - [Cereal (Kellogg's Corn Pops)](item)
-    - [Bison](item)
-    - [Red pepper](item)
-    - [Steak sandwich](item)
-    - [Liver paste or pate](item)
-    - [Sweet potatoes and chicken](item)
-    - [Nachos with chicken and cheese](item)
-    - [Corn soup](item)
-    - [Pupusa](item)
-    - [Noodles](item)
-    - [Energy drink (No Fear)](item)
-    - [Reese's Sticks](item)
-    - [Ham or pork and potatoes with cheese sauce](item)
-    - [Sausage gravy](item)
-    - [Chicken chow mein with rice](item)
-    - [Steak and cheese sandwich](item)
-    - [Pasta with cream sauce and seafood](item)
-    - [Hog maws](item)
-    - [Pork or ham with soy-based sauce](item)
-    - [Cereal (General Mills Chex Cinnamon)](item)
-    - [Stewed variety meats](item)
-    - [Energy drink (Rockstar)](item)
-    - [Pork with chili and tomatoes](item)
-    - [Cereal (Nature's Path Organic Flax Plus)](item)
-    - [Cereal (Malt-O-Meal Honey Nut Toasty O's)](item)
-    - [Pineapple candy](item)
-    - [Beef and vegetables including carrots](item)
-    - [Pork shish kabob with vegetables](item)
-    - [Fish and rice with cream sauce](item)
-    - [Beef with vegetable](item)
-    - [Clam cake or patty](item)
-    - [Macaroni or pasta salad with egg](item)
-    - [Pomegranate juice beverage](item)
-    - [Oyster stew](item)
-    - [Orange-carrot juice](item)
-    - [Apples and sweet potatoes](item)
-    - [Sardines](item)
-    - [Vanilla wafer dessert base](item)
-    - [Trail mix with nuts](item)
-    - [Lemon-butter sauce](item)
-    - [Blueberries](item)
-    - [Cereal bar with fruit filling](item)
-    - [Beef with spaetzle or rice](item)
-    - [Beer cheese soup](item)
-    - [Ham or pork salad](item)
-    - [Noodle soup with vegetables](item)
-    - [Matzo ball soup](item)
-    - [Turnip greens](item)
-    - [Ham and vegetables excluding carrots](item)
-    - [Pistachio nuts](item)
-    - [Topping from meat and vegetable pizza](item)
-    - [Cereal or granola bar (General Mills Nature Valley Chewy Trail Mix)](item)
-    - [Queso Anejo](item)
-    - [Ham or pork and rice](item)
-    - [Ice cream sundae](item)
-    - [Lentils](item)
-    - [Chicken or turkey soup with vegetables and fruit](item)
-    - [Chili con carne](item)
-    - [Cereal (Kellogg's Rice Krispies Treats Cereal)](item)
-    - [Banana with mixed berries](item)
-    - [Tuna salad with cheese](item)
-    - [Sloe gin fizz](item)
-    - [Shrimp shish kabob with vegetables](item)
-    - [Beef and noodles with mushroom sauce](item)
-    - [Hush puppy](item)
-    - [Cereal (Kellogg's Apple Jacks)](item)
-    - [Fish fillet](item)
-    - [Cereal or granola bar (General Mills Fiber One Chewy Bar)](item)
-    - [Chicken or turkey souffle](item)
-    - [Flaxseed oil](item)
-    - [Pork and watercress with soy-based sauce](item)
-    - [Chives](item)
-    - [Ripe plantain omelet](item)
-    - [Chocolate milk](item)
-    - [Gefilte fish](item)
-    - [Guava nectar](item)
-    - [Sour cream](item)
-    - [Tequila Sunrise](item)
-    - [Cereal (Kellogg's Special K Blueberry)](item)
-    - [Italian Wedding Soup](item)
-    - [Chicken or turkey garden salad](item)
-    - [Turnover filled with ground beef and cabbage](item)
-    - [Beef short ribs](item)
-    - [Yeast](item)
-    - [Papaya juice](item)
-    - [Livers](item)
-    - [Shrimp chow mein or chop suey](item)
-    - [Pastry](item)
-    - [Sprouts](item)
-    - [Rolo](item)
-    - [Whey](item)
-    - [Apple-prune juice](item)
-    - [Beans and tomatoes](item)
-    - [Fish chowder](item)
-    - [Fajita-style beef sandwich with cheese](item)
-    - [Cucumber and vegetable namasu](item)
-    - [Vegetables](item)
-    - [Fish soup with potatoes](item)
-    - [Persimmon](item)
-    - [Meat loaf made with venison/deer](item)
-    - [Clams](item)
-    - [Cheese ball](item)
-    - [Onion dip](item)
-    - [Cereal or granola bar](item)
-    - [Squash](item)
-    - [Chicken fillet wrap sandwich](item)
-    - [Taquito or flauta with cheese](item)
-    - [Vegetable tempura](item)
-    - [Rice cereal with applesauce and bananas](item)
-    - [Long rice noodles](item)
-    - [Chicken or turkey and noodles with mushroom sauce](item)
-    - [Tamarind drink](item)
-    - [Mango dessert](item)
-    - [Lobster with butter sauce](item)
-    - [Spaghetti sauce with meat](item)
-    - [Jicama](item)
-    - [Pad Thai](item)
-    - [Cereal (Quaker Life)](item)
-    - [Whiskey and cola](item)
-    - [Pear juice](item)
-    - [Asian chicken or turkey garden salad with crispy noodles](item)
-    - [Pizza with extra meat](item)
-    - [Chicken with rice and vegetable](item)
-    - [Chicken](item)
-    - [Vegetable and chicken](item)
-    - [Apricots](item)
-    - [Cereal (General Mills Trix)](item)
-    - [Honey mustard dressing](item)
-    - [Cereal (Post Grape-Nuts)](item)
-    - [Creamed chipped or dried beef](item)
-    - [Meat loaf dinner](item)
-    - [Lasagna](item)
-    - [Steak sauce](item)
-    - [Cheese turnover](item)
-    - [Chicken or turkey salad](item)
-    - [M&M's Pretzel Chocolate Candies](item)
-    - [Whatchamacallit](item)
-    - [Tea](item)
-    - [Crumpet](item)
-    - [Ham and noodles](item)
-    - [Cordial or liqueur](item)
-    - [Chicken curry with rice](item)
-    - [Chicken curry](item)
-    - [Macaroni or noodles with cheese and tomato](item)
-    - [Vodka and diet cola](item)
-    - [MARS Almond Bar](item)
-    - [Quail](item)
-    - [Cereal (General Mills Cinnamon Toast Crunch)](item)
-    - [Spinach and artichoke dip](item)
-    - [Soft taco with meat and sour cream](item)
-    - [Meat loaf made with chicken or turkey](item)
-    - [Vegetable chips](item)
-    - [Sopa Seca de Fideo](item)
-    - [Muffin](item)
-    - [Peanut butter sandwich](item)
-    - [Peach cobbler](item)
-    - [Radish](item)
-    - [Cheeseburger (McDonalds)](item)
-    - [Rum and diet cola](item)
-    - [Mixed fruit tart filled with custard or cream cheese](item)
-    - [Stewed seasoned ground beef](item)
-    - [Fruit leather and fruit snacks candy](item)
-    - [Yokan](item)
-    - [Chili con carne with beans and cheese](item)
-    - [Shepherd's pie with lamb](item)
-    - [Shrimp and noodles with cream or white sauce](item)
-    - [Taco or tostada with chicken and sour cream](item)
-    - [Meringues](item)
-    - [Tiramisu](item)
-    - [Cereal (General Mills Cookie Crisp)](item)
-    - [Orange-apple-banana juice](item)
-    - [Chicken breast](item)
-    - [Beef wellington](item)
-    - [Stir fried beef and vegetables in soy sauce](item)
-    - [Pasta with tomato-based sauce and meat](item)
-    - [Jelly](item)
-    - [Stewed](item)
-    - [Sugar-coated chocolate discs](item)
-    - [Ham on biscuit](item)
-    - [Pea and ham soup](item)
-    - [Shrimp teriyaki](item)
-    - [Mushrooms](item)
-    - [Rice cereal](item)
-    - [Deer sausage](item)
-    - [Chicken soup with noodles and potatoes](item)
-    - [Caesar salad](item)
-    - [Yogurt parfait](item)
-    - [Cereal (General Mills Wheaties)](item)
-    - [Vegan mayonnaise](item)
-    - [Topping from meat pizza](item)
-    - [Bacon or side pork](item)
-    - [Pig in a blanket](item)
-    - [Croaker](item)
-    - [Tortilla chips](item)
-    - [Steak and cheese submarine sandwich](item)
-    - [Potato](item)
-    - [Spinach salad](item)
-    - [Shrimp garden salad](item)
-    - [Stuffed green pepper](item)
-    - [Chicken or turkey and rice with tomato-based sauce](item)
-    - [Seafood salad sandwich](item)
-    - [Beef sausage with cheese](item)
-    - [Ice cream](item)
-    - [Wheat bran](item)
-    - [Lemon juice](item)
-    - [Baby Ruth](item)
-    - [Kibby](item)
-    - [Enchilada with meat and beans](item)
-    - [Beef sandwich](item)
-    - [Cereal (Malt-O-Meal Corn Bursts)](item)
-    - [Pannetone](item)
-    - [Pizza](item)
-    - [Potato from Puerto Rican chicken fricassee](item)
-    - [Nutritional powder mix (EAS Soy Protein Powder)](item)
-    - [Cocktail sauce](item)
-    - [Macaroni](item)
-    - [Potato only from Puerto Rican mixed dishes](item)
-    - [Ice cream cookie sandwich](item)
-    - [Veal and noodles with cream or white sauce](item)
-    - [Barley soup](item)
-    - [Seafood soup with potatoes and vegetables including carrots](item)
-    - [Pretzels](item)
-    - [Eggs a la Malaguena](item)
-    - [Margarita mix](item)
-    - [Coconut water](item)
-    - [Cereal (Post Shredded Wheat Honey Nut)](item)
-    - [Salty Dog](item)
-    - [Peas and corn](item)
-    - [Tangerine](item)
-    - [Soft serve](item)
-    - [Nachos with cheese and sour cream](item)
-    - [Asparagus soup](item)
-    - [Water](item)
-    - [Fish moochim](item)
-    - [Channa Saag](item)
-    - [Fish timbale or mousse](item)
-    - [Taco with crab meat](item)
-    - [Cauliflower](item)
-    - [Hayacas](item)
-    - [Meatball soup](item)
-    - [Luncheon meat](item)
-    - [Blueberry pie filling](item)
-    - [Bean soup](item)
-    - [Burrito with chicken and beans](item)
-    - [Pork egg foo yung](item)
-    - [Beef with gravy](item)
-    - [Chicken or turkey and rice with cream sauce](item)
-    - [Rutabaga](item)
-    - [Potato chips](item)
-    - [Baklava](item)
-    - [Light ice cream](item)
-    - [Vegetable curry with rice](item)
-    - [Cereal or granola bar (General Mills Nature Valley Crunchy Granola Bar)](item)
-    - [Lamb or mutton with gravy](item)
-    - [Dessert pizza](item)
-    - [Carrot with rice soup](item)
-    - [Kidney beans and white rice](item)
-    - [Sausage with tomato-based sauce](item)
-    - [Stewed chitterlings](item)
-    - [Hazelnuts](item)
-    - [Sweet and sour pork](item)
-    - [Macaroni or pasta salad with tuna](item)
-    - [French or Catalina dressing](item)
-    - [Iced Tea / Lemonade juice drink](item)
-    - [Chicken or turkey gumbo soup](item)
-    - [Raw vegetable](item)
-    - [Vienna sausage](item)
-    - [Chicken rice soup](item)
-    - [Tomato and vegetable juice](item)
-    - [Clementine](item)
-    - [Lamb](item)
-    - [Roll with meat and/or shrimp](item)
-    - [Gumbo with rice](item)
-    - [Sausage and vegetables including  carrots](item)
-    - [Sports drink (Powerade)](item)
-    - [Gordita/sope shell](item)
-    - [Rhubarb](item)
-    - [Sopaipilla with syrup or honey](item)
-    - [Cereal (Quaker Granola with Oats](item)
-    - [Chicken drumstick](item)
-    - [Pineapple juice](item)
-    - [Chicken or turkey with cheese sauce](item)
-    - [Cheeseburger](item)
-    - [Cranberry juice drink](item)
-    - [Cherries](item)
-    - [Soy chips](item)
-    - [Hamburger slider](item)
-    - [Cilantro](item)
-    - [Beef egg foo yung](item)
-    - [Cherry cobbler](item)
-    - [Clam chowder](item)
-    - [Fluid replacement](item)
-    - [Cereal (Kellogg's Corn Flakes)](item)
-    - [Artichoke](item)
-    - [Onions](item)
-    - [Soybean oil](item)
-    - [Veal cordon bleu](item)
-    - [Mixed salad greens](item)
-    - [Crisp](item)
-    - [Ham salad sandwich](item)
-    - [Venison/deer steak](item)
-    - [Steak](item)
-    - [Orange](item)
-    - [Singapore Sling](item)
-    - [Poi](item)
-    - [Egg white](item)
-    - [Beef with vegetables](item)
-    - [Spinach](item)
-    - [Cake made with glutinous rice and dried beans](item)
-    - [Eggplant parmesan casserole](item)
-    - [Syrup](item)
-    - [Finger Foods](item)
-    - [Beans with meat](item)
-    - [Nutrition bar (Slim Fast Original Meal Bar)](item)
-    - [Gizzard](item)
-    - [Strawberry juice](item)
-    - [Stew](item)
-    - [Kit Kat White](item)
-    - [Chard](item)
-    - [Ranch dip](item)
-    - [Snowpeas](item)
-    - [Stewed gizzards](item)
-    - [Trail mix with nuts and fruit](item)
-    - [Rabbit](item)
-    - [Beef chow mein or chop suey](item)
-    - [Light ice cream sandwich](item)
-    - [Quiche with meat](item)
-    - [Mixed vegetables](item)
-    - [Kung Pao beef](item)
-    - [Yeast extract spread](item)
-    - [Corn fritter](item)
-    - [Chilaquiles](item)
-    - [Flavored rice](item)
-    - [Nachos with chili](item)
-    - [Mango](item)
-    - [Vodka and tonic](item)
-    - [Greek Salad](item)
-    - [Butterfinger](item)
-    - [Carbonated water](item)
-    - [Cereal (Post Honeycomb)](item)
-    - [Mixed seeds](item)
-    - [Multigrain chips (Sun Chips)](item)
-    - [Energy drink (NOS)](item)
-    - [Tamarind](item)
-    - [Cereal (General Mills Cheerios Berry Burst)](item)
-    - [Canadian bacon](item)
-    - [Quesadilla with vegetables and chicken](item)
-    - [Veal stew with potatoes and vegetables excluding carrots](item)
-    - [Wheat cereal](item)
-    - [Bacon](item)
-    - [Macaroni with tuna](item)
-    - [Graham crackers](item)
-    - [Cashews](item)
-    - [Pear](item)
-    - [Cereal (Kellogg's Frosted Mini-Wheats)](item)
-    - [Cereal (Malt-O-Meal Fruity Dyno-Bites)](item)
-    - [Scone](item)
-    - [Turkey bacon](item)
-    - [Cabbage salad or coleslaw](item)
-    - [Ketchup](item)
-    - [Ham or pork with tomato-based sauce](item)
-    - [Whiskey](item)
-    - [Turkey ham](item)
-    - [Gin](item)
-    - [Bibimbap](item)
-    - [Shrimp cake or patty](item)
-    - [Sugar cane beverage](item)
-    - [Vinegar](item)
-    - [Vegetable and fruit juice drink](item)
-    - [Salt pork](item)
-    - [Cereal (General Mills Honey Kix)](item)
-    - [Light ice cream bar](item)
-    - [Black beans](item)
-    - [Breadsticks](item)
-    - [Quinoa](item)
-    - [Layer dip](item)
-    - [Seabreeze](item)
-    - [Fried fish with sauce](item)
-    - [Mortadella](item)
-    - [Ham and cheese sandwich](item)
-    - [Chicken or turkey with dumplings](item)
-    - [Fajita with chicken and vegetables](item)
-    - [Cereal or granola bar (Kellogg's Nutri-Grain Yogurt Bar)](item)
-    - [Wine](item)
-    - [Buffalo sauce](item)
-    - [Fruit bar](item)
-    - [Cereal (Kellogg's Froot Loops)](item)
-    - [Tuna noodle casserole with cream or white sauce](item)
-    - [Peppers](item)
-    - [Almond milk](item)
-    - [Fish curry](item)
-    - [Beets](item)
-    - [Ostrich](item)
-    - [Pho](item)
-    - [Chicken stick](item)
-    - [Paella with seafood](item)
-    - [Wonton](item)
+
 - intent: out_of_scope
   examples: |
     - He didn't know where he was supposed to go for his interview.
@@ -1894,3 +211,1221 @@ nlu:
     - He wears suspenders instead of a belt.
     - How long did it take?
     - Have you got a match?
+
+
+- lookup: item
+  examples: |
+  - cheese sandwich
+  - turkey with barbecue sauce
+  - hard cider
+  - cereal (malt-o-meal colossal crunch)
+  - onions
+  - pasta with tomato-based sauce and seafood
+  - wrap sandwich
+  - beef with cream or white sauce
+  - guava nectar
+  - grits
+  - peas and carrots
+  - persimmon
+  - sushi roll
+  - popsicle
+  - chow fun noodles with meat and vegetables
+  - corn nuts
+  - sausage and rice with mushroom sauce
+  - vegetable curry
+  - apple-sweet potato juice
+  - fish stick
+  - barley soup
+  - rice dressing
+  - pecans
+  - christophine
+  - beef vegetable soup
+  - fish chowder
+  - meat broth
+  - codfish salad
+  - double cheeseburger (mcdonalds)
+  - spaghetti with meat and mushroom sauce
+  - cereal (kellogg's froot loops marshmallow)
+  - french toast sticks
+  - romaine lettuce
+  - kung pao chicken
+  - turkey and bacon submarine sandwich
+  - sloe gin fizz
+  - tortilla
+  - poi
+  - cereal (post alpha-bits)
+  - papaya juice
+  - chimichanga with meat and sour cream
+  - shrimp chips
+  - cereal (general mills cheerios banana nut)
+  - broccoli
+  - waffle
+  - safflower oil
+  - nachos with chili
+  - burrito with meat and sour cream
+  - chicken wing
+  - cereal (malt-o-meal corn bursts)
+  - venison or deer
+  - fuzzy navel
+  - light ice cream bar
+  - tuna salad
+  - fish sandwich
+  - rice meal fritter
+  - beef chow mein or chop suey
+  - pork egg foo yung
+  - mullet
+  - ham
+  - yeast
+  - cheese ball
+  - chicken with rice and vegetable
+  - chestnuts
+  - blackberry juice
+  - vegetable smoothie
+  - huevos rancheros
+  - tomato juice cocktail
+  - cake or cupcake
+  - cranberry sauce
+  - gin rickey
+  - long island iced tea
+  - honey mustard dressing
+  - golden cadillac
+  - cereal (general mills reese's puffs)
+  - turrnip greens
+  - croissant sandwich with sausage
+  - stewed chicken with tomato-based sauce
+  - beef and egg noodles
+  - salty dog
+  - cashews
+  - pea salad with cheese
+  - brown rice cereal
+  - potatoes with cheese and broccoli
+  - corn fritter
+  - butterscotch morsels
+  - almond chicken
+  - energy drink (red bull)
+  - fish curry with rice
+  - quail egg
+  - papaya
+  - fondant
+  - table fat
+  - dessert pizza
+  - sardines with mustard sauce
+  - icing
+  - taro
+  - topping from cheese pizza
+  - cereal (kellogg's special k cinnamon pecan)
+  - gin
+  - cereal (kellogg's frosted flakes)
+  - frozen fruit juice bar
+  - stuffed tomato
+  - beef with sweet and sour sauce
+  - venison or deer and noodles with cream or white sauce
+  - pancakes and sausage
+  - fried chicken chunks
+  - peas and brown rice
+  - beef and macaroni with cheese sauce
+  - ice cream sundae
+  - breakfast meat as ingredient in omelet
+  - beans with meat
+  - custard pudding
+  - rum
+  - taco or tostada with fish
+  - apple
+  - snowpeas
+  - fudge
+  - shrimp with lobster sauce
+  - corn oil
+  - taco or tostada with chicken
+  - kibby
+  - fried eggplant
+  - margarine-oil blend
+  - vegetable beef noodle soup
+  - chicken or turkey parmigiana
+  - pork and vegetables excluding  carrots
+  - broccoli soup
+  - stewed pork
+  - nutritional drink or shake
+  - sopa seca
+  - frozen dessert
+  - shortening
+  - jelly sandwich
+  - vodka and soda
+  - tamale with meat
+  - stewed codfish
+  - starfruit
+  - animal fat or drippings
+  - chicken or turkey garden salad
+  - lamb or mutton
+  - burdock
+  - chicken or turkey pot pie
+  - shellfish mixture and vegetables excluding carrots
+  - poke greens
+  - popcorn chips
+  - salmon cake sandwich
+  - croissant sandwich with bacon and egg
+  - passion fruit nectar
+  - soupy rice mixture with chicken and potatoes
+  - midnight sandwich
+  - pomegranate juice beverage
+  - chicken or turkey gumbo soup
+  - cereal (quaker granola with oats
+  - ice cream bar
+  - cereal (quaker cap'n crunch's peanut butter crunch)
+  - chicken soup
+  - cereal (post grape-nuts)
+  - zucchini lasagna
+  - alfredo sauce with added vegetables
+  - shepherd's pie with lamb
+  - pizza with pepperoni
+  - tutti-fruitti pudding
+  - veal goulash with vegetables including carrots
+  - chicken stew
+  - apple salad with dressing
+  - cereal (kellogg's froot loops)
+  - cracker chips
+  - cereal (general mills golden grahams)
+  - fajita-style beef sandwich with cheese
+  - watercress
+  - cereal (kashi golean crunch)
+  - horchata beverage
+  - skittles
+  - chinese pancake
+  - pea soup
+  - chocolate milk drink
+  - parsley
+  - watercress broth with shrimp
+  - chicken or turkey and noodles with tomato-based sauce
+  - almond oil
+  - corned beef with tomato sauce and onion
+  - corned beef hash
+  - passion fruit juice
+  - hot chocolate / cocoa
+  - lemon
+  - sausage balls
+  - chili con carne with venison/deer and beans
+  - apricot nectar
+  - calzone
+  - turkey or chicken and beef sausage
+  - vegetarian stroganoff
+  - steak sandwich
+  - tomato beef soup
+  - oatmeal cereal with bananas
+  - lobster bisque
+  - beignet
+  - nectarine
+  - banana nectar
+  - fruit juice beverage
+  - mixed fruit tart filled with custard or cream cheese
+  - beef steak with onions
+  - gelatin shot
+  - chili con carne with beans and macaroni
+  - french or catalina dressing
+  - trail mix with nuts
+  - taco or tostada with chicken and beans
+  - spanish vegetable soup
+  - garlic bread
+  - fufu
+  - hot pepper sauce
+  - taro chips
+  - green peas
+  - chicken or turkey rice soup
+  - mixed cereal with bananas
+  - fruit juice drink (sunny d)
+  - meat substitute
+  - lima beans
+  - oxtail soup
+  - puerto rican seasoning with ham and tomato sauce
+  - plantain soup
+  - fish stock
+  - beef rolls
+  - turkey light or dark meat
+  - apple-peach juice
+  - cereal (kellogg's raisin bran)
+  - sandwich
+  - pizza with meat other than pepperoni
+  - strudel
+  - fish with cream or white sauce
+  - taquito or flauta with chicken
+  - pasta
+  - beef stew with potatoes and vegetables excluding carrots
+  - soyburger
+  - mayonnaise-type salad dressing
+  - bananas and pineapple
+  - potato chicken pie
+  - bruschetta
+  - frozen yogurt sandwich
+  - pomegranate juice
+  - salmon
+  - cassava pasteles
+  - lasagna with meat and spinach
+  - spanish rice
+  - burrito with chicken and sour cream
+  - stewed tripe
+  - 3 musketeers bar
+  - palak paneer
+  - bean sprouts
+  - multigrain
+  - marmalade
+  - graham crackers
+  - tortilla chips
+  - beef enchilada dinner
+  - oysters rockefeller
+  - swedish meatballs with cream or white sauce
+  - horseradish sauce
+  - beef goulash
+  - fried stuffed potatoes
+  - wheat bread as ingredient in sandwiches
+  - chicken curry
+  - macaroni and cheese
+  - rolo
+  - seafood salad
+  - beans and tomatoes
+  - rum cake
+  - lettuce
+  - pomegranate
+  - nutrition bar (south beach living high protein bar)
+  - thousand island dressing
+  - cornmeal beverage with chocolate milk
+  - basbousa
+  - marie biscuit
+  - white beans
+  - prunes
+  - corn flour patty or tart
+  - sopa de fideo aguada
+  - beef with barbecue sauce
+  - soy based sauce
+  - duck
+  - goat
+  - beef jerky
+  - vegetables
+  - cereal (post honey bunches of oats with vanilla bunches)
+  - old fashioned
+  - stewed salmon
+  - beer
+  - sweetbreads
+  - nutrition bar (south beach living meal bar)
+  - potato salad with egg
+  - nachos with chicken
+  - seabreeze
+  - pocky
+  - peaches
+  - whiskey sour
+  - chicken or turkey soup
+  - stinger
+  - hot and sour soup
+  - scrapple
+  - chicken soup with noodles and potatoes
+  - fried bread
+  - biscuit with gravy
+  - taro leaves
+  - beef sausage
+  - rice with chicken
+  - scrambled egg sandwich
+  - quesadilla
+  - creme brulee
+  - rice with raisins
+  - oyster stew
+  - sausage griddle cake sandwich
+  - peas
+  - fried green tomatoes
+  - scone
+  - stewed
+  - apples with ham
+  - cereal or granola bar (general mills nature valley crunchy granola bar)
+  - raspberries
+  - chicken breast
+  - chicken or turkey with stuffing
+  - canadian club and soda
+  - spinach souffle
+  - steak
+  - asian chicken or turkey garden salad
+  - beef curry
+  - venison/deer jerky
+  - enchilada with chicken
+  - green banana
+  - peruvian beans
+  - beef and noodles with meat sauce and cheese
+  - coleslaw dressing
+  - turkey dinner
+  - rice cake
+  - escarole
+  - gizzard
+  - lentils
+  - crab cake
+  - pasta with tomato-based sauce and poultry
+  - fry sauce
+  - cheese souffle
+  - kit kat
+  - meat loaf made with ham
+  - crab
+  - beef and potatoes with cream sauce
+  - light ice cream sandwich
+  - bibimbap
+  - mushroom
+  - non-dairy milk
+  - gumbo with rice
+  - fruit juice drink (capri sun)
+  - roe
+  - wonton soup
+  - beef stroganoff
+  - crab salad
+  - octopus salad
+  - chicken salad spread
+  - flowers or blossoms of sesbania
+  - vegetable curry with rice
+  - moo goo gai pan
+  - cheese pastry puffs
+  - kit kat white
+  - apple pie filling
+  - snack bar
+  - prune
+  - vodka and lemonade
+  - catfish
+  - creamed christophine
+  - breadfruit
+  - pakora
+  - pad thai
+  - shellfish and noodles with tomato-based sauce
+  - taco or tostada salad with chicken
+  - pralines
+  - black bean soup
+  - turkey with gravy
+  - beer cheese soup
+  - black beans
+  - julienne salad
+  - dark green vegetables as ingredient in omelet
+  - shrimp cocktail
+  - green plantain with cracklings
+  - fritter
+  - ham on biscuit
+  - fruit butter
+  - ladoo
+  - slush frozen drink
+  - lychee
+  - grape juice drink
+  - oat bran
+  - double hamburger
+  - chicken or turkey soup with vegetables and fruit
+  - fish cake or patty
+  - toffee
+  - seafood soup with potatoes
+  - turkey or chicken
+  - papad
+  - cabbage with ham hocks
+  - pad thai with chicken
+  - frankfurter or hot dog sandwich
+  - taco or tostada with meat
+  - cereal beverage with beet roots
+  - kale
+  - cobb salad
+  - beef and rice with cream sauce
+  - snowpea
+  - lobster with bread stuffing
+  - biryani with vegetables
+  - chicken "wings"
+  - luncheon slice
+  - custard
+  - veal chop
+  - chicken salad or chicken spread sandwich
+  - fried pork chunks
+  - cream cheese
+  - beef and noodles with soy-based sauce
+  - nut roll
+  - chimichanga with chicken
+  - dove
+  - light ice cream cone
+  - eel
+  - gravy
+  - pizza with extra meat
+  - peanut sauce
+  - double cheeseburger (burger king)
+  - spinach soup
+  - biscuit with fruit
+  - veal parmigiana
+  - vegan mayonnaise
+  - veal goulash with vegetables excluding carrots
+  - lefse (norwegian)
+  - pasta with vegetable and cheese sauce
+  - carrots and peas
+  - stuffed cabbage rolls with beef and rice
+  - carrots
+  - blueberries
+  - beef and rice
+  - buffalo sauce
+  - greens
+  - turkey submarine sandwich
+  - macaroni with tuna
+  - gimlet
+  - soy nuts
+  - sesame crunch
+  - russian dressing
+  - seafood soup with vegetables including carrots
+  - black beans and brown rice
+  - egg and steak on biscuit
+  - pork
+  - lasagna with cheese and meat sauce
+  - beet greens
+  - vodka and diet cola
+  - beef dinner
+  - cereal or granola bar with nuts
+  - vegetable soup
+  - breadsticks
+  - haddock cake or patty
+  - cereal or granola bar (kellogg's nutri-grain cereal bar)
+  - lentil soup
+  - beef shish kabob with vegetables
+  - beef with tomato-based sauce
+  - salisbury steak with gravy
+  - gin fizz
+  - ham pot pie
+  - cereal (general mills cheerios fruity)
+  - chicken tenders or strips
+  - imitation cheese
+  - turnip greens
+  - cornmeal mush
+  - walnuts
+  - cereal (kellogg's special k)
+  - cape cod
+  - beef and noodles with cream or white sauce
+  - sauerkraut
+  - pork chop
+  - macaroni or noodles with cheese and egg
+  - creamsicle
+  - cantaloupe
+  - fried green beans
+  - orange juice beverage
+  - kimchi
+  - bluberries
+  - fish and rice with cream sauce
+  - cereal (malt-o-meal honey graham squares)
+  - lamb or mutton stew with potatoes and vegetables excluding carrots
+  - cereal (kellogg's all-bran complete wheat flakes)
+  - hog maws
+  - flounder with chopped broccoli
+  - fish and noodles with mushroom sauce
+  - salt pork
+  - honey-combed hard candy with peanut butter
+  - chicken with mole sauce
+  - arepa dominicana
+  - soft drink
+  - peanut butter
+  - pork steak or cutlet
+  - sweet potato
+  - pasta with tomato-based sauce
+  - twix caramel cookie bars
+  - pita chips
+  - infant formula
+  - cereal (quaker cap'n crunch's crunchberries)
+  - veal with vegetables including carrots
+  - sandwich spread
+  - french toast
+  - potato patty
+  - chicken or turkey souffle
+  - ham or pork and potatoes with gravy
+  - brandy and cola
+  - cannelloni
+  - steak submarine sandwich with lettuce and tomato
+  - spaghetti sauce with meat
+  - tomato vegetable soup
+  - macaroni
+  - pickled sausage
+  - energy drink (rockstar)
+  - nutrition bar (snickers marathon protein bar)
+  - beef barbecue submarine sandwich
+  - pork skin rinds
+  - egg and sausage on biscuit
+  - fried onion rings
+  - carrot juice
+  - soft taco with meat and sour cream
+  - burrito with chicken and beans
+  - clams casino
+  - sardines with tomato-based sauce
+  - salami sandwich
+  - veal and noodles with cream or white sauce
+  - bloody mary
+  - wheat
+  - bologna and cheese sandwich
+  - stewed gizzards
+  - kung pao beef
+  - veal stew with potatoes and vegetables including carrots
+  - fruit juice
+  - chives
+  - fajita with vegetables
+  - chicken drumstick
+  - mars almond bar
+  - cereal (malt-o-meal cocoa dyno-bites)
+  - vegetable oil
+  - pea and ham soup
+  - broccoli and cauliflower
+  - cocktail
+  - ripe plantain meat pie
+  - watermelon juice
+  - chicken patty
+  - almonds
+  - strawberry juice
+  - meat loaf with potatoes
+  - vegetable noodle soup
+  - stuffed grape leaves with lamb and rice
+  - ocean perch
+  - banana pudding
+  - cereal (post shredded wheat)
+  - coffee substitute
+  - turnover filled with ground beef and cabbage
+  - screwdriver
+  - corn
+  - ice cream
+  - tea
+  - bananas with orange
+  - roast beef sandwich with cheese
+  - wheat germ oil
+  - sweet potato paste
+  - egg and bacon on biscuit
+  - cactus
+  - barbecue sauce
+  - cereal or granola bar (kashi chewy)
+  - flavored rice
+  - alcoholic malt beverage
+  - raccoon
+  - shrimp shish kabob with vegetables
+  - macaroni or noodles
+  - chicken chow mein with rice
+  - bean chips
+  - worcestershire sauce
+  - dark-green leafy vegetable soup
+  - grape juice
+  - mushroom soup
+  - italian dressing
+  - duck sauce
+  - puerto rican seasoning with ham
+  - roast beef sandwich
+  - seafood stew with potatoes and vegetables including carrots
+  - corn soup
+  - dasheen
+  - chitterlings
+  - ceviche
+  - cucumber
+  - pasta with tomato-based sauce and meat
+  - potato
+  - tofu and vegetables excluding carrots
+  - rice soup
+  - fish and vegetables excluding carrots
+  - mixed cereal with applesauce and bananas
+  - applesauce
+  - cereal (general mills oatmeal crisp with almonds)
+  - grapes
+  - shrimp salad
+  - ratatouille
+  - beef goulash with noodles
+  - spinach salad
+  - turnover
+  - other vegetables as ingredient in omelet
+  - spinach quiche
+  - goose
+  - crab soup
+  - spaghetti sauce with added vegetables
+  - blue or roquefort cheese dressing
+  - steak and cheese submarine sandwich
+  - moo shu pork
+  - fruit juice drink
+  - taquito or flauta with meat
+  - meatball soup
+  - m&m's pretzel chocolate candies
+  - nutritional powder mix (carnation instant breakfast)
+  - pork and onions with soy-based sauce
+  - nutritional powder mix (slim fast)
+  - turtle and vegetable soup
+  - meatballs
+  - mixed vegetable juice
+  - seafood salad sandwich
+  - potato skins without topping
+  - spinach
+  - shrimp and vegetables including carrots
+  - tropical fruit medley
+  - alfredo sauce with meat
+  - wasabi paste
+  - doughnut
+  - m&m's peanut butter chocolate candies
+  - peach cobbler
+  - chicken fricassee
+  - salisbury steak dinner
+  - vegetable tempura
+  - pineapple candy
+  - split peas
+  - roll
+  - onion dip
+  - alfredo sauce
+  - turkey salad or turkey spread sandwich
+  - chicken or turkey and rice with tomato-based sauce
+  - shrimp and noodles with tomato sauce
+  - nachos with chicken and cheese
+  - meat pie
+  - macadamia nuts
+  - egg and cheese on biscuit
+  - apples and sweet potatoes
+  - prune juice
+  - steak teriyaki
+  - reese's peanut butter cup
+  - puerto rican seasoning without ham and tomato sauce
+  - borscht
+  - winter melon
+  - chicken or turkey shish kabob with vegetables
+  - peach
+  - pinto beans and white rice
+  - cereal (general mills frankenberry)
+  - cranberry juice drink
+  - vegetable and fruit juice
+  - bean with bacon or ham soup
+  - cereal (quaker toasted oat bran)
+  - pork and vegetables
+  - stewed corned beef
+  - stewed seasoned ground beef
+  - sesame oil
+  - sopaipilla with syrup or honey
+  - enchilada with beans
+  - tiramisu
+  - green beans and potatoes
+  - fish and rice with tomato-based sauce
+  - classic mixed vegetables
+  - fruit snacks candy
+  - garlic sauce
+  - cranberries
+  - bread stuffing made with egg
+  - blueberry pie filling
+  - puerto rican pasteles
+  - luncheon meat
+  - shrimp scampi
+  - orange chicken
+  - topping from meat pizza
+  - mackerel cake or patty
+  - chow fun noodles with vegetables
+  - lobster with butter sauce
+  - oatmeal
+  - beef stew with potatoes and vegetables including carrots
+  - vegetable chips
+  - cereal (general mills cheerios chocolate)
+  - iced coffee
+  - scrambled eggs with jerked beef
+  - fruit juice blend
+  - ghee
+  - chicken or turkey and corn hominy soup
+  - chicken or turkey vegetable soup
+  - chicken fillet
+  - teriyaki chicken with rice and vegetable
+  - taco or tostada with chicken and sour cream
+  - spaghetti sauce with meat and added vegetables
+  - sweet potatoes and chicken
+  - chicken or turkey fricassee
+  - soybean oil
+  - eggplant with cheese and tomato sauce
+  - twix chocolate fudge cookie bars
+  - beef and vegetables including carrots
+  - soft taco with chicken and beans
+  - cereal (quaker oatmeal squares)
+  - sesame chicken
+  - strawberry drink syrup
+  - pasta with cream sauce and poultry
+  - greek salad
+  - orange juice
+  - broccoli salad with cauliflower
+  - gerber finger foods
+  - tomato soup
+  - whiskey and soda
+  - cereal (kellogg's honey smacks)
+  - sweet potatoes
+  - croissant
+  - stuffed pot roast
+  - chickpeas
+  - vegetable and chicken
+  - sturgeon
+  - peppers and onions
+  - energy drink (sobe energize energy juice drink)
+  - peas and corn
+  - general tso chicken
+  - yellow string beans
+  - cake batter
+  - mock chicken legs
+  - apples and pears
+  - meat loaf made with beef and pork
+  - grapefruit juice
+  - mussels
+  - chicken and vegetable entree with noodles
+  - bird's nest soup
+  - cereal (general mills cheerios honey nut)
+  - pasta with tomato-based sauce and cheese
+  - taffy
+  - goose egg
+  - yuca fries
+  - beef curry with rice
+  - cheese enchilada
+  - date candy
+  - pork chow mein or chop suey
+  - puerto rican sandwich
+  - shirley temple
+  - taquito or flauta with egg and breakfast meat
+  - tuna cake or patty
+  - swordfish
+  - chicken in butter sauce with potatoes and vegetable
+  - okra
+  - chicken or turkey chow mein or chop suey with noodles
+  - tartar sauce
+  - rice noodles
+  - cereal (post raisin bran)
+  - veal with gravy
+  - vegetable stew without meat
+  - pasta with cream sauce
+  - collards
+  - pork sausage
+  - greens with ham or pork
+  - teriyaki sauce
+  - millet
+  - sausage and rice with cheese sauce
+  - codfish
+  - truffles
+  - ham salad spread
+  - pumpkin seeds
+  - high ball
+  - pesto sauce
+  - alfredo sauce with poultry and added vegetables
+  - shrimp and noodles
+  - horseradish
+  - chicken and vegetable entree with rice
+  - mixed fruit juice
+  - crab imperial
+  - chili con carne with chicken or turkey and beans
+  - mango
+  - lamb hocks
+  - gumdrops
+  - cereal (kellogg's rice krispies treats cereal)
+  - broccoli and chicken
+  - barley
+  - tamal in a leaf
+  - tongue pot roast
+  - margarine
+  - croissant sandwich with ham
+  - macaroni or pasta salad with chicken
+  - pie shell
+  - nutritional powder mix (eas soy protein powder)
+  - pork roll
+  - chicken patty or nuggets
+  - fruit flavored drink
+  - cocktail sauce
+  - shrimp and noodles with cream or white sauce
+  - squash fritter or cake
+  - tamarind candy
+  - breakfast link
+  - lemon juice
+  - meat with tomato-based sauce
+  - vegetable soup with chicken broth
+  - frog legs
+  - stuffed christophine
+  - chicken barbecue sandwich
+  - quarter pounder (mcdonalds)
+  - bamboo shoots
+  - applesauce with bananas
+  - clam cake or patty
+  - chorizo
+  - oat bran cereal
+  - rice with spanish sausage
+  - pepper
+  - lima beans and corn
+  - ray
+  - liquid from stewed kidney beans
+  - broccoli casserole with noodles
+  - mussels with tomato-based sauce
+  - octopus
+  - popcorn cake
+  - toblerone
+  - potato only from puerto rican mixed dishes
+  - tomato beef rice soup
+  - crumpet
+  - soup
+  - bear
+  - popover
+  - cottonseed oil
+  - beef enchilada
+  - seven-layer salad
+  - roast beef submarine sandwich
+  - champagne punch
+  - chimichanga with meat
+  - fruit bar
+  - sangria
+  - seaweed
+  - soursop
+  - pork chop stewed with vegetables
+  - marshmallow
+  - egg omelet or scrambled egg
+  - grape leaves stuffed with rice
+  - pie
+  - vegetables and cheese in pastry
+  - cereal (kellogg's crispix)
+  - vanilla wafer dessert base
+  - pinto bean soup
+  - mung beans
+  - cheeseburger (mcdonalds)
+  - tortellini
+  - pear
+  - flavored rice mixture with cheese
+  - eggs a la malaguena
+  - cereal or granola bar (kashi crunchy)
+  - buckwheat groats
+  - shrimp and vegetables excluding carrots
+  - tamale casserole
+  - ham or pork with mushroom sauce
+  - light ice cream
+  - chicken cornbread
+  - fruit dessert
+  - seaweed soup
+  - corn beverage
+  - soybeans
+  - beef and rice soup
+  - hummus
+  - hamburger slider
+  - shrimp egg foo yung
+  - tomato juice
+  - chicken and rice dinner
+  - sweet potato tots
+  - sweet and sour soup
+  - bean and ham soup
+  - leek soup
+  - double cheeseburger
+  - chocolate dip
+  - cabbage
+  - salmon soup
+  - mango nectar
+  - croissant sandwich
+  - layer dip
+  - stewed rice
+  - danish pastry
+  - ice cream sandwich
+  - ham and noodles with cream or white sauce
+  - pear nectar
+  - sugar
+  - nachos with cheese
+  - chicken in mushroom sauce
+  - shrimp and noodles with gravy
+  - macaroni with vegetables
+  - salsa verde or salsa
+  - egg drop soup
+  - carrots and beef
+  - oil or table fat
+  - gordita
+  - pizza with cheese and extra vegetables
+  - oatmeal cereal
+  - beef sausage with cheese
+  - cucumber and vegetable namasu
+  - sausage with tomato-based sauce
+  - beef liver
+  - cereal (general mills chex cinnamon)
+  - chicken or turkey
+  - lard
+  - vegetable chicken rice soup
+  - mixed vegetables
+  - falafel
+  - knockwurst
+  - shrimp and noodles with mushroom sauce
+  - snails
+  - banana chips
+  - ham and rice with mushroom sauce
+  - chicken or turkey salad with egg
+  - stuffed grape leaves with beef and rice
+  - crisp
+  - honeydew melon
+  - licuado or batido
+  - macaroni or noodles with cheese and tuna
+  - lime juice
+  - mozzarella cheese
+  - beef and rice with gravy
+  - cornbread muffin
+  - shrimp toast
+  - vodka
+  - carp
+  - mustard greens
+  - sea bass
+  - gelato
+  - seafood soup with potatoes and vegetables including carrots
+  - broccoli raab
+  - sardines
+  - chicken with noodles and cheese sauce
+  - baby ruth
+  - taco or tostada with meat and beans
+  - dietetic or low calorie gumdrops
+  - venison or deer with tomato-based sauce
+  - shrimp soup
+  - cereal (post cocoa pebbles)
+  - goat head
+  - alfalfa sprouts
+  - whopper jr with cheese (burger king)
+  - hayacas
+  - vodka and tonic
+  - blintz
+  - breakfast pastry
+  - veal fricassee
+  - salmon cake or patty
+  - meat sandwich
+  - flounder with crab stuffing
+  - spanakopitta
+  - cereal (kellogg's special k red berries)
+  - turnip
+  - welsh rarebit
+  - sirloin
+  - ice cream soda
+  - popcorn
+  - bologna
+  - daiquiri
+  - tomato sandwich
+  - mojito
+  - pork ears
+  - stuffed pork roast
+  - cereal (kellogg's frosted mini-wheats)
+  - butterfinger
+  - macaroni or noodles with cheese and chicken or turkey
+  - jelly
+  - oyster sauce
+  - beef short ribs
+  - clams
+  - sesame dressing
+  - cookie
+  - couscous
+  - trail mix with pretzels
+  - topping
+  - pumpkin
+  - m&m's almond chocolate candies
+  - alfredo sauce with seafood and added vegetables
+  - carob chips
+  - grasshopper
+  - bacon and tomato dressing
+  - chocolate milk
+  - ground beef with tomato sauce and taco seasonings on a cornbread crust
+  - ravioli
+  - canadian bacon
+  - jam
+  - beef and noodles with gravy
+  - salmon salad
+  - breaded brains
+  - spaghetti sauce
+  - matzo ball soup
+  - kung pao pork
+  - beef with vegetables
+  - taco with crab meat
+  - chicken or turkey corn soup with noodles
+  - jambalaya with meat and rice
+  - cereal or granola bar
+  - taco or tostada with beans
+  - liver
+  - cereal (nature valley granola)
+  - creamy dressing
+  - artichokes
+  - gelatin salad with vegetables
+  - sweet and sour pork with rice
+  - egg casserole with bread
+  - orange
+  - fried okra
+  - apple-grape juice
+  - ham and cheese sandwich
+  - tequila
+  - pickles
+  - rice milk
+  - spaghetti with corned beef
+  - ham salad sandwich
+  - berries
+  - cereal (malt-o-meal cinnamon toasters)
+  - cheeseburger (burger king)
+  - chocolate syrup
+  - kamikaze
+  - onion soup
+  - corn and sweet potatoes
+  - tomato and cucumber salad made with tomato
+  - cereal (general mills chex rice)
+  - perch
+  - pork hash
+  - soybean soup
+  - fish sauce
+  - cereal (kellogg's krave)
+  - asparagus soup
+  - black bean sauce
+  - finger foods
+  - dosa (indian)
+  - sopa de tortilla
+  - chicken dinner
+  - potato soup
+  - eggplant
+  - artichoke dip
+  - chocolate-flavored sprinkles
+  - mexican style chicken broth soup stock
+  - lobster gumbo
+  - chicken or turkey and rice with soy-based sauce
+  - syrup
+  - quail
+  - energy drink (monster)
+  - nachos with meat
+  - cereal (quaker life)
+  - cold cut sumarine sandwich
+  - fish curry
+  - seafood dip
+  - cereal or granola bar (kellogg's nutri-grain yogurt bar)
+  - beaver
+  - cornmeal
+  - thistle leaves
+  - nougat
+  - crab cake sandwich
+  - cereal (general mills chex chocolate)
+  - pepperoni
+  - bananas and strawberry
+  - breakfast pizza with egg
+  - oatmeal cereal with fruit
+  - ham and vegetables including carrots broccoli
+  - topping from vegetable pizza
+  - coconut cream cake
+  - cucumber salad made with cucumber and vinegar
+  - paella with meat
+  - lamb or mutton stew with vegetables excluding carrots
+  - pizza rolls
+  - vodka sauce with tomatoes and cream
+  - garbanzo bean or chickpea soup
+  - fig
+  - cassava
+  - shrimp in garlic sauce
+  - cereal (post honeycomb)
+  - corn chips
+  - chicken or turkey and noodles with mushroom sauce
+  - beets
+  - apricots
+  - vegetable rice soup
+  - molasses
+  - pear juice
+  - wax candy
+  - potato pancake
+  - ripe plantain omelet
+  - focaccia
+  - paella with seafood
+  - fruit leather and fruit snacks candy
+  - fish soup with potatoes
+  - chocolate
+  - pork skin
+  - oysters
+  - squid
+  - rice with stewed beans
+  - oatmeal beverage with milk
+  - chicken kiev
+  - chicken or turkey and noodles with cheese sauce
+  - cake or pancake made with rice flour and/or dried beans
+  - liver paste or pate
+  - celery soup
+  - cereal (barbara's puffins)
+  - yellow rice
+  - milk shake with malt
+  - bean dip
+  - tomato sauce
+  - soft taco with beans and sour cream
+  - bagel chips
+  - energy drink
+  - pears
+  - chicken and vegetables au gratin with rice
+  - cereal (post shredded wheat honey nut)
+  - beef
+  - bacon soup
+  - meat loaf dinner
+  - churros
+  - potato sticks
+  - frozen margarita
+  - frozen daiquiri
+  - thuringer
+  - cereal (kellogg's special k blueberry)
+  - vegetable and beef
+  - snack cake
+  - vegetarian burger or patty
+  - fajita with chicken and vegetables
+  - beef and potatoes with cheese sauce
+  - soft taco with meat
+  - planters peanut bar
+  - haddock
+  - chicken or turkey divan
+  - canola oil
+  - coffee cake
+  - brazil nuts
+  - mcdouble (mcdonalds)
+  - egg white
+  - frankfurters or hot dogs with tomato-based sauce
+  - bananas
+  - bagel
+  - bacardi cocktail
+  - sausage and vegetables including  carrots
+  - dark-green leafy vegetable soup with meat
+  - anisette toast
+  - frankfurter or hot dog
+  - apple juice
+  - shrimp and vegetables in sauce with noodles
+  - soy chips
+  - crepe
+  - chicken or turkey with mushroom sauce
+  - quiche with meat
+  - stir fried beef and vegetables in soy sauce
+  - nachos with meat and cheese
+  - cereal (nature's path organic flax plus)
+  - cereal (kashi autumn wheat)
+  - beef noodle soup
+  - garlic
+  - vegetable mixture
+  - chicken or turkey broth
+  - stuffed green pepper
+  - pretzels
+  - chili con carne
+  - corn pone
+  - cilantro
+  - clementine
+  - celeriac
+  - energy drink (vault)
+  - fruit
+  - vienna sausages stewed with potatoes
+  - pheasant
+  - cereal or granola bar (kellogg's nutri-grain fruit and nut bar)
+  - kidney beans with meat
+  - easter egg
+  - caesar salad
+  - cereal (kashi golean)
+  - cheeseburger slider
+  - milk shake
+  - lo mein
+  - sopaipilla
+  - hot thai sauce
+  - shav soup
+  - tomato noodle soup
+  - tamale with chicken
+  - parsnips
+  - kidney beans
+  - shrimp and clams in tomato-based sauce
+  - vegetable beef soup with noodles or pasta
+  - pastrami sandwich
+  - frozen yogurt cone
+  - croissant sandwich with bacon
+  - soft taco with meat and beans
+  - chicken or turkey stew with potatoes and vegetables including carrots
+  - chicken stick
+  - ice cream candy bar
+  - trout
+  - vegetables in pastry
+  - relish
+  - macaroni or noodles with cheese and meat
+  - peanut butter sandwich
+  - corned beef
+  - tofu and vegetables including carrots
+  - cheesecake with fruit
+  - milk dessert or milk candy
+  - sausage and rice with tomato-based sauce
+  - sports drink
+  - flavored rice mixture
+  - sunflower seeds
+  - dip
+  - bacon or side pork
+  - coconut
+  - bratwurst
+  - fish in lemon-butter sauce with starch item
+  - sausage sandwich
+  - firni
+  - chiliburger
+  - lau lau
+  - wine spritzer
+  - spaghetti sauce with seafood and added vegetables
+  - seafood sauce
+  - sirloin beef
+  - cherry pie filling
