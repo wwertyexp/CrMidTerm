@@ -89,11 +89,8 @@ nlu:
     - i want to buy some [banana](item)
     - i want to add some [chocolate bars](item)
     - i want to add [chocolate bars](item)
-    - i want to add [100 GRAND Bar](item)
     - i want to buy some [chocolate bars](item)
-    - i want to buy some [100 GRAND Bar](item)
     - i want to buy [chocolate bars](item)
-    - i want to buy [100 GRAND Bar](item)
 
 - intent: show_list
   examples: |
@@ -605,7 +602,6 @@ nlu:
     - [Taro leaves](item)
     - [Lobster with bread stuffing](item)
     - [Lemon](item)
-    - [Cereal or granola bar (Quaker Chewy 90 Calorie Granola Bar)](item)
     - [Enchilada with chicken and beans](item)
     - [Vegetable soup with chicken broth](item)
     - [Cereal (General Mills Chex Corn)](item)
@@ -1077,7 +1073,6 @@ nlu:
     - [Vermicelli](item)
     - [Pinto beans with meat](item)
     - [Pea soup](item)
-    - [Cereal (General Mills 25% Less Sugar Cinnamon Toast Crunch)](item)
     - [Coconut](item)
     - [Slush frozen drink](item)
     - [Taco or tostada with fish](item)
@@ -1194,7 +1189,6 @@ nlu:
     - [Champagne punch](item)
     - [TWIX Peanut Butter Cookie Bars](item)
     - [Beef and rice with cream sauce](item)
-    - [100 GRAND Bar](item)
     - [Taco or tostada salad with chicken](item)
     - [Shrimp and noodles with soy-based sauce](item)
     - [Alfredo sauce with meat](item)
@@ -1225,7 +1219,6 @@ nlu:
     - [Queso Fresco](item)
     - [Beef dinner](item)
     - [Tannier](item)
-    - [Cereal (Kashi 7 Whole Grain Puffs)](item)
     - [Mackerel](item)
     - [Shrimp and noodles with cheese sauce](item)
     - [Chicken or turkey and noodles with cheese sauce](item)
@@ -1633,7 +1626,6 @@ nlu:
     - [Channa Saag](item)
     - [Fish timbale or mousse](item)
     - [Taco with crab meat](item)
-    - [3 MUSKETEERS Bar](item)
     - [Cauliflower](item)
     - [Hayacas](item)
     - [Meatball soup](item)
@@ -1848,7 +1840,6 @@ nlu:
     - You can't talk to me unless you tell me your favorite color.
     - This is my operating room, so you all need to shut up.
     - I wish I had met my uncle yesterday like I was supposed to.
-    - in the next 40-50 years I plan on opening up my own business.
     - My papa once told me he wasn’t scared of dying.
     - They hadn't updated the store's sign in decades.
     - I'm just trying to stop you from making a big mistake.
