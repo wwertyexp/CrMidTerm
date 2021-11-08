@@ -77,6 +77,9 @@ nlu:
 
 - intent: add_item
   examples: |
+    - add [one]{"entity": "number", "value": 1} [apple](item) to the list
+    - add [a]{"entity": "number", "value": 1} [apple](item) to the list
+    - add [an]{"entity": "number", "value": 1} [apple](item) to the list
     - add [four](number) [apple](item) to the list
     - add [4](number) [apple](item) to the list
     - add [apples](item) to the shopping list
@@ -85,6 +88,7 @@ nlu:
     - i want to buy [one](number) [banana](item)
     - i would like to add [apple](item)
     - insert [ten](number) [banana](item) in the list
+    - insert [a]{"entity": "number", "value": 1} [banana](item) in the shopping list
     - insert [banana](item) in the shopping list
     - remember me to buy some [orange](item)
     - i want to buy some [banana](item)
@@ -93,6 +97,7 @@ nlu:
     - i want to add [chocolate bar](item)
     - i want to buy some [chocolate banana](item)
     - i want to buy [banana split](item)
+    - i want to buy [an]{"entity": "number", "value": 1} [apple](item)
 
 - intent: show_list
   examples: |
@@ -1889,8 +1894,3 @@ nlu:
     - He wears suspenders instead of a belt.
     - How long did it take?
     - Have you got a match?
-
-- synonym: '1'
-  examples: |
-    - a
-    - an
