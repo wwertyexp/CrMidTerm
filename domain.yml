@@ -5,6 +5,15 @@ intents:
   - inform
   - show_list
   - out_of_scope
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - name
+  - help
+  - use_list
+  - bot_challenge
+  - thank_you
 
 entities:
   - item
@@ -33,24 +42,12 @@ forms:
           entity: number
 
 responses:
-  utter_greet:
-  - text: "Hey! How are you?"
-
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
 
   utter_did_that_help:
   - text: "Did that help you?"
 
-  utter_happy:
-  - text: "Great, carry on!"
-
   utter_goodbye:
   - text: "Bye"
-
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
 
   utter_noworries:
   - text: "My pleasure."
@@ -67,6 +64,70 @@ responses:
 
   utter_please_rephrase:
   - text: I'm sorry, I didn't quite understand that. Could you rephrase?
+
+  utter_greet:
+  - text: "Hey, my name is ShoLiBo! What is your name?"
+  - text: "Hello, mein name is ShoLiBo! Let's get started. But first I need your name."
+
+  utter_name:
+  - text: "Nice to meet you, {name}! What can I do for you?"
+
+  utter_help:
+  - text: "You can see your shopping list, add an item to your list or remove one."
+
+  utter_add:
+  - text: "Which item do you want to add?"
+
+  utter_remove:
+  - text: "Which item do you want to remove?"
+
+  utter_show_list:
+  - text: "Sure, here ist your shopping list: {items}"
+
+  utter_action_preformed:
+  - text: "I have {userActions} {amount} on your shopping list"
+
+  utter_how_many:
+  - text: "Please telle me, how many {item} do you want to {userActions}"
+
+  utter_what:
+  - text: "What item would you like to {userActions}"
+
+  utter_what_action:
+  - text: "Do you want to add or remove something or shell I show you your shopping list?"
+
+  utter_goodbye:
+  - text: "I hope I could help you! Thanks for working with me."
+
+  utter_iamabot:
+  - text: "I am ShoLiBo, a SHOpping LIst BOt, desinged by ..."
+
+  utter_default:
+  - text: "I'm not able to do this at the momant. I'm sorry but you might want to try: - Add an item to your List, - Remove an item from your List, - Have a look at your List"
+
+enterties:
+  - userActions
+  - item
+  - name
+  - amount
+
+slots:
+  name:
+    type: text
+    influence_conversation: false
+  userActions:
+    type: categorical
+    values:
+      - add
+      - remove
+      - show
+  items:
+    type: list
+    influence_conversation: true
+  amount:
+    type: float
+    min_value: 0
+    max_value: 100    
 
 session_config:
   session_expiration_time: 60

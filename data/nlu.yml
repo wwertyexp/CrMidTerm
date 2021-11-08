@@ -1,101 +1,3 @@
-version: "2.0"
-
-nlu:
-# - intent: greet
-#   examples: |
-#     - hey
-#     - hello
-#     - hi
-#     - hello there
-#     - good morning
-#     - good evening
-#     - moin
-#     - hey there
-#     - let's go
-#     - hey dude
-#     - goodmorning
-#     - goodevening
-#     - good afternoon
-
-# - intent: goodbye
-#   examples: |
-#     - good afternoon
-#     - cu
-#     - good by
-#     - cee you later
-#     - good night
-#     - bye
-#     - goodbye
-#     - have a nice day
-#     - see you around
-#     - bye bye
-#     - see you later
-
-# - intent: affirm
-#   examples: |
-#     - yes
-#     - y
-#     - indeed
-#     - of course
-#     - that sounds good
-#     - correct
-
-# - intent: deny
-#   examples: |
-#     - no
-#     - n
-#     - never
-#     - I don't think so
-#     - don't like that
-#     - no way
-#     - not really
-
-# - intent: bot_challenge
-#   examples: |
-#     - are you a bot?
-#     - are you a human?
-#     - am I talking to a bot?
-#     - am I talking to a human?
-
-# - intent: thankyou
-#   examples: |
-#     - Thanks
-#     - Thank you
-#     - Thank you so much
-#     - Thanks bot
-#     - Thanks for that
-#     - cheers
-#     - cheers bro
-#     - ok thanks!
-#     - perfect thank you
-#     - thanks a bunch for everything
-#     - thanks for the help
-#     - thanks a lot
-#     - amazing, thanks
-#     - cool, thanks
-#     - cool thank you
-
-- intent: add_item
-  examples: |
-    - add a [apple](item) to the list
-    - add [four](number) [apples](item) to the shopping list
-    - i want to buy a [banana](item)
-    - i would like to add [apple](item)
-    - insert [banana](item) in the list
-    - insert [banana](item) in the shopping list
-    - remember me to buy some [orange](item)
-    - i want to buy some [banana](item)
-
-- intent: show_list
-  examples: |
-    - show me the shopping list
-    - let me see the shopping list
-    - show me the list
-    - i want to see the list
-    - list all the items
-    - what's in the list?
-    - how many [apples](item) are there in the list?
-
 - intent: inform
   examples: |
     - [2](number)
@@ -183,499 +85,121 @@ nlu:
     - [Croissant](item)
     - [Margarita](item)
     - [Soursop](item)
-  # - [Berries](item)
-  # - [Gin](item)
-  # - [Gelato](item)
-  # - [Mango](item)
-  # - [Spinach](item)
-  # - [Chard](item)
-  # - [Water](item)
-  # - [Trout](item)
-  # - [Casabe](item)
-  # - [Apple](item)
-  # - [Sardines](item)
-  # - [Noodles](item)
-  # - [Corn](item)
-  # - [Fudge](item)
-  # - [Mustard](item)
-  # - [Quail](item)
-  # - [Halvah](item)
-  # - [Cherries](item)
-  # - [Chitterlings](item)
-  # - [Potato](item)
-  # - [Zombie](item)
-  # - [Blackberries](item)
-  # - [Chorizo](item)
-  # - [Rutabaga](item)
-  # - [Flan](item)
-  # - [Sirloin](item)
-  # - [Ray](item)
-  # - [Seaweed](item)
-  # - [Sorbet](item)
-  # - [Crab](item)
-  # - [Clams](item)
-  # - [Ladoo](item)
-  # - [Mayonnaise](item)
-  # - [Burdock](item)
-  # - [Tuna](item)
-  # - [Churros](item)
-  # - [Bruschetta](item)
-  # - [Kamikaze](item)
-  # - [Meatball](item)
-  # - [Gimlet](item)
-  # - [Kibby](item)
-  # - [Snails](item)
-  # - [Artichoke](item)
-  # - [Waffle](item)
-  # - [Ham](item)
-  # - [Muffin](item)
-  # - [Sprouts](item)
-  # - [Asparagus](item)
-  # - [Brains](item)
-  # - [Manhattan](item)
-  # - [Bacon](item)
-  # - [Miso](item)
-  # - [Prunes](item)
-  # - [Marmalade](item)
-  # - [Injera](item)
-  # - [Stinger](item)
-  # - [Gizzard](item)
-  # - [Jagerbomb](item)
-  # - [Cantaloupe](item)
-  # - [Blintz](item)
-  # - [Cocktail](item)
-  # - [Beignet](item)
-  # - [Pork](item)
-  # - [Onions](item)
-  # - [Steak](item)
-  # - [Crayfish](item)
-  # - [Empanada](item)
-  # - [Topping](item)
-  # - [Strudel](item)
-  # - [Escarole](item)
-  # - [Butter](item)
-  # - [Hamburger](item)
-  # - [Raspberries](item)
-  # - [Beans](item)
-  # - [Biscuit](item)
-  # - [Custard](item)
-  # - [Tiramisu](item)
-  # - [Vermicelli](item)
-  # - [Upma](item)
-  # - [Multigrain](item)
-  # - [Macaroni](item)
-  # - [Lettuce](item)
-  # - [Cod](item)
-  # - [Almonds](item)
-  # - [Avocado](item)
-  # - [Pancakes](item)
-  # - [Congee](item)
-  # - [Doughnut](item)
-  # - [Alexander](item)
-  # - [Opossum](item)
-  # - [Whey](item)
-  # - [Basbousa](item)
-  # - [Strawberries](item)
-  # - [Ketchup](item)
-  # - [Coffee](item)
-  # - [Ostrich](item)
-  # - [Taro](item)
-  # - [Cheese](item)
-  # - [Vodka](item)
-  # - [Tamarind](item)
-  # - [Date](item)
-  # - [Mullet](item)
-  # - [Gordita](item)
-  # - [Cabbage](item)
-  # - [Broccoli](item)
-  # - [Pannetone](item)
-  # - [Kishke](item)
-  # - [Scone](item)
-  # - [Couscous](item)
-  # - [Chickpeas](item)
-  # - [Coconut](item)
-  # - [Tamale](item)
-  # - [Soup](item)
-  # - [Skittles](item)
-  # - [Roe](item)
-  # - [Cilantro](item)
-  # - [Buttermilk](item)
-  # - [Roll](item)
-  # - [Croutons](item)
-  # - [Guava](item)
-  # - [Bagel](item)
-  # - [Armadillo](item)
-  # - [Adobo](item)
-  # - [Apple-raspberry](item)
-  # - [Kefir](item)
-  # - [Beaver](item)
-  # - [Salsa](item)
-  # - [Taffy](item)
-  # - [Focaccia](item)
-  # - [Fritter](item)
-  # - [Peaches](item)
-  # - [Pastry](item)
-  # - [Horseradish](item)
-  # - [Barley](item)
-  # - [Gravy](item)
-  # - [Chicken](item)
-  # - [Tea](item)
-  # - [Pasta](item)
-  # - [Broccoflower](item)
-  # - [Seabreeze](item)
-  # - [Bratwurst](item)
-  # - [Salsify](item)
-  # - [Mackerel](item)
-  # - [Vegetables](item)
-  # - [Goat](item)
-  # - [Scrapple](item)
-  # - [Venison/deer](item)
-  # - [Haddock](item)
-  # - [Pike](item)
-  # - [Baklava](item)
-  # - [Jicama](item)
-  # - [Jelly](item)
-  # - [Applesauce](item)
-  # - [Bibimbap](item)
-  # - [Bouillabaisse](item)
-  # - [Calabaza](item)
-  # - [Herring](item)
-  # - [Chestnuts](item)
-  # - [Manicotti](item)
-  # - [Eel](item)
-  # - [Dasheen](item)
-  # - [Stew](item)
-  # - [Livers](item)
-  # - [Kidney](item)
-  # - [Falafel](item)
-  # - [Artichokes](item)
-  # - [Hayacas](item)
-  # - [Crumpet](item)
-  # - [Parsley](item)
-  # - [Scallops](item)
-  # - [Pepperoni](item)
-  # - [Moose](item)
-  # - [Toffee](item)
-  # - [Pumpkin](item)
-  # - [Peach](item)
-  # - [Meatballs](item)
-  # - [Cornbread](item)
-  # - [Milk](item)
-  # - [Hash](item)
-  # - [Shortening](item)
-  # - [Basil](item)
-  # - [Caramel](item)
-  # - [Ghee](item)
-  # - [Puffs](item)
-  # - [Martini](item)
-  # - [Turnover](item)
-  # - [Cranberries](item)
-  # - [Crackers](item)
-  # - [Fondant](item)
-  # - [Ambrosia](item)
-  # - [Borscht](item)
-  # - [Celery](item)
-  # - [Cheesecake](item)
-  # - [Christophine](item)
-  # - [Orange](item)
-  # - [Tabbouleh](item)
-  # - [Pastrami](item)
-  # - [Okra](item)
-  # - [Rolo](item)
-  # - [Quinoa](item)
-  # - [Peanuts](item)
-  # - [Quesadilla](item)
-  # - [Oatmeal](item)
-  # - [Turnip](item)
-  # - [Eggplant](item)
-  # - [Licorice](item)
-  # - [Turkey](item)
-  # - [Hazelnuts](item)
-  # - [Sushi](item)
-  # - [Liver](item)
-  # - [Barracuda](item)
-  # - [Beef](item)
-  # - [Syrup](item)
-  # - [Tequila](item)
-  # - [Sweetbreads](item)
-  # - [Crepe](item)
-  # - [Prune](item)
-  # - [Pineapple](item)
-  # - [Sugar](item)
-  # - [Vegetarian](item)
-  # - [Cactus](item)
-  # - [Caribou](item)
-  # - [Plums](item)
-  # - [Lamb](item)
-  # - [Halibut](item)
-  # - [Flounder](item)
-  # - [Catfish](item)
-  # - [Peppers](item)
-  # - [Crisp](item)
-  # - [Yeast](item)
-  # - [Anchovy](item)
-  # - [Cookies](item)
-  # - [Salami](item)
-  # - [Chilaquiles](item)
-  # - [Beer](item)
-  # - [Pho](item)
-  # - [Tortilla](item)
-  # - [Kohlrabi](item)
-  # - [Carp](item)
-  # - [Parsnips](item)
-  # - [Pheasant](item)
-  # - [Sixlets](item)
-  # - [Potatoes](item)
-  # - [Lentils](item)
-  # - [Shark](item)
-  # - [Pears](item)
-  # - [Soybeans](item)
-  # - [Wheat](item)
-  # - [Yogurt](item)
-  # - [Paella](item)
-  # - [Wonton](item)
-  # - [Meringues](item)
-  # - [Chimichanga](item)
-  # - [Raccoon](item)
-  # - [Goose](item)
-  # - [Toblerone](item)
-  # - [Egg](item)
-  # - [Molasses](item)
-  # - [Banana](item)
-  # - [Vada](item)
-  # - [Fudgesicle](item)
-  # - [Shrimp](item)
-  # - [Olives](item)
-  # - [Squid](item)
-  # - [Rice](item)
-  # - [Watermelon](item)
-  # - [Trifle](item)
-  # - [Cress](item)
-  # - [Grapefruit](item)
-  # - [Mojito](item)
-  # - [Tripe](item)
-  # - [Squirrel](item)
-  # - [Swordfish](item)
-  # - [Beets](item)
-  # - [Chips](item)
-  # - [Mortadella](item)
-  # - [Tahini](item)
-  # - [Turtle](item)
-  # - [Carrots](item)
-  # - [Kale](item)
-  # - [Spoonbread](item)
-  # - [Cashews](item)
-  # - [Popcorn](item)
-  # - [Apples](item)
-  # - [Fig](item)
-  # - [Gumdrops](item)
-  # - [Garlic](item)
-  # - [Millet](item)
-  # - [Radishes](item)
-  # - [Pompano](item)
-  # - [Dip](item)
-  # - [Fruit](item)
-  # - [Hummus](item)
-  # - [Honey](item)
-  # - [Chiliburger](item)
-  # - [Pretzel](item)
-  # - [Bear](item)
-  # - [Raisins](item)
-  # - [Burrito](item)
-  # - [Truffles](item)
-  # - [Starfruit](item)
-  # - [Brandy](item)
-  # - [Greyhound](item)
-  # - [Pakora](item)
-  # - [Calzone](item)
-  # - [Gumbo](item)
-  # - [Kimchi](item)
-  # - [Pocky](item)
-  # - [Meat](item)
-  # - [Candy](item)
-  # - [Nougat](item)
-  # - [Plum](item)
-  # - [Sandwich](item)
-  # - [Collards](item)
-  # - [Tomatoes](item)
-  # - [Lobster](item)
-  # - [Salmon](item)
-  # - [Celeriac](item)
-  # - [Eggnog](item)
-  # - [Firni](item)
-  # - [Scotch](item)
-  # - [Pie](item)
-  # - [Squash](item)
-  # - [Cake](item)
-  # - [Lard](item)
-  # - [Grasshopper](item)
-  # - [Snowpea](item)
-  # - [Luffa](item)
-  # - [Sopaipilla](item)
-  # - [Cobbler](item)
-  # - [Ratatouille](item)
-  # - [Chocolate](item)
-  # - [Apricots](item)
-  # - [Breadsticks](item)
-  # - [Rabbit](item)
-  # - [Nectarine](item)
-  # - [Cassava](item)
-  # - [Pimiento](item)
-  # - [Leek](item)
-  # - [Peas](item)
-  # - [Abalone](item)
-  # - [Gazpacho](item)
-  # - [Granola](item)
-  # - [Poi](item)
-  # - [Thuringer](item)
-  # - [Sambar](item)
-  # - [Bananas](item)
-  # - [Tannier](item)
-  # - [Oysters](item)
-  # - [Edamame](item)
-  # - [Walnuts](item)
-  # - [Tongue](item)
-  # - [Lambsquarter](item)
-  # - [Ceviche](item)
-  # - [Pupusa](item)
-  # - [Soyburger](item)
-  # - [Nuts](item)
-  # - [Breadfruit](item)
-  # - [Sherbet](item)
-  # - [Oats](item)
-  # - [Mussels](item)
-  # - [Screwdriver](item)
-  # - [Rhubarb](item)
-  # - [Relish](item)
-  # - [Naan](item)
-  # - [Cookie](item)
-  # - [Lasagna](item)
-  # - [Cucumber](item)
-  # - [Fish](item)
-  # - [Guacamole](item)
-  # - [Fufu](item)
-  # - [Tilapia](item)
-  # - [Mushroom](item)
-  # - [Popsicle](item)
-  # - [Hominy](item)
-  # - [Knish](item)
-  # - [Grapes](item)
-  # - [Tangerine](item)
-  # - [Radicchio](item)
-  # - [Grits](item)
-  # - [Plantain](item)
-  # - [Pecans](item)
-  # - [Haupia](item)
-  # - [Porgy](item)
-  # - [Whiting](item)
-  # - [Pudding](item)
-  # - [Yam](item)
-  # - [Gnocchi](item)
-  # - [Lemonade](item)
-  # - [Perch](item)
-  # - [Creamsicle](item)
-  # - [Pepper](item)
-  # - [Vinegar](item)
 
-- intent: out_of_scope
+    version: "2.0"
+nlu:
+- intent: greet
   examples: |
-    - He didn't know where he was supposed to go for his interview.
-    - She thought she wanted to be an editor, until she got a job and realized she hated detail work.
-    - I like articles deemed fake news because they are entertaining.
-    - I couldn’t possibly love anything in the world more than I love my dog.
-    - I'm just trying to stop you from making a big mistake.
-    - Tom just got that big promotion he's been waiting for.
-    - Tom pulled out a big wad of cash out of his pocket.
-    - The church was white and brown and looked very old.
-    - We need a car big enough for the whole family.
-    - Everyone says In-N-Out is the best fast-food restaurant in the country, but honestly, I was very underwhelmed.
-    - Anticipating a cold winter, we bought a bigger stove.
-    - I was so into it, I lost track of time and missed my soccer practice.
-    - He carried the bananas in a cardboard box on his head.
-    - I put my headphones on and listened to some smooth jazz.
-    - You must know the sound of each letter in the English alphabet.
-    - She had always harbored a secret jealousy for Youtubers, even those who appeared outwardly dumb and were often mocked on Twitter.
-    - She paid over a thousand dollars a month for her tiny studio apartment, which did not have a dishwasher or consistent heating.
-    - Is there a big market for this kind of thing these days?
-    - What did the taxidermist say she'd charge you?
-    - Let's all just take a moment to breathe, please!
-    - My mom drove me to school fifteen minutes late on Tuesday.
-    - Last night there was a big fire in the neighbourhood.
-    - I'd like you to show me where the sweaters are.
-    - In city after city, big public meetings were held.
-    - A big bomb fell, and a great many people lost their lives.
-    - She bought him a camera that was too clunky to fit in his shirt pocket.
-    - My hands are too big to fit into these gloves.
-    - The door slammed down on my hand, and I screamed like a little baby.
-    - Tom just got that big promotion he's been waiting for.
-    - Be patient because I can’t do it all right now.
-    - this is a sarcastic phrase meaning that something unlucky happened.
-    - Today is the first day he made it to work on time in a while.
-    - When I went to the cabin up north, I had to bring a lot of board games to entertain myself.
-    - Those hairless cats are completely loyal to their owners.
-    - Dozens of houses were burned down in that big fire.
-    - Me and my sister don’t see each other anymore.
-    - She considered reporting her landlord for inhospitable living conditions, but she was worried they would retaliate against her.
-    - You use this when someone is very afraid or very sick.
-    - How long did you think you could get away with this?
-    - Pluto may not be a planet anymore, but it's a planet in my heart.
-    - Mary was impressed by the big organ in the church.
-    - The moms and dads all sat around drinking coffee and eating donuts.
-    - We've been making this recipe for generations.
-    - Tom works for a big advertising firm in Boston.
-    - Crime is certainly on the increase in many of our cities.
-    - I found a gold coin on the playground after school today.
-    - I studied ethics in school because everything else bored me.
-    - I think that little device on the wall is a bomb.
-    - The road to hell is paved with good intentions.
-    - You can't talk to me unless you tell me your favorite color.
-    - This is my operating room, so you all need to shut up.
-    - I wish I had met my uncle yesterday like I was supposed to.
-    - in the next 40-50 years I plan on opening up my own business.
-    - My papa once told me he wasn’t scared of dying.
-    - They hadn't updated the store's sign in decades.
-    - I'm just trying to stop you from making a big mistake.
-    - Do you think our lives will ever go back to normal?
-    - Why not go back to them and tell them you changed your mind?
-    - Did you hear about the new animal discovered in Ecuador?
-    - A billionaire doesn't know what it means to be broke.
-    - The police violently defend it.
-    - I was a baby when I was born.
-    - My shoes tie up in a bow.
-    - Thinking of the past is weird.
-    - They could be together.
-    - I want to meet his sister-in-law.
-    - I need to clean my room.
-    - This glass is breakable.
-    - They rode their bikes to the beach.
-    - I have a first name and a surname.
-    - They are so cute.
-    - She sells Christmas trees.
-    - It's hard to distinguish fake news.
-    - You need therapy.
-    - I’d like to be catcalled.
-    - Hairless cats look demonic.
-    - She hated first dates.
-    - Do you know that man with a big hat on?
-    - Land is good.
-    - Don't even look at me!
-    - I am a football fan.
-    - My brother’s dog barks a lot.
-    - I’d like to honor a person.
-    - You can either stay or leave.
-    - It was a tough time.
-    - I want to see you.
-    - I got a new cat.
-    - I put on my slippers.
-    - There used to be big trees around my house.
-    - The president gets a lot of criticism.
-    - We already know the truth.
-    - Racecar backwards is racecar.
-    - Monday was not my best day.
-    - I am so thankful for this opportunity.
-    - My water bottle is white and made of steel.
-    - The teacher tested us in English.
-    - When do they test the tornado sirens?
-    - He wears suspenders instead of a belt.
-    - How long did it take?
-    - Have you got a match?
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+- intent: name
+  examples: |
+    - My name is [Bill](name)
+    - [Alan](name)
+    - I am [Anna](name)
+- intent: help
+  examples: |
+    - I need help
+    - help
+    - I don't know what to do
+    - what next
+    - and now
+    - what to do
+    - I'm lost
+    - lost
+- intent: use_list
+  examples: |
+    - I [need](userActions) [3](amount)[eggs](item)
+    - My [salt](item) and [pepper](item) is empty
+    - [add](userActions) [4](amount)[milk](item),[butter](item) and [sage](item) to my ordering list
+    - [remove](userActions) [Cola](item) from my list
+    - [show](userActions) my shopping list
+    - [show](userActions) me the shopping list
+    - let me [see](userActions) the shopping list
+    - [show](userActions) me the list
+    - i want to [see](userActions) the list
+    - [list](userActions) all the item
+    - what's on the list?
+    - how many [apples](item) are there on the list?
+    - [add](userActions) a [apple](item) to the list
+    - [add](userActions) [four](number) [apples](item) to the shopping list
+    - i want to [buy](userActions) a [banana](item)
+    - i would like to [add](userActions) [apple](item)
+    - [insert](userActions) [banana](item) in the list
+    - [insert](userActions) [banana](item) in the shopping list
+    - remember me to [buy](userActions) some [orange](item)
+    - i want to [buy](userActions) some [banana](item)
+ - synonym: show
+    examples: |
+    - list
+    - see
+    - need
+ - synonym: add
+    examples: |
+    - insert
+    - buy
+
+- intent: amount
+  examples: |
+    - [3](amount)
+    - I want [four](amount)
+    - [add](userActions) [4](amount)[milk](items)
+    - I need [20](amount)
+    - [add](userAction) [6](amount)
+# - synonym: list
+#    examples: |
+#    - ordering list
+#    - shopping list
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+#- lookup: : actions
+#    examples: |
+#      - add
+#      - remove
+#      - show

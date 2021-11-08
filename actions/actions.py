@@ -13,11 +13,11 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import AllSlotsReset
 import spacy
-from spellchecker import SpellChecker
+#from spellchecker import SpellChecker
 
 shopping_list = {}
 nlp = spacy.load("en_core_web_md")
-spell = SpellChecker()
+#spell = SpellChecker()
 
 
 def get_word_lemma(word, debug=False):
@@ -69,7 +69,7 @@ class ActionAdd(Action):
         item = tracker.get_slot('item')
         correct, item = get_word_lemma(item,debug=True)
 
-        number_slot = tracker.get_slot('number')
+        number_slot = tracker.get_slot('amount')
         quantity = extract_number(number_slot)
         
         shopping_list[item] = shopping_list.get(item, 0) + (quantity)
@@ -90,3 +90,18 @@ class ActionList(Action):
         dispatcher.utter_message(text=str(shopping_list))
 
         return []
+
+class ActionRemove(Action):
+
+    def name(self) -> Text:
+        return "action_remove"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        item = tracker.get_slot('item')
+
+        shopping_list.remove(item)
+
+        dispatcher.utter_message(text=f"I've just removed {item} from the shopping list!")

@@ -18,30 +18,49 @@ stories:
   - action: action_add
   - action: utter_done
 
+- story: greeting
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: name
+  - action: utter_name
 
-# - story: happy path
-#   steps:
-#   - intent: greet
-#   - action: utter_greet
-#   - intent: mood_great
-#   - action: utter_happy
+- story: use_list
+  steps:
+  - intent: use_list
+  - slot_was_set:
+    - actions: add
+  - action: utter_add 
 
-# - story: sad path 1
-#   steps:
-#   - intent: greet
-#   - action: utter_greet
-#   - intent: mood_unhappy
-#   - action: utter_cheer_up
-#   - action: utter_did_that_help
-#   - intent: affirm
-#   - action: utter_happy
+- story: use_list_no_action
+  steps:
+  - intent: use_list
+  - action: utter_what_action
 
-# - story: sad path 2
-#   steps:
-#   - intent: greet
-#   - action: utter_greet
-#   - intent: mood_unhappy
-#   - action: utter_cheer_up
-#   - action: utter_did_that_help
-#   - intent: deny
-#   - action: utter_goodbye
+- story: is_amount
+  steps:
+  - intent: use_list
+  - action: utter_add
+  - slot_was_set:
+    - amount: 10
+  - action: utter_action_preformed
+
+- story: is_no_amount
+  steps:
+  - intent: use_list
+  - action: utter_add
+  - action: utter_how_many
+
+- story: what_item
+  steps:
+  - intent: use_list
+  - action: utter_add
+  - slot_was_set:
+    - items: 'egg'
+  - action: utter_action_preformed
+
+- story: no_item
+  steps:
+  - intent: use_list
+  - action: utter_add
+  - action: utter_what
