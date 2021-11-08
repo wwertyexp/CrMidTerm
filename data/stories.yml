@@ -45,3 +45,17 @@ stories:
 #   - action: utter_did_that_help
 #   - intent: deny
 #   - action: utter_goodbye
+
+- story: greeting
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: name
+  - action: utter_name
+
+- story: use_list
+  steps:
+  - intent: use_list
+  - slot_was_set:
+    - actions: add
+  - action: utter_add 

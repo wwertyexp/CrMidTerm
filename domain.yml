@@ -8,7 +8,8 @@ intents:
   - goodbye
   - help
   - bot_challenge
-
+  - greet
+  - remove_item
 entities:
   - item
   - number
@@ -16,6 +17,7 @@ entities:
 actions:
   - action_add
   - action_list
+  - action_remove
 
 slots:
   number:

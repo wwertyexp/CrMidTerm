@@ -50,6 +50,11 @@ rules:
   - action: action_add
   - action: utter_done
 
+- rule: Remove form
+  steps:
+  - intent: remove_item
+  - action: item_quantity_form
+  - active_loop: item_quantity_form
 
 - rule: Provide the user help
   steps:
