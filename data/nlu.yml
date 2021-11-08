@@ -90,9 +90,9 @@ nlu:
     - i want to buy some [banana](item)
     - i want to add some [chocolate bars](item)
     - i want to add [nine](number) [chocolate bars](item)
-    - i want to add [chocolate bars](item)
-    - i want to buy some [chocolate bars](item)
-    - i want to buy [chocolate bars](item)
+    - i want to add [chocolate bar](item)
+    - i want to buy some [chocolate banana](item)
+    - i want to buy [banana split](item)
 
 - intent: show_list
   examples: |
