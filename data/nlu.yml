@@ -78,9 +78,9 @@ nlu:
 - intent: add_item
   examples: |
     - add a [apple](item) to the list
-    - add [four](number) [apples](item) to the shopping list
+    - add [apples](item) to the shopping list
     - add a [pea soup](item) to the list
-    - add [four](number) [apples](item) to the shopping list
+    - add [apples](item) to the shopping list
     - i want to buy a [banana](item)
     - i would like to add [apple](item)
     - insert [banana](item) in the list
@@ -88,12 +88,12 @@ nlu:
     - remember me to buy some [orange](item)
     - i want to buy some [banana](item)
     - i want to add some [chocolate bars](item)
-    - i want to add [2](number) [chocolate bars](item)
-    - i want to add [2](number) [100 GRAND Bar](item)
+    - i want to add [chocolate bars](item)
+    - i want to add [100 GRAND Bar](item)
     - i want to buy some [chocolate bars](item)
     - i want to buy some [100 GRAND Bar](item)
-    - i want to buy [2](number) [chocolate bars](item)
-    - i want to buy [ten](number) [100 GRAND Bar](item)
+    - i want to buy [chocolate bars](item)
+    - i want to buy [100 GRAND Bar](item)
 
 - intent: show_list
   examples: |
