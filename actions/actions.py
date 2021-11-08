@@ -67,14 +67,19 @@ class ActionAdd(Action):
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         
         item = tracker.get_slot('item')
-        correct, item = get_word_lemma(item,debug=True)
+        items = item.split()
+        corrects_lemmas = [get_word_lemma(item,debug=True) for item in items]
+
+        lemma = ' '.join(lemma for correct, lemma in corrects_lemmas)
 
         number_slot = tracker.get_slot('number')
         quantity = extract_number(number_slot)
         
-        shopping_list[item] = shopping_list.get(item, 0) + (quantity)
+        shopping_list[lemma] = shopping_list.get(lemma, 0) + (quantity)
 
-        dispatcher.utter_message(text=f"I've just added {quantity} {correct} to the shopping list!")
+        correct_spelling = ' '.join(correct for correct, lemma in corrects_lemmas)
+        dispatcher.utter_message(
+            text=f"I've just added {quantity} {correct_spelling} to the shopping list!")
 
         return [AllSlotsReset()]
 
