@@ -14,6 +14,7 @@ pipeline:
   # - name: WhitespaceTokenizer
   - name: SpacyFeaturizer
   #- name: RegexFeaturizer
+  - name: RegexEntityExtractor
   - name: CountVectorsFeaturizer
   - name: CountVectorsFeaturizer
     analyzer: char_wb
