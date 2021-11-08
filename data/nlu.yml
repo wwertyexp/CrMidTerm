@@ -77,17 +77,19 @@ nlu:
 
 - intent: add_item
   examples: |
-    - add [apple](item) to the list
+    - add [four](number) [apple](item) to the list
+    - add [4](number) [apple](item) to the list
     - add [apples](item) to the shopping list
-    - add [pea soup](item) to the list
+    - add [one](number) [pea soup](item) to the list
     - add [apples](item) to the shopping list
-    - i want to buy [banana](item)
+    - i want to buy [one](number) [banana](item)
     - i would like to add [apple](item)
-    - insert [banana](item) in the list
+    - insert [ten](number) [banana](item) in the list
     - insert [banana](item) in the shopping list
     - remember me to buy some [orange](item)
     - i want to buy some [banana](item)
     - i want to add some [chocolate bars](item)
+    - i want to add [nine](number) [chocolate bars](item)
     - i want to add [chocolate bars](item)
     - i want to buy some [chocolate bars](item)
     - i want to buy [chocolate bars](item)
@@ -1888,7 +1890,7 @@ nlu:
     - How long did it take?
     - Have you got a match?
 
-- synonym: 1
+- synonym: '1'
   examples: |
     - a
     - an
