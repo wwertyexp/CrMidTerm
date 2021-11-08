@@ -18,6 +18,16 @@ stories:
   - action: action_add
   - action: utter_done
 
+- story: story_remove
+  steps:
+  - intent: remove_item
+  - action: remove_item_quantity_form
+  - slot_was_set:
+    - item: null
+  - slot_was_set:
+    - number: null
+  - action: action_remove
+  - action: utter_done
 
 # - story: happy path
 #   steps:
@@ -52,10 +62,3 @@ stories:
   - action: utter_greet
   - intent: name
   - action: utter_name
-
-- story: use_list
-  steps:
-  - intent: use_list
-  - slot_was_set:
-    - actions: add
-  - action: utter_add 

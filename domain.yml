@@ -10,6 +10,7 @@ intents:
   - bot_challenge
   - greet
   - remove_item
+  - name
 entities:
   - item
   - number
@@ -29,6 +30,14 @@ slots:
 
 forms:
   item_quantity_form:
+    required_slots:
+      item:
+        - type: from_entity
+          entity: item
+      number:
+        - type: from_entity
+          entity: number
+  remove_item_quantity_form:
     required_slots:
       item:
         - type: from_entity
@@ -67,6 +76,9 @@ responses:
 
   utter_help:
   - text: "You can see your shopping list, add an item to your list or remove one."
+  
+  utter_name:
+    - text: "Nice to meet you, {name}! What can I do for you?"
 
 session_config:
   session_expiration_time: 60

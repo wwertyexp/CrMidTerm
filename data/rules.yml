@@ -39,6 +39,13 @@ rules:
   - action: item_quantity_form
   - active_loop: item_quantity_form
 
+- rule: Activate form
+  steps:
+  - intent: inform
+  - action: item_quantity_form
+  - active_loop: item_quantity_form
+
+
 - rule: Submit form
   condition:
   - active_loop: item_quantity_form
@@ -53,8 +60,19 @@ rules:
 - rule: Remove form
   steps:
   - intent: remove_item
-  - action: item_quantity_form
-  - active_loop: item_quantity_form
+  - action: remove_item_quantity_form
+  - active_loop: remove_item_quantity_form
+
+- rule: Submit remove form
+  condition:
+  - active_loop: remove_item_quantity_form
+  steps:
+  - action: remove_item_quantity_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: action_remove
+  - action: utter_done
 
 - rule: Provide the user help
   steps:
