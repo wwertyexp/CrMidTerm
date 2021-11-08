@@ -77,11 +77,11 @@ nlu:
 
 - intent: add_item
   examples: |
-    - add a [apple](item) to the list
+    - add [apple](item) to the list
     - add [apples](item) to the shopping list
-    - add a [pea soup](item) to the list
+    - add [pea soup](item) to the list
     - add [apples](item) to the shopping list
-    - i want to buy a [banana](item)
+    - i want to buy [banana](item)
     - i would like to add [apple](item)
     - insert [banana](item) in the list
     - insert [banana](item) in the shopping list
