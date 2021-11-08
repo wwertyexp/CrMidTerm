@@ -17,19 +17,30 @@ nlu:
 #     - goodevening
 #     - good afternoon
 
-# - intent: goodbye
-#   examples: |
-#     - good afternoon
-#     - cu
-#     - good by
-#     - cee you later
-#     - good night
-#     - bye
-#     - goodbye
-#     - have a nice day
-#     - see you around
-#     - bye bye
-#     - see you later
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: help
+  examples: |
+    - I need help
+    - help
+    - I don't know what to do
+    - what next
+    - and now
+    - what to do
+    - I'm lost
+    - lost
 
 # - intent: affirm
 #   examples: |
@@ -50,12 +61,12 @@ nlu:
 #     - no way
 #     - not really
 
-# - intent: bot_challenge
-#   examples: |
-#     - are you a bot?
-#     - are you a human?
-#     - am I talking to a bot?
-#     - am I talking to a human?
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
 
 # - intent: thankyou
 #   examples: |

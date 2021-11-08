@@ -95,3 +95,33 @@ class ActionList(Action):
         dispatcher.utter_message(text=str(shopping_list))
 
         return []
+
+class ActionRemove(Action):
+
+    def name(self) -> Text:
+        return "action_remove"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        item = tracker.get_slot('item')
+
+        items = item.split()
+        corrects_lemmas = [get_word_lemma(item,debug=True) for item in items]
+
+        lemma = ' '.join(lemma for correct, lemma in corrects_lemmas)
+
+        number_slot = tracker.get_slot('number')
+        quantity = extract_number(number_slot)
+        
+        if  lemma in shopping_list:
+            if shopping_list.get(lemma, 0) > (quantity):
+                shopping_list[lemma] = shopping_list.get(lemma, 0) - (quantity)
+            else:
+                del(shopping_list[lemma])
+                
+        correct_spelling = ' '.join(correct for correct, lemma in corrects_lemmas)
+
+
+        dispatcher.utter_message(text=f"I've just removed {correct_spelling} from the shopping list!")
