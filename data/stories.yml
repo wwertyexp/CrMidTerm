@@ -7,7 +7,7 @@ stories:
   - intent: add_item
   - action: item_quantity_form
   - slot_was_set:
-    - item: null
+    - item_to_add: null
   - slot_was_set:
     - number: null
   - action: action_add
@@ -18,7 +18,7 @@ stories:
   - intent: remove_item
   - action: remove_item_quantity_form
   - slot_was_set:
-    - item: null
+    - item_to_remove: null
   - slot_was_set:
     - number: null
   - action: action_remove

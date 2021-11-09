@@ -25,14 +25,17 @@ slots:
   number:
     type: text
     influence_conversation: false
-  item:
+  item_to_add:
+    type: text
+    influence_conversation: false
+  item_to_remove:
     type: text
     influence_conversation: false
 
 forms:
   item_quantity_form:
     required_slots:
-      item:
+      item_to_add:
         - type: from_entity
           entity: item
       number:
@@ -40,7 +43,7 @@ forms:
           entity: number
   remove_item_quantity_form:
     required_slots:
-      item:
+      item_to_remove:
         - type: from_entity
           entity: item
       number:
@@ -67,11 +70,14 @@ responses:
   - text: Done!
  
   utter_ask_number:
-  - text: "how many {item} do you want to buy?"
+  - text: "how many of them?"
 
-  utter_ask_item:
+  utter_ask_item_to_add:
   - text: "what do you want to add to the shopping list?"
-
+  
+  utter_ask_item_to_remove:
+  - text: "what do you want to remove from the shopping list?"
+  
   utter_please_rephrase:
   - text: I'm sorry, I didn't quite understand that. Could you rephrase?
 

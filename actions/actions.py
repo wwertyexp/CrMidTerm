@@ -66,7 +66,7 @@ class ActionAdd(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         
-        item = tracker.get_slot('item')
+        item = tracker.get_slot('item_to_add')
         items = item.split()
         corrects_lemmas = [get_word_lemma(item,debug=True) for item in items]
 
@@ -105,7 +105,7 @@ class ActionRemove(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-        item = tracker.get_slot('item')
+        item = tracker.get_slot('item_to_remove')
 
         items = item.split()
         corrects_lemmas = [get_word_lemma(item,debug=True) for item in items]
