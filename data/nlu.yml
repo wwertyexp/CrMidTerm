@@ -6279,6 +6279,30 @@ nlu:
     - what's in the list?
     - how many [apples](item) are there in the list?
 
+- intent: remove_item
+  examples: |
+    - remove [one]{"entity": "number", "value": 1} [apple](item) from the list
+    - remove [a]{"entity": "number", "value": 1} [apple](item) from the list
+    - remove [an]{"entity": "number", "value": 1} [apple](item) from the list
+    - remove [four](number) [apple](item) from the list
+    - remove [4](number) [apple](item) from the list
+    - remove [apples](item) from the shopping list
+    - remove [one](number) [pea soup](item) from the list
+    - remove [apples](item) from the shopping list
+    - i want to buy [one](number) [banana](item)
+    - i would like to remove [apple](item)
+    - remove [ten](number) [banana](item) from the list
+    - remove [a]{"entity": "number", "value": 1} [banana](item) from the shopping list
+    - remove [banana](item) from the shopping list
+    - remember me to remove some [orange](item)
+    - i want to remove some [banana](item)
+    - i want to remove some [chocolate bars](item)
+    - i want to remove [nine](number) [chocolate bars](item)
+    - i want to remove [chocolate bar](item)
+    - i want to remove some [chocolate banana](item)
+    - i want to remove [banana split](item)
+    - i want to remove [an]{"entity": "number", "value": 1} [apple](item)
+
 - intent: inform
   examples: |
     - [Dumpling](item)
