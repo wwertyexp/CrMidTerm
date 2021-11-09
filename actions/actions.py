@@ -109,8 +109,8 @@ class ActionList(Action):
             else:
                 text = f'There are {shopping_list[lemma]} {correction} in the list.'
         else:
-                text = 'Shopping list:\n'+'\n'.join(
-                    f'{key}: {shopping_list[key]}' for key in sorted(shopping_list))
+            text = 'Shopping list:\n'+'\n'.join(
+                f'{key}: {shopping_list[key]}' for key in sorted(shopping_list))
 
         dispatcher.utter_message(text=text)
 

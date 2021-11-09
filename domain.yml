@@ -21,6 +21,7 @@ actions:
   - action_add
   - action_list
   - action_remove
+  - action_destroy_list
   - validate_item_quantity_form # validate user input to add elements
 
 slots:
