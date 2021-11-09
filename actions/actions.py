@@ -128,7 +128,7 @@ class ActionRemove(Action):
             else:
                 del(shopping_list[lemma])
                 
-        correct_spelling = ' '.join(correct for correct, lemma in corrects_lemmas)
+        correct_spelling = ' '.join(lemma for correct, lemma in corrects_lemmas)
 
         if quantity==float('inf'): quantity = 'every'
         dispatcher.utter_message(text=f"I've just removed {quantity} {correct_spelling} from the shopping list!")
