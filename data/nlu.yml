@@ -1,79 +1,59 @@
 version: "2.0"
 
 nlu:
-# - intent: greet
-#   examples: |
-#     - hey
-#     - hello
-#     - hi
-#     - hello there
-#     - good morning
-#     - good evening
-#     - moin
-#     - hey there
-#     - let's go
-#     - hey dude
-#     - goodmorning
-#     - goodevening
-#     - good afternoon
 
-# - intent: goodbye
+# - intent: say_name
 #   examples: |
-#     - good afternoon
-#     - cu
-#     - good by
-#     - cee you later
-#     - good night
-#     - bye
-#     - goodbye
-#     - have a nice day
-#     - see you around
-#     - bye bye
-#     - see you later
+#     - My name is [Bill](name)
+#     - [Alan](name)
+#     - I am [Anna](name)
 
-# - intent: affirm
-#   examples: |
-#     - yes
-#     - y
-#     - indeed
-#     - of course
-#     - that sounds good
-#     - correct
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
 
-# - intent: deny
-#   examples: |
-#     - no
-#     - n
-#     - never
-#     - I don't think so
-#     - don't like that
-#     - no way
-#     - not really
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
 
-# - intent: bot_challenge
-#   examples: |
-#     - are you a bot?
-#     - are you a human?
-#     - am I talking to a bot?
-#     - am I talking to a human?
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
 
-# - intent: thankyou
-#   examples: |
-#     - Thanks
-#     - Thank you
-#     - Thank you so much
-#     - Thanks bot
-#     - Thanks for that
-#     - cheers
-#     - cheers bro
-#     - ok thanks!
-#     - perfect thank you
-#     - thanks a bunch for everything
-#     - thanks for the help
-#     - thanks a lot
-#     - amazing, thanks
-#     - cool, thanks
-#     - cool thank you
+- intent: help
+  examples: |
+    - I need help
+    - help
+    - I don't know what to do
+    - what next
+    - and now
+    - what to do
+    - I'm lost
+    - lost
 
 - intent: add_item
   examples: |
@@ -6289,7 +6269,6 @@ nlu:
     - insert [tomato chili sauce](item) in the shopping list
     - i want to add some [tomato chili sauce](item)
 
-
 - intent: show_list
   examples: |
     - show me the shopping list
@@ -7984,6 +7963,7 @@ nlu:
     - [Chicken stick](item)
     - [Paella with seafood](item)
     - [Wonton](item)
+
 - intent: out_of_scope
   examples: |
     - He didn't know where he was supposed to go for his interview.

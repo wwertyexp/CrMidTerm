@@ -5,6 +5,12 @@ intents:
   - inform
   - show_list
   - out_of_scope
+  - goodbye
+  - help
+  - bot_challenge
+  - greet
+  - remove_item
+  # - name
 
 entities:
   - item
@@ -13,6 +19,7 @@ entities:
 actions:
   - action_add
   - action_list
+  - action_remove
 
 slots:
   number:
@@ -31,26 +38,26 @@ forms:
       number:
         - type: from_entity
           entity: number
+  remove_item_quantity_form:
+    required_slots:
+      item:
+        - type: from_entity
+          entity: item
+      number:
+        - type: from_entity
+          entity: number
 
 responses:
   utter_greet:
   - text: "Hey! How are you?"
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great, carry on!"
-
   utter_goodbye:
   - text: "Bye"
-
+  - text: "I hope I could help you! Thanks for working with me."
+  
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+  - text: "I am ShoLiBo, a SHOpping LIst BOt, designed by ..."
 
   utter_noworries:
   - text: "My pleasure."
@@ -67,6 +74,12 @@ responses:
 
   utter_please_rephrase:
   - text: I'm sorry, I didn't quite understand that. Could you rephrase?
+
+  utter_help:
+  - text: "You can see your shopping list, add an item to your list or remove one."
+  
+  # utter_name:
+  #   - text: "Nice to meet you, {name}! What can I do for you?"
 
 session_config:
   session_expiration_time: 60
