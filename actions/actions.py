@@ -97,11 +97,25 @@ class ActionList(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         
-        text='\n'.join(f'{key}: {shopping_list[key]}' for key in sorted(shopping_list))
+        item = next(tracker.get_latest_entity_values('item'), None)
+        if item is not None:
+            items = item.split()
+            corrects_lemmas = [get_word_lemma(item,debug=True) for item in items]
+            lemma = ' '.join(lemma for correct, lemma in corrects_lemmas)
+            correction = ' '.join(correct for correct, lemma in corrects_lemmas)
+            if lemma not in shopping_list:
+                text = 'Shopping list:\n'+'\n'.join(
+                    f'{key}: {shopping_list[key]}' for key in sorted(shopping_list))
+            else:
+                text = f'There are {shopping_list[lemma]} {correction} in the list.'
+        else:
+                text = 'Shopping list:\n'+'\n'.join(
+                    f'{key}: {shopping_list[key]}' for key in sorted(shopping_list))
 
         dispatcher.utter_message(text=text)
 
-        return []
+        return [AllSlotsReset()]
+
 
 class ActionRemove(Action):
 
@@ -121,20 +135,24 @@ class ActionRemove(Action):
         number_slot = tracker.get_slot('number')
         quantity = extract_number(number_slot)
         if quantity <0: quantity = float('inf')
+        
+        correct_spelling = ' '.join(lemma for correct, lemma in corrects_lemmas)
 
         if  lemma in shopping_list:
             if shopping_list.get(lemma, 0) > (quantity):
                 shopping_list[lemma] = shopping_list.get(lemma, 0) - (quantity)
             else:
                 del(shopping_list[lemma])
-                
-        correct_spelling = ' '.join(lemma for correct, lemma in corrects_lemmas)
+            
+            if quantity==float('inf'): quantity = 'every'
+            dispatcher.utter_message(text=f"I've just removed {quantity} {correct_spelling} from the shopping list!")
+        else:
+            dispatcher.utter_message(text=f"There are no {correct_spelling} in the shopping list!")
 
-        if quantity==float('inf'): quantity = 'every'
-        dispatcher.utter_message(text=f"I've just removed {quantity} {correct_spelling} from the shopping list!")
         return [AllSlotsReset()]
 
 class ValidateAddItemForm(FormValidationAction):
+
     def name(self):
         return 'validate_item_quantity_form'
     
@@ -151,3 +169,15 @@ class ValidateAddItemForm(FormValidationAction):
             dispatcher.utter_message(text="Sorry, I didn't get that.")
             return {'number':None}
         return {'number':slot_value}
+
+class ActionDestoryList(Action):
+
+    def name(self) -> Text:
+        return "action_destroy_list"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+            shopping_list.clear()
+            dispatcher.utter_message(text="Your list is empty now.")

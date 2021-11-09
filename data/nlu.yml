@@ -5347,3 +5347,20 @@ nlu:
     - He wears suspenders instead of a belt.
     - How long did it take?
     - Have you got a match?
+
+
+- intent: remove_all
+  examples: |
+    - remove all from the list
+    - remove all items from the list
+    - remove all items 
+    - clear the list
+    - delete all the products
+    - cancel the lit
+    - reset the list
+    - ignore the list
+    - reinitialize the list
+    - delete every element from the list
+    - cancel each element
+    - destroy the list
+    - cancel everything

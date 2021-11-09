@@ -10,6 +10,7 @@ intents:
   - bot_challenge
   - greet
   - remove_item
+  - remove_all
   # - name
 
 entities:

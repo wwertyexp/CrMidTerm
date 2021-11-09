@@ -33,6 +33,11 @@ rules:
   - intent: show_list
   - action: action_list
 
+- rule: destroy the shopping list
+  steps:
+  - intent: remove_all
+  - action: action_destroy_list
+
 - rule: Activate form
   steps:
   - intent: add_item
