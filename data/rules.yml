@@ -54,7 +54,6 @@ rules:
   - slot_was_set:
     - requested_slot: null
   - action: action_add
-  - action: utter_done
 
 - rule: Remove form
   steps:
@@ -71,7 +70,6 @@ rules:
   - slot_was_set:
     - requested_slot: null
   - action: action_remove
-  - action: utter_done
 
 - rule: Provide the user help
   steps:

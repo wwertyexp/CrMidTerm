@@ -20,6 +20,7 @@ actions:
   - action_add
   - action_list
   - action_remove
+  - validate_item_quantity_form # validate user input to add elements
 
 slots:
   number:
@@ -66,8 +67,7 @@ responses:
   - text: "My pleasure."
   - text: "You are welcome!"
 
-  utter_done:
-  - text: Done!
+
  
   utter_ask_number:
   - text: "how many of them?"
