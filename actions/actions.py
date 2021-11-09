@@ -125,3 +125,4 @@ class ActionRemove(Action):
 
 
         dispatcher.utter_message(text=f"I've just removed {correct_spelling} from the shopping list!")
+        return [AllSlotsReset()]
