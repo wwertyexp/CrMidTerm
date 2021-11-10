@@ -2,65 +2,36 @@ version: "2.0"
 
 stories:
 
-# - story: story_thankyou
-#   steps:
-#   - intent: thankyou
-#   - action: utter_noworries
-
 - story: story_add
   steps:
   - intent: add_item
   - action: item_quantity_form
   - slot_was_set:
-    - item: null
+    - item_to_add: null
   - slot_was_set:
     - number: null
   - action: action_add
-  - action: utter_done
 
-- story: greeting
+- story: story_remove
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: name
-  - action: utter_name
-
-- story: use_list
-  steps:
-  - intent: use_list
+  - intent: remove_item
+  - action: remove_item_quantity_form
   - slot_was_set:
-    - actions: add
-  - action: utter_add 
-
-- story: use_list_no_action
-  steps:
-  - intent: use_list
-  - action: utter_what_action
-
-- story: is_amount
-  steps:
-  - intent: use_list
-  - action: utter_add
+    - item_to_remove: null
   - slot_was_set:
-    - amount: 10
-  - action: utter_action_preformed
+    - number: null
+  - action: action_remove
 
-- story: is_no_amount
+- story: story_remove_all
   steps:
-  - intent: use_list
-  - action: utter_add
-  - action: utter_how_many
+  - intent: remove_all
+  - action: utter_confirmation_ask
+  - intent: affirm
+  - action: action_destroy_list
 
-- story: what_item
-  steps:
-  - intent: use_list
-  - action: utter_add
-  - slot_was_set:
-    - items: 'egg'
-  - action: utter_action_preformed
-
-- story: no_item
-  steps:
-  - intent: use_list
-  - action: utter_add
-  - action: utter_what
+# - story: greeting
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: name
+#   - action: utter_name

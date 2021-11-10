@@ -5,15 +5,15 @@ intents:
   - inform
   - show_list
   - out_of_scope
-  - greet
   - goodbye
+  - help
+  - bot_challenge
+  - greet
+  - remove_item
+  - remove_all
+  # - name
   - affirm
   - deny
-  - name
-  - help
-  - use_list
-  - bot_challenge
-  - thank_you
 
 entities:
   - item
@@ -22,19 +22,33 @@ entities:
 actions:
   - action_add
   - action_list
-
+  - action_remove
+  - action_destroy_list
+  - validate_item_quantity_form # validate user input to add elements
+  
 slots:
   number:
     type: text
     influence_conversation: false
-  item:
+  item_to_add:
+    type: text
+    influence_conversation: false
+  item_to_remove:
     type: text
     influence_conversation: false
 
 forms:
   item_quantity_form:
     required_slots:
-      item:
+      item_to_add:
+        - type: from_entity
+          entity: item
+      number:
+        - type: from_entity
+          entity: number
+  remove_item_quantity_form:
+    required_slots:
+      item_to_remove:
         - type: from_entity
           entity: item
       number:
@@ -42,92 +56,42 @@ forms:
           entity: number
 
 responses:
-
-  utter_did_that_help:
-  - text: "Did that help you?"
+  utter_greet:
+  - text: "Hey! How are you?"
 
   utter_goodbye:
   - text: "Bye"
+  - text: "I hope I could help you! Thanks for working with me."
+  
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+  - text: "I am ShoLiBo, a SHOpping LIst BOt, designed by ..."
 
   utter_noworries:
   - text: "My pleasure."
   - text: "You are welcome!"
 
-  utter_done:
-  - text: Done!
+  utter_confirmation_ask:
+  - text: "Are you sure you want to delete all the items in the shopping list?"
+
  
   utter_ask_number:
-  - text: "how many {item} do you want to buy?"
+  - text: "how many of them?"
 
-  utter_ask_item:
+  utter_ask_item_to_add:
   - text: "what do you want to add to the shopping list?"
-
+  
+  utter_ask_item_to_remove:
+  - text: "what do you want to remove from the shopping list?"
+  
   utter_please_rephrase:
   - text: I'm sorry, I didn't quite understand that. Could you rephrase?
 
-  utter_greet:
-  - text: "Hey, my name is ShoLiBo! What is your name?"
-  - text: "Hello, mein name is ShoLiBo! Let's get started. But first I need your name."
-
-  utter_name:
-  - text: "Nice to meet you, {name}! What can I do for you?"
-
   utter_help:
   - text: "You can see your shopping list, add an item to your list or remove one."
-
-  utter_add:
-  - text: "Which item do you want to add?"
-
-  utter_remove:
-  - text: "Which item do you want to remove?"
-
-  utter_show_list:
-  - text: "Sure, here ist your shopping list: {items}"
-
-  utter_action_preformed:
-  - text: "I have {userActions} {amount} on your shopping list"
-
-  utter_how_many:
-  - text: "Please telle me, how many {item} do you want to {userActions}"
-
-  utter_what:
-  - text: "What item would you like to {userActions}"
-
-  utter_what_action:
-  - text: "Do you want to add or remove something or shell I show you your shopping list?"
-
-  utter_goodbye:
-  - text: "I hope I could help you! Thanks for working with me."
-
-  utter_iamabot:
-  - text: "I am ShoLiBo, a SHOpping LIst BOt, desinged by ..."
-
-  utter_default:
-  - text: "I'm not able to do this at the momant. I'm sorry but you might want to try: - Add an item to your List, - Remove an item from your List, - Have a look at your List"
-
-enterties:
-  - userActions
-  - item
-  - name
-  - amount
-
-slots:
-  name:
-    type: text
-    influence_conversation: false
-  userActions:
-    type: categorical
-    values:
-      - add
-      - remove
-      - show
-  items:
-    type: list
-    influence_conversation: true
-  amount:
-    type: float
-    min_value: 0
-    max_value: 100    
+  
+  # utter_name:
+  #   - text: "Nice to meet you, {name}! What can I do for you?"
 
 session_config:
   session_expiration_time: 60

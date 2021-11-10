@@ -1,0 +1,1294 @@
+    - add [an]{"entity": "number", "value": 1} [breakfast pastry](item) to the shoppint list
+    - i desire [breakfast pastry](item)
+    - i would like to add some [mixed salad greens](item) to the lits
+    - remember me to buy some [fourteen](number) [mixed salad greens](item)
+    - add [31](number) [pears](item) to the lis
+    - insert [twenty-two](number) [pears](item)
+    - remember me to buy some [an]{"entity": "number", "value": 1} [pears](item)
+    - i would like to add some [breadfruit](item) to the lis
+    - i want to add [a]{"entity": "number", "value": 1} [breadfruit](item)
+    - i want to add [one]{"entity": "number", "value": 1} [brandy and cola](item)
+    - i want to buy [fifteen](number) [brandy and cola](item)
+    - i desire [54](number) [corn dog](item)
+    - i want to add some [corn dog](item)
+    - add [one]{"entity": "number", "value": 1} [corn dog](item) to the shoppint lits
+    - add [a]{"entity": "number", "value": 1} [fried cauliflower](item) to the list
+    - i wish [fried cauliflower](item)
+    - remember me to buy some [gimlet](item)
+    - insert [gimlet](item) in the lis
+    - i desire [an]{"entity": "number", "value": 1} [gimlet](item)
+    - add [an]{"entity": "number", "value": 1} [anisette toast](item) to the list
+    - remember me to buy some [a]{"entity": "number", "value": 1} [anisette toast](item)
+    - i would like to add [eleven](number) [pork sausage](item) to the list
+    - i want [pork sausage](item)
+    - i desire [7](number) [gumbo](item)
+    - insert [gumbo](item) in the list
+    - insert [one]{"entity": "number", "value": 1} [gumbo](item) in the lis
+    - insert [lychee](item) in the list
+    - add [twenty-nine](number) [lychee](item) to the shoppint list
+    - i want to add some [lychee](item) to the lits
+    - i want to add some [prunes](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [prunes](item)
+    - add [prunes](item) to the list
+    - i want to buy [twelve](number) [milk](item)
+    - insert [milk](item) in the list
+    - i want to buy [25](number) [broccoli slaw salad](item)
+    - add [a]{"entity": "number", "value": 1} [broccoli slaw salad](item) to the list
+    - i want to add some [tom collins](item) to the list
+    - i want [92](number) [tom collins](item)
+    - insert [an]{"entity": "number", "value": 1} [vegetables](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [vegetables](item)
+    - add [69](number) [vegetables](item) to the list
+    - remember me to buy some [sambar](item)
+    - add [83](number) [sambar](item) to the shoppint list
+    - i want [sambar](item)
+    - i would like to add some [cassava pasteles](item) to the list
+    - insert [an]{"entity": "number", "value": 1} [cassava pasteles](item) in the ist
+    - i want to buy [six](number) [cassava pasteles](item)
+    - insert [twenty-one](number) [beef wellington](item)
+    - remember me to buy some [beef wellington](item)
+    - i wish [quesadilla](item)
+    - i want to add [22](number) [quesadilla](item)
+    - i desire [fruit mixture](item)
+    - i want [fruit mixture](item)
+    - i want to add some [fruit mixture](item) to the list
+    - remember me to buy some [strawberry drink syrup](item)
+    - i want [an]{"entity": "number", "value": 1} [strawberry drink syrup](item)
+    - remember me to buy some [thirty-one](number) [beef jerky](item)
+    - i want [one]{"entity": "number", "value": 1} [beef jerky](item)
+    - i want to buy [an]{"entity": "number", "value": 1} [beef jerky](item)
+    - add [one]{"entity": "number", "value": 1} [vegetable smoothie](item) to the list
+    - i want to add some [vegetable smoothie](item)
+    - i would like to add [a]{"entity": "number", "value": 1} [biscuit](item) to the list
+    - add [three](number) [biscuit](item) to the shoppint list
+    - insert [54](number) [biscuit](item) in the ist
+    - i want to add [eight](number) [chicken barbecue sandwich](item)
+    - add [chicken barbecue sandwich](item) to the list
+    - add [a]{"entity": "number", "value": 1} [chicken barbecue sandwich](item) to the shoppint list
+    - i want to add [an]{"entity": "number", "value": 1} [apple pie filling](item)
+    - i wish [90](number) [apple pie filling](item)
+    - i would like to add some [apple pie filling](item) to the list
+    - add [jai](item) to the list
+    - insert [jai](item) in the ist
+    - i want to add some [meatball soup](item) to the lits
+    - add [meatball soup](item) to the list
+    - i would like to add [one]{"entity": "number", "value": 1} [meatball soup](item) to the list
+    - remember me to buy some [44](number) [tuna salad](item)
+    - i would like to add [a]{"entity": "number", "value": 1} [tuna salad](item) to the list
+    - i wish [one]{"entity": "number", "value": 1} [tuna salad](item)
+    - insert [goat's milk](item) in the shopping list
+    - i want to add some [goat's milk](item)
+    - i want to buy [an]{"entity": "number", "value": 1} [goat's milk](item)
+    - i want to add [one]{"entity": "number", "value": 1} [safflower oil](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [safflower oil](item)
+    - i want to add some [orange-apple-banana juice](item)
+    - i want [orange-apple-banana juice](item)
+    - insert [macadamia nuts](item) in the list
+    - i would like to add some [macadamia nuts](item) to the list
+    - i want to buy [three](number) [rice cake](item)
+    - insert [an]{"entity": "number", "value": 1} [rice cake](item) in the list
+    - i would like to add [one]{"entity": "number", "value": 1} [rice cake](item) to the list
+    - i would like to add some [dessert sauce](item) to the list
+    - i want [12](number) [dessert sauce](item)
+    - i desire [pork skin](item)
+    - i wish [20](number) [pork skin](item)
+    - i want [pork skin](item)
+    - remember me to buy some [an]{"entity": "number", "value": 1} [biryani with chicken](item)
+    - i want to buy [one]{"entity": "number", "value": 1} [biryani with chicken](item)
+    - i want [asparagus](item)
+    - remember me to buy some [asparagus](item)
+    - i would like to add some [turkey stick](item) to the list
+    - i want to add [an]{"entity": "number", "value": 1} [turkey stick](item)
+    - i want to add some [turkey stick](item)
+    - i would like to add [an]{"entity": "number", "value": 1} [soft drink](item) to the list
+    - i want to add some [soft drink](item) to the list
+    - i want to add [one]{"entity": "number", "value": 1} [soft drink](item)
+    - i desire [50](number) [finger foods](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [finger foods](item)
+    - i want to buy [an]{"entity": "number", "value": 1} [finger foods](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [shrimp](item)
+    - i want to add some [shrimp](item) to the list
+    - i want to buy [seven](number) [beer cheese soup](item)
+    - add [55](number) [beer cheese soup](item) to the shoppint lits
+    - i wish [an]{"entity": "number", "value": 1} [beer cheese soup](item)
+    - remember me to buy some [cereal (kellogg's crispix)](item)
+    - i desire [47](number) [cereal (kellogg's crispix)](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [goose](item)
+    - i wish [eleven](number) [goose](item)
+    - insert [goose](item) in the shopping list
+    - insert [an]{"entity": "number", "value": 1} [strawberry juice](item) in the list
+    - i want to add some [strawberry juice](item)
+    - i would like to add [34](number) [sushi roll tuna](item) to the lis
+    - i want to add some [sushi roll tuna](item) to the list
+    - i want to add some [sushi roll tuna](item) to the list
+    - add [one]{"entity": "number", "value": 1} [meat](item) to the lis
+    - i want to add some [meat](item) to the list
+    - add [a]{"entity": "number", "value": 1} [meat](item) to the shoppint lits
+    - add [pistachio nuts](item) to the list
+    - i want to buy [twenty-seven](number) [pistachio nuts](item)
+    - i want to add some [vegetable dip](item) to the list
+    - insert [17](number) [vegetable dip](item)
+    - insert [one]{"entity": "number", "value": 1} [vegetable dip](item) in the list
+    - i want to add [9](number) [pralines](item)
+    - i desire [pralines](item)
+    - insert [pralines](item) in the shopping list
+    - insert [butterscotch morsels](item) in the list
+    - i want to add some [butterscotch morsels](item)
+    - add [butterscotch morsels](item) to the list
+    - i wish [cobb salad](item)
+    - i wish [an]{"entity": "number", "value": 1} [cobb salad](item)
+    - add [69](number) [lomi salmon](item) to the shoppint list
+    - i wish [lomi salmon](item)
+    - insert [twenty-five](number) [lomi salmon](item)
+    - add [pimiento](item) to the list
+    - add [one]{"entity": "number", "value": 1} [pimiento](item) to the list
+    - i want to add some [pimiento](item)
+    - i wish [a]{"entity": "number", "value": 1} [reese's sticks](item)
+    - insert [an]{"entity": "number", "value": 1} [reese's sticks](item)
+    - insert [fifteen](number) [reese's sticks](item)
+    - insert [four](number) [frozen daiquiri](item) in the list
+    - i would like to add some [frozen daiquiri](item) to the list
+    - i desire [52](number) [frozen daiquiri](item)
+    - i want [an]{"entity": "number", "value": 1} [golden cadillac](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [golden cadillac](item)
+    - add [thirteen](number) [barley soup](item) to the list
+    - insert [58](number) [barley soup](item) in the list
+    - i wish [barley soup](item)
+    - insert [nutritional powder mix](item) in the list
+    - i want to add some [nutritional powder mix](item) to the list
+    - i want [nutritional powder mix](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [beer](item)
+    - i desire [beer](item)
+    - remember me to buy some [beer](item)
+    - remember me to buy some [mortadella](item)
+    - add [mortadella](item) to the list
+    - i want to add some [mortadella](item)
+    - i want to add some [pea soup](item) to the list
+    - i want [thirteen](number) [pea soup](item)
+    - i want to buy [one]{"entity": "number", "value": 1} [pea soup](item)
+    - insert [one]{"entity": "number", "value": 1} [broccoflower](item) in the ist
+    - i desire [a]{"entity": "number", "value": 1} [broccoflower](item)
+    - insert [broccoflower](item) in the shopping lits
+    - i want to add [89](number) [stewed pig's feet](item)
+    - i would like to add some [stewed pig's feet](item) to the list
+    - insert [beef dumpling soup](item) in the shopping ist
+    - i would like to add [15](number) [beef dumpling soup](item) to the list
+    - i want to add [twenty](number) [beef dumpling soup](item)
+    - i want to buy [an]{"entity": "number", "value": 1} [toblerone](item)
+    - i want to add some [toblerone](item)
+    - insert [vegetable tempura](item) in the list
+    - i wish [an]{"entity": "number", "value": 1} [vegetable tempura](item)
+    - i want to add [twelve](number) [vegetable tempura](item)
+    - insert [a]{"entity": "number", "value": 1} [rice cereal](item)
+    - insert [rice cereal](item) in the shopping list
+    - i wish [mint julep](item)
+    - insert [mint julep](item) in the lits
+    - i desire [a]{"entity": "number", "value": 1} [parsley](item)
+    - i would like to add some [parsley](item) to the list
+    - remember me to buy some [soy sauce](item)
+    - add [soy sauce](item) to the list
+    - add [a]{"entity": "number", "value": 1} [halvah](item) to the shoppint list
+    - add [halvah](item) to the list
+    - i would like to add some [halvah](item) to the list
+    - insert [stewed codfish](item) in the shopping list
+    - i wish [24](number) [stewed codfish](item)
+    - i desire [stewed codfish](item)
+    - i desire [one]{"entity": "number", "value": 1} [fish chowder](item)
+    - add [an]{"entity": "number", "value": 1} [fish chowder](item) to the shoppint list
+    - add [a]{"entity": "number", "value": 1} [chipotle dip](item) to the shoppint list
+    - insert [chipotle dip](item) in the shopping list
+    - i would like to add some [chipotle dip](item) to the list
+    - insert [crab imperial](item) in the lits
+    - i want [crab imperial](item)
+    - insert [stewed variety meats](item) in the shopping list
+    - add [fourteen](number) [stewed variety meats](item) to the shoppint list
+    - i desire [stewed variety meats](item)
+    - i want to add some [crab cake](item)
+    - i wish [crab cake](item)
+    - i want to add [33](number) [oatmeal cereal](item)
+    - i want to add [an]{"entity": "number", "value": 1} [oatmeal cereal](item)
+    - add [a]{"entity": "number", "value": 1} [oatmeal cereal](item) to the shoppint list
+    - i desire [flaxseed oil](item)
+    - insert [flaxseed oil](item) in the shopping list
+    - insert [flaxseed oil](item) in the list
+    - i desire [sloe gin fizz](item)
+    - i desire [sloe gin fizz](item)
+    - i wish [one]{"entity": "number", "value": 1} [sloe gin fizz](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [quinoa](item)
+    - i want to buy [eleven](number) [quinoa](item)
+    - i would like to add some [quinoa](item) to the list
+    - remember me to buy some [corn](item)
+    - add [77](number) [corn](item) to the shoppint ist
+    - i want [nineteen](number) [kidney](item)
+    - add [23](number) [kidney](item) to the list
+    - i want to add some [fried broccoli](item) to the list
+    - i desire [a]{"entity": "number", "value": 1} [fried broccoli](item)
+    - i would like to add some [crab](item) to the list
+    - remember me to buy some [four](number) [crab](item)
+    - i desire [bird's nest soup](item)
+    - insert [72](number) [bird's nest soup](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [pork ears](item)
+    - i want to buy [three](number) [pork ears](item)
+    - i desire [refried beans](item)
+    - i want to add some [refried beans](item) to the list
+    - insert [refried beans](item) in the list
+    - add [one]{"entity": "number", "value": 1} [kishke](item) to the list
+    - i want to add some [kishke](item) to the list
+    - i want to add some [beef short ribs](item) to the lis
+    - i want to add some [beef short ribs](item)
+    - i wish [a]{"entity": "number", "value": 1} [romaine lettuce](item)
+    - insert [one]{"entity": "number", "value": 1} [romaine lettuce](item) in the list
+    - i would like to add [a]{"entity": "number", "value": 1} [garlic bread](item) to the list
+    - i want to add [an]{"entity": "number", "value": 1} [garlic bread](item)
+    - i want to add [one]{"entity": "number", "value": 1} [garlic bread](item)
+    - i would like to add some [sesame seeds](item) to the lis
+    - i wish [sesame seeds](item)
+    - i would like to add some [salsify](item) to the list
+    - i wish [74](number) [salsify](item)
+    - remember me to buy some [an]{"entity": "number", "value": 1} [creme brulee](item)
+    - i desire [creme brulee](item)
+    - i want [a]{"entity": "number", "value": 1} [multigrain](item)
+    - i desire [44](number) [multigrain](item)
+    - remember me to buy some [twenty-nine](number) [multigrain](item)
+    - i would like to add [96](number) [beaver](item) to the list
+    - i want [beaver](item)
+    - insert [a]{"entity": "number", "value": 1} [beaver](item) in the list
+    - remember me to buy some [one]{"entity": "number", "value": 1} [mung beans](item)
+    - i want [mung beans](item)
+    - i would like to add some [mung beans](item) to the list
+    - i want to add [an]{"entity": "number", "value": 1} [almond chicken](item)
+    - i want to add some [almond chicken](item)
+    - insert [nineteen](number) [stewed corned beef](item)
+    - insert [57](number) [stewed corned beef](item) in the list
+    - i would like to add some [stewed corned beef](item) to the list
+    - remember me to buy some [cherry pie filling](item)
+    - i want [cherry pie filling](item)
+    - remember me to buy some [cherry pie filling](item)
+    - add [five](number) [sun-dried tomatoes](item) to the list
+    - remember me to buy some [one]{"entity": "number", "value": 1} [sun-dried tomatoes](item)
+    - i want to add some [sun-dried tomatoes](item) to the list
+    - add [mullet](item) to the list
+    - i wish [56](number) [mullet](item)
+    - add [48](number) [broccoli cheese soup](item) to the shoppint list
+    - remember me to buy some [twenty-two](number) [broccoli cheese soup](item)
+    - insert [one]{"entity": "number", "value": 1} [peppers](item) in the list
+    - i desire [peppers](item)
+    - i wish [eight](number) [carrots](item)
+    - i want to buy [29](number) [carrots](item)
+    - i want to add [one]{"entity": "number", "value": 1} [beef and noodles](item)
+    - i want to buy [100](number) [beef and noodles](item)
+    - i want to add [a]{"entity": "number", "value": 1} [beef and noodles](item)
+    - add [fruit smoothie](item) to the list
+    - i want [fruit smoothie](item)
+    - i want [thirty-one](number) [fruit smoothie](item)
+    - insert [100 grand bar](item) in the shopping list
+    - i want [100 grand bar](item)
+    - i would like to add some [vegetarian stroganoff](item) to the list
+    - add [8](number) [vegetarian stroganoff](item) to the shoppint list
+    - insert [an]{"entity": "number", "value": 1} [vegetarian stroganoff](item)
+    - i desire [a]{"entity": "number", "value": 1} [lime juice](item)
+    - insert [lime juice](item) in the list
+    - i wish [sports drink](item)
+    - i want to add some [sports drink](item) to the lits
+    - i would like to add [46](number) [salsa](item) to the list
+    - i want to add some [salsa](item)
+    - i want to buy [an]{"entity": "number", "value": 1} [wheat germ oil](item)
+    - i would like to add some [wheat germ oil](item) to the list
+    - remember me to buy some [wheat germ oil](item)
+    - add [a]{"entity": "number", "value": 1} [blueberry syrup](item) to the shoppint list
+    - i desire [one]{"entity": "number", "value": 1} [blueberry syrup](item)
+    - insert [black bean sauce](item) in the list
+    - add [black bean sauce](item) to the list
+    - i desire [a]{"entity": "number", "value": 1} [meat sticks](item)
+    - i want [one]{"entity": "number", "value": 1} [meat sticks](item)
+    - i want [98](number) [meat sticks](item)
+    - i want to add some [blueberries](item)
+    - i desire [an]{"entity": "number", "value": 1} [blueberries](item)
+    - i desire [a]{"entity": "number", "value": 1} [blueberries](item)
+    - add [seventeen](number) [ratatouille](item) to the shoppint list
+    - insert [a]{"entity": "number", "value": 1} [ratatouille](item) in the ist
+    - i want to add [one]{"entity": "number", "value": 1} [apples and chicken](item)
+    - i want [twenty-three](number) [apples and chicken](item)
+    - i wish [80](number) [apples and chicken](item)
+    - i want [beef rice soup](item)
+    - remember me to buy some [beef rice soup](item)
+    - insert [wine cooler](item) in the shopping list
+    - i want to add some [wine cooler](item) to the list
+    - i want to add some [wine cooler](item)
+    - remember me to buy some [fish sandwich](item)
+    - i desire [an]{"entity": "number", "value": 1} [fish sandwich](item)
+    - i would like to add some [fish sandwich](item) to the list
+    - insert [a]{"entity": "number", "value": 1} [bread](item)
+    - i would like to add some [bread](item) to the list
+    - remember me to buy some [one]{"entity": "number", "value": 1} [bread](item)
+    - i want to add some [tamale](item) to the list
+    - i would like to add some [tamale](item) to the list
+    - i want to buy [three](number) [ham or pork](item)
+    - insert [ham or pork](item) in the list
+    - i want to add some [ham or pork](item)
+    - i want to add [15](number) [mustard](item)
+    - i want to add [an]{"entity": "number", "value": 1} [mustard](item)
+    - add [one]{"entity": "number", "value": 1} [vegetable beef soup](item) to the shoppint list
+    - i wish [vegetable beef soup](item)
+    - i would like to add some [ground hog](item) to the lits
+    - remember me to buy some [ground hog](item)
+    - insert [one]{"entity": "number", "value": 1} [fried bread](item)
+    - i want to add some [fried bread](item) to the list
+    - i want to add some [fried bread](item)
+    - i want [general tso chicken](item)
+    - i want to add some [general tso chicken](item) to the list
+    - add [one]{"entity": "number", "value": 1} [general tso chicken](item) to the lits
+    - add [crepe](item) to the list
+    - remember me to buy some [nineteen](number) [crepe](item)
+    - add [a]{"entity": "number", "value": 1} [crepe](item) to the shoppint ist
+    - remember me to buy some [goat head](item)
+    - insert [a]{"entity": "number", "value": 1} [goat head](item)
+    - i want [an]{"entity": "number", "value": 1} [goat head](item)
+    - add [a]{"entity": "number", "value": 1} [cookie](item) to the list
+    - i desire [cookie](item)
+    - add [cookie](item) to the list
+    - insert [ham and noodles](item) in the list
+    - i desire [an]{"entity": "number", "value": 1} [ham and noodles](item)
+    - i want to add some [squirrel](item) to the list
+    - remember me to buy some [34](number) [squirrel](item)
+    - add [one]{"entity": "number", "value": 1} [squirrel](item) to the shoppint list
+    - insert [86](number) [stuffed chicken](item) in the list
+    - i would like to add some [stuffed chicken](item) to the list
+    - add [one]{"entity": "number", "value": 1} [tomato beef soup](item) to the list
+    - add [tomato beef soup](item) to the list
+    - add [32](number) [vegetarian](item) to the shoppint list
+    - i wish [a]{"entity": "number", "value": 1} [vegetarian](item)
+    - i would like to add [eleven](number) [vegetarian](item) to the list
+    - remember me to buy some [raccoon](item)
+    - i want to buy [36](number) [raccoon](item)
+    - insert [raccoon](item) in the shopping list
+    - insert [mango dessert](item) in the shopping list
+    - add [twenty-eight](number) [mango dessert](item) to the list
+    - i desire [cactus](item)
+    - add [a]{"entity": "number", "value": 1} [cactus](item) to the list
+    - i want to add some [cactus](item)
+    - add [chocolate dip](item) to the lits
+    - insert [chocolate dip](item) in the shopping lis
+    - i want to add some [mixed vegetable juice](item)
+    - i want to add some [mixed vegetable juice](item)
+    - insert [52](number) [fish curry](item) in the list
+    - remember me to buy some [fish curry](item)
+    - i want to add [sixteen](number) [fish curry](item)
+    - add [turnover](item) to the lis
+    - add [one]{"entity": "number", "value": 1} [turnover](item) to the shoppint ist
+    - insert [eight](number) [turnover](item) in the list
+    - i wish [one]{"entity": "number", "value": 1} [wild pig](item)
+    - i want [a]{"entity": "number", "value": 1} [wild pig](item)
+    - i wish [flounder](item)
+    - i desire [a]{"entity": "number", "value": 1} [flounder](item)
+    - remember me to buy some [flounder](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [spaghetti sauce](item)
+    - i desire [an]{"entity": "number", "value": 1} [spaghetti sauce](item)
+    - insert [a]{"entity": "number", "value": 1} [spaghetti sauce](item) in the list
+    - i would like to add [thirty-one](number) [orange juice](item) to the list
+    - i want to add some [orange juice](item) to the lits
+    - i wish [turkey ham](item)
+    - insert [turkey ham](item) in the lits
+    - i would like to add some [potato chowder](item) to the list
+    - insert [a]{"entity": "number", "value": 1} [potato chowder](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [potato chowder](item)
+    - i want to buy [an]{"entity": "number", "value": 1} [crunchy snacks](item)
+    - add [twenty-two](number) [crunchy snacks](item) to the list
+    - i wish [beet greens](item)
+    - i wish [beet greens](item)
+    - i desire [corned beef sandwich](item)
+    - i want to add some [corned beef sandwich](item)
+    - add [one]{"entity": "number", "value": 1} [corned beef sandwich](item) to the shoppint lits
+    - insert [twenty-two](number) [beef brisket](item) in the list
+    - insert [beef brisket](item) in the list
+    - remember me to buy some [one]{"entity": "number", "value": 1} [chives](item)
+    - i desire [chives](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [snickers bar](item)
+    - insert [twenty-nine](number) [snickers bar](item)
+    - add [one]{"entity": "number", "value": 1} [high ball](item) to the shoppint list
+    - remember me to buy some [high ball](item)
+    - insert [oyster stew](item) in the shopping list
+    - i want to buy [an]{"entity": "number", "value": 1} [oyster stew](item)
+    - i want [chutney](item)
+    - add [eleven](number) [chutney](item) to the list
+    - i want [peaches](item)
+    - insert [one]{"entity": "number", "value": 1} [peaches](item)
+    - i want to buy [one]{"entity": "number", "value": 1} [ham on biscuit](item)
+    - i would like to add [88](number) [ham on biscuit](item) to the list
+    - i want [ham on biscuit](item)
+    - i want to add some [quarter pounder (mcdonalds)](item)
+    - i want [quarter pounder (mcdonalds)](item)
+    - add [quarter pounder (mcdonalds)](item) to the list
+    - insert [12](number) [lime](item)
+    - insert [lime](item) in the shopping list
+    - i desire [61](number) [lemon pie filling](item)
+    - insert [lemon pie filling](item) in the list
+    - i would like to add some [carrot juice](item) to the list
+    - i want to add [an]{"entity": "number", "value": 1} [carrot juice](item)
+    - i wish [carrot juice](item)
+    - i want to add some [shark](item)
+    - i wish [91](number) [shark](item)
+    - remember me to buy some [shark](item)
+    - remember me to buy some [bison](item)
+    - insert [one]{"entity": "number", "value": 1} [bison](item) in the list
+    - i want to buy [54](number) [bison](item)
+    - insert [an]{"entity": "number", "value": 1} [cereal](item) in the list
+    - i want [cereal](item)
+    - i wish [ten](number) [goat](item)
+    - i would like to add some [goat](item) to the list
+    - insert [77](number) [banana](item)
+    - i want [banana](item)
+    - i desire [soybean soup](item)
+    - i want to add some [soybean soup](item)
+    - i desire [shrimp garden salad](item)
+    - i wish [nineteen](number) [shrimp garden salad](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [milky way bar](item)
+    - i want to buy [49](number) [milky way bar](item)
+    - insert [turtle](item) in the shopping ist
+    - i wish [11](number) [turtle](item)
+    - insert [a]{"entity": "number", "value": 1} [turtle](item)
+    - i want [sugar cane beverage](item)
+    - add [sugar cane beverage](item) to the list
+    - insert [caesar dressing](item) in the list
+    - i wish [51](number) [caesar dressing](item)
+    - i wish [caesar dressing](item)
+    - i desire [71](number) [cherry cobbler](item)
+    - insert [cherry cobbler](item) in the shopping list
+    - add [96](number) [zucchini lasagna](item) to the lis
+    - i wish [zucchini lasagna](item)
+    - insert [enchilada](item) in the list
+    - i desire [enchilada](item)
+    - i wish [enchilada](item)
+    - i want [salt pork](item)
+    - i want [a]{"entity": "number", "value": 1} [salt pork](item)
+    - i desire [salt pork](item)
+    - i desire [bouillabaisse](item)
+    - add [one]{"entity": "number", "value": 1} [bouillabaisse](item) to the list
+    - i wish [cheese sauce](item)
+    - insert [83](number) [cheese sauce](item) in the ist
+    - add [fifteen](number) [mousse](item) to the list
+    - i want to add some [mousse](item)
+    - insert [one]{"entity": "number", "value": 1} [mousse](item) in the list
+    - insert [pepper](item) in the list
+    - insert [pepper](item) in the shopping ist
+    - i want to add [90](number) [pepper](item)
+    - add [julienne salad](item) to the list
+    - insert [one]{"entity": "number", "value": 1} [julienne salad](item) in the list
+    - insert [an]{"entity": "number", "value": 1} [julienne salad](item)
+    - i desire [an]{"entity": "number", "value": 1} [chicken rice soup](item)
+    - i want [twenty-seven](number) [chicken rice soup](item)
+    - i want to add [one]{"entity": "number", "value": 1} [chicken rice soup](item)
+    - i want to add some [date candy](item) to the list
+    - i desire [50](number) [date candy](item)
+    - insert [macaroni and cheese](item) in the list
+    - insert [an]{"entity": "number", "value": 1} [macaroni and cheese](item)
+    - remember me to buy some [macaroni and cheese](item)
+    - insert [peanuts](item) in the shopping list
+    - i desire [thirty](number) [peanuts](item)
+    - i want to buy [one]{"entity": "number", "value": 1} [chiles rellenos](item)
+    - i wish [chiles rellenos](item)
+    - i desire [a]{"entity": "number", "value": 1} [caramel dip](item)
+    - i want to add some [caramel dip](item)
+    - insert [84](number) [frozen dinner](item)
+    - i want to add some [frozen dinner](item)
+    - i want [rice noodles](item)
+    - add [43](number) [rice noodles](item) to the list
+    - i wish [eight](number) [fuzzy navel](item)
+    - i would like to add some [fuzzy navel](item) to the lits
+    - i would like to add some [fuzzy navel](item) to the list
+    - i want [one]{"entity": "number", "value": 1} [queso anejo](item)
+    - i want [queso anejo](item)
+    - add [92](number) [tuna loaf](item) to the shoppint list
+    - i desire [tuna loaf](item)
+    - remember me to buy some [tuna loaf](item)
+    - i wish [59](number) [pretzel chips](item)
+    - insert [a]{"entity": "number", "value": 1} [pretzel chips](item) in the list
+    - i would like to add some [churros](item) to the list
+    - i want to add some [churros](item) to the list
+    - i would like to add [a]{"entity": "number", "value": 1} [peanut brittle](item) to the list
+    - i desire [peanut brittle](item)
+    - i desire [peanut brittle](item)
+    - i want to add some [plantain](item)
+    - i want [plantain](item)
+    - i want to add [a]{"entity": "number", "value": 1} [plantain](item)
+    - i desire [55](number) [meat loaf](item)
+    - insert [twenty-one](number) [meat loaf](item) in the lis
+    - i want to add some [meat loaf](item)
+    - i wish [an]{"entity": "number", "value": 1} [hamburger](item)
+    - insert [seventeen](number) [hamburger](item) in the list
+    - i want [hamburger](item)
+    - remember me to buy some [stuffed tannier fritters](item)
+    - insert [eighteen](number) [stuffed tannier fritters](item) in the list
+    - add [14](number) [stewed salmon](item) to the shoppint list
+    - insert [stewed salmon](item) in the list
+    - remember me to buy some [grape juice drink](item)
+    - i want to buy [ten](number) [grape juice drink](item)
+    - i want to add some [grape juice drink](item) to the lits
+    - i want to buy [an]{"entity": "number", "value": 1} [apple-fruit juice blend](item)
+    - i desire [one]{"entity": "number", "value": 1} [apple-fruit juice blend](item)
+    - i would like to add some [fish stock](item) to the list
+    - i want [a]{"entity": "number", "value": 1} [fish stock](item)
+    - i want to add [62](number) [chorizo](item)
+    - i want [chorizo](item)
+    - insert [chorizo](item) in the shopping list
+    - i wish [36](number) [ham pot pie](item)
+    - i desire [one]{"entity": "number", "value": 1} [ham pot pie](item)
+    - i want to buy [twenty-five](number) [ham pot pie](item)
+    - add [an]{"entity": "number", "value": 1} [chicken cornbread](item) to the shoppint ist
+    - insert [one]{"entity": "number", "value": 1} [chicken cornbread](item)
+    - add [long rice noodles](item) to the ist
+    - insert [83](number) [long rice noodles](item) in the list
+    - i desire [one]{"entity": "number", "value": 1} [long rice noodles](item)
+    - i wish [spinach dip](item)
+    - i wish [one]{"entity": "number", "value": 1} [spinach dip](item)
+    - i would like to add [an]{"entity": "number", "value": 1} [tongue](item) to the list
+    - i want to buy [one]{"entity": "number", "value": 1} [tongue](item)
+    - i want [tongue](item)
+    - i want [nine](number) [enchilada with beans](item)
+    - insert [enchilada with beans](item) in the shopping list
+    - i would like to add some [enchilada with beans](item) to the list
+    - remember me to buy some [one]{"entity": "number", "value": 1} [wheat cereal](item)
+    - i wish [wheat cereal](item)
+    - i desire [peppers and onions](item)
+    - remember me to buy some [two](number) [peppers and onions](item)
+    - i wish [onions](item)
+    - insert [72](number) [onions](item)
+    - add [one]{"entity": "number", "value": 1} [chilaquiles](item) to the list
+    - i want to buy [an]{"entity": "number", "value": 1} [chilaquiles](item)
+    - add [granola](item) to the list
+    - i want to add [a]{"entity": "number", "value": 1} [granola](item)
+    - i want to add some [sopa de tortilla](item) to the lits
+    - i would like to add some [sopa de tortilla](item) to the list
+    - i want to buy [one]{"entity": "number", "value": 1} [sopa de tortilla](item)
+    - add [a]{"entity": "number", "value": 1} [onion soup](item) to the list
+    - i want to add some [onion soup](item) to the list
+    - i would like to add [83](number) [corn nuts](item) to the list
+    - i want to buy [nineteen](number) [corn nuts](item)
+    - i wish [fish moochim](item)
+    - i desire [an]{"entity": "number", "value": 1} [fish moochim](item)
+    - insert [fish moochim](item) in the shopping list
+    - remember me to buy some [twenty-five](number) [shrimp cocktail](item)
+    - i wish [one]{"entity": "number", "value": 1} [shrimp cocktail](item)
+    - i desire [egg salad](item)
+    - i want [an]{"entity": "number", "value": 1} [egg salad](item)
+    - remember me to buy some [green pepper](item)
+    - i would like to add some [green pepper](item) to the list
+    - remember me to buy some [chips](item)
+    - insert [chips](item) in the shopping list
+    - i wish [snack cake](item)
+    - i desire [an]{"entity": "number", "value": 1} [snack cake](item)
+    - i desire [one]{"entity": "number", "value": 1} [sirloin beef](item)
+    - i want [an]{"entity": "number", "value": 1} [sirloin beef](item)
+    - i wish [sirloin beef](item)
+    - i would like to add some [milk chocolate candy](item) to the list
+    - add [milk chocolate candy](item) to the ist
+    - i desire [codfish salad](item)
+    - add [an]{"entity": "number", "value": 1} [codfish salad](item) to the shoppint list
+    - i would like to add [an]{"entity": "number", "value": 1} [hot thai sauce](item) to the lis
+    - i want [hot thai sauce](item)
+    - remember me to buy some [mock chicken legs](item)
+    - i want to add some [mock chicken legs](item) to the list
+    - add [thirty](number) [breaded brains](item) to the ist
+    - i desire [85](number) [breaded brains](item)
+    - i want to add [a]{"entity": "number", "value": 1} [breaded brains](item)
+    - i want to add some [chiliburger](item) to the list
+    - i want [a]{"entity": "number", "value": 1} [chiliburger](item)
+    - i want [chiliburger](item)
+    - insert [apple-grape juice](item) in the shopping list
+    - insert [apple-grape juice](item) in the list
+    - insert [manhattan](item) in the list
+    - i would like to add some [manhattan](item) to the list
+    - add [twenty-one](number) [manhattan](item) to the shoppint list
+    - i desire [pizza with pepperoni](item)
+    - i desire [pizza with pepperoni](item)
+    - add [one]{"entity": "number", "value": 1} [pizza with pepperoni](item) to the shoppint list
+    - add [twenty-six](number) [tiramisu](item) to the shoppint lis
+    - add [an]{"entity": "number", "value": 1} [tiramisu](item) to the shoppint list
+    - insert [tiramisu](item) in the list
+    - i would like to add [a]{"entity": "number", "value": 1} [pompano](item) to the ist
+    - i want to add some [pompano](item)
+    - insert [one]{"entity": "number", "value": 1} [pompano](item) in the list
+    - add [73](number) [almond oil](item) to the list
+    - insert [almond oil](item) in the list
+    - add [one]{"entity": "number", "value": 1} [almond oil](item) to the shoppint list
+    - insert [13](number) [cereal (barbara's puffins)](item) in the list
+    - add [thirty-one](number) [cereal (barbara's puffins)](item) to the shoppint ist
+    - i want to buy [an]{"entity": "number", "value": 1} [cereal (barbara's puffins)](item)
+    - i desire [honey](item)
+    - i want [a]{"entity": "number", "value": 1} [honey](item)
+    - i want to add [an]{"entity": "number", "value": 1} [codfish](item)
+    - i want to add [one]{"entity": "number", "value": 1} [codfish](item)
+    - add [a]{"entity": "number", "value": 1} [chicken leg](item) to the shoppint list
+    - insert [54](number) [chicken leg](item) in the list
+    - i desire [one]{"entity": "number", "value": 1} [chicken leg](item)
+    - insert [eight](number) [fajita with vegetables](item) in the list
+    - i want to add [a]{"entity": "number", "value": 1} [fajita with vegetables](item)
+    - i would like to add [an]{"entity": "number", "value": 1} [fajita with vegetables](item) to the list
+    - i would like to add some [crackers](item) to the list
+    - insert [twenty-five](number) [crackers](item)
+    - i would like to add some [kefir](item) to the list
+    - i want to add [an]{"entity": "number", "value": 1} [kefir](item)
+    - insert [kefir](item) in the lis
+    - insert [an]{"entity": "number", "value": 1} [chicken fillet](item) in the list
+    - i desire [chicken fillet](item)
+    - remember me to buy some [chicken fillet](item)
+    - i wish [12](number) [pie](item)
+    - i want to add some [pie](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [pie](item)
+    - insert [carrot soup](item) in the list
+    - add [one]{"entity": "number", "value": 1} [carrot soup](item) to the shoppint list
+    - i would like to add [twenty-two](number) [pork stew](item) to the list
+    - insert [pork stew](item) in the list
+    - i want to add some [pork stew](item) to the list
+    - i want [tea](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [tea](item)
+    - remember me to buy some [64](number) [ripe plantain](item)
+    - i want [ripe plantain](item)
+    - add [puerto rican stew](item) to the list
+    - i want [puerto rican stew](item)
+    - i want to add [thirty](number) [puerto rican stew](item)
+    - i would like to add some [avocado dressing](item) to the list
+    - i want to add [an]{"entity": "number", "value": 1} [avocado dressing](item)
+    - i want to add some [avocado dressing](item) to the list
+    - add [an]{"entity": "number", "value": 1} [flavored pasta](item) to the shoppint list
+    - insert [27](number) [flavored pasta](item)
+    - i want [blackberry juice](item)
+    - i want [blackberry juice](item)
+    - i would like to add [one]{"entity": "number", "value": 1} [blackberry juice](item) to the ist
+    - i wish [fudgesicle](item)
+    - insert [fudgesicle](item) in the shopping list
+    - i desire [a]{"entity": "number", "value": 1} [fried summer squash](item)
+    - insert [fried summer squash](item) in the list
+    - insert [69](number) [fried summer squash](item) in the list
+    - i want to add [55](number) [artichokes](item)
+    - add [twenty-nine](number) [artichokes](item) to the list
+    - insert [one]{"entity": "number", "value": 1} [artichokes](item)
+    - insert [thirty](number) [chicken stew](item) in the lits
+    - i would like to add some [chicken stew](item) to the list
+    - i want [a]{"entity": "number", "value": 1} [chicken stew](item)
+    - insert [fruit punch](item) in the shopping lits
+    - i desire [fruit punch](item)
+    - remember me to buy some [mexican chocolate](item)
+    - i would like to add some [mexican chocolate](item) to the list
+    - insert [mexican chocolate](item) in the list
+    - i want to add some [almond milk](item)
+    - remember me to buy some [almond milk](item)
+    - i want [an]{"entity": "number", "value": 1} [oats](item)
+    - remember me to buy some [oats](item)
+    - add [12](number) [oats](item) to the shoppint ist
+    - insert [toffee](item) in the shopping list
+    - i would like to add some [toffee](item) to the lis
+    - i would like to add [one]{"entity": "number", "value": 1} [toffee](item) to the list
+    - i want [armadillo](item)
+    - insert [armadillo](item) in the list
+    - i want to add some [dessert dip](item) to the list
+    - i want to add some [dessert dip](item) to the ist
+    - i want to add [a]{"entity": "number", "value": 1} [dessert dip](item)
+    - remember me to buy some [96](number) [tomato vegetable soup](item)
+    - insert [eleven](number) [tomato vegetable soup](item) in the list
+    - remember me to buy some [chicken wing](item)
+    - insert [chicken wing](item) in the list
+    - i desire [chicken wing](item)
+    - insert [one]{"entity": "number", "value": 1} [yuca fries](item) in the list
+    - insert [a]{"entity": "number", "value": 1} [yuca fries](item) in the ist
+    - i want [eight](number) [yuca fries](item)
+    - add [one]{"entity": "number", "value": 1} [collards](item) to the shoppint ist
+    - insert [an]{"entity": "number", "value": 1} [collards](item) in the list
+    - insert [twenty-three](number) [collards](item) in the ist
+    - i wish [one]{"entity": "number", "value": 1} [apricot](item)
+    - add [a]{"entity": "number", "value": 1} [apricot](item) to the shoppint lis
+    - i want [apricot](item)
+    - add [twenty](number) [dukboki or tteokbokki](item) to the list
+    - add [31](number) [dukboki or tteokbokki](item) to the shoppint list
+    - i want [dukboki or tteokbokki](item)
+    - i would like to add some [orange](item) to the list
+    - i wish [nineteen](number) [orange](item)
+    - i want to buy [one]{"entity": "number", "value": 1} [orange](item)
+    - insert [28](number) [sirloin](item) in the list
+    - insert [sirloin](item) in the lis
+    - insert [one]{"entity": "number", "value": 1} [sirloin](item)
+    - insert [a]{"entity": "number", "value": 1} [macaroni](item) in the list
+    - insert [23](number) [macaroni](item) in the list
+    - insert [cake batter](item) in the shopping list
+    - remember me to buy some [cake batter](item)
+    - insert [cake batter](item) in the list
+    - i would like to add [88](number) [pad thai](item) to the list
+    - i desire [one]{"entity": "number", "value": 1} [pad thai](item)
+    - i want to add [seventeen](number) [pad thai](item)
+    - i desire [snack mix](item)
+    - insert [snack mix](item) in the lits
+    - i want [dirty rice](item)
+    - add [sixteen](number) [dirty rice](item) to the list
+    - insert [54](number) [pickles](item)
+    - insert [a]{"entity": "number", "value": 1} [pickles](item) in the list
+    - i want to add [nineteen](number) [nachos with chili](item)
+    - i desire [nachos with chili](item)
+    - insert [62](number) [nachos with chili](item)
+    - i want to add some [popcorn](item)
+    - i wish [popcorn](item)
+    - i want [an]{"entity": "number", "value": 1} [popcorn](item)
+    - i want to add some [olive tapenade](item)
+    - insert [an]{"entity": "number", "value": 1} [olive tapenade](item) in the lits
+    - i want to add some [olive tapenade](item) to the list
+    - i want [chocolate milk](item)
+    - insert [chocolate milk](item) in the shopping list
+    - i would like to add some [onion dip](item) to the list
+    - insert [onion dip](item) in the shopping list
+    - remember me to buy some [onion dip](item)
+    - i want [crayfish](item)
+    - i want [one]{"entity": "number", "value": 1} [crayfish](item)
+    - insert [lemonade](item) in the list
+    - i wish [52](number) [lemonade](item)
+    - i would like to add some [lemonade](item) to the list
+    - insert [26](number) [yeast extract spread](item) in the list
+    - insert [yeast extract spread](item) in the list
+    - add [yeast extract spread](item) to the list
+    - i want to add some [caribou](item)
+    - add [3](number) [caribou](item) to the list
+    - add [a]{"entity": "number", "value": 1} [lime souffle](item) to the list
+    - i want [nineteen](number) [lime souffle](item)
+    - i want [twenty-nine](number) [swordfish](item)
+    - i would like to add some [swordfish](item) to the list
+    - i desire [one]{"entity": "number", "value": 1} [swordfish](item)
+    - remember me to buy some [brains](item)
+    - remember me to buy some [brains](item)
+    - insert [one]{"entity": "number", "value": 1} [brains](item) in the list
+    - i desire [luffa](item)
+    - remember me to buy some [luffa](item)
+    - i want to add [an]{"entity": "number", "value": 1} [luffa](item)
+    - remember me to buy some [double cheeseburger (mcdonalds)](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [double cheeseburger (mcdonalds)](item)
+    - i want to add [40](number) [vienna sausage](item)
+    - i desire [vienna sausage](item)
+    - i desire [one]{"entity": "number", "value": 1} [vienna sausage](item)
+    - i want [ripe plantain omelet](item)
+    - i want to add [sixteen](number) [ripe plantain omelet](item)
+    - insert [a]{"entity": "number", "value": 1} [ripe plantain omelet](item)
+    - i desire [snack bar](item)
+    - insert [snack bar](item) in the list
+    - insert [25](number) [ground beef patty](item)
+    - remember me to buy some [twenty-nine](number) [ground beef patty](item)
+    - i want [a]{"entity": "number", "value": 1} [ground beef patty](item)
+    - add [basbousa](item) to the list
+    - insert [basbousa](item) in the list
+    - insert [one]{"entity": "number", "value": 1} [double hamburger](item)
+    - i wish [10](number) [double hamburger](item)
+    - i wish [baby ruth](item)
+    - insert [an]{"entity": "number", "value": 1} [baby ruth](item)
+    - insert [baby ruth](item) in the lis
+    - i want [broccoli](item)
+    - i desire [one]{"entity": "number", "value": 1} [broccoli](item)
+    - insert [six](number) [broccoli](item) in the ist
+    - insert [pork bacon](item) in the shopping list
+    - i want [an]{"entity": "number", "value": 1} [pork bacon](item)
+    - add [42](number) [pasta](item) to the shoppint list
+    - i want [pasta](item)
+    - i want to buy [seven](number) [pasta](item)
+    - i wish [lentil curry](item)
+    - insert [nineteen](number) [lentil curry](item)
+    - insert [lentil curry](item) in the ist
+    - add [cereal (malt-o-meal coco-roos)](item) to the list
+    - i would like to add some [cereal (malt-o-meal coco-roos)](item) to the list
+    - i would like to add some [cereal (malt-o-meal coco-roos)](item) to the list
+    - i desire [water chesnut](item)
+    - insert [one]{"entity": "number", "value": 1} [water chesnut](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [water chesnut](item)
+    - insert [one]{"entity": "number", "value": 1} [borscht](item) in the lits
+    - i want to add some [borscht](item)
+    - remember me to buy some [sweet potato paste](item)
+    - i wish [an]{"entity": "number", "value": 1} [sweet potato paste](item)
+    - insert [71](number) [old fashioned](item) in the list
+    - i would like to add [twenty-five](number) [old fashioned](item) to the list
+    - i want to buy [an]{"entity": "number", "value": 1} [old fashioned](item)
+    - remember me to buy some [51](number) [blueberry juice](item)
+    - i desire [a]{"entity": "number", "value": 1} [blueberry juice](item)
+    - i want to buy [twenty-three](number) [chitterlings](item)
+    - insert [chitterlings](item) in the shopping list
+    - i want to add some [ham croquette](item)
+    - insert [ham croquette](item) in the shopping list
+    - add [26](number) [ham croquette](item) to the shoppint list
+    - i desire [an]{"entity": "number", "value": 1} [sports drink (powerade)](item)
+    - i would like to add [eighteen](number) [sports drink (powerade)](item) to the list
+    - i wish [sports drink (powerade)](item)
+    - i want [11](number) [onion flavored rings](item)
+    - remember me to buy some [onion flavored rings](item)
+    - insert [twelve](number) [onion flavored rings](item) in the list
+    - add [butterscotch hard candy](item) to the list
+    - i desire [butterscotch hard candy](item)
+    - i want [an]{"entity": "number", "value": 1} [butterscotch hard candy](item)
+    - remember me to buy some [simple syrup](item)
+    - i would like to add some [simple syrup](item) to the lis
+    - add [simple syrup](item) to the ist
+    - insert [one]{"entity": "number", "value": 1} [pineapple](item) in the list
+    - remember me to buy some [twenty-nine](number) [pineapple](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [lamb or mutton](item)
+    - insert [twenty-nine](number) [lamb or mutton](item) in the list
+    - remember me to buy some [lamb or mutton](item)
+    - i want [a]{"entity": "number", "value": 1} [whiskey](item)
+    - i want to add some [whiskey](item) to the list
+    - i want to add some [whiskey](item)
+    - i want to buy [six](number) [beef with vegetables](item)
+    - i would like to add [an]{"entity": "number", "value": 1} [beef with vegetables](item) to the list
+    - i want to add [an]{"entity": "number", "value": 1} [shrimp teriyaki](item)
+    - insert [shrimp teriyaki](item) in the shopping list
+    - insert [eighteen](number) [bacon strip](item)
+    - i desire [an]{"entity": "number", "value": 1} [bacon strip](item)
+    - insert [bacon strip](item) in the list
+    - add [32](number) [soybean curd cheese](item) to the list
+    - insert [one]{"entity": "number", "value": 1} [soybean curd cheese](item)
+    - add [an]{"entity": "number", "value": 1} [meat loaf dinner](item) to the list
+    - insert [meat loaf dinner](item) in the list
+    - insert [an]{"entity": "number", "value": 1} [tomatoes](item)
+    - i desire [tomatoes](item)
+    - i want to add some [tomatoes](item)
+    - remember me to buy some [an]{"entity": "number", "value": 1} [cream cheese](item)
+    - insert [cream cheese](item) in the list
+    - i wish [one]{"entity": "number", "value": 1} [classic mixed vegetables](item)
+    - i would like to add [an]{"entity": "number", "value": 1} [classic mixed vegetables](item) to the list
+    - i wish [classic mixed vegetables](item)
+    - i wish [an]{"entity": "number", "value": 1} [potato salad](item)
+    - i want to add some [potato salad](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [potato salad](item)
+    - insert [fig](item) in the list
+    - add [one]{"entity": "number", "value": 1} [fig](item) to the lis
+    - i want [9](number) [fig](item)
+    - i want to add some [pork hash](item)
+    - i would like to add some [pork hash](item) to the list
+    - i desire [a]{"entity": "number", "value": 1} [pork hash](item)
+    - i desire [one]{"entity": "number", "value": 1} [yeast](item)
+    - insert [yeast](item) in the shopping list
+    - i would like to add [twenty-three](number) [yeast](item) to the list
+    - i wish [one]{"entity": "number", "value": 1} [nonalcoholic malt beverage](item)
+    - i want to buy [53](number) [nonalcoholic malt beverage](item)
+    - insert [an]{"entity": "number", "value": 1} [nonalcoholic malt beverage](item) in the list
+    - i wish [orange blossom](item)
+    - insert [orange blossom](item) in the list
+    - insert [48](number) [orange blossom](item)
+    - i want to buy [an]{"entity": "number", "value": 1} [egg roll](item)
+    - i want [one]{"entity": "number", "value": 1} [egg roll](item)
+    - i wish [bananas and strawberry](item)
+    - i want to add some [bananas and strawberry](item)
+    - insert [a]{"entity": "number", "value": 1} [bananas and strawberry](item)
+    - i want to add [an]{"entity": "number", "value": 1} [honey butter](item)
+    - i want [honey butter](item)
+    - i want to add some [ghee](item)
+    - insert [10](number) [ghee](item)
+    - i would like to add some [ghee](item) to the list
+    - i would like to add [a]{"entity": "number", "value": 1} [ketchup](item) to the list
+    - i want [an]{"entity": "number", "value": 1} [ketchup](item)
+    - i would like to add [a]{"entity": "number", "value": 1} [pineapple candy](item) to the list
+    - remember me to buy some [pineapple candy](item)
+    - i want [pineapple candy](item)
+    - i wish [one]{"entity": "number", "value": 1} [paella with seafood](item)
+    - insert [90](number) [paella with seafood](item) in the list
+    - i desire [nineteen](number) [vodka and cola](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [vodka and cola](item)
+    - add [italian dressing](item) to the list
+    - i would like to add [twenty-seven](number) [italian dressing](item) to the list
+    - insert [19](number) [italian dressing](item)
+    - add [an]{"entity": "number", "value": 1} [lemon-butter sauce](item) to the lits
+    - i would like to add some [lemon-butter sauce](item) to the lits
+    - i desire [egg white](item)
+    - insert [egg white](item) in the list
+    - i want to add [an]{"entity": "number", "value": 1} [chicken fillet biscuit](item)
+    - i want [one]{"entity": "number", "value": 1} [chicken fillet biscuit](item)
+    - i desire [one]{"entity": "number", "value": 1} [almond paste](item)
+    - i desire [17](number) [almond paste](item)
+    - i want [one]{"entity": "number", "value": 1} [tomato sauce](item)
+    - i want [an]{"entity": "number", "value": 1} [tomato sauce](item)
+    - remember me to buy some [ham luncheon meat](item)
+    - i wish [one]{"entity": "number", "value": 1} [ham luncheon meat](item)
+    - insert [a]{"entity": "number", "value": 1} [licuado or batido](item) in the list
+    - i want to buy [an]{"entity": "number", "value": 1} [licuado or batido](item)
+    - add [an]{"entity": "number", "value": 1} [daiquiri](item) to the shoppint list
+    - i want [a]{"entity": "number", "value": 1} [daiquiri](item)
+    - insert [fourteen](number) [daiquiri](item) in the list
+    - add [bagel](item) to the list
+    - i wish [twenty-five](number) [bagel](item)
+    - i desire [butterfinger](item)
+    - insert [butterfinger](item) in the list
+    - i want to buy [an]{"entity": "number", "value": 1} [gelato](item)
+    - i would like to add some [gelato](item) to the list
+    - remember me to buy some [gelato](item)
+    - add [tamale with meat](item) to the list
+    - add [one]{"entity": "number", "value": 1} [tamale with meat](item) to the list
+    - insert [an]{"entity": "number", "value": 1} [lard](item) in the list
+    - add [a]{"entity": "number", "value": 1} [lard](item) to the shoppint list
+    - remember me to buy some [six](number) [lard](item)
+    - i want [sardine sandwich](item)
+    - i want [sardine sandwich](item)
+    - i want [sardine sandwich](item)
+    - remember me to buy some [34](number) [haddock](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [haddock](item)
+    - add [one]{"entity": "number", "value": 1} [haddock](item) to the list
+    - insert [mozzarella sticks](item) in the list
+    - i want [mozzarella sticks](item)
+    - i would like to add [one]{"entity": "number", "value": 1} [mozzarella sticks](item) to the list
+    - remember me to buy some [soup](item)
+    - insert [an]{"entity": "number", "value": 1} [soup](item)
+    - insert [soup](item) in the shopping list
+    - insert [venison/deer](item) in the list
+    - remember me to buy some [venison/deer](item)
+    - i want [singapore sling](item)
+    - i would like to add some [singapore sling](item) to the list
+    - i want to add some [biscayne codfish](item)
+    - remember me to buy some [one]{"entity": "number", "value": 1} [biscayne codfish](item)
+    - i want [a]{"entity": "number", "value": 1} [biscayne codfish](item)
+    - insert [apple-sweet potato juice](item) in the shopping list
+    - i wish [one]{"entity": "number", "value": 1} [apple-sweet potato juice](item)
+    - i wish [vegetable and beef](item)
+    - i desire [vegetable and beef](item)
+    - i desire [51](number) [salmon](item)
+    - insert [a]{"entity": "number", "value": 1} [salmon](item)
+    - i desire [salmon](item)
+    - i wish [one]{"entity": "number", "value": 1} [mcdouble (mcdonalds)](item)
+    - insert [an]{"entity": "number", "value": 1} [mcdouble (mcdonalds)](item)
+    - insert [mcdouble (mcdonalds)](item) in the list
+    - i want to add some [bacon bits](item) to the list
+    - i want to buy [an]{"entity": "number", "value": 1} [bacon bits](item)
+    - i want [a]{"entity": "number", "value": 1} [cereal (post alpha-bits)](item)
+    - i would like to add [an]{"entity": "number", "value": 1} [cereal (post alpha-bits)](item) to the lits
+    - i want [breadsticks](item)
+    - add [breadsticks](item) to the list
+    - remember me to buy some [a]{"entity": "number", "value": 1} [cobbler](item)
+    - add [cobbler](item) to the list
+    - i want to add some [cobbler](item)
+    - remember me to buy some [twenty-three](number) [radicchio](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [radicchio](item)
+    - insert [82](number) [radicchio](item) in the list
+    - add [chicken kiev](item) to the list
+    - i wish [chicken kiev](item)
+    - insert [chicken kiev](item) in the list
+    - insert [squash](item) in the lits
+    - i would like to add some [squash](item) to the list
+    - i desire [scrambled egg sandwich](item)
+    - i want to add some [scrambled egg sandwich](item) to the list
+    - i would like to add some [scrambled egg sandwich](item) to the list
+    - i want to add [58](number) [palak paneer](item)
+    - i want to buy [fourteen](number) [palak paneer](item)
+    - remember me to buy some [an]{"entity": "number", "value": 1} [palak paneer](item)
+    - insert [veal patty](item) in the shopping list
+    - i would like to add [twelve](number) [veal patty](item) to the list
+    - remember me to buy some [veal patty](item)
+    - add [anchovy](item) to the list
+    - insert [77](number) [anchovy](item) in the list
+    - i want to add some [hog maws](item) to the list
+    - add [hog maws](item) to the list
+    - i wish [a]{"entity": "number", "value": 1} [wheat](item)
+    - insert [90](number) [wheat](item) in the list
+    - add [wheat](item) to the list
+    - i would like to add some [gefilte fish](item) to the list
+    - i want to buy [a]{"entity": "number", "value": 1} [gefilte fish](item)
+    - insert [twenty-one](number) [celery soup](item)
+    - insert [81](number) [celery soup](item) in the list
+    - i desire [96](number) [kibby](item)
+    - insert [a]{"entity": "number", "value": 1} [kibby](item) in the list
+    - insert [guacamole](item) in the lis
+    - insert [guacamole](item) in the shopping list
+    - i want to add [14](number) [guacamole](item)
+    - insert [a]{"entity": "number", "value": 1} [tortilla](item)
+    - insert [thirty](number) [tortilla](item)
+    - insert [16](number) [tortilla](item) in the lis
+    - i want to add some [apple-raspberry](item)
+    - i want [apple-raspberry](item)
+    - i desire [63](number) [apple-raspberry](item)
+    - remember me to buy some [two](number) [shortening](item)
+    - i desire [an]{"entity": "number", "value": 1} [shortening](item)
+    - i want to add some [beans and franks](item)
+    - remember me to buy some [thirteen](number) [beans and franks](item)
+    - remember me to buy some [68](number) [sesame oil](item)
+    - i wish [sesame oil](item)
+    - i would like to add [one]{"entity": "number", "value": 1} [blueberry yogurt dessert](item) to the list
+    - i wish [blueberry yogurt dessert](item)
+    - i would like to add some [pasta with sauce](item) to the list
+    - i want [thirty](number) [pasta with sauce](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [goat ribs](item)
+    - i want to add [68](number) [goat ribs](item)
+    - i want [goat ribs](item)
+    - i would like to add some [pork roast](item) to the list
+    - i want [a]{"entity": "number", "value": 1} [pork roast](item)
+    - i would like to add some [beans](item) to the list
+    - remember me to buy some [an]{"entity": "number", "value": 1} [beans](item)
+    - i desire [a]{"entity": "number", "value": 1} [vegetarian pot pie](item)
+    - i want to add some [vegetarian pot pie](item) to the list
+    - add [twenty-two](number) [italian ice](item) to the list
+    - i want to buy [one]{"entity": "number", "value": 1} [italian ice](item)
+    - i wish [watermelon juice](item)
+    - i want to buy [11](number) [watermelon juice](item)
+    - insert [watermelon juice](item) in the list
+    - i would like to add some [seven-layer salad](item) to the lis
+    - i want to add [an]{"entity": "number", "value": 1} [seven-layer salad](item)
+    - i want to add some [dill dip](item) to the list
+    - i want to add [one]{"entity": "number", "value": 1} [dill dip](item)
+    - remember me to buy some [thirteen](number) [carrots and peas](item)
+    - i desire [carrots and peas](item)
+    - i want to buy [one]{"entity": "number", "value": 1} [fish](item)
+    - insert [fish](item) in the list
+    - i want to add some [fish](item) to the list
+    - i wish [97](number) [head cheese](item)
+    - insert [head cheese](item) in the list
+    - add [an]{"entity": "number", "value": 1} [head cheese](item) to the lits
+    - insert [cassaba melon](item) in the list
+    - i would like to add [an]{"entity": "number", "value": 1} [cassaba melon](item) to the list
+    - remember me to buy some [30](number) [cassaba melon](item)
+    - i desire [cocoa powder](item)
+    - add [a]{"entity": "number", "value": 1} [cocoa powder](item) to the shoppint list
+    - i wish [eggplant dip](item)
+    - i wish [eggplant dip](item)
+    - insert [eggplant dip](item) in the list
+    - i want [an]{"entity": "number", "value": 1} [cranberry sauce](item)
+    - remember me to buy some [cranberry sauce](item)
+    - insert [hot peppers](item) in the list
+    - add [an]{"entity": "number", "value": 1} [hot peppers](item) to the list
+    - insert [eleven](number) [hot peppers](item) in the list
+    - insert [blueberry pie filling](item) in the ist
+    - i would like to add [a]{"entity": "number", "value": 1} [blueberry pie filling](item) to the list
+    - insert [four](number) [blueberry pie filling](item)
+    - add [one]{"entity": "number", "value": 1} [water](item) to the list
+    - insert [22](number) [water](item) in the list
+    - i desire [fish fillet](item)
+    - i desire [78](number) [fish fillet](item)
+    - insert [fish fillet](item) in the shopping lis
+    - insert [carrots and beef](item) in the list
+    - remember me to buy some [carrots and beef](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [carrots and beef](item)
+    - add [a]{"entity": "number", "value": 1} [chicken or turkey](item) to the shoppint list
+    - i want [chicken or turkey](item)
+    - insert [an]{"entity": "number", "value": 1} [chicken or turkey](item) in the list
+    - insert [44](number) [broccoli and cauliflower](item)
+    - add [an]{"entity": "number", "value": 1} [broccoli and cauliflower](item) to the list
+    - add [twenty-one](number) [broccoli and cauliflower](item) to the shoppint list
+    - add [turnip greens](item) to the list
+    - add [turnip greens](item) to the lits
+    - add [turnip greens](item) to the list
+    - remember me to buy some [stewed tripe](item)
+    - insert [stewed tripe](item) in the lis
+    - i want to add some [stewed tripe](item) to the list
+    - insert [truffles](item) in the list
+    - i desire [truffles](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [pomegranate juice beverage](item)
+    - insert [one]{"entity": "number", "value": 1} [pomegranate juice beverage](item) in the lis
+    - i would like to add [twelve](number) [meat sandwich](item) to the lis
+    - insert [meat sandwich](item) in the list
+    - i desire [coconut milk](item)
+    - i would like to add [one]{"entity": "number", "value": 1} [coconut milk](item) to the lits
+    - i want to add [fourteen](number) [mars almond bar](item)
+    - i want to buy [one]{"entity": "number", "value": 1} [mars almond bar](item)
+    - i want to add [an]{"entity": "number", "value": 1} [mars almond bar](item)
+    - add [85](number) [fried green beans](item) to the list
+    - i wish [one]{"entity": "number", "value": 1} [fried green beans](item)
+    - i want to add some [fried green beans](item)
+    - insert [one]{"entity": "number", "value": 1} [whole wheat cereal](item)
+    - i want to add some [whole wheat cereal](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [whole wheat cereal](item)
+    - remember me to buy some [tilapia](item)
+    - insert [tilapia](item) in the shopping list
+    - i would like to add some [tilapia](item) to the list
+    - add [a]{"entity": "number", "value": 1} [gravy](item) to the shoppint ist
+    - i desire [one]{"entity": "number", "value": 1} [gravy](item)
+    - insert [a]{"entity": "number", "value": 1} [goulash](item) in the list
+    - add [goulash](item) to the lits
+    - i wish [goulash](item)
+    - i want to add some [whopper (burger king)](item) to the lits
+    - i would like to add [twenty-five](number) [whopper (burger king)](item) to the list
+    - add [an]{"entity": "number", "value": 1} [whopper (burger king)](item) to the shoppint list
+    - insert [bologna](item) in the list
+    - i wish [one]{"entity": "number", "value": 1} [bologna](item)
+    - i want to add some [bologna](item) to the list
+    - add [64](number) [pineapple juice](item) to the shoppint list
+    - i want to add [a]{"entity": "number", "value": 1} [pineapple juice](item)
+    - i want to add some [knockwurst](item) to the list
+    - i wish [twenty-six](number) [knockwurst](item)
+    - i want to add [a]{"entity": "number", "value": 1} [bitter melon](item)
+    - i want to add some [bitter melon](item) to the list
+    - i want [3](number) [bitter melon](item)
+    - i would like to add some [sausage and vegetables](item) to the list
+    - i want to buy [a]{"entity": "number", "value": 1} [sausage and vegetables](item)
+    - i want to add some [sausage and vegetables](item)
+    - i want [gnocchi](item)
+    - i want to add some [gnocchi](item) to the list
+    - i want to add some [lamb hocks](item)
+    - i wish [lamb hocks](item)
+    - i desire [one]{"entity": "number", "value": 1} [potato tots](item)
+    - add [twenty](number) [potato tots](item) to the list
+    - i want to add [a]{"entity": "number", "value": 1} [potato tots](item)
+    - i desire [pho](item)
+    - insert [pho](item) in the shopping ist
+    - remember me to buy some [pho](item)
+    - insert [six](number) [fish sauce](item) in the list
+    - remember me to buy some [fish sauce](item)
+    - remember me to buy some [cress](item)
+    - i would like to add some [cress](item) to the list
+    - insert [one]{"entity": "number", "value": 1} [mojito](item) in the list
+    - i want to add [88](number) [mojito](item)
+    - i want to add some [chicken soup](item) to the list
+    - insert [one]{"entity": "number", "value": 1} [chicken soup](item)
+    - i want to add some [chicken soup](item) to the ist
+    - insert [miso sauce](item) in the list
+    - i want [seventeen](number) [miso sauce](item)
+    - i desire [rice with chicken](item)
+    - i would like to add [a]{"entity": "number", "value": 1} [rice with chicken](item) to the list
+    - i want [an]{"entity": "number", "value": 1} [rice with chicken](item)
+    - i desire [pancakes](item)
+    - i want to add some [pancakes](item) to the list
+    - i want to add [a]{"entity": "number", "value": 1} [coffee creamer](item)
+    - i desire [coffee creamer](item)
+    - i would like to add [an]{"entity": "number", "value": 1} [coffee creamer](item) to the lis
+    - i would like to add [an]{"entity": "number", "value": 1} [brioche](item) to the list
+    - insert [26](number) [brioche](item)
+    - i would like to add [thirty](number) [egg white omelet](item) to the list
+    - i want [egg white omelet](item)
+    - i desire [egg white omelet](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [vegetables in pastry](item)
+    - i want [25](number) [vegetables in pastry](item)
+    - insert [doughnut](item) in the shopping list
+    - insert [one]{"entity": "number", "value": 1} [doughnut](item) in the list
+    - i wish [twenty-seven](number) [doughnut](item)
+    - i wish [a]{"entity": "number", "value": 1} [chestnuts](item)
+    - insert [chestnuts](item) in the list
+    - i want to add some [chestnuts](item) to the list
+    - i want [tabbouleh](item)
+    - remember me to buy some [tabbouleh](item)
+    - add [thirty-one](number) [veal scallopini](item) to the shoppint lis
+    - i wish [9](number) [veal scallopini](item)
+    - i want [veal scallopini](item)
+    - i want [three](number) [roll](item)
+    - add [a]{"entity": "number", "value": 1} [roll](item) to the list
+    - insert [21](number) [roll](item)
+    - i wish [lima bean soup](item)
+    - insert [87](number) [lima bean soup](item)
+    - i wish [an]{"entity": "number", "value": 1} [lima bean soup](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [enchilada with meat](item)
+    - i desire [an]{"entity": "number", "value": 1} [enchilada with meat](item)
+    - i would like to add [one]{"entity": "number", "value": 1} [enchilada with meat](item) to the list
+    - insert [seven](number) [peas](item)
+    - insert [peas](item) in the list
+    - remember me to buy some [peas](item)
+    - i would like to add some [skittles](item) to the list
+    - add [80](number) [skittles](item) to the shoppint list
+    - i want [one]{"entity": "number", "value": 1} [skittles](item)
+    - i would like to add [one]{"entity": "number", "value": 1} [peanut oil](item) to the list
+    - i wish [peanut oil](item)
+    - insert [a]{"entity": "number", "value": 1} [peanut oil](item) in the list
+    - i want [lobster](item)
+    - i wish [lobster](item)
+    - i would like to add some [beef and rice](item) to the list
+    - i wish [25](number) [beef and rice](item)
+    - i want [98](number) [pork jerky](item)
+    - add [a]{"entity": "number", "value": 1} [pork jerky](item) to the list
+    - i want [one]{"entity": "number", "value": 1} [whatchamacallit](item)
+    - insert [eighteen](number) [whatchamacallit](item) in the list
+    - remember me to buy some [0](number) [macaroni or noodles](item)
+    - i desire [macaroni or noodles](item)
+    - i want [sugar-coated chocolate discs](item)
+    - add [sugar-coated chocolate discs](item) to the list
+    - i want [sugar-coated chocolate discs](item)
+    - insert [an]{"entity": "number", "value": 1} [salty dog](item) in the list
+    - i would like to add [seventeen](number) [salty dog](item) to the list
+    - add [one]{"entity": "number", "value": 1} [lentils](item) to the list
+    - i desire [lentils](item)
+    - remember me to buy some [an]{"entity": "number", "value": 1} [waffle](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [waffle](item)
+    - i wish [an]{"entity": "number", "value": 1} [beans with meat](item)
+    - i wish [beans with meat](item)
+    - insert [one]{"entity": "number", "value": 1} [beans with meat](item) in the list
+    - i wish [an]{"entity": "number", "value": 1} [hamburger (mcdonalds)](item)
+    - i desire [a]{"entity": "number", "value": 1} [hamburger (mcdonalds)](item)
+    - add [26](number) [hamburger (mcdonalds)](item) to the shoppint list
+    - remember me to buy some [a]{"entity": "number", "value": 1} [dumpling](item)
+    - i want [dumpling](item)
+    - insert [grape juice](item) in the lits
+    - insert [one]{"entity": "number", "value": 1} [grape juice](item)
+    - i desire [tannier](item)
+    - i would like to add [1](number) [tannier](item) to the list
+    - insert [tannier](item) in the list
+    - add [fourteen](number) [ham](item) to the list
+    - insert [ham](item) in the shopping list
+    - i want to buy [a]{"entity": "number", "value": 1} [ham](item)
+    - add [marmalade](item) to the list
+    - i desire [marmalade](item)
+    - i want [strawberry beverage powder](item)
+    - add [20](number) [strawberry beverage powder](item) to the list
+    - i would like to add some [strawberry beverage powder](item) to the list
+    - i would like to add some [beef and broccoli](item) to the list
+    - insert [an]{"entity": "number", "value": 1} [beef and broccoli](item) in the list
+    - remember me to buy some [four](number) [beef and broccoli](item)
+    - insert [potato sticks](item) in the shopping list
+    - i would like to add some [potato sticks](item) to the list
+    - add [a]{"entity": "number", "value": 1} [potato sticks](item) to the list
+    - i want to add some [winter squash](item)
+    - insert [winter squash](item) in the shopping list
+    - i want [an]{"entity": "number", "value": 1} [goose egg](item)
+    - i want [37](number) [goose egg](item)
+    - i wish [one]{"entity": "number", "value": 1} [goose egg](item)
+    - add [kimchi](item) to the list
+    - i would like to add [a]{"entity": "number", "value": 1} [kimchi](item) to the list
+    - i wish [bagel chips](item)
+    - insert [81](number) [bagel chips](item)
+    - i desire [twenty](number) [bagel chips](item)
+    - i would like to add [84](number) [beignet](item) to the list
+    - insert [beignet](item) in the lis
+    - i want [beignet](item)
+    - i want to add [39](number) [channa saag](item)
+    - i desire [channa saag](item)
+    - i want to add some [channa saag](item) to the list
+    - insert [0](number) [bacardi cocktail](item)
+    - i would like to add some [bacardi cocktail](item) to the list
+    - add [an]{"entity": "number", "value": 1} [martini](item) to the shoppint list
+    - i wish [martini](item)
+    - i wish [chicken](item)
+    - i want to add some [chicken](item)
+    - add [nineteen](number) [chicken](item) to the shoppint list
+    - insert [thirty](number) [banana yogurt dessert](item) in the list
+    - insert [one]{"entity": "number", "value": 1} [banana yogurt dessert](item) in the list
+    - i want [banana yogurt dessert](item)
+    - add [a]{"entity": "number", "value": 1} [tomato noodle soup](item) to the list
+    - add [tomato noodle soup](item) to the list
+    - i want [48](number) [soft fruit confections](item)
+    - add [one]{"entity": "number", "value": 1} [soft fruit confections](item) to the shoppint list
+    - add [an]{"entity": "number", "value": 1} [soft fruit confections](item) to the shoppint list
+    - i want [lobster newburg](item)
+    - i want [lobster newburg](item)
+    - i would like to add some [coconut water](item) to the list
+    - remember me to buy some [coconut water](item)
+    - insert [an]{"entity": "number", "value": 1} [coconut water](item)
+    - remember me to buy some [a]{"entity": "number", "value": 1} [chewing gum](item)
+    - insert [an]{"entity": "number", "value": 1} [chewing gum](item) in the list
+    - i want [mimosa](item)
+    - insert [mimosa](item) in the shopping list
+    - i want to add [fourteen](number) [cheese enchilada](item)
+    - insert [18](number) [cheese enchilada](item) in the list
+    - add [a]{"entity": "number", "value": 1} [cod](item) to the shoppint list
+    - insert [fifteen](number) [cod](item) in the list
+    - insert [78](number) [cod](item)
+    - i want to buy [40](number) [luncheon meat sandwich](item)
+    - i want to add some [luncheon meat sandwich](item)
+    - insert [twenty-five](number) [flavored rice](item) in the list
+    - remember me to buy some [flavored rice](item)
+    - insert [italian wedding soup](item) in the shopping list
+    - i want [an]{"entity": "number", "value": 1} [italian wedding soup](item)
+    - i want to buy [a]{"entity": "number", "value": 1} [italian wedding soup](item)
+    - remember me to buy some [an]{"entity": "number", "value": 1} [congee](item)
+    - i desire [congee](item)
+    - insert [thirteen](number) [bloody mary](item) in the lis
+    - add [one]{"entity": "number", "value": 1} [bloody mary](item) to the list
+    - i want [vegetable mixture](item)
+    - remember me to buy some [vegetable mixture](item)
+    - i wish [vegetable mixture](item)
+    - insert [an]{"entity": "number", "value": 1} [peach cobbler](item) in the lits
+    - add [one]{"entity": "number", "value": 1} [peach cobbler](item) to the ist
+    - remember me to buy some [fruit](item)
+    - add [fruit](item) to the list
+    - i want to add some [veal chop](item) to the list
+    - insert [an]{"entity": "number", "value": 1} [veal chop](item)
+    - add [rice meal fritter](item) to the list
+    - i desire [rice meal fritter](item)
+    - i wish [seventeen](number) [lasagna](item)
+    - insert [lasagna](item) in the shopping ist
+    - add [twenty](number) [livers](item) to the lits
+    - i want to buy [an]{"entity": "number", "value": 1} [livers](item)
+    - add [one]{"entity": "number", "value": 1} [livers](item) to the list
+    - i want [liqueur with cream](item)
+    - insert [twenty-eight](number) [liqueur with cream](item) in the list
+    - i desire [taro](item)
+    - i wish [taro](item)
