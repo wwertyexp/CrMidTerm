@@ -1,1280 +1,315 @@
-    - let me see how many [almond butter](item)
-    - how many [almond butter](item) are there in the list?
-    - show me the number of [pepperpot soup](item)
-    - how many [pepperpot soup](item) do i need to buy?
-    - how many [pepperpot soup](item) are there in the list?
-    - how many [spanish vegetable soup](item) are there?
-    - how many [spanish vegetable soup](item) are there in the list?
-    - how many [fruit cocktail](item) are there in the list?
-    - show me the number of [fruit cocktail](item)
-    - how many [fudge](item) are there in the list?
-    - how many [fudge](item) are there?
-    - how many [fudge](item) are there?
-    - how many [brandy and cola](item) do i need to buy?
-    - how many [brandy and cola](item) are there in the list?
-    - show me the number of [grapes](item)
-    - let me see the number of [grapes](item)
-    - show me the number of [menudo soup](item)
-    - show me the number of [menudo soup](item)
-    - show me the number of [squash and corn](item)
-    - how many [squash and corn](item) are there?
-    - let me see how many [stuffed tannier fritters](item)
-    - how many [stuffed tannier fritters](item) are there in the list?
-    - let me see how many [stuffed tannier fritters](item)
-    - let me see the number of [pears](item)
-    - let me see how many [pears](item)
-    - let me see the number of [pears](item)
-    - show me the number of [abalone](item)
-    - show me the number of [abalone](item)
-    - show me the number of [papaya](item)
-    - let me see how many [papaya](item)
-    - let me see the number of [ketchup](item)
-    - how many [ketchup](item) are there?
-    - how many [ketchup](item) are there in the list?
-    - how many [beef salad](item) are there?
-    - how many [beef salad](item) do i need to buy?
-    - show me the number of [goose egg](item)
-    - let me see how many [goose egg](item)
-    - how many [basil](item) are there in the list?
-    - let me see how many [basil](item)
-    - how many [basil](item) are there in the list?
-    - how many [chili con carne](item) are there in the list?
-    - let me see the number of [chili con carne](item)
-    - let me see the number of [oatmeal](item)
-    - let me see the number of [oatmeal](item)
-    - how many [walnut oil](item) do i need to buy?
-    - let me see how many [walnut oil](item)
-    - how many [beet juice](item) are there?
-    - let me see the number of [beet juice](item)
-    - let me see the number of [beet juice](item)
-    - let me see the number of [energy drink (monster)](item)
-    - how many [energy drink (monster)](item) are there in the list?
-    - how many [vodka and tonic](item) are there?
-    - let me see how many [vodka and tonic](item)
-    - how many [split peas](item) are there?
-    - how many [split peas](item) are there in the list?
-    - how many [split peas](item) are there?
-    - how many [rice with squid](item) do i need to buy?
-    - let me see the number of [rice with squid](item)
-    - how many [rice with squid](item) are there in the list?
-    - how many [rice milk](item) are there in the list?
-    - show me the number of [rice milk](item)
-    - show me the number of [margarita](item)
-    - show me the number of [margarita](item)
-    - how many [peanut bar](item) are there?
-    - let me see how many [peanut bar](item)
-    - show me the number of [shav soup](item)
-    - how many [shav soup](item) are there in the list?
-    - how many [grilled cheese sandwich](item) are there?
-    - how many [grilled cheese sandwich](item) do i need to buy?
-    - let me see the number of [cheeseburger (burger king)](item)
-    - let me see the number of [cheeseburger (burger king)](item)
-    - let me see the number of [toblerone](item)
-    - let me see the number of [toblerone](item)
-    - how many [toblerone](item) are there in the list?
-    - how many [lard](item) are there?
-    - let me see how many [lard](item)
-    - show me the number of [asparagus soup](item)
-    - how many [asparagus soup](item) are there in the list?
-    - how many [steak sauce](item) do i need to buy?
-    - let me see how many [steak sauce](item)
-    - how many [hoisin sauce](item) are there?
-    - how many [hoisin sauce](item) do i need to buy?
-    - how many [general tso chicken](item) do i need to buy?
-    - show me the number of [general tso chicken](item)
-    - let me see the number of [general tso chicken](item)
-    - let me see the number of [mustard greens](item)
-    - how many [mustard greens](item) do i need to buy?
-    - let me see the number of [garlic egg soup](item)
-    - how many [garlic egg soup](item) do i need to buy?
-    - how many [garlic egg soup](item) do i need to buy?
-    - let me see the number of [breaded brains](item)
-    - how many [breaded brains](item) are there in the list?
-    - let me see the number of [meatballs](item)
-    - how many [meatballs](item) do i need to buy?
-    - how many [lobster](item) do i need to buy?
-    - show me the number of [lobster](item)
-    - let me see the number of [lobster](item)
-    - how many [turnover or dumpling](item) are there in the list?
-    - let me see the number of [turnover or dumpling](item)
-    - let me see the number of [turnover or dumpling](item)
-    - show me the number of [fried cauliflower](item)
-    - how many [fried cauliflower](item) are there?
-    - let me see how many [white russian](item)
-    - how many [white russian](item) are there?
-    - how many [white russian](item) do i need to buy?
-    - how many [polish sausage](item) are there in the list?
-    - let me see how many [polish sausage](item)
-    - how many [polish sausage](item) do i need to buy?
-    - let me see how many [bread](item)
-    - how many [bread](item) do i need to buy?
-    - how many [gizzard](item) are there in the list?
-    - how many [gizzard](item) are there in the list?
-    - show me the number of [chicken with gravy](item)
-    - let me see how many [chicken with gravy](item)
-    - let me see how many [sweet potatoes](item)
-    - let me see how many [sweet potatoes](item)
-    - how many [tortilla chips](item) do i need to buy?
-    - let me see the number of [tortilla chips](item)
-    - how many [quail egg](item) do i need to buy?
-    - let me see how many [quail egg](item)
-    - let me see how many [quail egg](item)
-    - let me see how many [banana](item)
-    - how many [banana](item) are there in the list?
-    - let me see how many [banana](item)
-    - show me the number of [ray](item)
-    - how many [ray](item) are there?
-    - show me the number of [spanish stew](item)
-    - let me see the number of [spanish stew](item)
-    - show me the number of [spanish stew](item)
-    - how many [manicotti](item) are there in the list?
-    - show me the number of [manicotti](item)
-    - let me see how many [manicotti](item)
-    - how many [goose](item) do i need to buy?
-    - how many [goose](item) are there?
-    - how many [goose](item) are there in the list?
-    - let me see how many [chili with beans](item)
-    - how many [chili with beans](item) do i need to buy?
-    - let me see the number of [chili with beans](item)
-    - let me see how many [buttermilk](item)
-    - how many [buttermilk](item) are there in the list?
-    - how many [buttermilk](item) are there?
-    - let me see the number of [fluid replacement](item)
-    - how many [fluid replacement](item) are there in the list?
-    - show me the number of [fluid replacement](item)
-    - how many [pork ears](item) do i need to buy?
-    - let me see the number of [pork ears](item)
-    - let me see how many [hamburger](item)
-    - how many [hamburger](item) are there?
-    - how many [hamburger](item) are there?
-    - how many [fish sauce](item) do i need to buy?
-    - how many [fish sauce](item) do i need to buy?
-    - how many [fish sauce](item) are there?
-    - how many [roll](item) are there in the list?
-    - how many [roll](item) do i need to buy?
-    - show me the number of [horseradish](item)
-    - how many [horseradish](item) are there?
-    - let me see how many [icing](item)
-    - show me the number of [icing](item)
-    - how many [icing](item) do i need to buy?
-    - how many [butter replacement](item) do i need to buy?
-    - how many [butter replacement](item) are there in the list?
-    - how many [pineapple dessert](item) are there?
-    - how many [pineapple dessert](item) are there?
-    - let me see the number of [pineapple dessert](item)
-    - how many [snails](item) do i need to buy?
-    - show me the number of [snails](item)
-    - how many [snails](item) are there in the list?
-    - how many [nachos with chicken](item) are there?
-    - let me see the number of [nachos with chicken](item)
-    - let me see how many [nachos with chicken](item)
-    - how many [vegetable mixture](item) are there in the list?
-    - show me the number of [vegetable mixture](item)
-    - how many [biryani with vegetables](item) are there in the list?
-    - how many [biryani with vegetables](item) are there?
-    - show me the number of [bitter melon](item)
-    - let me see the number of [bitter melon](item)
-    - how many [cereal](item) are there?
-    - how many [cereal](item) are there?
-    - let me see how many [cereal](item)
-    - show me the number of [sausage gravy](item)
-    - how many [sausage gravy](item) are there?
-    - let me see the number of [sausage gravy](item)
-    - how many [ice cream soda](item) are there in the list?
-    - show me the number of [ice cream soda](item)
-    - show me the number of [tamale casserole](item)
-    - how many [tamale casserole](item) do i need to buy?
-    - how many [tamale casserole](item) are there?
-    - how many [chocolate milk drink](item) are there?
-    - how many [chocolate milk drink](item) do i need to buy?
-    - how many [stewed gizzards](item) do i need to buy?
-    - let me see how many [stewed gizzards](item)
-    - show me the number of [stewed gizzards](item)
-    - show me the number of [mayonnaise-type salad dressing](item)
-    - let me see how many [mayonnaise-type salad dressing](item)
-    - let me see the number of [egg salad](item)
-    - let me see the number of [egg salad](item)
-    - show me the number of [chocolate](item)
-    - how many [chocolate](item) are there in the list?
-    - how many [chocolate](item) do i need to buy?
-    - show me the number of [chestnuts](item)
-    - how many [chestnuts](item) are there?
-    - let me see the number of [corn dog](item)
-    - how many [corn dog](item) are there in the list?
-    - show me the number of [corn dog](item)
-    - show me the number of [fava beans](item)
-    - how many [fava beans](item) do i need to buy?
-    - show me the number of [cheddar cheese soup](item)
-    - let me see how many [cheddar cheese soup](item)
-    - how many [beef wellington](item) are there in the list?
-    - how many [beef wellington](item) do i need to buy?
-    - how many [chocolate beverage powder](item) do i need to buy?
-    - how many [chocolate beverage powder](item) do i need to buy?
-    - how many [chimichanga](item) are there in the list?
-    - let me see the number of [chimichanga](item)
-    - how many [chimichanga](item) are there in the list?
-    - how many [leek soup](item) are there in the list?
-    - let me see how many [leek soup](item)
-    - let me see how many [leek soup](item)
-    - how many [gerber finger foods](item) are there in the list?
-    - let me see how many [gerber finger foods](item)
-    - let me see the number of [lychee](item)
-    - how many [lychee](item) are there?
-    - how many [lychee](item) are there?
-    - how many [marie biscuit](item) are there in the list?
-    - how many [marie biscuit](item) are there?
-    - how many [brandy](item) are there in the list?
-    - show me the number of [brandy](item)
-    - show me the number of [watermelon juice](item)
-    - how many [watermelon juice](item) are there?
-    - how many [banana nectar](item) are there?
-    - let me see how many [banana nectar](item)
-    - how many [banana nectar](item) do i need to buy?
-    - how many [chicken submarine sandwich](item) are there in the list?
-    - let me see how many [chicken submarine sandwich](item)
-    - let me see the number of [falafel](item)
-    - how many [falafel](item) do i need to buy?
-    - show me the number of [gin rickey](item)
-    - how many [gin rickey](item) do i need to buy?
-    - let me see the number of [gin rickey](item)
-    - let me see how many [bananas and pineapple](item)
-    - show me the number of [bananas and pineapple](item)
-    - how many [bananas and pineapple](item) do i need to buy?
-    - let me see the number of [fish](item)
-    - let me see the number of [fish](item)
-    - how many [pakora](item) are there in the list?
-    - let me see how many [pakora](item)
-    - show me the number of [pakora](item)
-    - how many [liver dumpling](item) do i need to buy?
-    - show me the number of [liver dumpling](item)
-    - how many [soft drink](item) do i need to buy?
-    - let me see how many [soft drink](item)
-    - how many [biryani with meat](item) are there?
-    - let me see the number of [biryani with meat](item)
-    - let me see the number of [biryani with meat](item)
-    - show me the number of [vegetable beef soup](item)
-    - how many [vegetable beef soup](item) do i need to buy?
-    - how many [pepper](item) are there in the list?
-    - how many [pepper](item) are there in the list?
-    - let me see the number of [pepper](item)
-    - let me see how many [pasta with vegetables](item)
-    - let me see the number of [pasta with vegetables](item)
-    - show me the number of [quail](item)
-    - how many [quail](item) are there in the list?
-    - let me see how many [vegetarian pot pie](item)
-    - how many [vegetarian pot pie](item) are there?
-    - how many [vegetarian pot pie](item) do i need to buy?
-    - let me see the number of [gelato](item)
-    - how many [gelato](item) are there?
-    - let me see how many [halvah](item)
-    - let me see the number of [halvah](item)
-    - show me the number of [halvah](item)
-    - let me see the number of [onion dip](item)
-    - how many [onion dip](item) are there in the list?
-    - how many [onion dip](item) do i need to buy?
-    - how many [popcorn cake](item) are there?
-    - let me see the number of [popcorn cake](item)
-    - let me see how many [popcorn cake](item)
-    - how many [rob roy](item) do i need to buy?
-    - let me see the number of [rob roy](item)
-    - how many [ripe plantain fritters](item) do i need to buy?
-    - how many [ripe plantain fritters](item) are there in the list?
-    - show me the number of [russian dressing](item)
-    - how many [russian dressing](item) are there?
-    - how many [russian dressing](item) are there in the list?
-    - how many [beer cheese soup](item) are there?
-    - how many [beer cheese soup](item) do i need to buy?
-    - let me see the number of [beer cheese soup](item)
-    - let me see how many [bean cake](item)
-    - let me see the number of [bean cake](item)
-    - how many [bean cake](item) do i need to buy?
-    - show me the number of [curry sauce](item)
-    - how many [curry sauce](item) are there?
-    - let me see the number of [vegetable broth](item)
-    - how many [vegetable broth](item) are there in the list?
-    - how many [vegetable broth](item) do i need to buy?
-    - how many [vodka and lemonade](item) are there?
-    - let me see how many [vodka and lemonade](item)
-    - how many [vodka and lemonade](item) do i need to buy?
-    - how many [burdock](item) are there?
-    - how many [burdock](item) do i need to buy?
-    - let me see the number of [broccoli and cauliflower](item)
-    - let me see the number of [broccoli and cauliflower](item)
-    - how many [lima bean soup](item) do i need to buy?
-    - how many [lima bean soup](item) are there?
-    - how many [lima bean soup](item) are there in the list?
-    - how many [reese's fast break](item) are there in the list?
-    - how many [reese's fast break](item) are there?
-    - let me see the number of [reese's fast break](item)
-    - how many [chicken stew](item) are there?
-    - let me see the number of [chicken stew](item)
-    - let me see the number of [sandwich](item)
-    - how many [sandwich](item) are there in the list?
-    - let me see the number of [sandwich](item)
-    - show me the number of [jelly sandwich](item)
-    - show me the number of [jelly sandwich](item)
-    - let me see how many [puerto rican stew](item)
-    - how many [puerto rican stew](item) are there in the list?
-    - let me see how many [puerto rican stew](item)
-    - how many [rice croquette](item) are there?
-    - how many [rice croquette](item) do i need to buy?
-    - let me see how many [rice croquette](item)
-    - let me see how many [pork roll](item)
-    - how many [pork roll](item) are there?
-    - show me the number of [clementine](item)
-    - how many [clementine](item) are there?
-    - show me the number of [clementine](item)
-    - let me see how many [ghee](item)
-    - how many [ghee](item) do i need to buy?
-    - let me see the number of [ghee](item)
-    - let me see the number of [fried broccoli](item)
-    - let me see how many [fried broccoli](item)
-    - how many [fried broccoli](item) do i need to buy?
-    - show me the number of [cranberry sauce](item)
-    - let me see the number of [cranberry sauce](item)
-    - how many [cranberry sauce](item) are there?
-    - let me see the number of [vegan mayonnaise](item)
-    - how many [vegan mayonnaise](item) do i need to buy?
-    - let me see how many [vegan mayonnaise](item)
-    - how many [fruit salad](item) are there in the list?
-    - how many [fruit salad](item) are there in the list?
-    - how many [fruit salad](item) are there?
-    - how many [lentil curry](item) are there in the list?
-    - show me the number of [lentil curry](item)
-    - let me see the number of [chorizo](item)
-    - how many [chorizo](item) do i need to buy?
-    - how many [fig](item) are there in the list?
-    - how many [fig](item) are there?
-    - show me the number of [yuca fries](item)
-    - let me see the number of [yuca fries](item)
-    - how many [yuca fries](item) are there in the list?
-    - show me the number of [dove](item)
-    - how many [dove](item) are there in the list?
-    - let me see the number of [eggplant](item)
-    - how many [eggplant](item) do i need to buy?
-    - let me see the number of [eggplant](item)
-    - show me the number of [wrap sandwich](item)
-    - let me see the number of [wrap sandwich](item)
-    - show me the number of [wax candy](item)
-    - show me the number of [wax candy](item)
-    - how many [cornbread muffin](item) are there?
-    - let me see how many [cornbread muffin](item)
-    - how many [cornbread muffin](item) are there?
-    - let me see the number of [stewed corned beef](item)
-    - let me see the number of [stewed corned beef](item)
-    - how many [sushi roll](item) are there?
-    - let me see the number of [sushi roll](item)
-    - how many [oats](item) are there in the list?
-    - let me see how many [oats](item)
-    - let me see the number of [oats](item)
-    - let me see how many [honeydew melon](item)
-    - how many [honeydew melon](item) are there in the list?
-    - let me see the number of [honeydew melon](item)
-    - let me see how many [sweet potato paste](item)
-    - how many [sweet potato paste](item) are there?
-    - let me see the number of [sweet potato paste](item)
-    - how many [clam chowder](item) do i need to buy?
-    - how many [clam chowder](item) do i need to buy?
-    - show me the number of [clam chowder](item)
-    - how many [vegetable submarine sandwich](item) are there?
-    - show me the number of [vegetable submarine sandwich](item)
-    - how many [fruit butter](item) are there?
-    - how many [fruit butter](item) are there in the list?
-    - how many [fruit butter](item) are there?
-    - show me the number of [mustard cabbage](item)
-    - how many [mustard cabbage](item) are there in the list?
-    - show me the number of [tomato juice cocktail](item)
-    - how many [tomato juice cocktail](item) are there in the list?
-    - how many [tomato juice cocktail](item) do i need to buy?
-    - how many [meat broth](item) do i need to buy?
-    - let me see how many [meat broth](item)
-    - let me see how many [codfish salad](item)
-    - how many [codfish salad](item) are there?
-    - let me see how many [codfish salad](item)
-    - let me see the number of [meat turnover](item)
-    - let me see how many [meat turnover](item)
-    - how many [meat turnover](item) do i need to buy?
-    - let me see how many [waffle](item)
-    - show me the number of [waffle](item)
-    - let me see the number of [waffle](item)
-    - let me see the number of [stewed pig's feet](item)
-    - let me see how many [stewed pig's feet](item)
-    - how many [stewed pig's feet](item) are there?
-    - show me the number of [pina colada](item)
-    - how many [pina colada](item) are there?
-    - let me see the number of [lemonade](item)
-    - how many [lemonade](item) are there?
-    - how many [lemonade](item) are there?
-    - show me the number of [armadillo](item)
-    - how many [armadillo](item) are there in the list?
-    - let me see the number of [armadillo](item)
-    - let me see the number of [veal scallopini](item)
-    - let me see the number of [veal scallopini](item)
-    - how many [cereal (uncle sam)](item) do i need to buy?
-    - show me the number of [cereal (uncle sam)](item)
-    - let me see the number of [cereal (uncle sam)](item)
-    - how many [tuna salad sandwich](item) do i need to buy?
-    - show me the number of [tuna salad sandwich](item)
-    - show me the number of [potato patty](item)
-    - show me the number of [potato patty](item)
-    - let me see how many [potato patty](item)
-    - let me see how many [cranberry juice drink](item)
-    - how many [cranberry juice drink](item) are there in the list?
-    - let me see the number of [peruvian beans](item)
-    - let me see how many [peruvian beans](item)
-    - let me see the number of [beef stroganoff](item)
-    - how many [beef stroganoff](item) are there in the list?
-    - let me see how many [white pizza](item)
-    - show me the number of [white pizza](item)
-    - how many [white pizza](item) are there?
-    - show me the number of [white beans](item)
-    - how many [white beans](item) are there in the list?
-    - let me see how many [white beans](item)
-    - how many [onion soup](item) do i need to buy?
-    - show me the number of [onion soup](item)
-    - how many [beef short ribs](item) do i need to buy?
-    - let me see the number of [beef short ribs](item)
-    - how many [beef short ribs](item) are there?
-    - show me the number of [fried pork chunks](item)
-    - let me see how many [fried pork chunks](item)
-    - how many [licorice](item) are there in the list?
-    - let me see the number of [licorice](item)
-    - show me the number of [bison](item)
-    - how many [bison](item) are there?
-    - let me see the number of [carbonated water](item)
-    - how many [carbonated water](item) are there in the list?
-    - let me see how many [almonds](item)
-    - how many [almonds](item) do i need to buy?
-    - how many [almonds](item) do i need to buy?
-    - let me see the number of [pea salad](item)
-    - show me the number of [pea salad](item)
-    - how many [reese's sticks](item) are there?
-    - how many [reese's sticks](item) do i need to buy?
-    - how many [apple-fruit juice blend](item) are there?
-    - how many [apple-fruit juice blend](item) do i need to buy?
-    - how many [enchilada sauce](item) do i need to buy?
-    - how many [enchilada sauce](item) are there in the list?
-    - show me the number of [italian ice](item)
-    - let me see how many [italian ice](item)
-    - how many [tamale](item) do i need to buy?
-    - how many [tamale](item) do i need to buy?
-    - let me see the number of [tamale](item)
-    - how many [lambsquarter](item) are there?
-    - how many [lambsquarter](item) do i need to buy?
-    - let me see the number of [kit kat](item)
-    - how many [kit kat](item) are there?
-    - show me the number of [caribou](item)
-    - let me see how many [caribou](item)
-    - let me see the number of [reese's pieces](item)
-    - show me the number of [reese's pieces](item)
-    - show me the number of [anisette toast](item)
-    - how many [anisette toast](item) are there in the list?
-    - let me see the number of [energy drink (rockstar)](item)
-    - how many [energy drink (rockstar)](item) are there in the list?
-    - how many [crab soup](item) are there in the list?
-    - how many [crab soup](item) do i need to buy?
-    - show me the number of [beef liver](item)
-    - let me see the number of [beef liver](item)
-    - let me see how many [beef liver](item)
-    - let me see how many [sesame dressing](item)
-    - show me the number of [sesame dressing](item)
-    - how many [pan dulce](item) are there in the list?
-    - how many [pan dulce](item) do i need to buy?
-    - how many [stuffed shells](item) are there in the list?
-    - how many [stuffed shells](item) are there in the list?
-    - how many [snow cone](item) do i need to buy?
-    - let me see how many [snow cone](item)
-    - how many [snow cone](item) are there in the list?
-    - let me see the number of [chutney](item)
-    - how many [chutney](item) are there?
-    - show me the number of [chutney](item)
-    - let me see how many [pie shell](item)
-    - let me see the number of [pie shell](item)
-    - how many [pie shell](item) are there?
-    - how many [noodles](item) are there?
-    - how many [noodles](item) are there in the list?
-    - how many [noodles](item) do i need to buy?
-    - how many [corn chips](item) do i need to buy?
-    - let me see the number of [corn chips](item)
-    - how many [corn chips](item) do i need to buy?
-    - let me see how many [salmon soup](item)
-    - how many [salmon soup](item) are there?
-    - how many [egg drop soup](item) are there in the list?
-    - let me see how many [egg drop soup](item)
-    - how many [egg drop soup](item) are there?
-    - how many [cherry pie filling](item) are there in the list?
-    - let me see how many [cherry pie filling](item)
-    - let me see the number of [steak sandwich](item)
-    - show me the number of [steak sandwich](item)
-    - how many [guava paste](item) are there?
-    - how many [guava paste](item) are there?
-    - how many [guava paste](item) are there?
-    - how many [pork](item) do i need to buy?
-    - let me see the number of [pork](item)
-    - how many [sesame chicken](item) are there?
-    - how many [sesame chicken](item) are there?
-    - how many [sesame chicken](item) do i need to buy?
-    - how many [meat loaf dinner](item) are there?
-    - how many [meat loaf dinner](item) are there in the list?
-    - show me the number of [infant formula](item)
-    - let me see the number of [infant formula](item)
-    - how many [duck](item) are there?
-    - let me see the number of [duck](item)
-    - how many [duck](item) do i need to buy?
-    - show me the number of [poppy seed dressing](item)
-    - let me see the number of [poppy seed dressing](item)
-    - show me the number of [poppy seed dressing](item)
-    - how many [bagel chips](item) are there?
-    - let me see the number of [bagel chips](item)
-    - how many [bagel chips](item) are there?
-    - show me the number of [enchilada with chicken](item)
-    - how many [enchilada with chicken](item) are there in the list?
-    - how many [honey butter](item) are there in the list?
-    - how many [honey butter](item) are there in the list?
-    - how many [gumdrops](item) are there in the list?
-    - how many [gumdrops](item) do i need to buy?
-    - how many [gumdrops](item) do i need to buy?
-    - let me see how many [bacon sandwich](item)
-    - how many [bacon sandwich](item) do i need to buy?
-    - let me see the number of [bacon sandwich](item)
-    - how many [prune juice](item) do i need to buy?
-    - show me the number of [prune juice](item)
-    - how many [prune juice](item) do i need to buy?
-    - show me the number of [reuben sandwich](item)
-    - show me the number of [reuben sandwich](item)
-    - how many [reuben sandwich](item) do i need to buy?
-    - let me see the number of [danish pastry](item)
-    - show me the number of [danish pastry](item)
-    - how many [lefse (norwegian)](item) do i need to buy?
-    - how many [lefse (norwegian)](item) are there in the list?
-    - how many [lefse (norwegian)](item) do i need to buy?
-    - let me see how many [roe](item)
-    - how many [roe](item) are there?
-    - how many [roe](item) are there in the list?
-    - show me the number of [steak tartare](item)
-    - let me see the number of [steak tartare](item)
-    - show me the number of [mixed nuts](item)
-    - how many [mixed nuts](item) are there in the list?
-    - how many [egg salad sandwich](item) are there?
-    - show me the number of [egg salad sandwich](item)
-    - let me see the number of [ceviche](item)
-    - show me the number of [ceviche](item)
-    - show me the number of [broccoflower](item)
-    - let me see the number of [broccoflower](item)
-    - how many [beans and franks](item) are there in the list?
-    - how many [beans and franks](item) do i need to buy?
-    - let me see the number of [beans and franks](item)
-    - show me the number of [sherbet](item)
-    - how many [sherbet](item) are there in the list?
-    - let me see the number of [fish moochim](item)
-    - let me see how many [fish moochim](item)
-    - how many [fish moochim](item) do i need to buy?
-    - let me see how many [biscayne codfish](item)
-    - let me see the number of [biscayne codfish](item)
-    - how many [biscayne codfish](item) do i need to buy?
-    - how many [broccoli soup](item) do i need to buy?
-    - how many [broccoli soup](item) are there?
-    - how many [broccoli soup](item) are there in the list?
-    - how many [corn oil](item) do i need to buy?
-    - how many [corn oil](item) are there?
-    - let me see the number of [trail mix](item)
-    - let me see the number of [trail mix](item)
-    - how many [rum cake](item) are there?
-    - how many [rum cake](item) are there?
-    - show me the number of [rum cake](item)
-    - let me see how many [turnip](item)
-    - how many [turnip](item) are there?
-    - show me the number of [turnip](item)
-    - how many [orange blossom](item) are there?
-    - let me see how many [orange blossom](item)
-    - how many [orange blossom](item) are there in the list?
-    - let me see how many [eggnog](item)
-    - show me the number of [eggnog](item)
-    - how many [eggnog](item) are there?
-    - how many [summer squash](item) are there in the list?
-    - let me see the number of [summer squash](item)
-    - how many [apple-raspberry](item) do i need to buy?
-    - let me see how many [apple-raspberry](item)
-    - how many [apple-raspberry](item) are there in the list?
-    - show me the number of [veal patty](item)
-    - how many [veal patty](item) do i need to buy?
-    - how many [veal patty](item) are there in the list?
-    - how many [celery soup](item) are there in the list?
-    - show me the number of [celery soup](item)
-    - how many [chicken](item) are there?
-    - how many [chicken](item) are there in the list?
-    - how many [chicken](item) are there?
-    - how many [guava](item) do i need to buy?
-    - let me see how many [guava](item)
-    - let me see how many [sandwich spread](item)
-    - let me see how many [sandwich spread](item)
-    - how many [ham salad spread](item) are there?
-    - let me see how many [ham salad spread](item)
-    - how many [ham salad spread](item) are there in the list?
-    - let me see how many [cuban sandwich](item)
-    - show me the number of [cuban sandwich](item)
-    - let me see how many [carrots and beef](item)
-    - how many [carrots and beef](item) are there?
-    - show me the number of [carrots and beef](item)
-    - let me see how many [tortellini](item)
-    - let me see how many [tortellini](item)
-    - how many [tortellini](item) do i need to buy?
-    - how many [burrito with chicken](item) are there in the list?
-    - show me the number of [burrito with chicken](item)
-    - how many [burrito with chicken](item) do i need to buy?
-    - let me see the number of [prunes](item)
-    - how many [prunes](item) are there in the list?
-    - let me see how many [prunes](item)
-    - how many [tamarind](item) are there?
-    - show me the number of [tamarind](item)
-    - how many [tamarind](item) are there in the list?
-    - show me the number of [margarine](item)
-    - how many [margarine](item) are there?
-    - how many [margarine](item) are there?
-    - how many [enchilada with meat](item) are there?
-    - show me the number of [enchilada with meat](item)
-    - let me see the number of [enchilada with meat](item)
-    - how many [rice with raisins](item) are there?
-    - show me the number of [rice with raisins](item)
-    - how many [rice with raisins](item) do i need to buy?
-    - show me the number of [brunswick stew](item)
-    - how many [brunswick stew](item) are there?
-    - show me the number of [brunswick stew](item)
-    - let me see how many [turkey dinner](item)
-    - how many [turkey dinner](item) do i need to buy?
-    - how many [lamb chop](item) are there?
-    - show me the number of [lamb chop](item)
-    - how many [dandelion greens](item) are there in the list?
-    - show me the number of [dandelion greens](item)
-    - let me see the number of [dandelion greens](item)
-    - how many [injera](item) are there in the list?
-    - how many [injera](item) are there in the list?
-    - how many [biscuit with gravy](item) are there in the list?
-    - how many [biscuit with gravy](item) are there in the list?
-    - how many [fried okra](item) are there?
-    - let me see the number of [fried okra](item)
-    - how many [crunchy snacks](item) are there in the list?
-    - let me see the number of [crunchy snacks](item)
-    - show me the number of [vegetable soup](item)
-    - how many [vegetable soup](item) are there in the list?
-    - how many [vegetable soup](item) are there in the list?
-    - let me see the number of [bean salad](item)
-    - how many [bean salad](item) are there in the list?
-    - let me see the number of [tabbouleh](item)
-    - how many [tabbouleh](item) are there?
-    - how many [tabbouleh](item) do i need to buy?
-    - how many [rice meal fritter](item) are there in the list?
-    - how many [rice meal fritter](item) are there in the list?
-    - how many [rice meal fritter](item) do i need to buy?
-    - let me see how many [raspberries](item)
-    - show me the number of [raspberries](item)
-    - how many [coffee cake](item) do i need to buy?
-    - how many [coffee cake](item) do i need to buy?
-    - how many [fruit bar](item) are there?
-    - let me see how many [fruit bar](item)
-    - how many [fruit bar](item) are there?
-    - let me see the number of [chocolate dip](item)
-    - let me see the number of [chocolate dip](item)
-    - how many [orange juice](item) are there in the list?
-    - how many [orange juice](item) are there in the list?
-    - let me see the number of [meat stick](item)
-    - how many [meat stick](item) do i need to buy?
-    - how many [finger foods](item) do i need to buy?
-    - how many [finger foods](item) do i need to buy?
-    - how many [finger foods](item) do i need to buy?
-    - how many [peas and corn](item) do i need to buy?
-    - how many [peas and corn](item) do i need to buy?
-    - how many [peas and corn](item) are there?
-    - how many [champagne punch](item) do i need to buy?
-    - show me the number of [champagne punch](item)
-    - how many [champagne punch](item) are there?
-    - how many [croaker](item) are there?
-    - let me see how many [croaker](item)
-    - how many [zucchini lasagna](item) are there?
-    - how many [zucchini lasagna](item) are there in the list?
-    - how many [wheat bran](item) are there?
-    - how many [wheat bran](item) do i need to buy?
-    - how many [beef with gravy](item) do i need to buy?
-    - how many [beef with gravy](item) do i need to buy?
-    - how many [mousse](item) are there?
-    - how many [mousse](item) do i need to buy?
-    - let me see the number of [butter-oil blend](item)
-    - let me see the number of [butter-oil blend](item)
-    - let me see the number of [vegetable rice soup](item)
-    - show me the number of [vegetable rice soup](item)
-    - how many [herring](item) are there in the list?
-    - let me see the number of [herring](item)
-    - let me see the number of [herring](item)
-    - show me the number of [shrimp and noodles](item)
-    - how many [shrimp and noodles](item) are there in the list?
-    - let me see the number of [shrimp and noodles](item)
-    - show me the number of [whopper (burger king)](item)
-    - show me the number of [whopper (burger king)](item)
-    - how many [tomato](item) do i need to buy?
-    - how many [tomato](item) are there?
-    - how many [tomato](item) are there?
-    - how many [sirloin tips](item) do i need to buy?
-    - let me see how many [sirloin tips](item)
-    - how many [pickles](item) are there?
-    - show me the number of [pickles](item)
-    - how many [pickles](item) are there in the list?
-    - let me see the number of [sweet bread dough](item)
-    - how many [sweet bread dough](item) are there in the list?
-    - let me see how many [sweet bread dough](item)
-    - how many [zombie](item) are there?
-    - show me the number of [zombie](item)
-    - how many [zombie](item) do i need to buy?
-    - how many [potato sticks](item) are there?
-    - how many [potato sticks](item) are there?
-    - let me see the number of [corn nuts](item)
-    - how many [corn nuts](item) do i need to buy?
-    - show me the number of [corn nuts](item)
-    - let me see the number of [grapefruit juice](item)
-    - let me see how many [grapefruit juice](item)
-    - how many [cantaloupe](item) are there?
-    - how many [cantaloupe](item) are there in the list?
-    - how many [tomato beef soup](item) are there?
-    - show me the number of [tomato beef soup](item)
-    - how many [flounder](item) are there?
-    - how many [flounder](item) are there?
-    - how many [carrot soup](item) do i need to buy?
-    - let me see the number of [carrot soup](item)
-    - how many [hollandaise sauce](item) are there?
-    - let me see how many [hollandaise sauce](item)
-    - how many [hollandaise sauce](item) do i need to buy?
-    - how many [fish curry](item) are there in the list?
-    - how many [fish curry](item) are there?
-    - how many [quesadilla](item) do i need to buy?
-    - how many [quesadilla](item) are there in the list?
-    - let me see how many [wheat](item)
-    - how many [wheat](item) are there in the list?
-    - let me see the number of [wheat](item)
-    - how many [pumpkin seeds](item) do i need to buy?
-    - show me the number of [pumpkin seeds](item)
-    - show me the number of [channa saag](item)
-    - how many [channa saag](item) are there?
-    - how many [pudding](item) are there?
-    - how many [pudding](item) are there in the list?
-    - how many [pudding](item) are there in the list?
-    - let me see how many [shrimp gumbo](item)
-    - show me the number of [shrimp gumbo](item)
-    - let me see how many [kiwi fruit](item)
-    - let me see the number of [kiwi fruit](item)
-    - how many [pineapple candy](item) are there in the list?
-    - how many [pineapple candy](item) do i need to buy?
-    - let me see how many [meat substitute](item)
-    - how many [meat substitute](item) are there?
-    - how many [meat substitute](item) are there in the list?
-    - how many [chicken breast](item) are there?
-    - how many [chicken breast](item) are there?
-    - how many [stewed](item) are there?
-    - how many [stewed](item) are there?
-    - let me see the number of [horchata beverage](item)
-    - let me see the number of [horchata beverage](item)
-    - show me the number of [fry sauce](item)
-    - how many [fry sauce](item) are there in the list?
-    - show me the number of [broccoli](item)
-    - let me see how many [broccoli](item)
-    - how many [broccoli](item) do i need to buy?
-    - how many [beef sloppy joe](item) are there in the list?
-    - how many [beef sloppy joe](item) are there in the list?
-    - show me the number of [beef sloppy joe](item)
-    - show me the number of [ham or pork](item)
-    - let me see the number of [ham or pork](item)
-    - how many [beef rice soup](item) are there?
-    - how many [beef rice soup](item) do i need to buy?
-    - show me the number of [beef rice soup](item)
-    - how many [lime souffle](item) are there in the list?
-    - show me the number of [lime souffle](item)
-    - how many [lime souffle](item) are there in the list?
-    - show me the number of [beef broth](item)
-    - how many [beef broth](item) are there in the list?
-    - let me see how many [beef broth](item)
-    - let me see how many [apple-sweet potato juice](item)
-    - how many [apple-sweet potato juice](item) do i need to buy?
-    - show me the number of [apple-sweet potato juice](item)
-    - how many [sausage on biscuit](item) do i need to buy?
-    - how many [sausage on biscuit](item) do i need to buy?
-    - show me the number of [shrimp-egg patty](item)
-    - how many [shrimp-egg patty](item) are there in the list?
-    - let me see how many [spaghetti sauce](item)
-    - let me see how many [spaghetti sauce](item)
-    - let me see the number of [spaghetti sauce](item)
-    - how many [fruit dessert](item) do i need to buy?
-    - show me the number of [fruit dessert](item)
-    - how many [shrimp cocktail](item) are there in the list?
-    - how many [shrimp cocktail](item) do i need to buy?
-    - how many [milk chocolate candy](item) are there in the list?
-    - let me see the number of [milk chocolate candy](item)
-    - how many [goat](item) are there in the list?
-    - let me see the number of [goat](item)
-    - how many [orange-carrot juice](item) do i need to buy?
-    - how many [orange-carrot juice](item) are there?
-    - show me the number of [orange-carrot juice](item)
-    - how many [barfi or burfi](item) are there?
-    - how many [barfi or burfi](item) are there?
-    - let me see the number of [sesame seeds](item)
-    - how many [sesame seeds](item) are there in the list?
-    - show me the number of [whole wheat cereal](item)
-    - let me see the number of [whole wheat cereal](item)
-    - how many [jam](item) are there?
-    - how many [jam](item) do i need to buy?
-    - let me see how many [olive oil](item)
-    - how many [olive oil](item) are there in the list?
-    - how many [applesauce with bananas](item) do i need to buy?
-    - how many [applesauce with bananas](item) do i need to buy?
-    - let me see how many [applesauce with bananas](item)
-    - let me see the number of [pork bacon](item)
-    - how many [pork bacon](item) do i need to buy?
-    - let me see the number of [pork bacon](item)
-    - how many [dessert dip](item) are there?
-    - how many [dessert dip](item) are there?
-    - how many [dessert dip](item) do i need to buy?
-    - let me see how many [quesadilla with chicken](item)
-    - how many [quesadilla with chicken](item) are there in the list?
-    - let me see how many [cornbread stuffing](item)
-    - show me the number of [cornbread stuffing](item)
-    - let me see the number of [wheat germ oil](item)
-    - let me see how many [wheat germ oil](item)
-    - how many [long rice noodles](item) are there in the list?
-    - show me the number of [long rice noodles](item)
-    - let me see how many [tequila](item)
-    - how many [tequila](item) do i need to buy?
-    - how many [tequila](item) do i need to buy?
-    - let me see how many [cereal (post alpha-bits)](item)
-    - let me see how many [cereal (post alpha-bits)](item)
-    - show me the number of [fruit peel](item)
-    - show me the number of [fruit peel](item)
-    - let me see the number of [fruit peel](item)
-    - show me the number of [beef dumpling soup](item)
-    - how many [beef dumpling soup](item) are there in the list?
-    - how many [beef dumpling soup](item) do i need to buy?
-    - let me see how many [garlic bread](item)
-    - how many [garlic bread](item) are there in the list?
-    - let me see how many [tamale with chicken](item)
-    - show me the number of [tamale with chicken](item)
-    - how many [tamale with chicken](item) are there in the list?
-    - how many [pretzel](item) are there in the list?
-    - show me the number of [pretzel](item)
-    - how many [pretzel](item) are there in the list?
-    - let me see the number of [pita chips](item)
-    - how many [pita chips](item) are there in the list?
-    - let me see how many [pita chips](item)
-    - how many [pastry](item) do i need to buy?
-    - show me the number of [pastry](item)
-    - how many [pastry](item) are there?
-    - show me the number of [beef and broccoli](item)
-    - let me see the number of [beef and broccoli](item)
-    - let me see the number of [bacon strip](item)
-    - how many [bacon strip](item) are there?
-    - show me the number of [grits](item)
-    - show me the number of [grits](item)
-    - how many [vegetarian vegetable soup](item) are there in the list?
-    - how many [vegetarian vegetable soup](item) are there in the list?
-    - let me see how many [lemon juice](item)
-    - how many [lemon juice](item) do i need to buy?
-    - how many [lemon juice](item) are there in the list?
-    - how many [fat back](item) do i need to buy?
-    - how many [fat back](item) are there?
-    - show me the number of [shrimp creole](item)
-    - show me the number of [shrimp creole](item)
-    - let me see how many [shrimp creole](item)
-    - show me the number of [breakfast bar](item)
-    - show me the number of [breakfast bar](item)
-    - how many [burrito with beans](item) are there?
-    - show me the number of [burrito with beans](item)
-    - how many [burrito with beans](item) are there?
-    - how many [fruit snacks candy](item) do i need to buy?
-    - let me see how many [fruit snacks candy](item)
-    - how many [fruit snacks candy](item) do i need to buy?
-    - let me see how many [breakfast pastry](item)
-    - how many [breakfast pastry](item) are there?
-    - let me see how many [macaroni with tuna](item)
-    - how many [macaroni with tuna](item) are there in the list?
-    - show me the number of [strawberry beverage powder](item)
-    - how many [strawberry beverage powder](item) are there in the list?
-    - show me the number of [strawberry beverage powder](item)
-    - let me see the number of [poke greens](item)
-    - how many [poke greens](item) are there?
-    - let me see the number of [spinach dip](item)
-    - how many [spinach dip](item) are there?
-    - show me the number of [vermicelli](item)
-    - how many [vermicelli](item) do i need to buy?
-    - let me see the number of [vodka and soda](item)
-    - show me the number of [vodka and soda](item)
-    - let me see the number of [ice cream sandwich](item)
-    - let me see how many [ice cream sandwich](item)
-    - let me see how many [ice cream sandwich](item)
-    - let me see the number of [strawberries](item)
-    - how many [strawberries](item) are there?
-    - how many [strawberries](item) do i need to buy?
-    - how many [pancake syrup](item) are there in the list?
-    - how many [pancake syrup](item) are there in the list?
-    - let me see how many [pancake syrup](item)
-    - let me see how many [green beans](item)
-    - how many [green beans](item) are there?
-    - how many [peas and carrots](item) are there in the list?
-    - how many [peas and carrots](item) do i need to buy?
-    - let me see how many [peas and carrots](item)
-    - how many [lentil soup](item) are there in the list?
-    - how many [lentil soup](item) do i need to buy?
-    - show me the number of [lentil soup](item)
-    - let me see the number of [bacon soup](item)
-    - show me the number of [bacon soup](item)
-    - let me see how many [olive tapenade](item)
-    - let me see the number of [olive tapenade](item)
-    - how many [safflower oil](item) are there?
-    - let me see the number of [safflower oil](item)
-    - how many [fried onion rings](item) are there in the list?
-    - how many [fried onion rings](item) do i need to buy?
-    - how many [fried onion rings](item) are there in the list?
-    - let me see how many [broccoli slaw salad](item)
-    - how many [broccoli slaw salad](item) are there?
-    - let me see the number of [frozen coffee drink](item)
-    - let me see the number of [frozen coffee drink](item)
-    - show me the number of [frozen coffee drink](item)
-    - show me the number of [flan](item)
-    - how many [flan](item) do i need to buy?
-    - let me see the number of [ginger root](item)
-    - how many [ginger root](item) do i need to buy?
-    - how many [energy drink (xs)](item) do i need to buy?
-    - how many [energy drink (xs)](item) are there in the list?
-    - show me the number of [stewed pork](item)
-    - let me see how many [stewed pork](item)
-    - let me see the number of [lima beans](item)
-    - show me the number of [lima beans](item)
-    - let me see how many [lima beans](item)
-    - let me see how many [pasta with sauce](item)
-    - show me the number of [pasta with sauce](item)
-    - show me the number of [vegetables and rice](item)
-    - show me the number of [vegetables and rice](item)
-    - let me see how many [sweetbreads](item)
-    - how many [sweetbreads](item) are there?
-    - let me see how many [sweetbreads](item)
-    - show me the number of [persimmon](item)
-    - let me see the number of [persimmon](item)
-    - how many [blueberry yogurt dessert](item) do i need to buy?
-    - let me see the number of [blueberry yogurt dessert](item)
-    - let me see the number of [hummus](item)
-    - how many [hummus](item) are there in the list?
-    - let me see the number of [hummus](item)
-    - how many [yeast extract spread](item) are there in the list?
-    - let me see how many [yeast extract spread](item)
-    - let me see the number of [yeast extract spread](item)
-    - how many [sprouts](item) are there?
-    - let me see how many [sprouts](item)
-    - how many [soybean curd cheese](item) are there in the list?
-    - how many [soybean curd cheese](item) are there in the list?
-    - how many [chicken skin](item) do i need to buy?
-    - let me see how many [chicken skin](item)
-    - let me see the number of [chicken skin](item)
-    - show me the number of [macadamia nuts](item)
-    - show me the number of [macadamia nuts](item)
-    - let me see the number of [lobster with sauce](item)
-    - how many [lobster with sauce](item) do i need to buy?
-    - let me see how many [veal](item)
-    - let me see the number of [veal](item)
-    - how many [veal](item) are there in the list?
-    - how many [stewed goat](item) do i need to buy?
-    - let me see how many [stewed goat](item)
-    - let me see how many [cassava pasteles](item)
-    - let me see the number of [cassava pasteles](item)
-    - let me see the number of [blueberries](item)
-    - how many [blueberries](item) are there in the list?
-    - how many [green bean casserole](item) are there?
-    - let me see the number of [green bean casserole](item)
-    - how many [green bean casserole](item) do i need to buy?
-    - how many [mars almond bar](item) are there?
-    - show me the number of [mars almond bar](item)
-    - how many [mars almond bar](item) are there in the list?
-    - how many [swordfish](item) do i need to buy?
-    - how many [swordfish](item) are there?
-    - how many [hot peppers](item) are there in the list?
-    - let me see how many [hot peppers](item)
-    - let me see the number of [hot peppers](item)
-    - how many [sports drink (powerade)](item) are there in the list?
-    - show me the number of [sports drink (powerade)](item)
-    - how many [tilapia](item) are there?
-    - let me see how many [tilapia](item)
-    - let me see the number of [couscous](item)
-    - let me see the number of [couscous](item)
-    - let me see the number of [stuffed cabbage](item)
-    - how many [stuffed cabbage](item) are there in the list?
-    - let me see the number of [stuffed cabbage](item)
-    - let me see how many [cheese sandwich](item)
-    - let me see the number of [cheese sandwich](item)
-    - let me see the number of [cheese sandwich](item)
-    - how many [peas](item) do i need to buy?
-    - show me the number of [peas](item)
-    - let me see how many [peas](item)
-    - show me the number of [syrup](item)
-    - let me see the number of [syrup](item)
-    - let me see how many [syrup](item)
-    - let me see how many [leek](item)
-    - let me see the number of [leek](item)
-    - show me the number of [leek](item)
-    - how many [cheese](item) are there?
-    - show me the number of [cheese](item)
-    - let me see how many [stewed salmon](item)
-    - how many [stewed salmon](item) are there in the list?
-    - let me see the number of [pea soup](item)
-    - how many [pea soup](item) are there?
-    - show me the number of [pea soup](item)
-    - how many [naan](item) are there in the list?
-    - how many [naan](item) are there in the list?
-    - let me see the number of [turkey with gravy](item)
-    - show me the number of [turkey with gravy](item)
-    - how many [fruit](item) do i need to buy?
-    - how many [fruit](item) are there in the list?
-    - let me see how many [fruit](item)
-    - how many [vegetarian stroganoff](item) are there in the list?
-    - let me see the number of [vegetarian stroganoff](item)
-    - let me see how many [carrot juice](item)
-    - let me see how many [carrot juice](item)
-    - how many [pesto sauce](item) are there in the list?
-    - how many [pesto sauce](item) are there in the list?
-    - how many [pesto sauce](item) are there in the list?
-    - how many [sports drink](item) do i need to buy?
-    - how many [sports drink](item) do i need to buy?
-    - how many [flavored rice](item) are there?
-    - how many [flavored rice](item) are there?
-    - how many [beef with vegetables](item) are there?
-    - let me see the number of [beef with vegetables](item)
-    - how many [beef with vegetables](item) do i need to buy?
-    - show me the number of [biscuit](item)
-    - how many [biscuit](item) do i need to buy?
-    - how many [biscuit](item) do i need to buy?
-    - how many [quinoa](item) are there?
-    - how many [quinoa](item) are there in the list?
-    - how many [fried chicken chunks](item) are there?
-    - how many [fried chicken chunks](item) are there?
-    - let me see the number of [asparagus](item)
-    - let me see how many [asparagus](item)
-    - how many [asparagus](item) do i need to buy?
-    - how many [pho](item) are there?
-    - how many [pho](item) do i need to buy?
-    - how many [cornmeal dumpling](item) do i need to buy?
-    - how many [cornmeal dumpling](item) do i need to buy?
-    - how many [cornmeal dumpling](item) are there in the list?
-    - let me see the number of [kung pao beef](item)
-    - let me see the number of [kung pao beef](item)
-    - how many [turkey sandwich](item) are there?
-    - how many [turkey sandwich](item) are there?
-    - how many [turkey sandwich](item) are there in the list?
-    - let me see how many [trifle](item)
-    - show me the number of [trifle](item)
-    - let me see the number of [beef brisket](item)
-    - how many [beef brisket](item) do i need to buy?
-    - how many [nachos with meat](item) are there in the list?
-    - show me the number of [nachos with meat](item)
-    - let me see the number of [nachos with meat](item)
-    - show me the number of [crackers](item)
-    - let me see the number of [crackers](item)
-    - let me see how many [crackers](item)
-    - how many [canola oil](item) are there in the list?
-    - how many [canola oil](item) are there in the list?
-    - let me see the number of [kibby](item)
-    - how many [kibby](item) are there in the list?
-    - let me see the number of [kibby](item)
-    - how many [wine](item) are there in the list?
-    - show me the number of [wine](item)
-    - how many [banana pudding](item) are there in the list?
-    - how many [banana pudding](item) do i need to buy?
-    - show me the number of [vodka and cola](item)
-    - let me see how many [vodka and cola](item)
-    - let me see how many [vodka and cola](item)
-    - let me see the number of [beef noodle soup](item)
-    - let me see the number of [beef noodle soup](item)
-    - show me the number of [fish stick](item)
-    - show me the number of [fish stick](item)
-    - show me the number of [fish stick](item)
-    - how many [turnover](item) are there?
-    - how many [turnover](item) are there in the list?
-    - let me see how many [turnover](item)
-    - show me the number of [cashews](item)
-    - show me the number of [cashews](item)
-    - let me see the number of [pork roast](item)
-    - how many [pork roast](item) do i need to buy?
-    - how many [pork roast](item) do i need to buy?
-    - let me see the number of [turnip greens](item)
-    - how many [turnip greens](item) are there in the list?
-    - how many [cape cod](item) are there?
-    - how many [cape cod](item) do i need to buy?
-    - show me the number of [cape cod](item)
-    - show me the number of [cod](item)
-    - let me see how many [cod](item)
-    - let me see how many [fried bread](item)
-    - let me see how many [fried bread](item)
-    - how many [fried bread](item) are there?
-    - how many [squash](item) do i need to buy?
-    - show me the number of [squash](item)
-    - show me the number of [mung beans](item)
-    - show me the number of [mung beans](item)
-    - how many [mung beans](item) are there in the list?
-    - show me the number of [cheese ball](item)
-    - show me the number of [cheese ball](item)
-    - how many [cheese ball](item) are there in the list?
-    - how many [cereal (kellogg's krave)](item) do i need to buy?
-    - how many [cereal (kellogg's krave)](item) do i need to buy?
-    - how many [stuffed pepper](item) are there?
-    - let me see how many [stuffed pepper](item)
-    - how many [stuffed pepper](item) are there in the list?
-    - how many [currants](item) are there in the list?
-    - how many [currants](item) are there in the list?
-    - how many [currants](item) do i need to buy?
-    - let me see the number of [liqueur with cream](item)
-    - how many [liqueur with cream](item) do i need to buy?
-    - show me the number of [venison/deer ribs](item)
-    - show me the number of [venison/deer ribs](item)
-    - let me see how many [venison/deer ribs](item)
-    - let me see the number of [non-dairy milk](item)
-    - let me see the number of [non-dairy milk](item)
-    - let me see the number of [non-dairy milk](item)
-    - let me see how many [potato chowder](item)
-    - let me see how many [potato chowder](item)
-    - how many [potato chowder](item) are there?
-    - show me the number of [beef stroganoff soup](item)
-    - let me see the number of [beef stroganoff soup](item)
-    - how many [beef stroganoff soup](item) are there?
-    - how many [rhubarb](item) do i need to buy?
-    - how many [rhubarb](item) do i need to buy?
-    - how many [meat pie](item) do i need to buy?
-    - how many [meat pie](item) are there?
-    - show me the number of [meat pie](item)
-    - how many [chicken soup](item) are there in the list?
-    - let me see how many [chicken soup](item)
-    - let me see how many [chicken soup](item)
-    - let me see the number of [beef pot pie](item)
-    - show me the number of [beef pot pie](item)
-    - show me the number of [beef pot pie](item)
-    - let me see the number of [liverwurst](item)
-    - let me see how many [liverwurst](item)
-    - show me the number of [fried summer squash](item)
-    - how many [fried summer squash](item) are there in the list?
-    - how many [fried summer squash](item) are there in the list?
-    - show me the number of [livers](item)
-    - how many [livers](item) are there in the list?
-    - how many [spinach soup](item) are there in the list?
-    - how many [spinach soup](item) are there in the list?
-    - show me the number of [spinach soup](item)
-    - how many [celeriac](item) are there?
-    - how many [celeriac](item) are there?
-    - how many [celeriac](item) do i need to buy?
-    - how many [spinach salad](item) are there in the list?
-    - how many [spinach salad](item) are there?
-    - let me see how many [spinach salad](item)
-    - let me see the number of [cookie bar](item)
-    - how many [cookie bar](item) are there?
-    - how many [oat bran cereal](item) are there?
-    - how many [oat bran cereal](item) are there?
-    - let me see how many [gordita/sope shell](item)
-    - let me see the number of [gordita/sope shell](item)
-    - how many [gordita/sope shell](item) are there?
-    - how many [sushi roll tuna](item) do i need to buy?
-    - how many [sushi roll tuna](item) are there in the list?
-    - let me see the number of [sushi roll tuna](item)
-    - let me see how many [lamb](item)
-    - let me see the number of [lamb](item)
-    - how many [cake or cupcake](item) are there in the list?
-    - show me the number of [cake or cupcake](item)
-    - show me the number of [marmalade](item)
-    - show me the number of [marmalade](item)
-    - how many [marmalade](item) do i need to buy?
-    - let me see how many [tomato sandwich](item)
-    - how many [tomato sandwich](item) do i need to buy?
-    - let me see how many [tomato sandwich](item)
-    - let me see the number of [ham on biscuit](item)
-    - show me the number of [ham on biscuit](item)
-    - show me the number of [ground beef patty](item)
-    - let me see how many [ground beef patty](item)
-    - show me the number of [ground beef patty](item)
-    - how many [black bean soup](item) are there in the list?
-    - show me the number of [black bean soup](item)
-    - how many [croissant](item) are there?
-    - let me see how many [croissant](item)
-    - how many [croissant](item) are there?
-    - how many [chicken feet](item) are there in the list?
-    - how many [chicken feet](item) are there in the list?
-    - how many [creamsicle](item) are there?
-    - how many [creamsicle](item) are there in the list?
-    - how many [creamsicle](item) are there?
-    - let me see the number of [singapore sling](item)
-    - how many [singapore sling](item) are there?
-    - how many [singapore sling](item) are there in the list?
-    - how many [kale](item) are there?
-    - show me the number of [kale](item)
-    - let me see how many [kale](item)
-    - let me see how many [custard](item)
-    - how many [custard](item) are there?
-    - let me see the number of [custard](item)
-    - how many [shrimp salad](item) are there in the list?
-    - let me see the number of [shrimp salad](item)
-    - how many [shrimp salad](item) are there in the list?
-    - how many [beans and rice](item) do i need to buy?
-    - let me see the number of [beans and rice](item)
-    - let me see the number of [cereal (kellogg's smorz)](item)
-    - show me the number of [cereal (kellogg's smorz)](item)
-    - let me see the number of [cereal (kellogg's smorz)](item)
-    - how many [broccoli cheese soup](item) are there?
-    - let me see the number of [broccoli cheese soup](item)
-    - show me the number of [yogurt dressing](item)
-    - let me see the number of [yogurt dressing](item)
-    - how many [bologna sandwich](item) are there?
-    - let me see how many [bologna sandwich](item)
-    - how many [bologna sandwich](item) are there in the list?
-    - how many [nonalcoholic malt beverage](item) are there?
-    - let me see the number of [nonalcoholic malt beverage](item)
-    - how many [nonalcoholic malt beverage](item) do i need to buy?
-    - let me see the number of [haupia](item)
-    - how many [haupia](item) are there in the list?
-    - let me see how many [haupia](item)
-    - how many [meat loaf](item) are there in the list?
-    - let me see the number of [meat loaf](item)
-    - show me the number of [chicken cornbread](item)
-    - show me the number of [chicken cornbread](item)
-    - how many [chicken cornbread](item) are there in the list?
-    - how many [steak teriyaki](item) do i need to buy?
-    - let me see the number of [steak teriyaki](item)
-    - let me see how many [steak teriyaki](item)
-    - how many [goat head](item) are there?
-    - let me see the number of [goat head](item)
-    - how many [goat head](item) are there in the list?
-    - how many [sirloin](item) do i need to buy?
-    - show me the number of [sirloin](item)
-    - how many [cheese pastry puffs](item) are there in the list?
-    - show me the number of [cheese pastry puffs](item)
-    - show me the number of [stuffed jalapeno pepper](item)
-    - let me see the number of [stuffed jalapeno pepper](item)
-    - show me the number of [stuffed jalapeno pepper](item)
-    - how many [energy drink](item) are there?
-    - let me see the number of [energy drink](item)
-    - how many [pocky](item) are there?
-    - how many [pocky](item) are there?
-    - how many [pocky](item) are there?
-    - how many [radishes](item) do i need to buy?
-    - show me the number of [radishes](item)
-    - how many [radishes](item) do i need to buy?
-    - let me see the number of [puffs](item)
-    - how many [puffs](item) do i need to buy?
-    - let me see the number of [puffs](item)
-    - how many [egg white](item) are there?
-    - let me see the number of [egg white](item)
-    - how many [egg white](item) are there in the list?
-    - how many [firni](item) are there in the list?
-    - how many [firni](item) do i need to buy?
-    - how many [firni](item) are there in the list?
-    - let me see how many [squid](item)
-    - how many [squid](item) do i need to buy?
-    - let me see the number of [squid](item)
-    - how many [margarita mix](item) are there in the list?
-    - how many [margarita mix](item) are there?
-    - let me see how many [margarita mix](item)
-    - let me see how many [fish sandwich](item)
-    - let me see the number of [fish sandwich](item)
-    - how many [alfalfa sprouts](item) do i need to buy?
-    - let me see how many [alfalfa sprouts](item)
-    - let me see how many [cereal (post grape-nuts)](item)
-    - let me see how many [cereal (post grape-nuts)](item)
-    - let me see the number of [cereal (post grape-nuts)](item)
-    - how many [cereal (post honeycomb)](item) do i need to buy?
-    - how many [cereal (post honeycomb)](item) are there?
+- how many [gumdrops](item) are there on the list?
+- how many [cherry cobbler](item) are there on the list?
+- how many [gelatin shot](item) are there?
+- I want to see my list
+- how many [pineapple](item) do i need to buy?
+- let me see how many [injera](item) are there
+- how many [taffy](item) are there on the list?
+- how many [salami](item) do i need to buy?
+- how many [beef with gravy](item) are there on the list?
+- let me see the number of [wine spritzer](item)
+- how many [black bean sauce](item) are there on the list?
+- let me see how many [alfredo sauce](item) are there
+- let me see how many [quail](item) are there
+- let me see how many [date candy](item) are there
+- show me the number of [energy drink](item)
+- how many [rice with squid](item) are there?
+- let me see the number of [sugar substitute](item)
+- let me see the number of [peach yogurt dessert](item)
+- how many [zucchini lasagna](item) are there?
+- show me my shopping list
+- how many [apples and chicken](item) do i need to buy?
+- let me see the number of [doughnut holes](item)
+- how many [cake](item) are there?
+- let me see how many [popover](item) are there
+- how many [egg salad](item) are there?
+- how many [cheese ball](item) do i need to buy?
+- let me see how many [energy drink](item) are there
+- how many [onions](item) are there?
+- let me see the number of [gin rickey](item)
+- how many [leek soup](item) are there?
+- how many [apples](item) do i need to buy?
+- show me the number of [fig](item)
+- how many [palm hearts](item) are there?
+- show me the number of [tomato](item)
+- how many [ray](item) are there on the list?
+- let me see how many [cake batter](item) are there
+- let me see how many [mortadella](item) are there
+- let me see the number of [flavored pasta](item)
+- let me see the number of [soft drink](item)
+- how many [mayonnaise](item) do i need to buy?
+- show me the number of [italian wedding soup](item)
+- let me see the number of [veal chop](item)
+- show me the number of [apples and pears](item)
+- how many [spinach salad](item) are there?
+- how many [pomegranate juice beverage](item) are there on the list?
+- let me see the number of [gerber finger foods](item)
+- let me see the number of [ketchup](item)
+- how many [macaroni and cheese](item) do i need to buy?
+- how many [whiskey and water](item) are there on the list?
+- how many [garlic bread](item) do i need to buy?
+- let me see the number of [passion fruit juice](item)
+- how many [caesar salad](item) are there on the list?
+- how many [ratatouille](item) are there?
+- show me the number of [crisp](item)
+- how many [nut roll](item) do i need to buy?
+- show me the number of [pineapple candy](item)
+- let me see the number of [almond milk](item)
+- how many [olive tapenade](item) are there?
+- let me see the number of [creamsicle](item)
+- show my articles
+- show me the number of [crab](item)
+- how many [stewed variety meats](item) do i need to buy?
+- let me see the number of [chicken barbecue sandwich](item)
+- let me see the number of [sesame seeds](item)
+- show me the number of [taco shell](item)
+- let me see the number of [cereal (post alpha-bits)](item)
+- let me see how many [energy drink (nos)](item) are there
+- I would like to see my shopping list
+- let me see the number of [vegetable tempura](item)
+- how many [chicken leg](item) are there on the list?
+- how many [hazelnuts](item) do i need to buy?
+- let me see how many [beef rolls](item) are there
+- how many [luncheon slice](item) are there?
+- show my shopping list
+- show me the number of [stuffed christophine](item)
+- show me the number of [walnuts](item)
+- how many [broccoli and chicken](item) are there?
+- how many [gumbo](item) do i need to buy?
+- how many [split peas](item) are there?
+- show me the number of [oatmeal](item)
+- how many [plum](item) do i need to buy?
+- let me see the number of [corned beef sandwich](item)
+- let me see the number of [channa saag](item)
+- how many [johnnycake](item) are there on the list?
+- how many [stewed rice](item) do i need to buy?
+- show me the number of [pears](item)
+- display my things
+- how many [bacardi cocktail](item) do i need to buy?
+- I want to see my shopping list
+- how many [double cheeseburger (mcdonalds)](item) are there?
+- how many [applesauce and apricots](item) do i need to buy?
+- show me the number of [peanut bar](item)
+- display my articles
+- how many [sweet potato fries](item) are there on the list?
+- let me see how many [peas and carrots](item) are there
+- how many [chicken fillet](item) do i need to buy?
+- how many [tuna](item) do i need to buy?
+- how many [tomato noodle soup](item) are there on the list?
+- how many [banana](item) do i need to buy?
+- how many [sesame crunch](item) are there on the list?
+- show me the number of [soybean soup](item)
+- let me see the number of [starfruit](item)
+- let me see how many [pork skin](item) are there
+- let me see how many [apples with ham](item) are there
+- show me the number of [beer](item)
+- how many [peach cobbler](item) are there on the list?
+- how many [heart](item) are there on the list?
+- how many [stewed gizzards](item) are there on the list?
+- how many [horseradish](item) do i need to buy?
+- show me the number of [trifle](item)
+- let me see the number of [tiramisu](item)
+- let me see the number of [salmon loaf](item)
+- how many [kung pao pork](item) do i need to buy?
+- let me see the number of [stuffed pepper](item)
+- how many [mussels](item) are there on the list?
+- show my list
+- how many [lemon pie filling](item) are there?
+- show me the number of [fried pork chunks](item)
+- let me see the number of [agave liquid sweetener](item)
+- let me see how many [ham](item) are there
+- let me see the number of [stewed](item)
+- present me my list
+- let me see the number of [toblerone](item)
+- how many [pineapple juice](item) are there?
+- show me the number of [duck](item)
+- how many [coconut](item) are there?
+- how many [fruit smoothie](item) do i need to buy?
+- how many [rice paper](item) are there?
+- how many [fruit mixture](item) are there on the list?
+- let me see how many [fruit juice blend](item) are there
+- how many [channa saag](item) are there?
+- how many [blackberries](item) are there on the list?
+- how many [frozen daiquiri](item) are there on the list?
+- how many [tomato sandwich](item) are there on the list?
+- show me the number of [falafel](item)
+- let me see the number of [peach cobbler](item)
+- let me see the number of [apples and pears](item)
+- how many [snack mix](item) are there?
+- how many [meringues](item) are there?
+- let me see the number of [mozzarella cheese](item)
+- how many [honey](item) do i need to buy?
+- let me see the number of [noodle pudding](item)
+- how many [clam chowder](item) are there on the list?
+- show my things
+- show me the number of [caramel candy](item)
+- let me see how many [beef with vegetables](item) are there
+- how many [white pizza](item) are there?
+- let me see how many [nachos with meat](item) are there
+- show me the number of [kit kat](item)
+- show me the number of [ice cream cone](item)
+- let me see how many [bacon sandwich](item) are there
+- let me see how many [ketchup](item) are there
+- let me see the number of [corned beef hash](item)
+- how many [sesame dressing](item) are there?
+- how many [stewed rice](item) are there?
+- how many [almond milk](item) are there?
+- show me the number of [pizza](item)
+- how many [beef and broccoli](item) are there?
+- let me see the number of [meringues](item)
+- how many [honeydew melon](item) are there?
+- let me see the number of [fish chowder](item)
+- show me the number of [black beans](item)
+- how many [venison or deer](item) are there?
+- display my list
+- What was it I wanted to buy?
+- how many [chicken liver](item) are there on the list?
+- how many [seven and seven](item) are there?
+- show me the number of [beet greens](item)
+- let me see the number of [toffee](item)
+- let me see the number of [cereal (kashi golean)](item)
+- let me see the number of [popcorn cake](item)
+- let me see how many [liver dumpling](item) are there
+- how many [frozen dessert](item) are there?
+- let me see the number of [garlic bread](item)
+- let me see the number of [shrimp salad](item)
+- how many [vegetable and chicken](item) are there on the list?
+- let me see the number of [pears](item)
+- how many [thuringer](item) do i need to buy?
+- let me see the number of [apples with ham](item)
+- how many [berries](item) are there on the list?
+- how many [fish chowder](item) do i need to buy?
+- how many [mixed nuts](item) do i need to buy?
+- how many [mixed salad greens](item) are there?
+- how many [wheat cereal](item) do i need to buy?
+- show me the number of [snack mix](item)
+- let me see the number of [pumpkin](item)
+- let me see the number of [mustard greens](item)
+- how many [chicken barbecue sandwich](item) are there?
+- let me see the number of [lychee](item)
+- let me see how many [shrimp garden salad](item) are there
+- how many [shrimp garden salad](item) are there?
+- let me see the number of [snack mix](item)
+- let me see how many [spinach](item) are there
+- how many [blackberry juice](item) do i need to buy?
+- let me see how many [squash and corn](item) are there
+- how many [ostrich](item) are there on the list?
+- let me see how many [fig](item) are there
+- let me see the number of [doughnut](item)
+- how many [sesame seeds](item) are there on the list?
+- let me see the number of [beans and rice](item)
+- let me see how many [knockwurst](item) are there
+- how many [cereal (kellogg's krave)](item) do i need to buy?
+- let me see the number of [ham salad sandwich](item)
+- how many [orange-apple-banana juice](item) are there on the list?
+- how many [head cheese](item) do i need to buy?
+- how many [chips](item) are there on the list?
+- how many [potato pancake](item) are there on the list?
+- how many [mock chicken legs](item) are there?
+- show me the number of [walnut oil](item)
+- how many [cordial or liqueur](item) are there?
+- show me the number of [venison or deer](item)
+- let me see the number of [pistachio nuts](item)
+- how many [peanut butter morsels](item) are there?
+- how many [anisette toast](item) are there?
+- how many [brandy](item) are there on the list?
+- show me the number of [thuringer](item)
+- how many [peanut bar](item) are there on the list?
+- let me see the number of [walnuts](item)
+- how many [orange juice beverage](item) are there on the list?
+- how many [ice cream soda](item) do i need to buy?
+- show me the number of [ice cream sundae](item)
+- how many [yam](item) do i need to buy?
+- how many [biscuit with gravy](item) do i need to buy?
+- let me see how many [oyster pie](item) are there
+- show me the number of [passion fruit juice](item)
+- how many [cod](item) are there?
+- how many [crab](item) do i need to buy?
+- present me my shopping list
+- I would like to see my list
+- how many [biscuit with fruit](item) are there?
+- let me see the number of [potato pancake](item)
+- show me the number of [sesame crunch](item)
+- how many [peach nectar](item) are there?
+- how many [cereal (kellogg's krave)](item) are there on the list?
+- show me the number of [sausage balls](item)
+- let me see how many [french toast sticks](item) are there
+- how many [pepperoni](item) are there on the list?
+- how many [turtle](item) are there on the list?
+- let me see how many [bagel](item) are there
+- how many [peas](item) are there on the list?
+- let me see the number of [breakfast pastry](item)
+- let me see the number of [cornmeal fritter](item)
+- how many [whiskey and water](item) are there?
+- how many [sunflower seeds](item) are there on the list?
+- how many [kamikaze](item) do i need to buy?
+- how many [black beans](item) are there on the list?
+- how many [fried broccoli](item) are there?
+- how many [pepper steak](item) do i need to buy?
+- let me see how many [coffee](item) are there
+- let me see the number of [halibut](item)
+- let me see how many [chips](item) are there
+- how many [granola](item) are there?
+- how many [bird's nest soup](item) do i need to buy?
+- how many [caramel candy](item) are there on the list?
+- let me see the number of [martini](item)
+- how many [gnocchi](item) do i need to buy?
+- how many [head cheese](item) are there?
+- open my shopping list
+- how many [julienne salad](item) are there on the list?
+- show me the number of [lychee](item)
+- how many [cantaloupe](item) do i need to buy?
+- let me see the number of [polish sausage](item)
+- let me see how many [chia seeds](item) are there
+- show me the number of [pecans](item)
+- let me see the number of [spinach quiche](item)
+- how many [croissant](item) are there on the list?
+- list my things
+- how many [frozen yogurt cone](item) are there on the list?
+- how many [breadfruit](item) do i need to buy?
+- how many [polish sausage](item) do i need to buy?
+- show me my list
+- let me see how many [vegetarian stew](item) are there
+- how many [cheddar cheese soup](item) are there?
+- let me see how many [cornmeal mush](item) are there
+- let me see how many [whole wheat cereal](item) are there
+- let me see the number of [beer](item)
+- how many [gin fizz](item) are there?
+- show me the number of [granola](item)
+- open my list
+- let me see the number of [beans with meat](item)
+- let me see the number of [steak sauce](item)
+- how many [ketchup](item) do i need to buy?
+- show me the number of [pear](item)
+- let me see how many [hamburger slider](item) are there
+- show me the number of [cottonseed oil](item)
+- let me see the number of [greek salad](item)
+- show me the number of [gizzard](item)
+- how many [pineapple dessert](item) do i need to buy?
+- let me see the number of [cranberry juice blend](item)
+- show me the number of [fruit smoothie](item)
+- let me see the number of [chili con carne](item)
+- let me see the number of [codfish fritter](item)
+- how many [chicken barbecue sandwich](item) do i need to buy?
+- show me the number of [thistle leaves](item)
+- how many [cracker chips](item) are there on the list?
+- how many [lamb chop](item) are there?
+- display my shopping list
+- let me see how many [cucumber](item) are there
+- how many [cream cheese](item) do i need to buy?
+- how many [butterfinger crisp](item) do i need to buy?
+- let me see how many [veal fricassee](item) are there
+- show me the number of [pasta with vegetables](item)
+- let me see the number of [apple-raspberry](item)
+- let me see the number of [kung pao pork](item)
+- how many [sea bass](item) do i need to buy?
+- how many [soyburger](item) are there on the list?
+- how many [ham luncheon meat](item) are there?
+- how many [fruit smoothie](item) are there?
+- how many [date candy](item) are there on the list?
+- show me the number of [apple-prune juice](item)
+- how many [jam](item) are there on the list?
+- show me the number of [fat back](item)
+- show me the number of [rice with raisins](item)
+- list my articles
+- how many [lamb or mutton](item) are there?

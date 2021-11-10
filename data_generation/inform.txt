@@ -1,1300 +1,971 @@
-    - [catfish](item) [one]{"entity": "number", "value": 1}
-    - [a]{"entity": "number", "value": 1} [catfish](item)
-    - [catfish](item)
-    - [russian dressing](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [russian dressing](item) [wholly]{"entity": "number", "value": -1} the
-    - [wholly]{"entity": "number", "value": -1} the [pine nuts](item)
-    - [pine nuts](item) [totally]{"entity": "number", "value": -1} the
-    - [pine nuts](item)
-    - [each and every]{"entity": "number", "value": -1}
-    - [onion flavored rings](item) [an]{"entity": "number", "value": 1}
-    - [queso cotija](item)
-    - [96](number) [queso cotija](item)
-    - [queso cotija](item)
-    - [green beans](item)
-    - [green beans](item) [a]{"entity": "number", "value": 1}
-    - [green beans](item) [48](number)
-    - [popcorn chips](item) [87](number)
-    - [wholly]{"entity": "number", "value": -1} the [popcorn chips](item)
-    - [fried onion rings](item) [each]{"entity": "number", "value": -1}
-    - [thirty](number) [fried onion rings](item)
-    - [barbecue sauce](item)
-    - [barbecue sauce](item) [all]{"entity": "number", "value": -1} the
-    - [barbecue sauce](item) [entirely]{"entity": "number", "value": -1} the
-    - [heart](item)
-    - [fully]{"entity": "number", "value": -1} the [heart](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [squash](item) [totally]{"entity": "number", "value": -1} the
-    - [squash](item)
-    - [all]{"entity": "number", "value": -1} the
-    - [asparagus soup](item)
-    - [asparagus soup](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [grapefruit juice](item)
-    - [grapefruit juice](item) [completely]{"entity": "number", "value": -1} the
-    - [wholly]{"entity": "number", "value": -1} the
-    - [each and every]{"entity": "number", "value": -1}
-    - [pepper steak](item) [fully]{"entity": "number", "value": -1} the
-    - [one]{"entity": "number", "value": 1}
-    - [totally]{"entity": "number", "value": -1} the [cheeseburger (burger king)](item)
-    - [all]{"entity": "number", "value": -1} the
-    - [walnuts](item) [totally]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [knockwurst](item)
-    - [knockwurst](item)
-    - [each and every]{"entity": "number", "value": -1} [blackberries](item)
-    - [one]{"entity": "number", "value": 1}
-    - [blackberries](item) [wholly]{"entity": "number", "value": -1} the
-    - [creamy dressing](item) [a]{"entity": "number", "value": 1}
-    - [creamy dressing](item)
-    - [creamy dressing](item)
-    - [livers](item)
-    - [livers](item)
-    - [fourteen](number) [livers](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [gelatin dessert](item)
-    - [every single]{"entity": "number", "value": -1} [gelatin dessert](item)
-    - [gelatin dessert](item) [eight](number)
-    - [eggnog](item)
-    - [each]{"entity": "number", "value": -1}
-    - [mixed salad greens](item) [an]{"entity": "number", "value": 1}
-    - [mixed salad greens](item) [wholly]{"entity": "number", "value": -1} the
-    - [beans with meat](item) [all]{"entity": "number", "value": -1}
-    - [beans with meat](item) [totally]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the
-    - [quiche with meat](item)
-    - [quiche with meat](item)
-    - [quiche with meat](item) [every]{"entity": "number", "value": -1}
-    - [vegetable lasagna](item)
-    - [vegetable lasagna](item) [all]{"entity": "number", "value": -1}
-    - [ray](item)
-    - [ray](item) [twenty-three](number)
-    - [each and every]{"entity": "number", "value": -1} [coconut](item)
-    - [coconut](item) [fully]{"entity": "number", "value": -1} the
-    - [one]{"entity": "number", "value": 1} [raccoon](item)
-    - [completely]{"entity": "number", "value": -1} the [raccoon](item)
-    - [raccoon](item)
-    - [an]{"entity": "number", "value": 1}
-    - [fully]{"entity": "number", "value": -1} the [gizzard](item)
-    - [persimmon](item)
-    - [persimmon](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [every single]{"entity": "number", "value": -1}
-    - [every single]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} [sopa seca](item)
-    - [cereal beverage](item) [completely]{"entity": "number", "value": -1} the
-    - [cereal beverage](item)
-    - [cereal beverage](item) [every single]{"entity": "number", "value": -1}
-    - [fudge](item)
-    - [fudge](item)
-    - [100 grand bar](item) [totally]{"entity": "number", "value": -1} the
-    - [each and every]{"entity": "number", "value": -1}
-    - [every single]{"entity": "number", "value": -1} [curry sauce](item)
-    - [curry sauce](item)
-    - [any]{"entity": "number", "value": -1} [curry sauce](item)
-    - [raspberries](item) [an]{"entity": "number", "value": 1}
-    - [the whole lot]{"entity": "number", "value": -1} of [raspberries](item)
-    - [pepper](item) [seventeen](number)
-    - [fully]{"entity": "number", "value": -1} the [pepper](item)
-    - [ratatouille](item)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [ratatouille](item) [wholly]{"entity": "number", "value": -1} the
-    - [scone](item)
-    - [one]{"entity": "number", "value": 1}
-    - [nineteen](number) [cornmeal fritter](item)
-    - [cornmeal fritter](item) [95](number)
-    - [carp](item)
-    - [carp](item) [totally]{"entity": "number", "value": -1} the
-    - [crab cake sandwich](item) [every single]{"entity": "number", "value": -1}
-    - [every]{"entity": "number", "value": -1} [crab cake sandwich](item)
-    - [a]{"entity": "number", "value": 1} [quesadilla with chicken](item)
-    - [any]{"entity": "number", "value": -1}
-    - [coconut oil](item) [one]{"entity": "number", "value": 1}
-    - [fully]{"entity": "number", "value": -1} the
-    - [11](number) [cereal (post alpha-bits)](item)
-    - [cereal (post alpha-bits)](item)
-    - [cereal (post alpha-bits)](item)
-    - [wholly]{"entity": "number", "value": -1} the [kamikaze](item)
-    - [kamikaze](item)
-    - [kamikaze](item)
-    - [rutabaga](item)
-    - [rutabaga](item)
-    - [fourteen](number)
-    - [wax candy](item)
-    - [wax candy](item) [every single]{"entity": "number", "value": -1}
-    - [coffee cake](item) [totally]{"entity": "number", "value": -1} the
-    - [coffee cake](item) [a]{"entity": "number", "value": 1}
-    - [potato chowder](item) [any]{"entity": "number", "value": -1}
-    - [potato chowder](item) [wholly]{"entity": "number", "value": -1} the
-    - [twenty-nine](number)
-    - [mai tai](item) [fully]{"entity": "number", "value": -1} the
-    - [casabe](item) [completely]{"entity": "number", "value": -1} the
-    - [every]{"entity": "number", "value": -1} [casabe](item)
-    - [any]{"entity": "number", "value": -1} [casabe](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [hard candy](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [ten](number) [soft fruit confections](item)
-    - [soft fruit confections](item)
-    - [bear](item) [every]{"entity": "number", "value": -1}
-    - [bear](item)
-    - [bear](item) [each and every]{"entity": "number", "value": -1}
-    - [each]{"entity": "number", "value": -1}
-    - [szechuan beef](item) [a]{"entity": "number", "value": 1}
-    - [szechuan beef](item) [totally]{"entity": "number", "value": -1} the
-    - [wholly]{"entity": "number", "value": -1} the [beef goulash](item)
-    - [beef goulash](item)
-    - [beef goulash](item)
-    - [each and every]{"entity": "number", "value": -1}
-    - [one]{"entity": "number", "value": 1}
-    - [two](number)
-    - [an]{"entity": "number", "value": 1}
-    - [one]{"entity": "number", "value": 1} [toblerone](item)
-    - [any]{"entity": "number", "value": -1}
-    - [any]{"entity": "number", "value": -1}
-    - [cereal (malt-o-meal coco-roos)](item)
-    - [each and every]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} the [pear nectar](item)
-    - [pear nectar](item)
-    - [pear nectar](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [crayfish](item)
-    - [each]{"entity": "number", "value": -1}
-    - [meat loaf dinner](item)
-    - [each]{"entity": "number", "value": -1} [meat loaf dinner](item)
-    - [a]{"entity": "number", "value": 1} [meat loaf dinner](item)
-    - [totally]{"entity": "number", "value": -1} the
-    - [rabbit](item) [each]{"entity": "number", "value": -1}
-    - [entirely]{"entity": "number", "value": -1} the [rabbit](item)
-    - [all]{"entity": "number", "value": -1} the [puerto rican pasteles](item)
-    - [puerto rican pasteles](item) [entirely]{"entity": "number", "value": -1} the
-    - [twenty-six](number)
-    - [eggplant](item)
-    - [every]{"entity": "number", "value": -1} [eggplant](item)
-    - [any]{"entity": "number", "value": -1} [eggplant](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [every]{"entity": "number", "value": -1} [bruschetta](item)
-    - [chicken stew](item) [eight](number)
-    - [chicken stew](item)
-    - [0](number)
-    - [cream puff](item)
-    - [61](number) [cream puff](item)
-    - [honey](item)
-    - [completely]{"entity": "number", "value": -1} the [honey](item)
-    - [any]{"entity": "number", "value": -1} [honey](item)
-    - [lobster salad](item) [any]{"entity": "number", "value": -1}
-    - [lobster salad](item)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [orange-carrot juice](item)
-    - [one]{"entity": "number", "value": 1} [blueberry juice](item)
-    - [blueberry juice](item)
-    - [three](number)
-    - [gelatin shot](item)
-    - [beans and tomatoes](item)
-    - [beans and tomatoes](item)
-    - [all]{"entity": "number", "value": -1}
-    - [tortilla chips](item)
-    - [one]{"entity": "number", "value": 1}
-    - [tortilla chips](item) [83](number)
-    - [bacon on biscuit](item) [each and every]{"entity": "number", "value": -1}
-    - [bacon on biscuit](item)
-    - [crackers](item)
-    - [twenty-three](number)
-    - [totally]{"entity": "number", "value": -1} the [crackers](item)
-    - [cherry cobbler](item) [a]{"entity": "number", "value": 1}
-    - [cherry cobbler](item)
-    - [nonalcoholic malt beverage](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [nonalcoholic malt beverage](item)
-    - [each]{"entity": "number", "value": -1} [nonalcoholic malt beverage](item)
-    - [every single]{"entity": "number", "value": -1} [vegetable rice soup](item)
-    - [every]{"entity": "number", "value": -1}
-    - [vegetable rice soup](item) [any]{"entity": "number", "value": -1}
-    - [salty dog](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [fried okra](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [each]{"entity": "number", "value": -1}
-    - [apples and pears](item) [every single]{"entity": "number", "value": -1}
-    - [completely]{"entity": "number", "value": -1} the
-    - [jagerbomb](item)
-    - [jagerbomb](item) [every]{"entity": "number", "value": -1}
-    - [jagerbomb](item)
-    - [pretzels](item) [an]{"entity": "number", "value": 1}
-    - [one]{"entity": "number", "value": 1}
-    - [completely]{"entity": "number", "value": -1} the [stewed pig's feet](item)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [goat ribs](item)
-    - [goat ribs](item)
-    - [an]{"entity": "number", "value": 1}
-    - [quarter pounder (mcdonalds)](item)
-    - [fully]{"entity": "number", "value": -1} the [quarter pounder (mcdonalds)](item)
-    - [every single]{"entity": "number", "value": -1} [cereal (uncle sam)](item)
-    - [an]{"entity": "number", "value": 1} [cereal (uncle sam)](item)
-    - [each]{"entity": "number", "value": -1} [cereal (uncle sam)](item)
-    - [any]{"entity": "number", "value": -1} [paella](item)
-    - [paella](item)
-    - [paella](item) [wholly]{"entity": "number", "value": -1} the
-    - [lime souffle](item) [fully]{"entity": "number", "value": -1} the
-    - [entirely]{"entity": "number", "value": -1} the
-    - [lime souffle](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [chinese pancake](item) [any]{"entity": "number", "value": -1}
-    - [chinese pancake](item)
-    - [chinese pancake](item) [37](number)
-    - [quesadilla with meat](item)
-    - [quesadilla with meat](item)
-    - [quesadilla with meat](item)
-    - [a]{"entity": "number", "value": 1}
-    - [completely]{"entity": "number", "value": -1} the
-    - [apple juice](item)
-    - [completely]{"entity": "number", "value": -1} the [ham salad sandwich](item)
-    - [ham salad sandwich](item) [any]{"entity": "number", "value": -1}
-    - [ham salad sandwich](item)
-    - [totally]{"entity": "number", "value": -1} the [chipotle dip](item)
-    - [an]{"entity": "number", "value": 1} [chipotle dip](item)
-    - [all]{"entity": "number", "value": -1} [prune juice](item)
-    - [one]{"entity": "number", "value": 1} [prune juice](item)
-    - [hamburger](item)
-    - [hamburger](item)
-    - [all]{"entity": "number", "value": -1} [hamburger](item)
-    - [beef dinner](item)
-    - [beef dinner](item) [every single]{"entity": "number", "value": -1}
-    - [any]{"entity": "number", "value": -1} [beef dinner](item)
-    - [hummus](item)
-    - [an]{"entity": "number", "value": 1} [hummus](item)
-    - [entirely]{"entity": "number", "value": -1} the [vegetables and rice](item)
-    - [vegetables and rice](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [each and every]{"entity": "number", "value": -1} [oyster fritter](item)
-    - [waffle](item) [totally]{"entity": "number", "value": -1} the
-    - [waffle](item) [all]{"entity": "number", "value": -1} the
-    - [waffle](item) [six](number)
-    - [wine spritzer](item) [38](number)
-    - [wine spritzer](item)
-    - [all]{"entity": "number", "value": -1} the [vegetable submarine sandwich](item)
-    - [vegetable submarine sandwich](item)
-    - [all]{"entity": "number", "value": -1}
-    - [twenty-seven](number)
-    - [vegetable broth](item) [totally]{"entity": "number", "value": -1} the
-    - [vegetable broth](item)
-    - [completely]{"entity": "number", "value": -1} the [mixed nuts](item)
-    - [one]{"entity": "number", "value": 1} [mixed nuts](item)
-    - [entirely]{"entity": "number", "value": -1} the [tomato aspic](item)
-    - [fully]{"entity": "number", "value": -1} the [tomato aspic](item)
-    - [one]{"entity": "number", "value": 1} [liverwurst](item)
-    - [an]{"entity": "number", "value": 1}
-    - [fully]{"entity": "number", "value": -1} the [caribou](item)
-    - [caribou](item) [completely]{"entity": "number", "value": -1} the
-    - [58](number)
-    - [any]{"entity": "number", "value": -1} [brown rice cereal](item)
-    - [one]{"entity": "number", "value": 1} [brown rice cereal](item)
-    - [tomato](item) [all]{"entity": "number", "value": -1} the
-    - [tomato](item) [all]{"entity": "number", "value": -1}
-    - [totally]{"entity": "number", "value": -1} the
-    - [pea salad](item) [every]{"entity": "number", "value": -1}
-    - [flaxseed oil](item)
-    - [flaxseed oil](item)
-    - [each]{"entity": "number", "value": -1}
-    - [every single]{"entity": "number", "value": -1} [beef dumpling soup](item)
-    - [beef dumpling soup](item)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [every]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [sour cream](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [brussels sprouts](item) [30](number)
-    - [any]{"entity": "number", "value": -1}
-    - [any]{"entity": "number", "value": -1}
-    - [seven](number) [burrito with meat](item)
-    - [chicken nuggets](item) [each]{"entity": "number", "value": -1}
-    - [every single]{"entity": "number", "value": -1}
-    - [twenty-eight](number)
-    - [chiles rellenos](item) [wholly]{"entity": "number", "value": -1} the
-    - [each]{"entity": "number", "value": -1} [chiles rellenos](item)
-    - [chiles rellenos](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [ice cream sundae](item) [completely]{"entity": "number", "value": -1} the
-    - [wholly]{"entity": "number", "value": -1} the [ice cream sundae](item)
-    - [all]{"entity": "number", "value": -1} the
-    - [chocolate dip](item)
-    - [fully]{"entity": "number", "value": -1} the [chocolate dip](item)
-    - [fifteen](number)
-    - [any]{"entity": "number", "value": -1}
-    - [every single]{"entity": "number", "value": -1} [cereal (post honeycomb)](item)
-    - [tamarind drink](item) [completely]{"entity": "number", "value": -1} the
-    - [tamarind drink](item) [each and every]{"entity": "number", "value": -1}
-    - [biryani with chicken](item)
-    - [biryani with chicken](item) [70](number)
-    - [totally]{"entity": "number", "value": -1} the [vegetable and chicken](item)
-    - [vegetable and chicken](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [each and every]{"entity": "number", "value": -1} [mango nectar](item)
-    - [44](number)
-    - [corn fritter](item)
-    - [corn fritter](item) [a]{"entity": "number", "value": 1}
-    - [corn fritter](item) [entirely]{"entity": "number", "value": -1} the
-    - [chicken with gravy](item) [one]{"entity": "number", "value": 1}
-    - [chicken with gravy](item) [all]{"entity": "number", "value": -1}
-    - [83](number)
-    - [green peas](item) [all]{"entity": "number", "value": -1}
-    - [green peas](item)
-    - [53](number) [green peas](item)
-    - [entirely]{"entity": "number", "value": -1} the [vodka](item)
-    - [vodka](item)
-    - [three](number)
-    - [every single]{"entity": "number", "value": -1}
-    - [energy drink (vault)](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [energy drink (vault)](item)
-    - [every]{"entity": "number", "value": -1}
-    - [stewed goat](item)
-    - [stewed goat](item)
-    - [whey](item) [an]{"entity": "number", "value": 1}
-    - [every single]{"entity": "number", "value": -1} [whey](item)
-    - [fried seafood sandwich](item)
-    - [fried seafood sandwich](item) [all]{"entity": "number", "value": -1}
-    - [chicken rice soup](item)
-    - [chicken rice soup](item) [each]{"entity": "number", "value": -1}
-    - [every]{"entity": "number", "value": -1}
-    - [each and every]{"entity": "number", "value": -1}
-    - [coconut candy](item) [every]{"entity": "number", "value": -1}
-    - [the whole lot]{"entity": "number", "value": -1} of [coconut candy](item)
-    - [all]{"entity": "number", "value": -1}
-    - [sixlets](item) [every]{"entity": "number", "value": -1}
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [fruit peel](item) [totally]{"entity": "number", "value": -1} the
-    - [cornbread muffin](item) [completely]{"entity": "number", "value": -1} the
-    - [each and every]{"entity": "number", "value": -1} [cornbread muffin](item)
-    - [wholly]{"entity": "number", "value": -1} the
-    - [kiwi fruit](item)
-    - [kiwi fruit](item) [43](number)
-    - [pork sausage](item) [every single]{"entity": "number", "value": -1}
-    - [pork sausage](item) [entirely]{"entity": "number", "value": -1} the
-    - [trout](item) [all]{"entity": "number", "value": -1}
-    - [one]{"entity": "number", "value": 1}
-    - [completely]{"entity": "number", "value": -1} the
-    - [entirely]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the
-    - [salisbury steak](item)
-    - [salisbury steak](item) [an]{"entity": "number", "value": 1}
-    - [salisbury steak](item)
-    - [seven](number)
-    - [totally]{"entity": "number", "value": -1} the [arepa dominicana](item)
-    - [each and every]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} [parsnips](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [parsnips](item)
-    - [an]{"entity": "number", "value": 1} [lobster](item)
-    - [lobster](item)
-    - [lobster](item) [each and every]{"entity": "number", "value": -1}
-    - [any]{"entity": "number", "value": -1} [fried cauliflower](item)
-    - [an]{"entity": "number", "value": 1} [fried cauliflower](item)
-    - [every single]{"entity": "number", "value": -1} [beef and broccoli](item)
-    - [beef and broccoli](item)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [anisette toast](item) [an]{"entity": "number", "value": 1}
-    - [anisette toast](item) [each]{"entity": "number", "value": -1}
-    - [totally]{"entity": "number", "value": -1} the
-    - [chicken noodle dinner](item) [each and every]{"entity": "number", "value": -1}
-    - [rum and cola](item)
-    - [each]{"entity": "number", "value": -1} [rum and cola](item)
-    - [any]{"entity": "number", "value": -1} [rum and cola](item)
-    - [all]{"entity": "number", "value": -1} [tomato vegetable soup](item)
-    - [tomato vegetable soup](item) [fully]{"entity": "number", "value": -1} the
-    - [tomato vegetable soup](item) [every single]{"entity": "number", "value": -1}
-    - [enchilada with beans](item) [completely]{"entity": "number", "value": -1} the
-    - [enchilada with beans](item)
-    - [turkey or chicken](item)
-    - [turkey or chicken](item) [every single]{"entity": "number", "value": -1}
-    - [bean paste](item)
-    - [bean paste](item)
-    - [completely]{"entity": "number", "value": -1} the
-    - [lemon-butter sauce](item) [twenty-six](number)
-    - [lemon-butter sauce](item) [entirely]{"entity": "number", "value": -1} the
-    - [lemon-butter sauce](item)
-    - [twenty-five](number)
-    - [all]{"entity": "number", "value": -1} [bologna](item)
-    - [apricots](item)
-    - [apricots](item)
-    - [apricots](item) [thirty-one](number)
-    - [wholly]{"entity": "number", "value": -1} the [rusty nail](item)
-    - [rusty nail](item) [all]{"entity": "number", "value": -1} the
-    - [rusty nail](item) [fully]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the [greyhound](item)
-    - [greyhound](item) [every single]{"entity": "number", "value": -1}
-    - [fifteen](number) [ground beef](item)
-    - [ground beef](item)
-    - [one]{"entity": "number", "value": 1}
-    - [5](number)
-    - [sausage](item)
-    - [venison or deer](item) [wholly]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [all]{"entity": "number", "value": -1} the [yeast extract spread](item)
-    - [seven](number) [yeast extract spread](item)
-    - [48](number) [potato soup](item)
-    - [potato soup](item)
-    - [each and every]{"entity": "number", "value": -1} [croutons](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [croutons](item)
-    - [wholly]{"entity": "number", "value": -1} the
-    - [an]{"entity": "number", "value": 1} [grapefruit](item)
-    - [sausage and peppers](item)
-    - [sausage and peppers](item) [any]{"entity": "number", "value": -1}
-    - [vodka and soda](item)
-    - [fully]{"entity": "number", "value": -1} the [vodka and soda](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [egg](item)
-    - [egg](item)
-    - [egg](item) [twenty-seven](number)
-    - [poke greens](item)
-    - [completely]{"entity": "number", "value": -1} the [poke greens](item)
-    - [crunchy snacks](item)
-    - [any]{"entity": "number", "value": -1} [crunchy snacks](item)
-    - [twenty-one](number) [coffee and chicory](item)
-    - [each]{"entity": "number", "value": -1}
-    - [pannetone](item)
-    - [pannetone](item) [completely]{"entity": "number", "value": -1} the
-    - [twenty-two](number)
-    - [lotus root](item) [61](number)
-    - [lotus root](item) [completely]{"entity": "number", "value": -1} the
-    - [pork chop](item)
-    - [pork chop](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [berries](item)
-    - [totally]{"entity": "number", "value": -1} the [cottage cheese](item)
-    - [cottage cheese](item)
-    - [all]{"entity": "number", "value": -1} [sandwich spread](item)
-    - [sandwich spread](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [any]{"entity": "number", "value": -1} [sandwich spread](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [turnover](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [a]{"entity": "number", "value": 1} [soybean oil](item)
-    - [one]{"entity": "number", "value": 1} [soybean oil](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [a]{"entity": "number", "value": 1}
-    - [popsicle](item)
-    - [popsicle](item)
-    - [one]{"entity": "number", "value": 1}
-    - [all]{"entity": "number", "value": -1} the [reese's pieces](item)
-    - [each]{"entity": "number", "value": -1}
-    - [vodka and cola](item)
-    - [vodka and cola](item) [75](number)
-    - [vodka and cola](item) [every single]{"entity": "number", "value": -1}
-    - [shrimp soup](item) [all]{"entity": "number", "value": -1}
-    - [entirely]{"entity": "number", "value": -1} the
-    - [shrimp soup](item) [any]{"entity": "number", "value": -1}
-    - [carob chips](item)
-    - [carob chips](item) [all]{"entity": "number", "value": -1} the
-    - [twenty-three](number)
-    - [ranch dip](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [any]{"entity": "number", "value": -1}
-    - [ham and noodles](item) [wholly]{"entity": "number", "value": -1} the
-    - [all]{"entity": "number", "value": -1} the [tabbouleh](item)
-    - [tabbouleh](item) [any]{"entity": "number", "value": -1}
-    - [completely]{"entity": "number", "value": -1} the
-    - [wine cooler](item) [each and every]{"entity": "number", "value": -1}
-    - [wine cooler](item)
-    - [seven](number) [wine cooler](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [totally]{"entity": "number", "value": -1} the
-    - [lima bean soup](item)
-    - [each]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} [dirty rice](item)
-    - [dirty rice](item)
-    - [65](number)
-    - [each]{"entity": "number", "value": -1} [ice cream sandwich](item)
-    - [totally]{"entity": "number", "value": -1} the [crab imperial](item)
-    - [crab imperial](item) [an]{"entity": "number", "value": 1}
-    - [vegetarian vegetable soup](item) [94](number)
-    - [vegetarian vegetable soup](item) [one]{"entity": "number", "value": 1}
-    - [each and every]{"entity": "number", "value": -1}
-    - [a]{"entity": "number", "value": 1}
-    - [pickles](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [pickles](item) [twenty-one](number)
-    - [any]{"entity": "number", "value": -1} [spanakopitta](item)
-    - [one]{"entity": "number", "value": 1}
-    - [tomato juice](item)
-    - [totally]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [tomato juice](item)
-    - [completely]{"entity": "number", "value": -1} the [potatoes](item)
-    - [all]{"entity": "number", "value": -1} the [potatoes](item)
-    - [chicken fillet biscuit](item)
-    - [chicken fillet biscuit](item) [all]{"entity": "number", "value": -1} the
-    - [all]{"entity": "number", "value": -1} [chicken fillet biscuit](item)
-    - [tuna loaf](item)
-    - [every]{"entity": "number", "value": -1} [tuna loaf](item)
-    - [stewed gizzards](item) [every single]{"entity": "number", "value": -1}
-    - [stewed gizzards](item)
-    - [brunswick stew](item) [each and every]{"entity": "number", "value": -1}
-    - [brunswick stew](item)
-    - [brunswick stew](item)
-    - [totally]{"entity": "number", "value": -1} the
-    - [one]{"entity": "number", "value": 1} [custard pudding](item)
-    - [any]{"entity": "number", "value": -1}
-    - [five](number)
-    - [leek](item)
-    - [leek](item) [totally]{"entity": "number", "value": -1} the
-    - [blueberry syrup](item)
-    - [blueberry syrup](item) [64](number)
-    - [blueberry syrup](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [an]{"entity": "number", "value": 1}
-    - [tomatoes](item) [completely]{"entity": "number", "value": -1} the
-    - [one]{"entity": "number", "value": 1} [snowpea](item)
-    - [snowpea](item) [eleven](number)
-    - [snowpea](item) [each]{"entity": "number", "value": -1}
-    - [sliced chicken sandwich](item) [each]{"entity": "number", "value": -1}
-    - [sliced chicken sandwich](item)
-    - [sliced chicken sandwich](item)
-    - [beef liver](item) [one]{"entity": "number", "value": 1}
-    - [beef liver](item)
-    - [beef brisket](item)
-    - [beef brisket](item) [totally]{"entity": "number", "value": -1} the
-    - [an]{"entity": "number", "value": 1}
-    - [any]{"entity": "number", "value": -1} [veal fricassee](item)
-    - [all]{"entity": "number", "value": -1} [veal fricassee](item)
-    - [one]{"entity": "number", "value": 1} [veal fricassee](item)
-    - [each]{"entity": "number", "value": -1} [sausage on biscuit](item)
-    - [totally]{"entity": "number", "value": -1} the
-    - [all]{"entity": "number", "value": -1} the
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [honey mustard dressing](item)
-    - [sausage gravy](item)
-    - [all]{"entity": "number", "value": -1} the [sausage gravy](item)
-    - [corn soup](item)
-    - [corn soup](item) [29](number)
-    - [stuffed chicken](item)
-    - [stuffed chicken](item) [totally]{"entity": "number", "value": -1} the
-    - [crepe](item) [all]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the
-    - [baklava](item) [an]{"entity": "number", "value": 1}
-    - [baklava](item)
-    - [baklava](item) [all]{"entity": "number", "value": -1} the
-    - [totally]{"entity": "number", "value": -1} the [lo mein](item)
-    - [lo mein](item) [entirely]{"entity": "number", "value": -1} the
-    - [entirely]{"entity": "number", "value": -1} the
-    - [dandelion greens](item)
-    - [peanut butter](item) [42](number)
-    - [peanut butter](item) [every]{"entity": "number", "value": -1}
-    - [completely]{"entity": "number", "value": -1} the [peanut butter](item)
-    - [any]{"entity": "number", "value": -1} [slush frozen drink](item)
-    - [slush frozen drink](item) [wholly]{"entity": "number", "value": -1} the
-    - [twenty-eight](number)
-    - [one]{"entity": "number", "value": 1} [cornmeal coconut dessert](item)
-    - [all]{"entity": "number", "value": -1}
-    - [rice meal fritter](item) [completely]{"entity": "number", "value": -1} the
-    - [rice meal fritter](item) [every single]{"entity": "number", "value": -1}
-    - [the whole lot]{"entity": "number", "value": -1} of [rice meal fritter](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [welsh rarebit](item)
-    - [an]{"entity": "number", "value": 1} [welsh rarebit](item)
-    - [any]{"entity": "number", "value": -1}
-    - [one]{"entity": "number", "value": 1}
-    - [all]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} the
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [twenty-four](number)
-    - [fully]{"entity": "number", "value": -1} the
-    - [all]{"entity": "number", "value": -1} the
-    - [soft drink](item)
-    - [soft drink](item)
-    - [one]{"entity": "number", "value": 1}
-    - [any]{"entity": "number", "value": -1} [hard cider](item)
-    - [hard cider](item)
-    - [any]{"entity": "number", "value": -1}
-    - [fully]{"entity": "number", "value": -1} the [cape cod](item)
-    - [any]{"entity": "number", "value": -1}
-    - [goat head](item)
-    - [brandy](item) [nine](number)
-    - [every single]{"entity": "number", "value": -1} [brandy](item)
-    - [each and every]{"entity": "number", "value": -1} [brandy](item)
-    - [steak teriyaki](item) [every single]{"entity": "number", "value": -1}
-    - [steak teriyaki](item)
-    - [bananas and strawberry](item)
-    - [any]{"entity": "number", "value": -1} [bananas and strawberry](item)
-    - [all]{"entity": "number", "value": -1} the
-    - [bread stuffing](item)
-    - [bread stuffing](item)
-    - [one]{"entity": "number", "value": 1}
-    - [every single]{"entity": "number", "value": -1}
-    - [one]{"entity": "number", "value": 1}
-    - [an]{"entity": "number", "value": 1}
-    - [every single]{"entity": "number", "value": -1} [yokan](item)
-    - [wonton soup](item) [every single]{"entity": "number", "value": -1}
-    - [completely]{"entity": "number", "value": -1} the [wonton soup](item)
-    - [fully]{"entity": "number", "value": -1} the [lamb](item)
-    - [all]{"entity": "number", "value": -1} [lamb](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [queso fresco](item)
-    - [queso fresco](item) [fully]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [enchilada](item)
-    - [each]{"entity": "number", "value": -1} [enchilada](item)
-    - [entirely]{"entity": "number", "value": -1} the [cod](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} [cashew butter](item)
-    - [cashew butter](item) [wholly]{"entity": "number", "value": -1} the
-    - [totally]{"entity": "number", "value": -1} the [soy nut butter](item)
-    - [soy nut butter](item)
-    - [every]{"entity": "number", "value": -1}
-    - [mcdouble (mcdonalds)](item) [each and every]{"entity": "number", "value": -1}
-    - [mcdouble (mcdonalds)](item)
-    - [ripe plantain fritters](item) [every]{"entity": "number", "value": -1}
-    - [totally]{"entity": "number", "value": -1} the [ripe plantain fritters](item)
-    - [ripe plantain fritters](item) [completely]{"entity": "number", "value": -1} the
-    - [hollandaise sauce](item)
-    - [all]{"entity": "number", "value": -1} the [hollandaise sauce](item)
-    - [fully]{"entity": "number", "value": -1} the [hollandaise sauce](item)
-    - [totally]{"entity": "number", "value": -1} the
-    - [wholly]{"entity": "number", "value": -1} the
-    - [chicken leg](item) [twelve](number)
-    - [strawberry milk](item)
-    - [strawberry milk](item) [totally]{"entity": "number", "value": -1} the
-    - [each]{"entity": "number", "value": -1} [tea](item)
-    - [tea](item) [wholly]{"entity": "number", "value": -1} the
-    - [all]{"entity": "number", "value": -1} the
-    - [kefir](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [any]{"entity": "number", "value": -1}
-    - [summer squash](item) [entirely]{"entity": "number", "value": -1} the
-    - [seabreeze](item) [totally]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the
-    - [each and every]{"entity": "number", "value": -1} [seabreeze](item)
-    - [an]{"entity": "number", "value": 1} [seafood souffle](item)
-    - [seafood souffle](item)
-    - [liver](item)
-    - [liver](item) [eighteen](number)
-    - [each]{"entity": "number", "value": -1} [syrup](item)
-    - [84](number)
-    - [codfish salad](item)
-    - [codfish salad](item) [a]{"entity": "number", "value": 1}
-    - [all]{"entity": "number", "value": -1} [codfish salad](item)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [fully]{"entity": "number", "value": -1} the
-    - [every single]{"entity": "number", "value": -1} [beef stroganoff](item)
-    - [beef stroganoff](item)
-    - [beef stroganoff](item) [an]{"entity": "number", "value": 1}
-    - [fully]{"entity": "number", "value": -1} the
-    - [applesauce with bananas](item)
-    - [each]{"entity": "number", "value": -1}
-    - [a]{"entity": "number", "value": 1}
-    - [one]{"entity": "number", "value": 1} [beef wellington](item)
-    - [34](number)
-    - [each and every]{"entity": "number", "value": -1} [burrito with beans](item)
-    - [entirely]{"entity": "number", "value": -1} the [burrito with beans](item)
-    - [ice cream soda](item)
-    - [wholly]{"entity": "number", "value": -1} the
-    - [pear juice](item) [one]{"entity": "number", "value": 1}
-    - [pear juice](item) [wholly]{"entity": "number", "value": -1} the
-    - [twenty](number)
-    - [every]{"entity": "number", "value": -1} [stuffed tomato](item)
-    - [stuffed tomato](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [chicken thigh](item)
-    - [chicken thigh](item) [all]{"entity": "number", "value": -1}
-    - [totally]{"entity": "number", "value": -1} the [chicken thigh](item)
-    - [each]{"entity": "number", "value": -1}
-    - [buffalo sauce](item) [all]{"entity": "number", "value": -1} the
-    - [an]{"entity": "number", "value": 1} [buffalo sauce](item)
-    - [fully]{"entity": "number", "value": -1} the [palm hearts](item)
-    - [palm hearts](item) [one]{"entity": "number", "value": 1}
-    - [an]{"entity": "number", "value": 1}
-    - [entirely]{"entity": "number", "value": -1} the
-    - [chorizo](item)
-    - [chorizo](item)
-    - [every]{"entity": "number", "value": -1} [chorizo](item)
-    - [nut roll](item) [any]{"entity": "number", "value": -1}
-    - [nut roll](item) [wholly]{"entity": "number", "value": -1} the
-    - [nut roll](item) [a]{"entity": "number", "value": 1}
-    - [the whole lot]{"entity": "number", "value": -1} of [ghee](item)
-    - [ghee](item)
-    - [spinach salad](item) [all]{"entity": "number", "value": -1} the
-    - [spinach salad](item)
-    - [spinach salad](item) [totally]{"entity": "number", "value": -1} the
-    - [corned beef hash](item) [each and every]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} [corned beef hash](item)
-    - [completely]{"entity": "number", "value": -1} the [chicken barbecue sandwich](item)
-    - [chicken barbecue sandwich](item)
-    - [each]{"entity": "number", "value": -1}
-    - [a]{"entity": "number", "value": 1}
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [dessert sauce](item)
-    - [dessert sauce](item)
-    - [an]{"entity": "number", "value": 1}
-    - [rice dressing](item)
-    - [every single]{"entity": "number", "value": -1} [rice dressing](item)
-    - [sangria](item) [entirely]{"entity": "number", "value": -1} the
-    - [sangria](item) [each and every]{"entity": "number", "value": -1}
-    - [sangria](item) [wholly]{"entity": "number", "value": -1} the
-    - [finger foods](item) [one]{"entity": "number", "value": 1}
-    - [every]{"entity": "number", "value": -1} [finger foods](item)
-    - [every single]{"entity": "number", "value": -1} [basil](item)
-    - [completely]{"entity": "number", "value": -1} the [basil](item)
-    - [basil](item)
-    - [sausage and vegetables](item) [a]{"entity": "number", "value": 1}
-    - [sausage and vegetables](item) [totally]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the
-    - [fried green beans](item)
-    - [fried green beans](item) [a]{"entity": "number", "value": 1}
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [fruit juice blend](item)
-    - [totally]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the [frozen yogurt](item)
-    - [frozen yogurt](item)
-    - [wholly]{"entity": "number", "value": -1} the [vegetable tempura](item)
-    - [56](number) [vegetable tempura](item)
-    - [98](number)
-    - [three](number)
-    - [each and every]{"entity": "number", "value": -1} [nachos with chili](item)
-    - [all]{"entity": "number", "value": -1} [nachos with chili](item)
-    - [wholly]{"entity": "number", "value": -1} the
-    - [stuffed pepper](item)
-    - [every]{"entity": "number", "value": -1} [stuffed pepper](item)
-    - [thirteen](number) [stuffed pepper](item)
-    - [each]{"entity": "number", "value": -1} [shrimp scampi](item)
-    - [shrimp scampi](item) [one]{"entity": "number", "value": 1}
-    - [shrimp scampi](item) [completely]{"entity": "number", "value": -1} the
-    - [meatball soup](item)
-    - [meatball soup](item) [every single]{"entity": "number", "value": -1}
-    - [soy milk](item) [completely]{"entity": "number", "value": -1} the
-    - [soy milk](item)
-    - [one]{"entity": "number", "value": 1}
-    - [each]{"entity": "number", "value": -1} [yogurt](item)
-    - [sirloin](item)
-    - [sirloin](item) [each]{"entity": "number", "value": -1}
-    - [sirloin](item)
-    - [cheese sandwich](item) [an]{"entity": "number", "value": 1}
-    - [cheese sandwich](item)
-    - [cheese sandwich](item) [wholly]{"entity": "number", "value": -1} the
-    - [each and every]{"entity": "number", "value": -1} [gin](item)
-    - [gin](item)
-    - [all]{"entity": "number", "value": -1} the [gin](item)
-    - [pastrami sandwich](item)
-    - [22](number)
-    - [cereal](item)
-    - [cereal](item) [each]{"entity": "number", "value": -1}
-    - [cereal](item) [an]{"entity": "number", "value": 1}
-    - [noodles](item)
-    - [all]{"entity": "number", "value": -1} the [noodles](item)
-    - [a]{"entity": "number", "value": 1} [noodles](item)
-    - [completely]{"entity": "number", "value": -1} the [broccoli](item)
-    - [broccoli](item)
-    - [broccoli](item)
-    - [one]{"entity": "number", "value": 1} [vegetarian](item)
-    - [vegetarian](item) [completely]{"entity": "number", "value": -1} the
-    - [any]{"entity": "number", "value": -1} [shrimp](item)
-    - [every single]{"entity": "number", "value": -1} [shrimp](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [butterfinger](item) [a]{"entity": "number", "value": 1}
-    - [butterfinger](item) [16](number)
-    - [56](number)
-    - [a]{"entity": "number", "value": 1}
-    - [every]{"entity": "number", "value": -1} [cream of rye](item)
-    - [an]{"entity": "number", "value": 1} [cream of rye](item)
-    - [a]{"entity": "number", "value": 1}
-    - [each and every]{"entity": "number", "value": -1} [fish fillet](item)
-    - [fish fillet](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [one]{"entity": "number", "value": 1} [fish fillet](item)
-    - [peppers](item)
-    - [all]{"entity": "number", "value": -1}
-    - [wholly]{"entity": "number", "value": -1} the [rolo](item)
-    - [all]{"entity": "number", "value": -1} the [rolo](item)
-    - [53](number) [rolo](item)
-    - [pears and pineapple](item) [a]{"entity": "number", "value": 1}
-    - [all]{"entity": "number", "value": -1} the [pears and pineapple](item)
-    - [pork and beans](item) [every]{"entity": "number", "value": -1}
-    - [each and every]{"entity": "number", "value": -1} [pork and beans](item)
-    - [pork and beans](item)
-    - [orange juice beverage](item)
-    - [orange juice beverage](item) [51](number)
-    - [42](number) [hamburger wrap sandwich](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [wholly]{"entity": "number", "value": -1} the [hamburger wrap sandwich](item)
-    - [beef sandwich](item)
-    - [each and every]{"entity": "number", "value": -1} [beef sandwich](item)
-    - [goose egg](item)
-    - [any]{"entity": "number", "value": -1}
-    - [every]{"entity": "number", "value": -1} [french toast sticks](item)
-    - [french toast sticks](item)
-    - [french toast sticks](item) [thirty](number)
-    - [completely]{"entity": "number", "value": -1} the
-    - [mozzarella sticks](item) [every]{"entity": "number", "value": -1}
-    - [tangerine juice](item)
-    - [tangerine juice](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [almond milk](item)
-    - [almond milk](item)
-    - [almond milk](item) [all]{"entity": "number", "value": -1} the
-    - [ocean perch](item)
-    - [ocean perch](item) [every single]{"entity": "number", "value": -1}
-    - [fully]{"entity": "number", "value": -1} the [ocean perch](item)
-    - [apples with ham](item)
-    - [completely]{"entity": "number", "value": -1} the
-    - [vegetable dip](item)
-    - [each]{"entity": "number", "value": -1} [vegetable dip](item)
-    - [vegetable dip](item)
-    - [topping](item) [91](number)
-    - [topping](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [each]{"entity": "number", "value": -1} [bananas and pineapple](item)
-    - [bananas and pineapple](item) [all]{"entity": "number", "value": -1}
-    - [every single]{"entity": "number", "value": -1}
-    - [ham](item)
-    - [salmon loaf](item)
-    - [salmon loaf](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [twenty-seven](number) [biscuit](item)
-    - [biscuit](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [biscuit](item)
-    - [tomato noodle soup](item) [all]{"entity": "number", "value": -1}
-    - [any]{"entity": "number", "value": -1} [tomato noodle soup](item)
-    - [tomato noodle soup](item)
-    - [burrito](item)
-    - [any]{"entity": "number", "value": -1}
-    - [celery](item)
-    - [celery](item)
-    - [poi](item)
-    - [poi](item)
-    - [eight](number) [poi](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [every single]{"entity": "number", "value": -1}
-    - [jelly sandwich](item) [each and every]{"entity": "number", "value": -1}
-    - [biscuit with gravy](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [biscuit with gravy](item)
-    - [completely]{"entity": "number", "value": -1} the [biscuit with gravy](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [sugared pecans](item)
-    - [sugared pecans](item) [an]{"entity": "number", "value": 1}
-    - [completely]{"entity": "number", "value": -1} the [sugared pecans](item)
-    - [kale](item)
-    - [totally]{"entity": "number", "value": -1} the [kale](item)
-    - [kale](item) [each and every]{"entity": "number", "value": -1}
-    - [salmon](item) [totally]{"entity": "number", "value": -1} the
-    - [salmon](item)
-    - [salmon](item)
-    - [all]{"entity": "number", "value": -1}
-    - [entirely]{"entity": "number", "value": -1} the
-    - [totally]{"entity": "number", "value": -1} the [kit kat white](item)
-    - [kit kat white](item) [entirely]{"entity": "number", "value": -1} the
-    - [kit kat white](item)
-    - [shrimp cocktail](item) [fully]{"entity": "number", "value": -1} the
-    - [shrimp cocktail](item)
-    - [shrimp cocktail](item) [wholly]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [gin rickey](item)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [each and every]{"entity": "number", "value": -1}
-    - [twenty-seven](number)
-    - [chicken fillet](item)
-    - [wholly]{"entity": "number", "value": -1} the [mayonnaise](item)
-    - [mayonnaise](item) [each and every]{"entity": "number", "value": -1}
-    - [beans and franks](item)
-    - [all]{"entity": "number", "value": -1} the [beans and franks](item)
-    - [totally]{"entity": "number", "value": -1} the
-    - [wholly]{"entity": "number", "value": -1} the [grapes](item)
-    - [grapes](item) [each and every]{"entity": "number", "value": -1}
-    - [completely]{"entity": "number", "value": -1} the [cheeseburger (mcdonalds)](item)
-    - [cheeseburger (mcdonalds)](item) [all]{"entity": "number", "value": -1}
-    - [cheeseburger (mcdonalds)](item)
-    - [stuffed shells](item) [each]{"entity": "number", "value": -1}
-    - [stuffed shells](item) [each and every]{"entity": "number", "value": -1}
-    - [75](number) [canadian bacon](item)
-    - [an]{"entity": "number", "value": 1}
-    - [each]{"entity": "number", "value": -1}
-    - [one]{"entity": "number", "value": 1}
-    - [totally]{"entity": "number", "value": -1} the
-    - [entirely]{"entity": "number", "value": -1} the [danish pastry](item)
-    - [any]{"entity": "number", "value": -1} [almond paste](item)
-    - [almond paste](item) [entirely]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [steak](item)
-    - [steak](item) [every]{"entity": "number", "value": -1}
-    - [liver dumpling](item) [wholly]{"entity": "number", "value": -1} the
-    - [liver dumpling](item) [any]{"entity": "number", "value": -1}
-    - [the whole lot]{"entity": "number", "value": -1} of [liver dumpling](item)
-    - [each]{"entity": "number", "value": -1}
-    - [frozen dinner](item)
-    - [sugar](item) [an]{"entity": "number", "value": 1}
-    - [sugar](item) [wholly]{"entity": "number", "value": -1} the
-    - [every single]{"entity": "number", "value": -1} [sugar](item)
-    - [raisins](item) [every single]{"entity": "number", "value": -1}
-    - [completely]{"entity": "number", "value": -1} the [raisins](item)
-    - [sushi roll tuna](item)
-    - [sushi roll tuna](item) [98](number)
-    - [beef with gravy](item)
-    - [beef with gravy](item)
-    - [fried broccoli](item) [37](number)
-    - [completely]{"entity": "number", "value": -1} the [fried broccoli](item)
-    - [a]{"entity": "number", "value": 1}
-    - [truffles](item)
-    - [truffles](item) [fully]{"entity": "number", "value": -1} the
-    - [any]{"entity": "number", "value": -1} [truffles](item)
-    - [one]{"entity": "number", "value": 1}
-    - [fufu](item)
-    - [fufu](item)
-    - [84](number) [peppers and onions](item)
-    - [peppers and onions](item) [each and every]{"entity": "number", "value": -1}
-    - [completely]{"entity": "number", "value": -1} the [veal patty](item)
-    - [veal patty](item)
-    - [any]{"entity": "number", "value": -1}
-    - [each and every]{"entity": "number", "value": -1} [plum](item)
-    - [plum](item) [totally]{"entity": "number", "value": -1} the
-    - [any]{"entity": "number", "value": -1} [macaroni with vegetables](item)
-    - [each]{"entity": "number", "value": -1} [macaroni with vegetables](item)
-    - [zucchini](item) [totally]{"entity": "number", "value": -1} the
-    - [a]{"entity": "number", "value": 1} [zucchini](item)
-    - [zucchini](item)
-    - [an]{"entity": "number", "value": 1} [calabaza](item)
-    - [calabaza](item) [all]{"entity": "number", "value": -1}
-    - [calabaza](item) [fully]{"entity": "number", "value": -1} the
-    - [cauliflower](item)
-    - [ten](number)
-    - [all]{"entity": "number", "value": -1}
-    - [beef short ribs](item)
-    - [each]{"entity": "number", "value": -1}
-    - [oat bran](item)
-    - [an]{"entity": "number", "value": 1} [oat bran](item)
-    - [one]{"entity": "number", "value": 1}
-    - [fruit supreme dessert](item) [a]{"entity": "number", "value": 1}
-    - [each]{"entity": "number", "value": -1} [fruit supreme dessert](item)
-    - [every single]{"entity": "number", "value": -1} [fruit supreme dessert](item)
-    - [each and every]{"entity": "number", "value": -1} [swiss steak](item)
-    - [swiss steak](item) [twenty-three](number)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [one]{"entity": "number", "value": 1}
-    - [twenty](number) [soybeans](item)
-    - [any]{"entity": "number", "value": -1} [soybeans](item)
-    - [almond chicken](item) [fully]{"entity": "number", "value": -1} the
-    - [almond chicken](item)
-    - [all]{"entity": "number", "value": -1}
-    - [artichokes](item)
-    - [artichokes](item)
-    - [each and every]{"entity": "number", "value": -1}
-    - [a]{"entity": "number", "value": 1} [gravy](item)
-    - [43](number)
-    - [totally]{"entity": "number", "value": -1} the
-    - [barfi or burfi](item) [a]{"entity": "number", "value": 1}
-    - [the whole lot]{"entity": "number", "value": -1} of [barfi or burfi](item)
-    - [all]{"entity": "number", "value": -1} the [barfi or burfi](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [turkey with gravy](item)
-    - [manhattan](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [the whole lot]{"entity": "number", "value": -1} of [manhattan](item)
-    - [soyburger](item)
-    - [completely]{"entity": "number", "value": -1} the
-    - [cocktail](item)
-    - [cocktail](item)
-    - [a]{"entity": "number", "value": 1} [cocktail](item)
-    - [every]{"entity": "number", "value": -1} [seafood paella](item)
-    - [31](number) [seafood paella](item)
-    - [all]{"entity": "number", "value": -1} the [fish sauce](item)
-    - [fish sauce](item) [all]{"entity": "number", "value": -1}
-    - [every single]{"entity": "number", "value": -1} [fish sauce](item)
-    - [fried stuffed potatoes](item)
-    - [each and every]{"entity": "number", "value": -1}
-    - [cheddar cheese soup](item) [totally]{"entity": "number", "value": -1} the
-    - [the whole lot]{"entity": "number", "value": -1} of [cheddar cheese soup](item)
-    - [an]{"entity": "number", "value": 1} [swordfish](item)
-    - [swordfish](item)
-    - [an]{"entity": "number", "value": 1}
-    - [orange chicken](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [orange chicken](item)
-    - [beef sloppy joe](item) [any]{"entity": "number", "value": -1}
-    - [beef sloppy joe](item) [entirely]{"entity": "number", "value": -1} the
-    - [flavored pasta](item)
-    - [flavored pasta](item)
-    - [totally]{"entity": "number", "value": -1} the [flavored pasta](item)
-    - [pizza rolls](item) [each and every]{"entity": "number", "value": -1}
-    - [the whole lot]{"entity": "number", "value": -1} of [pizza rolls](item)
-    - [pizza rolls](item) [a]{"entity": "number", "value": 1}
-    - [rice paper](item)
-    - [rice paper](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [sopaipilla](item) [every]{"entity": "number", "value": -1}
-    - [53](number)
-    - [corn dog](item) [completely]{"entity": "number", "value": -1} the
-    - [corn dog](item) [every single]{"entity": "number", "value": -1}
-    - [entirely]{"entity": "number", "value": -1} the [corn dog](item)
-    - [chicken dinner](item) [one]{"entity": "number", "value": 1}
-    - [chicken dinner](item) [a]{"entity": "number", "value": 1}
-    - [chicken dinner](item) [fully]{"entity": "number", "value": -1} the
-    - [kimchi](item)
-    - [kimchi](item)
-    - [a]{"entity": "number", "value": 1}
-    - [totally]{"entity": "number", "value": -1} the [perch](item)
-    - [perch](item) [fully]{"entity": "number", "value": -1} the
-    - [stuffed jalapeno pepper](item) [each and every]{"entity": "number", "value": -1}
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [39](number) [stuffed jalapeno pepper](item)
-    - [wholly]{"entity": "number", "value": -1} the
-    - [a]{"entity": "number", "value": 1}
-    - [alfalfa sprouts](item) [totally]{"entity": "number", "value": -1} the
-    - [alfalfa sprouts](item) [one]{"entity": "number", "value": 1}
-    - [alfalfa sprouts](item) [96](number)
-    - [any]{"entity": "number", "value": -1}
-    - [turkey ham](item)
-    - [turkey ham](item)
-    - [hot thai sauce](item) [any]{"entity": "number", "value": -1}
-    - [hot thai sauce](item) [completely]{"entity": "number", "value": -1} the
-    - [hot thai sauce](item)
-    - [wine](item) [an]{"entity": "number", "value": 1}
-    - [wine](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [wine](item)
-    - [fully]{"entity": "number", "value": -1} the [caesar dressing](item)
-    - [each]{"entity": "number", "value": -1}
-    - [caesar dressing](item)
-    - [fruit bar](item)
-    - [wholly]{"entity": "number", "value": -1} the
-    - [fruit bar](item) [any]{"entity": "number", "value": -1}
-    - [head cheese](item) [totally]{"entity": "number", "value": -1} the
-    - [head cheese](item) [each and every]{"entity": "number", "value": -1}
-    - [wholly]{"entity": "number", "value": -1} the [head cheese](item)
-    - [every]{"entity": "number", "value": -1} [cuban sandwich](item)
-    - [cuban sandwich](item) [completely]{"entity": "number", "value": -1} the
-    - [entirely]{"entity": "number", "value": -1} the [cuban sandwich](item)
-    - [completely]{"entity": "number", "value": -1} the [gimlet](item)
-    - [gimlet](item)
-    - [gimlet](item)
-    - [icing](item)
-    - [icing](item)
-    - [all]{"entity": "number", "value": -1} [tuna](item)
-    - [tuna](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [tuna](item)
-    - [totally]{"entity": "number", "value": -1} the [beef and potatoes](item)
-    - [each]{"entity": "number", "value": -1} [beef and potatoes](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [an]{"entity": "number", "value": 1} [caesar salad](item)
-    - [caesar salad](item) [totally]{"entity": "number", "value": -1} the
-    - [entirely]{"entity": "number", "value": -1} the [double cheeseburger](item)
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [double cheeseburger](item)
-    - [squash and corn](item) [one]{"entity": "number", "value": 1}
-    - [entirely]{"entity": "number", "value": -1} the [squash and corn](item)
-    - [wholly]{"entity": "number", "value": -1} the [squash and corn](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [potato chicken pie](item)
-    - [a]{"entity": "number", "value": 1}
-    - [potato chicken pie](item)
-    - [sirloin beef](item) [every]{"entity": "number", "value": -1}
-    - [sirloin beef](item) [all]{"entity": "number", "value": -1}
-    - [completely]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the
-    - [wholly]{"entity": "number", "value": -1} the [romaine lettuce](item)
-    - [romaine lettuce](item) [each]{"entity": "number", "value": -1}
-    - [romaine lettuce](item) [any]{"entity": "number", "value": -1}
-    - [73](number)
-    - [dill dip](item) [the whole lot]{"entity": "number", "value": -1} of
-    - [dill dip](item)
-    - [27](number) [shark](item)
-    - [shark](item) [a]{"entity": "number", "value": 1}
-    - [15](number) [chicken fricassee](item)
-    - [chicken fricassee](item) [every single]{"entity": "number", "value": -1}
-    - [chicken fricassee](item)
-    - [each and every]{"entity": "number", "value": -1} [papaya](item)
-    - [all]{"entity": "number", "value": -1} the
-    - [one]{"entity": "number", "value": 1}
-    - [beignet](item) [entirely]{"entity": "number", "value": -1} the
-    - [beignet](item)
-    - [beignet](item)
-    - [four](number) [scrapple](item)
-    - [every single]{"entity": "number", "value": -1} [scrapple](item)
-    - [fruit punch](item) [each]{"entity": "number", "value": -1}
-    - [fruit punch](item)
-    - [every]{"entity": "number", "value": -1} [licuado or batido](item)
-    - [licuado or batido](item) [all]{"entity": "number", "value": -1} the
-    - [licuado or batido](item) [every single]{"entity": "number", "value": -1}
-    - [beef pot pie](item)
-    - [all]{"entity": "number", "value": -1} the
-    - [a]{"entity": "number", "value": 1}
-    - [61](number) [pancakes](item)
-    - [cheesecake](item)
-    - [cheesecake](item)
-    - [cornbread stuffing](item) [a]{"entity": "number", "value": 1}
-    - [cornbread stuffing](item) [nine](number)
-    - [cornbread stuffing](item)
-    - [pudding](item) [1](number)
-    - [each]{"entity": "number", "value": -1} [pudding](item)
-    - [bananas with orange](item)
-    - [all]{"entity": "number", "value": -1} the [bananas with orange](item)
-    - [an]{"entity": "number", "value": 1}
-    - [sweet potato tots](item)
-    - [chicken kiev](item) [all]{"entity": "number", "value": -1} the
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [chicken kiev](item) [any]{"entity": "number", "value": -1}
-    - [each and every]{"entity": "number", "value": -1} [ice cream cake](item)
-    - [ice cream cake](item)
-    - [totally]{"entity": "number", "value": -1} the [croissant](item)
-    - [croissant](item)
-    - [completely]{"entity": "number", "value": -1} the [borscht](item)
-    - [borscht](item)
-    - [peach yogurt dessert](item)
-    - [peach yogurt dessert](item) [each]{"entity": "number", "value": -1}
-    - [fully]{"entity": "number", "value": -1} the
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [hayacas](item) [each and every]{"entity": "number", "value": -1}
-    - [fully]{"entity": "number", "value": -1} the [kidney beans](item)
-    - [kidney beans](item)
-    - [each and every]{"entity": "number", "value": -1}
-    - [wholly]{"entity": "number", "value": -1} the [kumquat](item)
-    - [one]{"entity": "number", "value": 1} [kumquat](item)
-    - [olive tapenade](item)
-    - [the whole lot]{"entity": "number", "value": -1} of [olive tapenade](item)
-    - [olive tapenade](item)
-    - [applesauce with cherries](item)
-    - [applesauce with cherries](item)
-    - [fully]{"entity": "number", "value": -1} the
-    - [every]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} [cranberry sauce](item)
-    - [every single]{"entity": "number", "value": -1} [chestnuts](item)
-    - [all]{"entity": "number", "value": -1} the [chestnuts](item)
-    - [two](number)
-    - [adobo](item)
-    - [adobo](item) [one]{"entity": "number", "value": 1}
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [every]{"entity": "number", "value": -1} [agave liquid sweetener](item)
-    - [agave liquid sweetener](item)
-    - [gumdrops](item)
-    - [73](number) [gumdrops](item)
-    - [gumdrops](item) [twenty-one](number)
-    - [whatchamacallit](item) [all]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the [whatchamacallit](item)
-    - [pho](item) [entirely]{"entity": "number", "value": -1} the
-    - [pho](item)
-    - [pho](item)
-    - [tomato chili sauce](item) [every single]{"entity": "number", "value": -1}
-    - [entirely]{"entity": "number", "value": -1} the
-    - [each]{"entity": "number", "value": -1}
-    - [stuffed christophine](item) [every]{"entity": "number", "value": -1}
-    - [totally]{"entity": "number", "value": -1} the [alexander](item)
-    - [an]{"entity": "number", "value": 1}
-    - [every single]{"entity": "number", "value": -1}
-    - [the whole lot]{"entity": "number", "value": -1} of
-    - [pork roll](item) [100](number)
-    - [pineapple](item)
-    - [pineapple](item) [wholly]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the
-    - [frozen yogurt sandwich](item)
-    - [all]{"entity": "number", "value": -1} [frozen yogurt sandwich](item)
-    - [oxtail soup](item) [an]{"entity": "number", "value": 1}
-    - [oxtail soup](item) [every]{"entity": "number", "value": -1}
-    - [oxtail soup](item)
-    - [74](number)
-    - [any]{"entity": "number", "value": -1}
-    - [duck sauce](item) [all]{"entity": "number", "value": -1} the
-    - [all]{"entity": "number", "value": -1} the [quesadilla](item)
-    - [any]{"entity": "number", "value": -1}
-    - [any]{"entity": "number", "value": -1} [celery juice](item)
-    - [wholly]{"entity": "number", "value": -1} the [celery juice](item)
-    - [a]{"entity": "number", "value": 1}
-    - [all]{"entity": "number", "value": -1} the
-    - [caramel dip](item) [one]{"entity": "number", "value": 1}
-    - [each]{"entity": "number", "value": -1} [ceviche](item)
-    - [ceviche](item)
-    - [totally]{"entity": "number", "value": -1} the
-    - [deer chop](item) [one]{"entity": "number", "value": 1}
-    - [86](number)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [all]{"entity": "number", "value": -1} the [grits](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [grits](item)
-    - [crisp](item) [totally]{"entity": "number", "value": -1} the
-    - [every single]{"entity": "number", "value": -1} [crisp](item)
-    - [lentil curry](item) [completely]{"entity": "number", "value": -1} the
-    - [lentil curry](item) [totally]{"entity": "number", "value": -1} the
-    - [fully]{"entity": "number", "value": -1} the
-    - [fish curry](item) [one]{"entity": "number", "value": 1}
-    - [a]{"entity": "number", "value": 1} [fish curry](item)
-    - [rice with chicken](item)
-    - [rice with chicken](item)
-    - [rice with chicken](item)
-    - [each and every]{"entity": "number", "value": -1} [pork skin](item)
-    - [completely]{"entity": "number", "value": -1} the [pork skin](item)
-    - [pork skin](item)
-    - [entirely]{"entity": "number", "value": -1} the [salami sandwich](item)
-    - [one]{"entity": "number", "value": 1} [salami sandwich](item)
-    - [whiskey sour](item) [completely]{"entity": "number", "value": -1} the
-    - [whiskey sour](item)
-    - [whiskey sour](item)
-    - [ladoo](item)
-    - [ladoo](item) [every single]{"entity": "number", "value": -1}
-    - [gordita](item) [one]{"entity": "number", "value": 1}
-    - [gordita](item)
-    - [gordita](item)
-    - [wholly]{"entity": "number", "value": -1} the
-    - [energy drink](item)
-    - [energy drink](item)
-    - [rice noodles](item) [thirty-one](number)
-    - [rice noodles](item) [one]{"entity": "number", "value": 1}
-    - [rice noodles](item)
-    - [noodle soup](item)
-    - [a]{"entity": "number", "value": 1} [noodle soup](item)
-    - [tamale with chicken](item) [totally]{"entity": "number", "value": -1} the
-    - [one]{"entity": "number", "value": 1}
-    - [tamale with chicken](item)
-    - [clementine](item)
-    - [clementine](item) [each]{"entity": "number", "value": -1}
-    - [clementine](item)
-    - [salami](item)
-    - [salami](item)
-    - [pastry](item) [one]{"entity": "number", "value": 1}
-    - [pastry](item)
-    - [mustard](item)
-    - [mustard](item) [entirely]{"entity": "number", "value": -1} the
-    - [every]{"entity": "number", "value": -1} [mixed seeds](item)
-    - [mixed seeds](item) [an]{"entity": "number", "value": 1}
-    - [completely]{"entity": "number", "value": -1} the
-    - [totally]{"entity": "number", "value": -1} the [liqueur with cream](item)
-    - [walnut oil](item) [34](number)
-    - [walnut oil](item) [all]{"entity": "number", "value": -1} the
-    - [walnut oil](item) [every single]{"entity": "number", "value": -1}
-    - [every single]{"entity": "number", "value": -1}
-    - [totally]{"entity": "number", "value": -1} the [abalone](item)
-    - [abalone](item)
-    - [spoonbread](item)
-    - [an]{"entity": "number", "value": 1}
-    - [each]{"entity": "number", "value": -1} [sardine sandwich](item)
-    - [every single]{"entity": "number", "value": -1}
-    - [totally]{"entity": "number", "value": -1} the
-    - [cheeseburger slider](item)
-    - [cheeseburger slider](item) [all]{"entity": "number", "value": -1}
-    - [beef stew](item) [a]{"entity": "number", "value": 1}
-    - [all]{"entity": "number", "value": -1} the [beef stew](item)
-    - [strawberry drink syrup](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [the whole lot]{"entity": "number", "value": -1} of [strawberry drink syrup](item)
-    - [each and every]{"entity": "number", "value": -1} [broccoli cheese soup](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [all]{"entity": "number", "value": -1}
-    - [infant formula](item) [all]{"entity": "number", "value": -1}
-    - [each]{"entity": "number", "value": -1} [infant formula](item)
-    - [completely]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [cereal (kellogg's crispix)](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [one]{"entity": "number", "value": 1} [cereal (kellogg's crispix)](item)
-    - [wholly]{"entity": "number", "value": -1} the
-    - [ham stroganoff](item) [every single]{"entity": "number", "value": -1}
-    - [wholly]{"entity": "number", "value": -1} the
-    - [every]{"entity": "number", "value": -1} [lamb hocks](item)
-    - [every]{"entity": "number", "value": -1}
-    - [26](number) [ground beef patty](item)
-    - [every single]{"entity": "number", "value": -1} [tequila](item)
-    - [tequila](item)
-    - [all]{"entity": "number", "value": -1}
-    - [chicken or turkey](item) [one]{"entity": "number", "value": 1}
-    - [wholly]{"entity": "number", "value": -1} the [chicken or turkey](item)
-    - [vodka and water](item)
-    - [vodka and water](item)
-    - [vodka and water](item)
-    - [every]{"entity": "number", "value": -1} [sweet potato](item)
-    - [sweet potato](item) [all]{"entity": "number", "value": -1} the
-    - [candy](item) [an]{"entity": "number", "value": 1}
-    - [candy](item)
-    - [peanuts](item) [a]{"entity": "number", "value": 1}
-    - [fully]{"entity": "number", "value": -1} the [peanuts](item)
-    - [tuna salad sandwich](item)
-    - [tuna salad sandwich](item)
-    - [high ball](item) [all]{"entity": "number", "value": -1}
-    - [one]{"entity": "number", "value": 1} [high ball](item)
-    - [high ball](item)
-    - [vegetable noodle soup](item) [wholly]{"entity": "number", "value": -1} the
-    - [each]{"entity": "number", "value": -1}
-    - [all]{"entity": "number", "value": -1} the [vegetable noodle soup](item)
-    - [entirely]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the
-    - [any]{"entity": "number", "value": -1} [tiramisu](item)
-    - [tiramisu](item) [96](number)
-    - [an]{"entity": "number", "value": 1}
-    - [stewed codfish](item) [wholly]{"entity": "number", "value": -1} the
-    - [completely]{"entity": "number", "value": -1} the [stewed codfish](item)
-    - [stewed codfish](item) [any]{"entity": "number", "value": -1}
-    - [ten](number)
-    - [rice milk](item)
-    - [rice milk](item) [fully]{"entity": "number", "value": -1} the
-    - [orange blossom](item)
-    - [any]{"entity": "number", "value": -1}
-    - [one]{"entity": "number", "value": 1} [orange blossom](item)
+- [70](number) [blueberry juice](item)
+- [beef and potatoes](item)
+- [93](number) [sour cream](item)
+- [mustard cabbage](item) [sixteen](number)
+- [cornish game hen](item)
+- [vegetarian vegetable soup](item) [63](number)
+- [the whole lot]{"entity": "number", "value": -1} of [papaya juice](item)
+- [mustard greens](item) [wholly]{"entity": "number", "value": -1} the
+- [each and every]{"entity": "number", "value": -1} [cereal beverage](item)
+- [an]{"entity": "number", "value": 1} [long rice noodles](item)
+- [thirty](number) [codfish](item)
+- [any]{"entity": "number", "value": -1} [fruit juice drink](item)
+- [cuban sandwich](item) [a]{"entity": "number", "value": 1}
+- [salami sandwich](item)
+- [hamburger slider](item) [totally]{"entity": "number", "value": -1} the
+- [each and every]{"entity": "number", "value": -1} [mustard greens](item)
+- [each]{"entity": "number", "value": -1} [fish wrap sandwich](item)
+- [lamb hocks](item)
+- [each and every]{"entity": "number", "value": -1} [yuca fries](item)
+- [butter](item)
+- [an]{"entity": "number", "value": 1} [sangria](item)
+- [all]{"entity": "number", "value": -1} the [chicken with gravy](item)
+- [all]{"entity": "number", "value": -1} the [vegetable oil](item)
+- [1](number)
+- [white russian](item) [every single]{"entity": "number", "value": -1}
+- [chard](item) [the whole lot]{"entity": "number", "value": -1} of
+- [tomato vegetable soup](item) [each and every]{"entity": "number", "value": -1}
+- [an]{"entity": "number", "value": 1} [chicken fillet sandwich](item)
+- [mcdouble (mcdonalds)](item) [an]{"entity": "number", "value": 1}
+- [cereal (uncle sam)](item)
+- [each]{"entity": "number", "value": -1} [cocktail sauce](item)
+- [chipotle dip](item)
+- [winter squash](item) [every single]{"entity": "number", "value": -1}
+- [gin fizz](item)
+- [43](number)
+- [meatballs](item) [any]{"entity": "number", "value": -1}
+- [fully]{"entity": "number", "value": -1} the [guava nectar](item)
+- [fully]{"entity": "number", "value": -1} the [barley soup](item)
+- [ladoo](item) [each and every]{"entity": "number", "value": -1}
+- [every]{"entity": "number", "value": -1} [corn chips](item)
+- [one]{"entity": "number", "value": 1} [cracker chips](item)
+- [three](number)
+- [all]{"entity": "number", "value": -1} the [rutabaga](item)
+- [an]{"entity": "number", "value": 1} [welsh rarebit](item)
+- [bread](item) [fully]{"entity": "number", "value": -1} the
+- [glug](item)
+- [totally]{"entity": "number", "value": -1} the [grits](item)
+- [meat loaf](item)
+- [creamsicle](item) [an]{"entity": "number", "value": 1}
+- [the whole lot]{"entity": "number", "value": -1} of [cauliflower](item)
+- [biscuit](item) [wholly]{"entity": "number", "value": -1} the
+- [soybean curd](item) [an]{"entity": "number", "value": 1}
+- [mixed cereal](item)
+- [beef steak](item)
+- [skittles](item)
+- [bulgur](item)
+- [each]{"entity": "number", "value": -1} [chips](item)
+- [masa harina](item) [thirteen](number)
+- [vegetables](item) [the whole lot]{"entity": "number", "value": -1} of
+- [any]{"entity": "number", "value": -1} [graham crackers](item)
+- [peanut oil](item)
+- [apricot](item) [the whole lot]{"entity": "number", "value": -1} of
+- [seven](number) [mango](item)
+- [cottage cheese](item)
+- [mango dessert](item) [every]{"entity": "number", "value": -1}
+- [bagel](item)
+- [snack bar](item) [all]{"entity": "number", "value": -1} the
+- [dessert pizza](item) [a]{"entity": "number", "value": 1}
+- [papad](item)
+- [shirley temple](item)
+- [twenty](number)
+- [beef stroganoff soup](item) [entirely]{"entity": "number", "value": -1} the
+- [jam](item)
+- [rice with raisins](item) [one]{"entity": "number", "value": 1}
+- [totally]{"entity": "number", "value": -1} the [brown rice cereal](item)
+- [miso sauce](item) [fully]{"entity": "number", "value": -1} the
+- [almond paste](item) [an]{"entity": "number", "value": 1}
+- [fully]{"entity": "number", "value": -1} the [venison or deer](item)
+- [italian sausage](item) [the whole lot]{"entity": "number", "value": -1} of
+- [caesar salad](item) [every]{"entity": "number", "value": -1}
+- [every single]{"entity": "number", "value": -1} [textured vegetable protein](item)
+- [barley](item)
+- [all]{"entity": "number", "value": -1} [coconut cream cake](item)
+- [swiss steak](item)
+- [lobster bisque](item) [the whole lot]{"entity": "number", "value": -1} of
+- [turnip](item)
+- [thirty-one](number) [cake batter](item)
+- [ray](item)
+- [martini](item)
+- [meat loaf dinner](item) [completely]{"entity": "number", "value": -1} the
+- [fully]{"entity": "number", "value": -1} the [shrimp teriyaki](item)
+- [51](number) [mcdouble (mcdonalds)](item)
+- [64](number)
+- [a]{"entity": "number", "value": 1}
+- [bean dip](item) [every]{"entity": "number", "value": -1}
+- [firni](item) [a]{"entity": "number", "value": 1}
+- [garlic egg soup](item)
+- [31](number)
+- [peppers and onions](item) [every]{"entity": "number", "value": -1}
+- [any]{"entity": "number", "value": -1} [pork jerky](item)
+- [ghee](item) [any]{"entity": "number", "value": -1}
+- [wholly]{"entity": "number", "value": -1} the [ladoo](item)
+- [textured vegetable protein](item) [any]{"entity": "number", "value": -1}
+- [each]{"entity": "number", "value": -1} [martini](item)
+- [rice with raisins](item) [entirely]{"entity": "number", "value": -1} the
+- [an]{"entity": "number", "value": 1} [guacamole with tomatoes](item)
+- [duck egg](item)
+- [the whole lot]{"entity": "number", "value": -1} of [lamb hocks](item)
+- [a]{"entity": "number", "value": 1} [sixlets](item)
+- [squirrel](item) [a]{"entity": "number", "value": 1}
+- [bananas with orange](item)
+- [completely]{"entity": "number", "value": -1} the [bacon strip](item)
+- [fifteen](number)
+- [an]{"entity": "number", "value": 1} [vodka and water](item)
+- [twenty-six](number) [soursop](item)
+- [all]{"entity": "number", "value": -1} [chocolate syrup](item)
+- [yam](item) [the whole lot]{"entity": "number", "value": -1} of
+- [sesame chicken](item)
+- [wholly]{"entity": "number", "value": -1} the [shrimp creole](item)
+- [chestnuts](item) [all]{"entity": "number", "value": -1} the
+- [completely]{"entity": "number", "value": -1} the [vegetarian vegetable soup](item)
+- [lemonade](item)
+- [french toast](item) [every single]{"entity": "number", "value": -1}
+- [gin rickey](item) [a]{"entity": "number", "value": 1}
+- [completely]{"entity": "number", "value": -1} the [rice soup](item)
+- [pheasant](item) [one]{"entity": "number", "value": 1}
+- [eel](item)
+- [heart](item) [each and every]{"entity": "number", "value": -1}
+- [fully]{"entity": "number", "value": -1} the [chilaquiles](item)
+- [entirely]{"entity": "number", "value": -1} the [marie biscuit](item)
+- [fried chicken chunks](item) [any]{"entity": "number", "value": -1}
+- [oxtail soup](item) [totally]{"entity": "number", "value": -1} the
+- [high ball](item)
+- [52](number) [mustard cabbage](item)
+- [completely]{"entity": "number", "value": -1} the [stewed gizzards](item)
+- [an]{"entity": "number", "value": 1} [pork ears](item)
+- [fully]{"entity": "number", "value": -1} the [custard](item)
+- [every]{"entity": "number", "value": -1} [sugar cane beverage](item)
+- [veal with gravy](item) [twenty-three](number)
+- [completely]{"entity": "number", "value": -1} the [pompano](item)
+- [every single]{"entity": "number", "value": -1} [fried rice](item)
+- [frozen coffee drink](item) [each]{"entity": "number", "value": -1}
+- [all]{"entity": "number", "value": -1} [chicken fillet sandwich](item)
+- [guacamole](item)
+- [vodka and tonic](item) [entirely]{"entity": "number", "value": -1} the
+- [every]{"entity": "number", "value": -1} [codfish](item)
+- [beets](item) [entirely]{"entity": "number", "value": -1} the
+- [gelato](item) [each]{"entity": "number", "value": -1}
+- [every]{"entity": "number", "value": -1} [cheese sandwich](item)
+- [sweet potato fries](item)
+- [cookie](item)
+- [fully]{"entity": "number", "value": -1} the [stewed rice](item)
+- [turnip](item) [all]{"entity": "number", "value": -1}
+- [a]{"entity": "number", "value": 1} [burrito with meat](item)
+- [totally]{"entity": "number", "value": -1} the [mixed cereal](item)
+- [turkey ham](item)
+- [each and every]{"entity": "number", "value": -1} [enchilada](item)
+- [the whole lot]{"entity": "number", "value": -1} of [creamed christophine](item)
+- [an]{"entity": "number", "value": 1} [beef rolls](item)
+- [imitation cheese](item) [one]{"entity": "number", "value": 1}
+- [fourteen](number)
+- [totally]{"entity": "number", "value": -1} the [spaghetti sauce](item)
+- [each and every]{"entity": "number", "value": -1} [chicken feet](item)
+- [all]{"entity": "number", "value": -1} [paella with meat](item)
+- [goulash](item)
+- [lomi salmon](item)
+- [stewed pork](item) [four](number)
+- [shrimp gumbo](item)
+- [completely]{"entity": "number", "value": -1} the [parsnips](item)
+- [pear nectar](item)
+- [chicken with gravy](item)
+- [77](number) [ghee](item)
+- [chorizo](item)
+- [soyburger](item)
+- [vodka](item) [eight](number)
+- [completely]{"entity": "number", "value": -1} the [lemon pie filling](item)
+- [guava nectar](item)
+- [oxtail soup](item) [every single]{"entity": "number", "value": -1}
+- [goulash](item) [the whole lot]{"entity": "number", "value": -1} of
+- [wholly]{"entity": "number", "value": -1} the [caramel with nuts](item)
+- [fried onion rings](item)
+- [sixlets](item)
+- [any]{"entity": "number", "value": -1} [carp](item)
+- [bamboo shoots](item) [any]{"entity": "number", "value": -1}
+- [36](number)
+- [squid](item) [entirely]{"entity": "number", "value": -1} the
+- [vegetarian stroganoff](item)
+- [every]{"entity": "number", "value": -1} [chilaquiles](item)
+- [applesauce and apricots](item) [wholly]{"entity": "number", "value": -1} the
+- [lobster](item)
+- [salsa](item)
+- [all]{"entity": "number", "value": -1} the
+- [wasabi peas](item)
+- [coconut water](item) [fully]{"entity": "number", "value": -1} the
+- [beer](item)
+- [black beans](item)
+- [completely]{"entity": "number", "value": -1} the [luncheon meat sandwich](item)
+- [broccoli slaw salad](item)
+- [totally]{"entity": "number", "value": -1} the [stuffed pot roast](item)
+- [yuca fries](item)
+- [chicken submarine sandwich](item)
+- [milk](item) [every single]{"entity": "number", "value": -1}
+- [every single]{"entity": "number", "value": -1} [applesauce and apricots](item)
+- [pastrami sandwich](item)
+- [fully]{"entity": "number", "value": -1} the [sardine sandwich](item)
+- [custard](item)
+- [orange chicken](item)
+- [papaya nectar](item) [all]{"entity": "number", "value": -1}
+- [mousse](item)
+- [wheat](item) [twenty](number)
+- [fish stock](item)
+- [a]{"entity": "number", "value": 1} [vegetable soup](item)
+- [artichoke dip](item)
+- [sixteen](number)
+- [28](number) [vienna sausage](item)
+- [three](number) [croissant sandwich](item)
+- [caramel candy](item)
+- [zucchini](item) [totally]{"entity": "number", "value": -1} the
+- [kung pao chicken](item)
+- [almond paste](item)
+- [cheese turnover](item)
+- [each and every]{"entity": "number", "value": -1} [crab salad](item)
+- [totally]{"entity": "number", "value": -1} the [beans with meat](item)
+- [nine](number)
+- [eel](item) [each and every]{"entity": "number", "value": -1}
+- [peach nectar](item) [one]{"entity": "number", "value": 1}
+- [oysters rockefeller](item) [completely]{"entity": "number", "value": -1} the
+- [each]{"entity": "number", "value": -1} [carp](item)
+- [lobster](item) [any]{"entity": "number", "value": -1}
+- [shav soup](item)
+- [each and every]{"entity": "number", "value": -1} [tortilla chips](item)
+- [tom collins](item)
+- [canadian bacon](item) [any]{"entity": "number", "value": -1}
+- [each and every]{"entity": "number", "value": -1} [leek](item)
+- [fully]{"entity": "number", "value": -1} the
+- [every single]{"entity": "number", "value": -1} [pineapple](item)
+- [nineteen](number)
+- [each]{"entity": "number", "value": -1} [dirty rice](item)
+- [strawberry drink syrup](item) [one]{"entity": "number", "value": 1}
+- [all]{"entity": "number", "value": -1} [creamsicle](item)
+- [beef steak](item) [entirely]{"entity": "number", "value": -1} the
+- [completely]{"entity": "number", "value": -1} the [creamy dressing](item)
+- [lomi salmon](item) [each]{"entity": "number", "value": -1}
+- [veal cordon bleu](item)
+- [six](number)
+- [each and every]{"entity": "number", "value": -1} [lemon](item)
+- [the whole lot]{"entity": "number", "value": -1} of [whiskey and water](item)
+- [fried chicken chunks](item) [each]{"entity": "number", "value": -1}
+- [shrimp scampi](item)
+- [a]{"entity": "number", "value": 1} [brandy and cola](item)
+- [any]{"entity": "number", "value": -1} [noodles](item)
+- [each and every]{"entity": "number", "value": -1} [bird's nest soup](item)
+- [luncheon slice](item) [completely]{"entity": "number", "value": -1} the
+- [almond paste](item) [entirely]{"entity": "number", "value": -1} the
+- [firni](item)
+- [sausage on biscuit](item)
+- [all]{"entity": "number", "value": -1} [peanut butter](item)
+- [paella with meat](item)
+- [codfish salad](item) [three](number)
+- [cheesecake](item)
+- [cereal (malt-o-meal coco-roos)](item)
+- [breakfast tart](item)
+- [coconut cream](item) [every single]{"entity": "number", "value": -1}
+- [apple-sweet potato juice](item) [each and every]{"entity": "number", "value": -1}
+- [chicken submarine sandwich](item) [wholly]{"entity": "number", "value": -1} the
+- [fig](item)
+- [oatmeal](item) [sixteen](number)
+- [soy chips](item) [fully]{"entity": "number", "value": -1} the
+- [mayonnaise](item)
+- [tartar sauce](item)
+- [fully]{"entity": "number", "value": -1} the [carbonated water](item)
+- [fish stock](item) [an]{"entity": "number", "value": 1}
+- [all]{"entity": "number", "value": -1} [chicken feet](item)
+- [sherbet](item) [totally]{"entity": "number", "value": -1} the
+- [butter](item) [twelve](number)
+- [oatmeal](item) [totally]{"entity": "number", "value": -1} the
+- [barley cereal](item) [totally]{"entity": "number", "value": -1} the
+- [guacamole](item) [totally]{"entity": "number", "value": -1} the
+- [salmon salad](item)
+- [each and every]{"entity": "number", "value": -1} [peach cobbler](item)
+- [completely]{"entity": "number", "value": -1} the [mussels](item)
+- [egg salad](item) [totally]{"entity": "number", "value": -1} the
+- [89](number)
+- [all]{"entity": "number", "value": -1} the [cherries](item)
+- [every single]{"entity": "number", "value": -1} [kishke](item)
+- [totally]{"entity": "number", "value": -1} the
+- [pork hash](item) [twenty-seven](number)
+- [pancake syrup](item) [fully]{"entity": "number", "value": -1} the
+- [banana split](item) [all]{"entity": "number", "value": -1}
+- [any]{"entity": "number", "value": -1} [chilaquiles](item)
+- [taro leaves](item)
+- [completely]{"entity": "number", "value": -1} the [fruit juice drink](item)
+- [toblerone](item) [every single]{"entity": "number", "value": -1}
+- [apple-sweet potato juice](item) [all]{"entity": "number", "value": -1} the
+- [snow cone](item) [one]{"entity": "number", "value": 1}
+- [passion fruit](item)
+- [chicken feet](item) [totally]{"entity": "number", "value": -1} the
+- [totally]{"entity": "number", "value": -1} the [kung pao pork](item)
+- [vegetable noodle soup](item) [82](number)
+- [hash](item) [each]{"entity": "number", "value": -1}
+- [mimosa](item)
+- [guava paste](item) [every single]{"entity": "number", "value": -1}
+- [each]{"entity": "number", "value": -1} [egg salad](item)
+- [46](number) [pan dulce](item)
+- [stewed pork](item) [each and every]{"entity": "number", "value": -1}
+- [71](number) [bison](item)
+- [tortilla chips](item)
+- [totally]{"entity": "number", "value": -1} the [egg salad](item)
+- [the whole lot]{"entity": "number", "value": -1} of [prunes with oatmeal](item)
+- [each]{"entity": "number", "value": -1} [bread](item)
+- [fried pork chunks](item)
+- [cottage cheese](item) [an]{"entity": "number", "value": 1}
+- [cottonseed oil](item)
+- [kefir](item)
+- [guacamole with tomatoes](item)
+- [papaya juice](item)
+- [one]{"entity": "number", "value": 1} [papad](item)
+- [meat loaf dinner](item) [every]{"entity": "number", "value": -1}
+- [general tso chicken](item) [a]{"entity": "number", "value": 1}
+- [wholly]{"entity": "number", "value": -1} the
+- [potato chips](item) [fully]{"entity": "number", "value": -1} the
+- [all]{"entity": "number", "value": -1} the [ceviche](item)
+- [bean dip](item) [completely]{"entity": "number", "value": -1} the
+- [mozzarella sticks](item)
+- [golden cadillac](item)
+- [all]{"entity": "number", "value": -1} [seafood sauce](item)
+- [completely]{"entity": "number", "value": -1} the [guava paste](item)
+- [whatchamacallit](item) [the whole lot]{"entity": "number", "value": -1} of
+- [waffle](item) [every]{"entity": "number", "value": -1}
+- [date candy](item)
+- [croaker](item)
+- [egg](item)
+- [hamburger slider](item) [fully]{"entity": "number", "value": -1} the
+- [tamale with chicken](item) [wholly]{"entity": "number", "value": -1} the
+- [fish stock](item) [all]{"entity": "number", "value": -1}
+- [taro chips](item)
+- [huevos rancheros](item)
+- [tomato soup](item)
+- [duck](item) [completely]{"entity": "number", "value": -1} the
+- [fifteen](number) [multigrain](item)
+- [almond milk](item)
+- [soy chips](item) [all]{"entity": "number", "value": -1}
+- [calzone](item) [wholly]{"entity": "number", "value": -1} the
+- [stuffed shells](item)
+- [meat loaf dinner](item)
+- [danish pastry](item)
+- [one]{"entity": "number", "value": 1} [lobster gumbo](item)
+- [turkey stick](item) [totally]{"entity": "number", "value": -1} the
+- [cream sauce](item)
+- [each and every]{"entity": "number", "value": -1} [lobster bisque](item)
+- [peach cobbler](item) [any]{"entity": "number", "value": -1}
+- [shirley temple](item) [fully]{"entity": "number", "value": -1} the
+- [soursop](item) [wholly]{"entity": "number", "value": -1} the
+- [yokan](item) [totally]{"entity": "number", "value": -1} the
+- [completely]{"entity": "number", "value": -1} the [lemon-butter sauce](item)
+- [biscuit](item)
+- [any]{"entity": "number", "value": -1} [carbonated water](item)
+- [soy nuts](item)
+- [all]{"entity": "number", "value": -1} [tuna](item)
+- [chicken "wings"](item)
+- [pineapple](item)
+- [shrimp teriyaki](item)
+- [completely]{"entity": "number", "value": -1} the [chorizo](item)
+- [brandy](item)
+- [completely]{"entity": "number", "value": -1} the [kung pao beef](item)
+- [any]{"entity": "number", "value": -1} [hamburger wrap sandwich](item)
+- [nonalcoholic malt beverage](item)
+- [chipotle dip](item) [a]{"entity": "number", "value": 1}
+- [cheese pastry puffs](item)
+- [snowpea](item) [every single]{"entity": "number", "value": -1}
+- [an]{"entity": "number", "value": 1} [broccoli raab](item)
+- [sixteen](number) [vegetable mixture](item)
+- [soft serve](item) [twelve](number)
+- [parsnips](item)
+- [wholly]{"entity": "number", "value": -1} the [molasses](item)
+- [beef rolls](item) [one]{"entity": "number", "value": 1}
+- [beet greens](item)
+- [all]{"entity": "number", "value": -1} [snowpea](item)
+- [bacon strip](item) [one]{"entity": "number", "value": 1}
+- [all]{"entity": "number", "value": -1} [barley soup](item)
+- [canola oil](item)
+- [a]{"entity": "number", "value": 1} [kung pao beef](item)
+- [each and every]{"entity": "number", "value": -1}
+- [entirely]{"entity": "number", "value": -1} the [fried stuffed potatoes](item)
+- [classic mixed vegetables](item)
+- [pretzel](item)
+- [blueberry juice](item) [all]{"entity": "number", "value": -1} the
+- [tomato chili sauce](item) [18](number)
+- [breaded brains](item) [entirely]{"entity": "number", "value": -1} the
+- [thirteen](number)
+- [beans with meat](item) [every]{"entity": "number", "value": -1}
+- [chili with beans](item)
+- [calzone](item) [an]{"entity": "number", "value": 1}
+- [plantain](item) [every single]{"entity": "number", "value": -1}
+- [totally]{"entity": "number", "value": -1} the [energy drink](item)
+- [pepper steak](item) [33](number)
+- [all]{"entity": "number", "value": -1} [pear nectar](item)
+- [every]{"entity": "number", "value": -1} [duck egg](item)
+- [slush frozen drink](item) [the whole lot]{"entity": "number", "value": -1} of
+- [bibimbap](item)
+- [empanada](item) [each]{"entity": "number", "value": -1}
+- [cornbread muffin](item)
+- [beans](item)
+- [rabbit](item) [each]{"entity": "number", "value": -1}
+- [totally]{"entity": "number", "value": -1} the [sopa seca](item)
+- [broccoli slaw salad](item) [entirely]{"entity": "number", "value": -1} the
+- [all]{"entity": "number", "value": -1} [mango dessert](item)
+- [fried summer squash](item) [every]{"entity": "number", "value": -1}
+- [an]{"entity": "number", "value": 1} [whiskey and soda](item)
+- [sweet potato fries](item) [each]{"entity": "number", "value": -1}
+- [deer chop](item) [every single]{"entity": "number", "value": -1}
+- [an]{"entity": "number", "value": 1} [papaya](item)
+- [chicken "wings"](item) [each and every]{"entity": "number", "value": -1}
+- [all]{"entity": "number", "value": -1} the [blood sausage](item)
+- [steak sandwich](item) [totally]{"entity": "number", "value": -1} the
+- [a]{"entity": "number", "value": 1} [stewed gizzards](item)
+- [entirely]{"entity": "number", "value": -1} the [kung pao pork](item)
+- [vegetable smoothie](item) [entirely]{"entity": "number", "value": -1} the
+- [caesar salad](item)
+- [lo mein](item) [a]{"entity": "number", "value": 1}
+- [all]{"entity": "number", "value": -1} the [cocoa powder](item)
+- [corn dog](item)
+- [turkey ham](item) [completely]{"entity": "number", "value": -1} the
+- [breaded brains](item) [all]{"entity": "number", "value": -1} the
+- [rice noodles](item)
+- [one]{"entity": "number", "value": 1}
+- [bison](item)
+- [one]{"entity": "number", "value": 1} [eggplant dip](item)
+- [bird's nest soup](item)
+- [all]{"entity": "number", "value": -1} the [pike](item)
+- [broccoli cheese soup](item) [the whole lot]{"entity": "number", "value": -1} of
+- [cheese sandwich](item) [one]{"entity": "number", "value": 1}
+- [every]{"entity": "number", "value": -1} [meat](item)
+- [ham pot pie](item)
+- [totally]{"entity": "number", "value": -1} the [margarine-oil blend](item)
+- [yokan](item)
+- [ham luncheon meat](item)
+- [tongue](item) [all]{"entity": "number", "value": -1} the
+- [radishes](item)
+- [every]{"entity": "number", "value": -1} [fried stuffed potatoes](item)
+- [fried summer squash](item) [each]{"entity": "number", "value": -1}
+- [roast beef sandwich](item)
+- [every single]{"entity": "number", "value": -1} [brown rice cereal](item)
+- [squid](item) [a]{"entity": "number", "value": 1}
+- [french toast sticks](item) [wholly]{"entity": "number", "value": -1} the
+- [sirloin beef](item)
+- [vegetables](item) [entirely]{"entity": "number", "value": -1} the
+- [wholly]{"entity": "number", "value": -1} the [waffle](item)
+- [peanut butter](item) [each and every]{"entity": "number", "value": -1}
+- [each]{"entity": "number", "value": -1} [lemon pie filling](item)
+- [any]{"entity": "number", "value": -1} [vegetable mixture](item)
+- [cookie](item) [every]{"entity": "number", "value": -1}
+- [every]{"entity": "number", "value": -1} [chips](item)
+- [twenty-two](number)
+- [pimiento](item)
+- [banana chips](item) [an]{"entity": "number", "value": 1}
+- [yuca fries](item) [each]{"entity": "number", "value": -1}
+- [entirely]{"entity": "number", "value": -1} the [oyster stew](item)
+- [completely]{"entity": "number", "value": -1} the [pancake syrup](item)
+- [thirteen](number) [marie biscuit](item)
+- [ranch dip](item) [twenty-one](number)
+- [every]{"entity": "number", "value": -1} [quesadilla](item)
+- [any]{"entity": "number", "value": -1} [orange-apple-banana juice](item)
+- [a]{"entity": "number", "value": 1} [palm hearts](item)
+- [all]{"entity": "number", "value": -1} the [apple-fruit juice blend](item)
+- [squid](item)
+- [fourteen](number) [puffs](item)
+- [wheat bran](item)
+- [lima bean soup](item) [every single]{"entity": "number", "value": -1}
+- [totally]{"entity": "number", "value": -1} the [turkey bacon](item)
+- [completely]{"entity": "number", "value": -1} the [cornbread muffin](item)
+- [wheat](item)
+- [cocoa powder](item) [twenty-six](number)
+- [fish fillet](item)
+- [entirely]{"entity": "number", "value": -1} the [steak](item)
+- [meat](item)
+- [every]{"entity": "number", "value": -1} [roast beef sandwich](item)
+- [ground beef](item)
+- [a]{"entity": "number", "value": 1} [zucchini](item)
+- [apricot](item) [twenty-six](number)
+- [all]{"entity": "number", "value": -1} [sweet potato paste](item)
+- [fully]{"entity": "number", "value": -1} the [stewed potatoes](item)
+- [vegetable oil](item)
+- [fish wrap sandwich](item)
+- [vegetable noodle soup](item) [entirely]{"entity": "number", "value": -1} the
+- [radicchio](item) [all]{"entity": "number", "value": -1} the
+- [fried bread](item)
+- [grapes](item)
+- [every]{"entity": "number", "value": -1} [taro chips](item)
+- [all]{"entity": "number", "value": -1} [white russian](item)
+- [noodles](item) [fully]{"entity": "number", "value": -1} the
+- [all]{"entity": "number", "value": -1} the [gerber finger foods](item)
+- [soft serve](item)
+- [all]{"entity": "number", "value": -1} [whole wheat cereal](item)
+- [lobster bisque](item)
+- [broccoli soup](item) [an]{"entity": "number", "value": 1}
+- [pike](item)
+- [seafood restructured](item) [all]{"entity": "number", "value": -1}
+- [totally]{"entity": "number", "value": -1} the [caramel with nuts](item)
+- [sangria](item)
+- [vegetable soup](item)
+- [beans with meat](item) [wholly]{"entity": "number", "value": -1} the
+- [toblerone](item)
+- [sopa seca](item)
+- [hot peppers](item)
+- [orange-apple-banana juice](item) [each]{"entity": "number", "value": -1}
+- [scrapple](item)
+- [okra](item)
+- [sushi roll](item)
+- [general tso chicken](item) [wholly]{"entity": "number", "value": -1} the
+- [cheese sauce](item) [a]{"entity": "number", "value": 1}
+- [seventeen](number) [grapes](item)
+- [vegetable lasagna](item) [one]{"entity": "number", "value": 1}
+- [vodka and water](item) [completely]{"entity": "number", "value": -1} the
+- [vegetarian vegetable soup](item) [fully]{"entity": "number", "value": -1} the
+- [all]{"entity": "number", "value": -1} the [queso anejo](item)
+- [peppers and onions](item)
+- [turkey with vegetable](item)
+- [tongue](item) [an]{"entity": "number", "value": 1}
+- [potato soup](item)
+- [each]{"entity": "number", "value": -1} [vegetable rice soup](item)
+- [fruit flavored snack](item)
+- [one]{"entity": "number", "value": 1} [corned beef sandwich](item)
+- [prunes with oatmeal](item)
+- [lima bean soup](item) [wholly]{"entity": "number", "value": -1} the
+- [every]{"entity": "number", "value": -1} [stuffed pork roast](item)
+- [minestrone soup](item)
+- [fruit smoothie](item) [entirely]{"entity": "number", "value": -1} the
+- [fruit nectar](item)
+- [crab salad](item) [wholly]{"entity": "number", "value": -1} the
+- [head cheese](item)
+- [cocktail sauce](item)
+- [flavored rice](item) [each]{"entity": "number", "value": -1}
+- [all]{"entity": "number", "value": -1} [coconut cream](item)
+- [every single]{"entity": "number", "value": -1} [dill dip](item)
+- [mayonnaise](item) [one]{"entity": "number", "value": 1}
+- [all]{"entity": "number", "value": -1} [veal parmigiana](item)
+- [wholly]{"entity": "number", "value": -1} the [danish pastry](item)
+- [miso sauce](item)
+- [cornbread muffin](item) [all]{"entity": "number", "value": -1}
+- [pork hash](item)
+- [creamsicle](item)
+- [cod](item) [all]{"entity": "number", "value": -1}
+- [each]{"entity": "number", "value": -1} [breakfast link](item)
+- [steak sandwich](item) [thirteen](number)
+- [each and every]{"entity": "number", "value": -1} [bulgur](item)
+- [every single]{"entity": "number", "value": -1} [ghee](item)
+- [puffs](item)
+- [fish sandwich](item) [seventeen](number)
+- [every single]{"entity": "number", "value": -1} [currants](item)
+- [the whole lot]{"entity": "number", "value": -1} of [screwdriver](item)
+- [beef vegetable soup](item)
+- [the whole lot]{"entity": "number", "value": -1} of [turkey ham](item)
+- [any]{"entity": "number", "value": -1} [vegetable rice soup](item)
+- [artichoke dip](item) [the whole lot]{"entity": "number", "value": -1} of
+- [one]{"entity": "number", "value": 1} [barley](item)
+- [mozzarella cheese](item)
+- [taro](item)
+- [ham on biscuit](item)
+- [hamburger (burger king)](item)
+- [twenty-six](number)
+- [fish chowder](item) [the whole lot]{"entity": "number", "value": -1} of
+- [pepper steak](item)
+- [chocolate syrup](item) [any]{"entity": "number", "value": -1}
+- [gelato](item) [every]{"entity": "number", "value": -1}
+- [broccoli](item)
+- [creamy dressing](item) [every single]{"entity": "number", "value": -1}
+- [cornmeal mush](item) [each]{"entity": "number", "value": -1}
+- [honey butter](item) [all]{"entity": "number", "value": -1} the
+- [wholly]{"entity": "number", "value": -1} the [italian sausage](item)
+- [banana apple dessert](item)
+- [cake](item)
+- [breakfast tart](item) [totally]{"entity": "number", "value": -1} the
+- [caramel candy](item) [all]{"entity": "number", "value": -1}
+- [graham crackers](item) [wholly]{"entity": "number", "value": -1} the
+- [squirrel](item)
+- [cereal beverage](item)
+- [vegetable lasagna](item)
+- [masa harina](item)
+- [canola oil](item) [81](number)
+- [any]{"entity": "number", "value": -1} [ham and pork](item)
+- [the whole lot]{"entity": "number", "value": -1} of [broccoli raab](item)
+- [completely]{"entity": "number", "value": -1} the
+- [all]{"entity": "number", "value": -1} [egg](item)
+- [each and every]{"entity": "number", "value": -1} [fish fillet](item)
+- [fish chowder](item)
+- [banana chips](item) [completely]{"entity": "number", "value": -1} the
+- [soybean curd](item) [each]{"entity": "number", "value": -1}
+- [banana chips](item) [every single]{"entity": "number", "value": -1}
+- [manhattan](item)
+- [two](number) [beet juice](item)
+- [bagel chips](item)
+- [fluid replacement](item)
+- [broccoli and cauliflower](item) [one]{"entity": "number", "value": 1}
+- [every single]{"entity": "number", "value": -1}
+- [creme brulee](item)
+- [egg salad](item)
+- [fully]{"entity": "number", "value": -1} the [apricot](item)
+- [one]{"entity": "number", "value": 1} [corn dog](item)
+- [cornmeal mush](item) [all]{"entity": "number", "value": -1} the
+- [blackeyed peas](item)
+- [tuna](item) [twenty](number)
+- [enchilada](item) [a]{"entity": "number", "value": 1}
+- [stuffed pork roast](item)
+- [fully]{"entity": "number", "value": -1} the [bamboo shoots](item)
+- [pecans](item)
+- [each]{"entity": "number", "value": -1} [raisins](item)
+- [seafood restructured](item) [all]{"entity": "number", "value": -1} the
+- [entirely]{"entity": "number", "value": -1} the [chicken thigh](item)
+- [eleven](number) [lemonade](item)
+- [completely]{"entity": "number", "value": -1} the [brioche](item)
+- [brioche](item) [any]{"entity": "number", "value": -1}
+- [cod](item) [one]{"entity": "number", "value": 1}
+- [lima bean soup](item)
+- [arepa dominicana](item) [one]{"entity": "number", "value": 1}
+- [lima beans](item) [all]{"entity": "number", "value": -1} the
+- [seafood sauce](item) [one]{"entity": "number", "value": 1}
+- [gumdrops](item) [all]{"entity": "number", "value": -1}
+- [the whole lot]{"entity": "number", "value": -1} of [greyhound](item)
+- [mussels](item)
+- [welsh rarebit](item)
+- [all]{"entity": "number", "value": -1}
+- [25](number) [beef vegetable soup](item)
+- [the whole lot]{"entity": "number", "value": -1} of [cheeseburger (burger king)](item)
+- [the whole lot]{"entity": "number", "value": -1} of [pork roast](item)
+- [the whole lot]{"entity": "number", "value": -1} of [sausage on biscuit](item)
+- [zwieback toast](item)
+- [chives](item) [the whole lot]{"entity": "number", "value": -1} of
+- [mojito](item)
+- [bruschetta](item)
+- [fruit nectar](item) [every single]{"entity": "number", "value": -1}
+- [palm hearts](item)
+- [snack bar](item) [each and every]{"entity": "number", "value": -1}
+- [all]{"entity": "number", "value": -1} [stuffed pepper](item)
+- [salami sandwich](item) [all]{"entity": "number", "value": -1} the
+- [beef noodle soup](item) [all]{"entity": "number", "value": -1} the
+- [wholly]{"entity": "number", "value": -1} the [cactus](item)
+- [gumbo with rice](item)
+- [lentils](item) [the whole lot]{"entity": "number", "value": -1} of
+- [totally]{"entity": "number", "value": -1} the [poi](item)
+- [creamed christophine](item) [a]{"entity": "number", "value": 1}
+- [queso anejo](item)
+- [sushi roll](item) [entirely]{"entity": "number", "value": -1} the
+- [totally]{"entity": "number", "value": -1} the [gin fizz](item)
+- [the whole lot]{"entity": "number", "value": -1} of [jam](item)
+- [every single]{"entity": "number", "value": -1} [bagel](item)
+- [completely]{"entity": "number", "value": -1} the [hash](item)
+- [fruit smoothie](item)
+- [burrito](item)
+- [beef and potatoes](item) [every]{"entity": "number", "value": -1}
+- [completely]{"entity": "number", "value": -1} the [escarole](item)
+- [cheese turnover](item) [76](number)
+- [totally]{"entity": "number", "value": -1} the [apple juice](item)
+- [one]{"entity": "number", "value": 1} [hash](item)
+- [rabbit](item)
+- [a]{"entity": "number", "value": 1} [mozzarella sticks](item)
+- [every]{"entity": "number", "value": -1} [french toast](item)
+- [every single]{"entity": "number", "value": -1} [sushi roll tuna](item)
+- [entirely]{"entity": "number", "value": -1} the
+- [seven-layer salad](item)
+- [any]{"entity": "number", "value": -1} [meat loaf](item)
+- [peach nectar](item) [95](number)
+- [potato patty](item)
+- [sandwich spread](item) [every single]{"entity": "number", "value": -1}
+- [every]{"entity": "number", "value": -1} [kung pao chicken](item)
+- [beef dumpling soup](item)
+- [entirely]{"entity": "number", "value": -1} the [ceviche](item)
+- [entirely]{"entity": "number", "value": -1} the [frozen yogurt bar](item)
+- [each and every]{"entity": "number", "value": -1} [creme brulee](item)
+- [0](number)
+- [every single]{"entity": "number", "value": -1} [broccoli raab](item)
+- [all]{"entity": "number", "value": -1} the [biscuit](item)
+- [danish pastry](item) [all]{"entity": "number", "value": -1}
+- [quesadilla](item) [all]{"entity": "number", "value": -1}
+- [the whole lot]{"entity": "number", "value": -1} of [vodka](item)
+- [completely]{"entity": "number", "value": -1} the [egg salad](item)
+- [any]{"entity": "number", "value": -1} [oatmeal](item)
+- [completely]{"entity": "number", "value": -1} the [chestnuts](item)
+- [broccoli slaw salad](item) [every single]{"entity": "number", "value": -1}
+- [every]{"entity": "number", "value": -1} [cactus](item)
+- [huevos rancheros](item) [any]{"entity": "number", "value": -1}
+- [coffee cake](item)
+- [each and every]{"entity": "number", "value": -1} [soyburger](item)
+- [knockwurst](item) [completely]{"entity": "number", "value": -1} the
+- [eight](number) [artichoke dip](item)
+- [all]{"entity": "number", "value": -1} the [pineapple dessert](item)
+- [every]{"entity": "number", "value": -1} [sweet potato paste](item)
+- [beans](item) [all]{"entity": "number", "value": -1} the
+- [twelve](number) [pheasant](item)
+- [black bean salad](item) [one]{"entity": "number", "value": 1}
+- [sweet bread dough](item) [each]{"entity": "number", "value": -1}
+- [chia seeds](item)
+- [any]{"entity": "number", "value": -1} [kefir](item)
+- [totally]{"entity": "number", "value": -1} the [fried chicken chunks](item)
+- [an]{"entity": "number", "value": 1} [butterscotch hard candy](item)
+- [heart](item) [each]{"entity": "number", "value": -1}
+- [barley cereal](item)
+- [cuban sandwich](item) [the whole lot]{"entity": "number", "value": -1} of
+- [sardines](item)
+- [eleven](number)
+- [rice noodles](item) [all]{"entity": "number", "value": -1} the
+- [lemon](item) [a]{"entity": "number", "value": 1}
+- [every single]{"entity": "number", "value": -1} [margarine-oil blend](item)
+- [snails](item)
+- [lemon-butter sauce](item)
+- [eggplant dip](item)
+- [papaya nectar](item) [each and every]{"entity": "number", "value": -1}
+- [sambar](item) [all]{"entity": "number", "value": -1} the
+- [totally]{"entity": "number", "value": -1} the [mango dessert](item)
+- [italian wedding soup](item) [each and every]{"entity": "number", "value": -1}
+- [pocky](item)
+- [entirely]{"entity": "number", "value": -1} the [potato soup](item)
+- [bacon on biscuit](item) [completely]{"entity": "number", "value": -1} the
+- [wholly]{"entity": "number", "value": -1} the [egg salad](item)
+- [beet juice](item)
+- [each and every]{"entity": "number", "value": -1} [chicken submarine sandwich](item)
+- [meatballs](item) [a]{"entity": "number", "value": 1}
+- [ladoo](item) [totally]{"entity": "number", "value": -1} the
+- [grits](item) [fully]{"entity": "number", "value": -1} the
+- [cheesecake](item) [every]{"entity": "number", "value": -1}
+- [91](number) [raisins](item)
+- [deer chop](item)
+- [miso sauce](item) [totally]{"entity": "number", "value": -1} the
+- [all]{"entity": "number", "value": -1} [cereal (malt-o-meal coco-roos)](item)
+- [every single]{"entity": "number", "value": -1} [vodka](item)
+- [spaghetti sauce](item)
+- [sixteen](number) [corn dog](item)
+- [halvah](item)
+- [totally]{"entity": "number", "value": -1} the [eel](item)
+- [frozen yogurt bar](item) [78](number)
+- [dill dip](item) [an]{"entity": "number", "value": 1}
+- [any]{"entity": "number", "value": -1} [italian sausage](item)
+- [each and every]{"entity": "number", "value": -1} [stewed goat](item)
+- [soursop](item) [an]{"entity": "number", "value": 1}
+- [cranberry juice drink](item) [every single]{"entity": "number", "value": -1}
+- [kiwi fruit](item) [completely]{"entity": "number", "value": -1} the
+- [one]{"entity": "number", "value": 1} [turkey bacon](item)
+- [cake batter](item) [entirely]{"entity": "number", "value": -1} the
+- [any]{"entity": "number", "value": -1}
+- [all]{"entity": "number", "value": -1} the [wheat germ oil](item)
+- [stuffed pepper](item) [any]{"entity": "number", "value": -1}
+- [all]{"entity": "number", "value": -1} [strawberry drink syrup](item)
+- [grape juice](item)
+- [one]{"entity": "number", "value": 1} [cheesecake](item)
+- [a]{"entity": "number", "value": 1} [applesauce and apricots](item)
+- [twenty-three](number) [grits](item)
+- [any]{"entity": "number", "value": -1} [sweet potato paste](item)
+- [totally]{"entity": "number", "value": -1} the [snails](item)
+- [seven](number)
+- [toffee](item)
+- [one]{"entity": "number", "value": 1} [calzone](item)
+- [luncheon meat sandwich](item)
+- [corn chips](item)
+- [beet greens](item) [twenty-five](number)
+- [imitation cheese](item)
+- [entirely]{"entity": "number", "value": -1} the [tartar sauce](item)
+- [pork ears](item)
+- [the whole lot]{"entity": "number", "value": -1} of [beef noodle soup](item)
+- [4](number) [butterscotch hard candy](item)
+- [fish fillet](item) [every]{"entity": "number", "value": -1}
+- [two](number)
+- [beef rolls](item) [twenty-three](number)
+- [the whole lot]{"entity": "number", "value": -1} of [spaghetti sauce](item)
+- [8](number)
+- [oysters rockefeller](item) [all]{"entity": "number", "value": -1} the
+- [one]{"entity": "number", "value": 1} [kiwi fruit](item)
+- [tamale with chicken](item) [any]{"entity": "number", "value": -1}
+- [bread](item) [completely]{"entity": "number", "value": -1} the
+- [fried rice](item)
+- [knockwurst](item) [totally]{"entity": "number", "value": -1} the
+- [each and every]{"entity": "number", "value": -1} [rum and cola](item)
+- [every]{"entity": "number", "value": -1} [classic mixed vegetables](item)
+- [stewed gizzards](item) [fully]{"entity": "number", "value": -1} the
+- [sixteen](number) [fish stick](item)
+- [lo mein](item) [totally]{"entity": "number", "value": -1} the
+- [every single]{"entity": "number", "value": -1} [venison or deer](item)
+- [quinoa](item)
+- [sardines](item) [the whole lot]{"entity": "number", "value": -1} of
+- [porgy](item) [each and every]{"entity": "number", "value": -1}
+- [vegetable submarine sandwich](item) [one]{"entity": "number", "value": 1}
+- [fully]{"entity": "number", "value": -1} the [cherries](item)
+- [arepa dominicana](item) [all]{"entity": "number", "value": -1}
+- [chives](item)
+- [corned beef sandwich](item)
+- [wholly]{"entity": "number", "value": -1} the [coffee cake](item)
+- [each]{"entity": "number", "value": -1} [peach cobbler](item)
+- [agave liquid sweetener](item) [each]{"entity": "number", "value": -1}
+- [totally]{"entity": "number", "value": -1} the [cornish game hen](item)
+- [quinoa](item) [wholly]{"entity": "number", "value": -1} the
+- [polish sausage](item)
+- [energy drink (xs)](item) [27](number)
+- [coffee cake](item) [a]{"entity": "number", "value": 1}
+- [cake batter](item)
+- [shrimp](item) [an]{"entity": "number", "value": 1}
+- [84](number) [tortilla chips](item)
+- [every]{"entity": "number", "value": -1} [long rice noodles](item)
+- [caesar salad](item) [the whole lot]{"entity": "number", "value": -1} of
+- [all]{"entity": "number", "value": -1} the [codfish salad](item)
+- [every]{"entity": "number", "value": -1}
+- [shrimp soup](item) [every]{"entity": "number", "value": -1}
+- [completely]{"entity": "number", "value": -1} the [salmon salad](item)
+- [27](number) [scrapple](item)
+- [a]{"entity": "number", "value": 1} [vegetable lasagna](item)
+- [wholly]{"entity": "number", "value": -1} the [bibimbap](item)
+- [vegetable and turkey](item) [fully]{"entity": "number", "value": -1} the
+- [stuffed pot roast](item)
+- [fully]{"entity": "number", "value": -1} the [oyster stew](item)
+- [thirty-one](number)
+- [tomato chili sauce](item) [completely]{"entity": "number", "value": -1} the
+- [fried pork chunks](item) [every single]{"entity": "number", "value": -1}
+- [cream](item) [every]{"entity": "number", "value": -1}
+- [rice noodles](item) [any]{"entity": "number", "value": -1}
+- [the whole lot]{"entity": "number", "value": -1} of [bacon on biscuit](item)
+- [any]{"entity": "number", "value": -1} [wasabi peas](item)
+- [buttermilk](item) [a]{"entity": "number", "value": 1}
+- [mayonnaise-type salad dressing](item) [two](number)
+- [snow cone](item) [a]{"entity": "number", "value": 1}
+- [whiskey and soda](item)
+- [any]{"entity": "number", "value": -1} [pastrami sandwich](item)
+- [twenty-nine](number) [radicchio](item)
+- [totally]{"entity": "number", "value": -1} the [pork bacon](item)
+- [sugar cane beverage](item)
+- [caramel with nuts](item) [every]{"entity": "number", "value": -1}
+- [pork jerky](item) [5](number)
+- [beets](item) [twenty-six](number)
+- [sherbet](item) [fully]{"entity": "number", "value": -1} the
+- [kung pao pork](item) [each]{"entity": "number", "value": -1}
+- [yam](item)
+- [nougat](item)
+- [noodles](item)
+- [broccoli cheese soup](item)
+- [an]{"entity": "number", "value": 1} [strudel](item)
+- [egg substitute](item)
+- [tomato vegetable soup](item)
+- [salmon loaf](item) [completely]{"entity": "number", "value": -1} the
+- [any]{"entity": "number", "value": -1} [vegetables](item)
+- [the whole lot]{"entity": "number", "value": -1} of [burrito](item)
+- [steak](item)
+- [dirty rice](item) [the whole lot]{"entity": "number", "value": -1} of
+- [stewed rice](item) [entirely]{"entity": "number", "value": -1} the
+- [every single]{"entity": "number", "value": -1} [blueberry juice](item)
+- [every single]{"entity": "number", "value": -1} [cereal (malt-o-meal coco-roos)](item)
+- [the whole lot]{"entity": "number", "value": -1} of [hot peppers](item)
+- [black beans](item) [one]{"entity": "number", "value": 1}
+- [winter squash](item) [all]{"entity": "number", "value": -1}
+- [burrito with meat](item)
+- [nonalcoholic malt beverage](item) [each]{"entity": "number", "value": -1}
+- [the whole lot]{"entity": "number", "value": -1} of
+- [each and every]{"entity": "number", "value": -1} [mozzarella cheese](item)
+- [herring](item)
+- [luncheon slice](item)
+- [shrimp soup](item) [all]{"entity": "number", "value": -1} the
+- [all]{"entity": "number", "value": -1} the [blueberry syrup](item)
+- [quesadilla](item)
+- [wholly]{"entity": "number", "value": -1} the [chia seeds](item)
+- [wholly]{"entity": "number", "value": -1} the [chili with beans](item)
+- [flavored rice](item)
+- [plantain soup](item)
+- [apple-fruit juice blend](item) [32](number)
+- [beef curry](item) [every]{"entity": "number", "value": -1}
+- [cocoa powder](item) [an]{"entity": "number", "value": 1}
+- [a]{"entity": "number", "value": 1} [winter squash](item)
+- [vegetable and turkey](item)
+- [all]{"entity": "number", "value": -1} the [vegetarian stroganoff](item)
+- [orange chicken](item) [thirty-one](number)
+- [every]{"entity": "number", "value": -1} [vienna sausage](item)
+- [completely]{"entity": "number", "value": -1} the [pineapple dessert](item)
+- [every single]{"entity": "number", "value": -1} [alcoholic malt beverage](item)
+- [entirely]{"entity": "number", "value": -1} the [mixed cereal](item)
+- [entirely]{"entity": "number", "value": -1} the [mai tai](item)
+- [all]{"entity": "number", "value": -1} [swiss steak](item)
+- [salisbury steak dinner](item)
+- [breaded brains](item) [any]{"entity": "number", "value": -1}
+- [grapefruit](item) [wholly]{"entity": "number", "value": -1} the
+- [pan dulce](item)
+- [greyhound](item) [all]{"entity": "number", "value": -1}
+- [fully]{"entity": "number", "value": -1} the [banana split](item)
+- [twenty-four](number)
+- [any]{"entity": "number", "value": -1} [barley](item)
+- [yellow rice](item)
+- [61](number)
+- [fully]{"entity": "number", "value": -1} the [mojito](item)
+- [cranberry juice drink](item)
+- [sun-dried tomatoes](item)
+- [sweet bread dough](item)
+- [the whole lot]{"entity": "number", "value": -1} of [chips](item)
+- [duck](item)
+- [all]{"entity": "number", "value": -1} [dessert pizza](item)
+- [completely]{"entity": "number", "value": -1} the [shirley temple](item)
+- [all]{"entity": "number", "value": -1} the [polish sausage](item)
+- [five](number)
+- [raisins](item)
+- [onion flavored rings](item)
+- [coconut cream cake](item)
+- [totally]{"entity": "number", "value": -1} the [potato chips](item)
+- [sauerkraut](item)
+- [gelato](item)
+- [any]{"entity": "number", "value": -1} [cereal beverage](item)
+- [all]{"entity": "number", "value": -1} the [sirloin beef](item)
+- [five](number) [ham luncheon meat](item)
+- [sambar](item) [the whole lot]{"entity": "number", "value": -1} of
+- [bulgur](item) [every]{"entity": "number", "value": -1}
+- [every]{"entity": "number", "value": -1} [salsa](item)
+- [sesame chicken](item) [fully]{"entity": "number", "value": -1} the
+- [every]{"entity": "number", "value": -1} [soft fruit confections](item)
+- [rice soup](item)
+- [wholly]{"entity": "number", "value": -1} the [beer](item)
+- [soy nuts](item) [every single]{"entity": "number", "value": -1}
+- [fully]{"entity": "number", "value": -1} the [whiskey and water](item)
+- [twenty-five](number) [ham pot pie](item)
+- [coffee creamer](item)
+- [fried stuffed potatoes](item) [completely]{"entity": "number", "value": -1} the
+- [twenty-seven](number)
+- [hamburger wrap sandwich](item) [the whole lot]{"entity": "number", "value": -1} of
+- [an]{"entity": "number", "value": 1}
+- [an]{"entity": "number", "value": 1} [cherries](item)
+- [each]{"entity": "number", "value": -1}
+- [pepperoni](item)
+- [an]{"entity": "number", "value": 1} [greyhound](item)
+- [each]{"entity": "number", "value": -1} [chestnuts](item)
+- [completely]{"entity": "number", "value": -1} the [golden cadillac](item)
+- [coconut cream](item)
+- [twenty-eight](number)
+- [french toast sticks](item) [fully]{"entity": "number", "value": -1} the
+- [cordial or liqueur](item)
+- [salmon loaf](item)
+- [fully]{"entity": "number", "value": -1} the [shrimp](item)
+- [spinach quiche](item) [all]{"entity": "number", "value": -1}
+- [lamb hocks](item) [completely]{"entity": "number", "value": -1} the
+- [vienna sausage](item)
+- [blueberry syrup](item)
+- [scallops](item) [every]{"entity": "number", "value": -1}
+- [all]{"entity": "number", "value": -1} the [pimiento](item)
+- [pompano](item)
+- [huevos rancheros](item) [totally]{"entity": "number", "value": -1} the
+- [entirely]{"entity": "number", "value": -1} the [fruit butter](item)
+- [apple-grape juice](item)
+- [fish sandwich](item)
+- [soy chips](item)
+- [cheeseburger (burger king)](item)
+- [all]{"entity": "number", "value": -1} the [dill dip](item)
+- [an]{"entity": "number", "value": 1} [escarole](item)
+- [all]{"entity": "number", "value": -1} [sushi roll tuna](item)
+- [coconut water](item) [one]{"entity": "number", "value": 1}
+- [bananas with orange](item) [totally]{"entity": "number", "value": -1} the
+- [salmon salad](item) [every single]{"entity": "number", "value": -1}
+- [ice cream](item) [totally]{"entity": "number", "value": -1} the
+- [gin and tonic](item)
+- [fully]{"entity": "number", "value": -1} the [oats](item)
+- [lemon](item) [wholly]{"entity": "number", "value": -1} the
+- [totally]{"entity": "number", "value": -1} the [apple juice beverage](item)
+- [the whole lot]{"entity": "number", "value": -1} of [honey butter](item)
+- [guava](item) [the whole lot]{"entity": "number", "value": -1} of
+- [bruschetta](item) [34](number)
+- [completely]{"entity": "number", "value": -1} the [papaya juice](item)
+- [all]{"entity": "number", "value": -1} the [soft serve](item)
+- [chicken nuggets](item)
+- [plantain](item) [twenty](number)
+- [shrimp scampi](item) [eighteen](number)
+- [twenty-four](number) [ham and pork](item)
+- [every]{"entity": "number", "value": -1} [lemon-butter sauce](item)
+- [guava](item) [two](number)
+- [buttermilk](item)
+- [screwdriver](item)
+- [plantain](item)
+- [graham crackers](item)
+- [all]{"entity": "number", "value": -1} [sour cream](item)
+- [any]{"entity": "number", "value": -1} [lobster gumbo](item)
+- [tamarind drink](item) [all]{"entity": "number", "value": -1} the
+- [sun-dried tomatoes](item) [an]{"entity": "number", "value": 1}
+- [fruit mixture](item) [an]{"entity": "number", "value": 1}
