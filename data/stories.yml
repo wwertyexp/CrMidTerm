@@ -22,6 +22,13 @@ stories:
     - number: null
   - action: action_remove
 
+- story: story_remove_all
+  steps:
+  - intent: remove_all
+  - action: utter_confirmation_ask
+  - intent: affirm
+  - action: action_destroy_list
+
 # - story: greeting
 #   steps:
 #   - intent: greet

@@ -38,8 +38,7 @@ rules:
   steps:
   - intent: remove_all
   - action: utter_confirmation_ask
-  - intent: affirm
-  - action: action_destroy_list
+
 
 # - rule: destroy the shopping list
 #   steps:
