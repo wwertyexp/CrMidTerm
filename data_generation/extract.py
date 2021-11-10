@@ -43,6 +43,8 @@ thirty
 thirty-one""".split()
 
 add_sentences = [
+    "add XXX YYY",
+    "add YYY",
     "i want XXX YYY",
     "i want YYY",
     "i desire YYY",

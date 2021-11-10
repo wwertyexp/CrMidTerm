@@ -24,11 +24,6 @@ class CorrectSpelling(Component):
         then append all the words and form the sentence,
         pass it to next component of pipeline"""
 
-        # print("TIPO DI MESSAGE",type(message))
-        # print('MESSAGE',message)
-        # print('MESSAGE.text',message.text)
-        # print('MESSAGE.text',message.data[TEXT])
-
         try:
             textdata = message.data[TEXT]
             textdata = textdata.split()

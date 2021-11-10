@@ -57,7 +57,7 @@ forms:
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey!"
 
   utter_goodbye:
   - text: "Bye"
