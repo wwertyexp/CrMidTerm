@@ -136,7 +136,7 @@ class ActionRemove(Action):
         quantity = extract_number(number_slot)
         if quantity <0: quantity = float('inf')
         
-        correct_spelling = ' '.join(lemma for correct, lemma in corrects_lemmas)
+        correct_spelling = ' '.join(correct for correct, lemma in corrects_lemmas)
 
         if  lemma in shopping_list:
             if shopping_list.get(lemma, 0) > (quantity):

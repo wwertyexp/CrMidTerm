@@ -12,6 +12,8 @@ intents:
   - remove_item
   - remove_all
   # - name
+  - affirm
+  - deny
 
 entities:
   - item
@@ -23,7 +25,7 @@ actions:
   - action_remove
   - action_destroy_list
   - validate_item_quantity_form # validate user input to add elements
-
+  
 slots:
   number:
     type: text
@@ -69,6 +71,8 @@ responses:
   - text: "My pleasure."
   - text: "You are welcome!"
 
+  utter_confirmation_ask:
+  - text: "Are you sure you want to delete all the items in the shopping list?"
 
  
   utter_ask_number:

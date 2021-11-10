@@ -2,6 +2,7 @@ version: "2.0"
 
 rules:
 
+
 - rule: Say goodbye anytime the user says goodbye
   steps:
   - intent: goodbye
@@ -36,7 +37,15 @@ rules:
 - rule: destroy the shopping list
   steps:
   - intent: remove_all
+  - action: utter_confirmation_ask
+  - intent: affirm
   - action: action_destroy_list
+
+# - rule: destroy the shopping list
+#   steps:
+#   - intent: remove_all
+#   - action: utter_confirmation_ask
+#   - intent: deny
 
 - rule: Activate form
   steps:
