@@ -29,6 +29,13 @@ stories:
   - intent: affirm
   - action: action_destroy_list
 
+- story: story_not_remove_all
+  steps:
+  - intent: remove_all
+  - action: utter_confirmation_ask
+  - intent: deny
+  - action: action_listen
+
 # - story: greeting
 #   steps:
 #   - intent: greet
