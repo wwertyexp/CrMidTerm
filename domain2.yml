@@ -1,0 +1,78 @@
+version: '2.0'
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- affirm
+- remove_all
+- add_item
+- deny
+- inform
+- show_list
+- out_of_scope
+- goodbye
+- help
+- bot_challenge
+- greet
+- remove_item
+entities:
+- item
+- number
+slots:
+  number:
+    type: text
+    influence_conversation: false
+  item_to_add:
+    type: text
+    influence_conversation: false
+  item_to_remove:
+    type: text
+    influence_conversation: false
+responses:
+  utter_greet:
+  - text: Hey! How are you?
+  utter_goodbye:
+  - text: Bye
+  - text: I hope I could help you! Thanks for working with me.
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+  - text: I am ShoLiBo, a SHOpping LIst BOt, designed by ...
+  utter_noworries:
+  - text: My pleasure.
+  - text: You are welcome!
+  utter_confirmation_ask:
+  - text: Are you sure you want to delete all the items in the shopping list?
+  utter_ask_number:
+  - text: how many of them?
+  utter_ask_item_to_add:
+  - text: what do you want to add to the shopping list?
+  utter_ask_item_to_remove:
+  - text: what do you want to remove from the shopping list?
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?
+  utter_help:
+  - text: You can see your shopping list, add an item to your list or remove one.
+actions:
+- action_add
+- action_destroy_list
+- action_list
+- action_remove
+- utter_confirmation_ask
+- validate_item_quantity_form
+forms:
+  item_quantity_form:
+    required_slots:
+      item_to_add:
+      - type: from_entity
+        entity: item
+      number:
+      - type: from_entity
+        entity: number
+  remove_item_quantity_form:
+    required_slots:
+      item_to_remove:
+      - type: from_entity
+        entity: item
+      number:
+      - type: from_entity
+        entity: number

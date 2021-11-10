@@ -68,8 +68,8 @@ responses:
   - text: "I am ShoLiBo, a SHOpping LIst BOt, designed by ..."
 
   utter_noworries:
-  - text: "My pleasure."
-  - text: "You are welcome!"
+  - text: "Don't worry."
+  - text: "Never mind"
 
   utter_confirmation_ask:
   - text: "Are you sure you want to delete all the items in the shopping list?"

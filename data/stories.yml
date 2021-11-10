@@ -34,7 +34,7 @@ stories:
   - intent: remove_all
   - action: utter_confirmation_ask
   - intent: deny
-  - action: action_listen
+  - action: utter_noworries
 
 # - story: greeting
 #   steps:

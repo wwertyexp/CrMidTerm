@@ -1,0 +1,31 @@
+
+version: "2.0"
+stories:
+- story: interactive_story_1
+  steps:
+  - intent: add_item
+    entities:
+    - number: '1'
+    - item: carrot
+  - slot_was_set:
+    - number: '1'
+  - action: item_quantity_form
+  - active_loop: item_quantity_form
+  - slot_was_set:
+    - number: '1'
+  - slot_was_set:
+    - item_to_add: carrot
+  - slot_was_set:
+    - number: '1'
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: action_add
+  - intent: remove_all
+  - action: utter_confirmation_ask
+  - intent: deny
+  - action: utter_noworries
+  - intent: remove_all
+  - action: utter_confirmation_ask
+  - intent: affirm
+  - action: action_destroy_list

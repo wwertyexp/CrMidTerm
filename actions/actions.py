@@ -181,3 +181,4 @@ class ActionDestoryList(Action):
 
             shopping_list.clear()
             dispatcher.utter_message(text="Your list is empty now.")
+            return []
