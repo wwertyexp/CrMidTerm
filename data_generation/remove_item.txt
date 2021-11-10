@@ -1,1271 +1,1280 @@
-- cancel [completely]{"entity": "number", "value": -1} the [chicken soup](item) from the lis
-- erase [spanish vegetable soup](item)
-- black out [scallops](item)
-- i want to remove [wholly]{"entity": "number", "value": -1} the [anchovy](item)
-- cancel [coconut](item) from the shopping list
-- eliminate [a]{"entity": "number", "value": 1} [ham and pork](item) from the list
-- i would like to delete some [fruit dessert](item) from the list
-- cancel [each and every]{"entity": "number", "value": -1} [ice cream cake](item) from the lis
-- cross out [a]{"entity": "number", "value": 1} [pinto beans](item)
-- black out [completely]{"entity": "number", "value": -1} the [whiskey and cola](item)
-- cross out [fully]{"entity": "number", "value": -1} the [ham or pork](item)
-- delete [water](item) from the shopping list
-- delete [any]{"entity": "number", "value": -1} [passion fruit juice](item)
-- exclude [fully]{"entity": "number", "value": -1} the [brandy](item)
-- delete [all]{"entity": "number", "value": -1} the [layer dip](item)
-- erase [infant formula](item) from the list
-- undo [sesame chicken](item)
-- eliminate [tropical fruit medley](item) from the shopping lits
-- eliminate [each and every]{"entity": "number", "value": -1} [salmon salad](item)
-- cancel [kung pao shrimp](item) from the shopping list
-- eliminate [bratwurst](item)
-- exclude [an]{"entity": "number", "value": 1} [carob chips](item) from the shopping list
-- undo [wholly]{"entity": "number", "value": -1} the [pepper](item)
-- eliminate [wholly]{"entity": "number", "value": -1} the [bean chips](item) from the list
-- erase [totally]{"entity": "number", "value": -1} the [peas](item) from the shopping list
-- eliminate [egg foo yung](item) from the shopping list
-- erase [all]{"entity": "number", "value": -1} [swordfish](item) from the shopping list
-- cancel [a]{"entity": "number", "value": 1} [chicken submarine sandwich](item)
-- cross out [greek salad](item)
-- erase [all]{"entity": "number", "value": -1} [chimichanga with chicken](item) from the lits
-- erase [ham croquette](item) from the shopping list
-- remove [fully]{"entity": "number", "value": -1} the [sliced chicken sandwich](item)
-- exclude [each and every]{"entity": "number", "value": -1} [veal marsala](item)
-- i would like to cancel some [canadian bacon](item) from the list
-- remove [dove](item) from the list
-- i want to cancel some [fruit juice drink](item)
-- cancel [wholly]{"entity": "number", "value": -1} the [carbonated water](item) from the shopping list
-- exclude [wholly]{"entity": "number", "value": -1} the [rice cereal](item) from the list
-- cancel [completely]{"entity": "number", "value": -1} the [beef](item)
-- i want to delete [completely]{"entity": "number", "value": -1} the [sunflower seeds](item)
-- eliminate [danish pastry](item) from the list
-- remove [ham croquette](item) from the ist
-- i want to cancel some [chocolate](item) from the list
-- delete [easter egg](item)
-- eliminate [apple-fruit juice blend](item) from the shopping ist
-- undo [cornmeal mush](item)
-- erase [a]{"entity": "number", "value": 1} [100 grand bar](item) from the shopping list
-- cancel [coffee creamer](item)
-- cross out [one]{"entity": "number", "value": 1} [golden cadillac](item)
-- eliminate [the whole lot]{"entity": "number", "value": -1} of [fruit dessert](item)
-- i want to delete [wholly]{"entity": "number", "value": -1} the [spinach souffle](item)
-- i would like to remove [wholly]{"entity": "number", "value": -1} the [thousand island dressing](item) from the list
-- erase [seaweed soup](item)
-- erase [seafood dip](item) from the list
-- delete [snowpea](item)
-- undo [cornbread stuffing](item)
-- delete [teriyaki sauce](item) from the list
-- erase [each]{"entity": "number", "value": -1} [mozzarella sticks](item)
-- eliminate [onion dip](item)
-- cancel [mayonnaise-type salad dressing](item) from the shopping lits
-- i want to delete [every]{"entity": "number", "value": -1} [peanut sauce](item)
-- undo [jelly](item)
-- cancel [all]{"entity": "number", "value": -1} [sesame dressing](item)
-- eliminate [all]{"entity": "number", "value": -1} the [lotus root](item)
-- erase [every single]{"entity": "number", "value": -1} [carob chips](item) from the list
-- remove [wholly]{"entity": "number", "value": -1} the [pork sausage](item)
-- undo [biscayne codfish](item)
-- exclude [finger foods](item) from the list
+- erase [onion soup](item) from the lis
+- i would like to cancel some [stewed variety meats](item) from the list
+- exclude [every single]{"entity": "number", "value": -1} [spinach dip](item)
+- delete [kale](item) from the list
+- remove [broccoli and chicken](item) from the list
+- erase [each]{"entity": "number", "value": -1} [lobster with sauce](item) from the list
+- erase [beets](item) from the shopping list
+- remove [white beans](item)
+- eliminate [every]{"entity": "number", "value": -1} [cereal (kellogg's smorz)](item) from the list
+- exclude [mixed nuts](item)
+- eliminate [every single]{"entity": "number", "value": -1} [garlic sauce](item) from the ist
+- eliminate [every]{"entity": "number", "value": -1} [whiskey and soda](item)
+- undo [the whole lot]{"entity": "number", "value": -1} of [puerto rican stew](item)
+- cancel [all]{"entity": "number", "value": -1} the [tongue](item)
+- cancel [all]{"entity": "number", "value": -1} the [cream puff](item) from the list
+- cancel [totally]{"entity": "number", "value": -1} the [mousse](item)
+- exclude [all]{"entity": "number", "value": -1} the [alfalfa sprouts](item) from the shopping ist
+- eliminate [twenty-three](number) [liverwurst](item) from the shopping list
+- remove [rice with raisins](item)
+- i want to delete [wholly]{"entity": "number", "value": -1} the [wheat germ](item)
+- delete [the whole lot]{"entity": "number", "value": -1} of [hollandaise sauce](item) from the ist
+- eliminate [apple yogurt dessert](item) from the list
+- exclude [soybean oil](item) from the shopping list
+- undo [wholly]{"entity": "number", "value": -1} the [peanut butter morsels](item)
+- undo [fried eggplant](item)
+- delete [mushrooms](item)
+- delete [snack bar](item) from the shopping list
+- cancel [cheese pastry puffs](item) from the list
+- exclude [shrimp and noodles](item)
+- cancel [every single]{"entity": "number", "value": -1} [lobster salad](item) from the shopping list
+- remove [entirely]{"entity": "number", "value": -1} the [bibimbap](item)
+- i would like to cancel some [fruit nectar](item) from the list
+- black out [totally]{"entity": "number", "value": -1} the [enchilada with chicken](item)
+- exclude [an]{"entity": "number", "value": 1} [cake](item) from the list
+- exclude [one]{"entity": "number", "value": 1} [chili with beans](item) from the shopping list
+- eliminate [vegetable and beef](item) from the shopping ist
+- delete [fully]{"entity": "number", "value": -1} the [icing](item) from the shopping list
+- i want to remove [twenty-three](number) [snack bar](item)
+- delete [passion fruit](item) from the list
+- i would like to cancel some [paella with meat](item) from the list
+- eliminate [italian ice](item) from the shopping list
+- erase [pepper steak](item) from the shopping list
+- eliminate [every]{"entity": "number", "value": -1} [soybean soup](item)
+- black out [cherry cobbler](item)
+- exclude [brazil nuts](item) from the shopping list
+- erase [fully]{"entity": "number", "value": -1} the [breadfruit](item)
+- i want to remove [wholly]{"entity": "number", "value": -1} the [orange chicken](item)
+- exclude [all]{"entity": "number", "value": -1} [coconut milk](item) from the list
+- delete [every single]{"entity": "number", "value": -1} [vegetarian pot pie](item) from the list
+- cross out [coffee](item)
+- delete [totally]{"entity": "number", "value": -1} the [soybean oil](item) from the ist
+- undo [each]{"entity": "number", "value": -1} [flavored rice mixture](item)
+- erase [broccoli cheese soup](item)
+- cancel [fully]{"entity": "number", "value": -1} the [carrots and peas](item) from the shopping list
+- exclude [pinto beans](item)
+- exclude [apple](item) from the shopping list
+- exclude [any]{"entity": "number", "value": -1} [cranberry juice drink](item) from the shopping list
+- undo [mousse](item)
+- exclude [every]{"entity": "number", "value": -1} [seaweed soup](item)
+- eliminate [one]{"entity": "number", "value": 1} [carrots and peas](item)
+- cross out [one]{"entity": "number", "value": 1} [energy drink (monster)](item)
+- i would like to cancel some [popcorn chips](item) from the list
+- erase [beans](item) from the shopping list
+- erase [all]{"entity": "number", "value": -1} [chicken with gravy](item) from the shopping list
+- black out [fully]{"entity": "number", "value": -1} the [soft serve](item)
+- remove [egg salad](item)
+- i want to cancel some [pepperoni](item) from the list
+- i want to cancel some [light ice cream](item) from the list
+- delete [cod](item)
+- exclude [grilled cheese sandwich](item) from the shopping lits
+- i want to cancel some [pineapple](item) from the list
+- i would like to cancel some [spinach](item) from the list
+- remove [a]{"entity": "number", "value": 1} [chili with beans](item) from the list
+- exclude [every single]{"entity": "number", "value": -1} [breakfast pastry](item) from the list
+- eliminate [all]{"entity": "number", "value": -1} [lime souffle](item) from the shopping lis
+- undo [the whole lot]{"entity": "number", "value": -1} of [carrot juice](item)
+- eliminate [one]{"entity": "number", "value": 1} [pancakes and sausage](item) from the shopping list
+- eliminate [each]{"entity": "number", "value": -1} [tuna salad sandwich](item) from the shopping list
+- erase [lobster newburg](item)
+- black out [wonton soup](item)
+- exclude [a]{"entity": "number", "value": 1} [catfish](item) from the shopping list
+- exclude [sauerkraut](item)
+- black out [wholly]{"entity": "number", "value": -1} the [milk](item)
+- remove [totally]{"entity": "number", "value": -1} the [chicken leg](item)
+- erase [chicken leg](item) from the list
+- remove [completely]{"entity": "number", "value": -1} the [empanada](item)
+- cross out [one]{"entity": "number", "value": 1} [baked beans](item)
+- exclude [each and every]{"entity": "number", "value": -1} [gordita/sope shell](item) from the list
+- remove [beef brisket](item) from the ist
+- erase [carrot soup](item)
+- erase [the whole lot]{"entity": "number", "value": -1} of [rice croquette](item) from the list
+- exclude [olives](item) from the shopping list
+- cancel [coconut milk](item) from the list
+- i want to cancel some [applesauce](item) from the list
+- erase [whopper (burger king)](item) from the list
+- cancel [all]{"entity": "number", "value": -1} the [basil](item)
+- remove [soursop](item)
+- i want to remove [all]{"entity": "number", "value": -1} the [cheese dip](item)
+- exclude [lard](item)
+- i would like to cancel some [crab imperial](item) from the list
+- erase [instant soup](item)
+- erase [all]{"entity": "number", "value": -1} [sausage and peppers](item)
+- black out [soft serve](item)
+- remove [twenty-one](number) [kung pao chicken](item) from the ist
+- delete [parsnips](item)
+- undo [chiles rellenos](item)
+- eliminate [all]{"entity": "number", "value": -1} [cocktail sauce](item) from the shopping ist
+- cancel [prunes with oatmeal](item) from the shopping list
+- erase [tamarind](item)
+- delete [all]{"entity": "number", "value": -1} the [ham or pork](item) from the list
+- exclude [all]{"entity": "number", "value": -1} the [sesame seeds](item) from the shopping list
+- cancel [each and every]{"entity": "number", "value": -1} [green peas](item) from the shopping list
 - delete [seafood dip](item)
-- i want to delete [every]{"entity": "number", "value": -1} [parsnips](item)
-- delete [seven-layer salad](item) from the ist
-- black out [completely]{"entity": "number", "value": -1} the [cornmeal mush](item)
-- erase [a]{"entity": "number", "value": 1} [cereal (kellogg's krave)](item)
-- i would like to cancel some [vodka and tonic](item) from the list
-- exclude [lemonade](item) from the list
-- black out [gordita](item)
-- i would like to delete some [wheat germ oil](item) from the lits
-- delete [all]{"entity": "number", "value": -1} the [manhattan](item)
-- i would like to cancel some [apricot nectar](item) from the list
-- cross out [chips](item)
-- undo [an]{"entity": "number", "value": 1} [banana apple dessert](item)
-- cross out [all]{"entity": "number", "value": -1} the [stewed rabbit](item)
-- remove [spinach souffle](item)
-- exclude [fried mushrooms](item)
-- delete [all]{"entity": "number", "value": -1} the [sesame seeds](item) from the list
-- erase [enchilada with meat](item) from the list
-- delete [69](number) [layer dip](item)
-- exclude [guava paste](item) from the shopping list
-- cancel [every single]{"entity": "number", "value": -1} [frozen dessert](item)
-- cross out [completely]{"entity": "number", "value": -1} the [popsicle](item)
-- delete [an]{"entity": "number", "value": 1} [pickles](item) from the list
-- cancel [sushi roll](item)
-- erase [noodles](item)
-- delete [each]{"entity": "number", "value": -1} [meatball](item) from the list
-- erase [shrimp soup](item) from the shopping list
-- erase [an]{"entity": "number", "value": 1} [peach nectar](item) from the ist
-- eliminate [fully]{"entity": "number", "value": -1} the [pho](item)
-- remove [nachos with chili](item)
-- eliminate [36](number) [breakfast pastry](item)
-- i want to delete [any]{"entity": "number", "value": -1} [pears](item)
-- delete [a]{"entity": "number", "value": 1} [black bean salad](item) from the list
-- cancel [every]{"entity": "number", "value": -1} [kung pao shrimp](item) from the list
-- erase [fully]{"entity": "number", "value": -1} the [creamsicle](item) from the list
-- remove [completely]{"entity": "number", "value": -1} the [banana apple dessert](item) from the list
-- exclude [entirely]{"entity": "number", "value": -1} the [knish](item) from the list
-- i would like to delete some [quesadilla with meat](item) from the list
-- i want to cancel some [anchovy](item) from the list
-- undo [twenty-seven](number) [dove](item)
-- erase [bean soup](item) from the shopping list
-- eliminate [soup](item) from the list
-- erase [fully]{"entity": "number", "value": -1} the [bitter melon](item)
-- delete [lambsquarter](item) from the shopping list
-- i want to delete [fully]{"entity": "number", "value": -1} the [butter](item)
-- delete [a]{"entity": "number", "value": 1} [shrimp-egg patty](item) from the shopping list
-- exclude [a]{"entity": "number", "value": 1} [deer sausage](item)
-- remove [five](number) [pho](item) from the list
-- eliminate [every]{"entity": "number", "value": -1} [soy nut butter](item) from the list
-- remove [macaroni or noodles](item) from the list
-- delete [completely]{"entity": "number", "value": -1} the [fudge](item) from the shopping list
-- cancel [totally]{"entity": "number", "value": -1} the [cake or cupcake](item) from the shopping list
-- exclude [shrimp scampi](item) from the list
-- exclude [coffee cake](item) from the list
-- erase [each]{"entity": "number", "value": -1} [truffles](item) from the shopping list
-- i would like to cancel some [polish sausage](item) from the lits
-- erase [caribou](item) from the list
-- cancel [cheese souffle](item) from the shopping list
-- exclude [each and every]{"entity": "number", "value": -1} [cheeseburger](item) from the shopping list
-- black out [chicken rice soup](item)
-- cross out [entirely]{"entity": "number", "value": -1} the [lo mein](item)
-- delete [each]{"entity": "number", "value": -1} [slush frozen drink](item) from the shopping list
-- i would like to delete some [olive tapenade](item) from the list
-- delete [fully]{"entity": "number", "value": -1} the [mexican chocolate](item) from the shopping list
-- black out [totally]{"entity": "number", "value": -1} the [ice cream bar](item)
-- undo [whipped topping](item)
-- cross out [vegetables and rice](item)
-- i want to delete [one]{"entity": "number", "value": 1} [jelly](item)
-- delete [all]{"entity": "number", "value": -1} [watercress](item) from the shopping list
-- cancel [fully]{"entity": "number", "value": -1} the [nutritional powder mix](item) from the list
-- cancel [any]{"entity": "number", "value": -1} [sugar cane beverage](item)
-- i would like to remove [an]{"entity": "number", "value": 1} [coconut oil](item) from the list
-- eliminate [entirely]{"entity": "number", "value": -1} the [pesto sauce](item) from the list
-- remove [every single]{"entity": "number", "value": -1} [beef goulash](item) from the list
-- undo [pike](item)
-- cancel [oysters](item)
-- i would like to cancel some [bacon sandwich](item) from the list
-- i want to cancel some [rum cake](item)
-- erase [one]{"entity": "number", "value": 1} [topping](item) from the shopping list
-- cancel [any]{"entity": "number", "value": -1} [beets](item)
-- delete [fat back](item) from the ist
-- delete [one]{"entity": "number", "value": 1} [meat broth](item) from the shopping lits
-- exclude [mcdouble (mcdonalds)](item) from the shopping lis
-- cross out [lomi salmon](item)
-- cancel [seafood newburg](item) from the lis
-- erase [olive tapenade](item) from the list
-- delete [the whole lot]{"entity": "number", "value": -1} of [spanish vegetable soup](item) from the shopping lits
-- i would like to cancel some [cheesecake](item) from the list
-- cancel [an]{"entity": "number", "value": 1} [fried bread](item) from the shopping list
-- undo [a]{"entity": "number", "value": 1} [meat turnover](item)
-- delete [dosa (indian)](item) from the ist
-- delete [one]{"entity": "number", "value": 1} [broccoli and chicken](item) from the list
-- exclude [any]{"entity": "number", "value": -1} [queso anejo](item) from the shopping list
-- remove [nineteen](number) [tahini](item) from the list
-- remove [the whole lot]{"entity": "number", "value": -1} of [mackerel](item) from the list
-- eliminate [completely]{"entity": "number", "value": -1} the [hot thai sauce](item) from the list
-- black out [90](number) [spaghetti squash](item)
-- cross out [tahini](item)
-- erase [entirely]{"entity": "number", "value": -1} the [sugar substitute](item)
-- i want to remove [the whole lot]{"entity": "number", "value": -1} of [cabbage](item)
-- eliminate [meat loaf](item)
-- cancel [guava](item) from the shopping list
-- cancel [any]{"entity": "number", "value": -1} [chicken curry](item)
-- remove [one]{"entity": "number", "value": 1} [singapore sling](item) from the list
-- erase [salty dog](item) from the shopping lits
-- eliminate [any]{"entity": "number", "value": -1} [seaweed soup](item) from the shopping list
-- cancel [every single]{"entity": "number", "value": -1} [fish fillet](item) from the shopping lis
-- remove [completely]{"entity": "number", "value": -1} the [blueberries](item) from the list
-- eliminate [vodka and water](item) from the list
-- delete [pastry](item) from the list
-- erase [one]{"entity": "number", "value": 1} [cream](item) from the ist
-- erase [cereal (post grape-nuts)](item) from the list
-- delete [fully]{"entity": "number", "value": -1} the [kimchi](item) from the shopping list
-- erase [a]{"entity": "number", "value": 1} [wheat germ oil](item) from the shopping list
-- i want to cancel some [double cheeseburger](item)
-- cancel [eight](number) [lemonade](item) from the shopping lis
-- cross out [prunes with oatmeal](item)
-- black out [completely]{"entity": "number", "value": -1} the [gelato](item)
-- delete [fully]{"entity": "number", "value": -1} the [pepper](item)
-- cancel [10](number) [paella with meat](item)
-- remove [one]{"entity": "number", "value": 1} [pork jerky](item) from the list
-- remove [one]{"entity": "number", "value": 1} [congee](item)
-- eliminate [entirely]{"entity": "number", "value": -1} the [milk chocolate candy](item) from the shopping list
-- black out [breakfast bar](item)
-- cancel [veal patty](item) from the list
-- i would like to cancel some [tamale](item) from the list
-- delete [completely]{"entity": "number", "value": -1} the [manhattan](item) from the list
-- eliminate [bean chips](item) from the shopping ist
-- exclude [all]{"entity": "number", "value": -1} the [turkey with gravy](item) from the shopping list
-- erase [a]{"entity": "number", "value": 1} [bananas](item) from the shopping list
-- i want to delete [totally]{"entity": "number", "value": -1} the [water](item)
-- delete [wholly]{"entity": "number", "value": -1} the [venison/deer steak](item)
-- remove [all]{"entity": "number", "value": -1} [candy](item)
-- delete [ice cream sundae](item) from the shopping list
-- delete [pea soup](item)
-- remove [cranberry juice](item) from the list
-- i would like to delete some [injera](item) from the list
-- cancel [apricot nectar](item)
-- exclude [scallops](item) from the shopping list
-- erase [fruit juice drink](item) from the list
-- undo [bacon sandwich](item)
-- erase [fried broccoli](item) from the list
-- erase [meatball](item)
-- cross out [molasses](item)
-- i want to cancel some [energy drink](item) from the list
-- delete [a]{"entity": "number", "value": 1} [fruit smoothie](item)
-- delete [twenty-eight](number) [beef](item)
-- cancel [peach nectar](item) from the list
-- cancel [every]{"entity": "number", "value": -1} [fry sauce](item) from the list
-- delete [imitation cheese](item) from the shopping list
-- delete [every]{"entity": "number", "value": -1} [frozen yogurt sandwich](item) from the list
-- i want to cancel some [broccoli slaw salad](item) from the list
-- erase [tzatziki dip](item)
-- remove [butter](item)
-- exclude [scrambled egg sandwich](item)
-- delete [all]{"entity": "number", "value": -1} [cashews](item)
-- erase [each]{"entity": "number", "value": -1} [sour cream](item) from the lits
-- remove [caramel](item) from the lits
-- erase [each]{"entity": "number", "value": -1} [cereal (kellogg's krave)](item) from the list
-- black out [chocolate dip](item)
-- eliminate [ginger root](item) from the list
-- eliminate [knockwurst](item) from the list
-- remove [meatballs](item) from the list
-- exclude [each and every]{"entity": "number", "value": -1} [lasagna with meat](item) from the list
-- erase [one]{"entity": "number", "value": 1} [mozzarella sticks](item) from the shopping list
-- undo [wholly]{"entity": "number", "value": -1} the [fruit juice](item)
-- eliminate [every single]{"entity": "number", "value": -1} [gordita](item) from the list
-- eliminate [vegetables in pastry](item) from the shopping list
-- cancel [marmalade](item) from the shopping lits
-- erase [every single]{"entity": "number", "value": -1} [reese's sticks](item)
-- exclude [puffs](item) from the shopping list
-- cancel [almond paste](item) from the list
-- eliminate [fried eggplant](item)
-- i would like to cancel some [beef and vegetables](item) from the list
-- eliminate [dosa (indian)](item)
-- erase [croaker](item) from the shopping list
-- exclude [cheese spread](item) from the shopping list
-- exclude [each and every]{"entity": "number", "value": -1} [ham stroganoff](item) from the shopping list
-- i want to cancel some [fruit salad](item)
-- cancel [totally]{"entity": "number", "value": -1} the [venison/deer ribs](item) from the list
-- delete [72](number) [duck](item) from the shopping list
-- exclude [an]{"entity": "number", "value": 1} [pupusa](item)
-- undo [turkey with vegetable](item)
-- delete [whipped topping](item) from the list
-- cancel [eight](number) [winter squash](item) from the list
-- exclude [veal cordon bleu](item) from the shopping list
-- cancel [beef and rice](item)
-- cancel [gumbo](item) from the shopping list
-- remove [cornmeal mush](item)
-- erase [all]{"entity": "number", "value": -1} [stewed chitterlings](item) from the list
-- exclude [wholly]{"entity": "number", "value": -1} the [raccoon](item) from the list
-- exclude [each and every]{"entity": "number", "value": -1} [tamale with chicken](item) from the shopping list
-- exclude [every single]{"entity": "number", "value": -1} [hamburger (burger king)](item) from the shopping list
-- i would like to cancel some [ground beef](item) from the list
-- eliminate [totally]{"entity": "number", "value": -1} the [frozen dessert](item) from the shopping ist
-- i want to cancel some [cucumber salad](item)
-- cancel [all]{"entity": "number", "value": -1} the [collards](item)
-- delete [cereal (kellogg's all-bran)](item)
-- exclude [lychee](item)
-- erase [tamale with chicken](item)
-- exclude [chestnuts](item) from the shopping list
-- delete [pineapple candy](item) from the list
-- eliminate [each and every]{"entity": "number", "value": -1} [sopa de tortilla](item) from the shopping list
-- cross out [meat sandwich](item)
-- exclude [wholly]{"entity": "number", "value": -1} the [shrimp creole](item) from the list
-- i want to remove [the whole lot]{"entity": "number", "value": -1} of [sesame dressing](item)
-- cancel [mixed cereal](item) from the list
-- remove [gizzard](item)
-- undo [coconut oil](item)
-- remove [cookie](item) from the list
-- cancel [the whole lot]{"entity": "number", "value": -1} of [caesar salad](item)
-- i want to remove [fully]{"entity": "number", "value": -1} the [spoonbread](item)
-- exclude [wholly]{"entity": "number", "value": -1} the [sugar cane beverage](item) from the shopping list
-- exclude [lomi salmon](item)
-- cancel [vada](item)
-- black out [entirely]{"entity": "number", "value": -1} the [goulash](item)
-- erase [mackerel](item) from the shopping list
-- exclude [fully]{"entity": "number", "value": -1} the [water chesnut](item) from the shopping list
-- erase [all]{"entity": "number", "value": -1} [avocado dressing](item) from the shopping lis
-- eliminate [fully]{"entity": "number", "value": -1} the [prunes](item)
-- delete [lo mein](item) from the list
-- eliminate [snowpea](item)
-- delete [cheese fondue](item) from the list
-- erase [every]{"entity": "number", "value": -1} [veal parmigiana](item) from the shopping list
-- black out [the whole lot]{"entity": "number", "value": -1} of [seabreeze](item)
-- i want to cancel some [big mac (mcdonalds)](item) from the list
-- cross out [plantain soup](item)
-- delete [each]{"entity": "number", "value": -1} [veal parmigiana](item) from the list
-- remove [mushroom](item)
-- exclude [an]{"entity": "number", "value": 1} [soup](item) from the shopping list
-- delete [every single]{"entity": "number", "value": -1} [baklava](item)
-- erase [sesame chicken](item)
-- exclude [wholly]{"entity": "number", "value": -1} the [chicken kiev](item) from the shopping list
-- remove [spoonbread](item)
-- erase [all]{"entity": "number", "value": -1} [heart](item)
-- exclude [all]{"entity": "number", "value": -1} [danish pastry](item)
-- i want to delete [a]{"entity": "number", "value": 1} [garlic](item)
-- cancel [wholly]{"entity": "number", "value": -1} the [chicken leg](item)
-- i want to cancel some [candy](item) from the ist
-- exclude [baked beans](item) from the list
-- delete [freezer pop](item)
-- delete [butterscotch morsels](item) from the shopping list
-- i want to delete [an]{"entity": "number", "value": 1} [milk chocolate candy](item)
-- delete [turnip](item)
-- cross out [all]{"entity": "number", "value": -1} the [dove](item)
-- i would like to cancel some [snickers bar](item) from the lis
-- i want to remove [eleven](number) [puffs](item)
-- erase [totally]{"entity": "number", "value": -1} the [broccoli cheese soup](item) from the list
-- erase [all]{"entity": "number", "value": -1} [baby ruth](item) from the shopping list
-- remove [every]{"entity": "number", "value": -1} [sesame seeds](item) from the list
-- exclude [fourteen](number) [casabe](item)
-- remove [ravioli](item)
-- delete [poke greens](item) from the shopping lis
-- cancel [fried green tomatoes](item)
-- cancel [knish](item)
-- eliminate [soy nut butter](item) from the shopping list
-- erase [totally]{"entity": "number", "value": -1} the [ghee](item)
-- eliminate [bamboo shoots](item) from the shopping ist
-- eliminate [fully]{"entity": "number", "value": -1} the [sugar substitute](item)
-- black out [any]{"entity": "number", "value": -1} [vegetable lasagna](item)
-- i would like to cancel some [cashew butter](item) from the list
-- i want to remove [completely]{"entity": "number", "value": -1} the [vodka and tonic](item)
-- cancel [nut roll](item)
-- cancel [brandy and cola](item) from the shopping list
-- undo [all]{"entity": "number", "value": -1} the [beets](item)
-- erase [one]{"entity": "number", "value": 1} [easter egg](item) from the list
-- erase [pepper](item) from the shopping lis
-- exclude [every]{"entity": "number", "value": -1} [cornmeal dumpling](item) from the list
-- undo [milk chocolate candy](item)
-- cancel [entirely]{"entity": "number", "value": -1} the [canadian bacon](item) from the lis
-- cross out [masa harina](item)
-- i want to remove [fully]{"entity": "number", "value": -1} the [jagerbomb](item)
-- erase [fully]{"entity": "number", "value": -1} the [papad](item)
-- exclude [scallops](item)
-- delete [fish fillet](item) from the list
-- exclude [cornmeal dumpling](item) from the list
-- i want to cancel some [buckwheat groats](item)
-- cancel [fully]{"entity": "number", "value": -1} the [fried green beans](item) from the shopping list
-- undo [wholly]{"entity": "number", "value": -1} the [sushi roll](item)
-- cancel [entirely]{"entity": "number", "value": -1} the [crab soup](item) from the list
-- i would like to remove [the whole lot]{"entity": "number", "value": -1} of [beef and vegetables](item) from the lits
-- erase [each and every]{"entity": "number", "value": -1} [celery](item) from the ist
-- eliminate [one]{"entity": "number", "value": 1} [wheat germ](item)
-- cancel [one]{"entity": "number", "value": 1} [shrimp garden salad](item) from the shopping list
-- cancel [a]{"entity": "number", "value": 1} [peruvian beans](item) from the list
-- erase [entirely]{"entity": "number", "value": -1} the [quesadilla with meat](item) from the list
-- exclude [completely]{"entity": "number", "value": -1} the [pepper steak](item)
-- i want to cancel some [cheeseburger](item)
-- exclude [sopa de tortilla](item) from the shopping lis
-- erase [apricot nectar](item) from the shopping lits
-- black out [apple-fruit juice blend](item)
-- cancel [high ball](item) from the list
-- exclude [moo shu pork](item)
-- cancel [fully]{"entity": "number", "value": -1} the [mango dessert](item) from the shopping list
-- delete [wholly]{"entity": "number", "value": -1} the [flax seeds](item)
-- cancel [one]{"entity": "number", "value": 1} [muffin](item)
-- cancel [stewed variety meats](item) from the shopping list
-- eliminate [quesadilla with chicken](item) from the list
-- delete [ham croquette](item)
-- i want to cancel some [peanut sauce](item) from the list
-- cancel [a]{"entity": "number", "value": 1} [reuben sandwich](item) from the list
-- remove [the whole lot]{"entity": "number", "value": -1} of [melba toast](item)
-- delete [every]{"entity": "number", "value": -1} [yeast](item)
-- remove [any]{"entity": "number", "value": -1} [corn soup](item)
-- eliminate [cantaloupe](item) from the lits
-- remove [flaxseed oil](item)
-- delete [chicken stew](item) from the shopping list
-- black out [totally]{"entity": "number", "value": -1} the [injera](item)
-- eliminate [cake or cupcake](item) from the ist
-- exclude [entirely]{"entity": "number", "value": -1} the [spanish stew](item) from the shopping list
-- black out [abalone](item)
-- cancel [one]{"entity": "number", "value": 1} [wine cooler](item)
-- eliminate [pink beans](item) from the list
-- cancel [lasagna with meat](item)
-- delete [one]{"entity": "number", "value": 1} [thousand island dressing](item) from the list
-- i want to remove [every]{"entity": "number", "value": -1} [vegetable submarine sandwich](item)
-- exclude [every single]{"entity": "number", "value": -1} [egg white omelet](item) from the shopping lis
-- undo [pinto beans](item)
-- undo [one]{"entity": "number", "value": 1} [soup](item)
-- cancel [all]{"entity": "number", "value": -1} [lobster](item) from the shopping list
-- undo [beans and rice](item)
-- remove [nine](number) [double cheeseburger (mcdonalds)](item) from the list
-- undo [wholly]{"entity": "number", "value": -1} the [liver dumpling](item)
-- eliminate [all]{"entity": "number", "value": -1} [ham and pork](item) from the list
-- exclude [shrimp scampi](item) from the shopping list
-- i would like to cancel some [high ball](item) from the list
-- delete [any]{"entity": "number", "value": -1} [fish wrap sandwich](item) from the shopping list
-- eliminate [tomato beef soup](item) from the shopping list
-- erase [bacon](item)
-- exclude [wholly]{"entity": "number", "value": -1} the [cassava pasteles](item) from the shopping list
-- i want to cancel some [apple yogurt dessert](item)
-- i would like to cancel some [chicken stew](item) from the list
-- remove [completely]{"entity": "number", "value": -1} the [rice cereal](item)
-- exclude [entirely]{"entity": "number", "value": -1} the [apple juice](item)
-- eliminate [all]{"entity": "number", "value": -1} [minestrone soup](item) from the list
-- eliminate [oysters](item) from the list
-- i want to cancel some [celery soup](item)
-- cancel [salmon salad](item)
-- exclude [rice cereal](item)
-- eliminate [lobster salad](item) from the shopping list
-- i would like to cancel some [oat bran cereal](item) from the ist
-- i want to delete [a]{"entity": "number", "value": 1} [coffee cake](item)
-- erase [all]{"entity": "number", "value": -1} [queso anejo](item)
-- eliminate [ice cream bar](item) from the lis
-- i want to remove [completely]{"entity": "number", "value": -1} the [flaxseed oil](item)
-- remove [completely]{"entity": "number", "value": -1} the [lard](item)
-- erase [every]{"entity": "number", "value": -1} [hamburger (burger king)](item) from the list
-- erase [an]{"entity": "number", "value": 1} [banana nectar](item) from the list
-- cancel [hazelnuts](item) from the shopping list
-- exclude [ranch dip](item) from the ist
-- exclude [snow cone](item)
-- remove [a]{"entity": "number", "value": 1} [teriyaki sauce](item)
-- erase [an]{"entity": "number", "value": 1} [apples and chicken](item) from the shopping list
-- eliminate [completely]{"entity": "number", "value": -1} the [salty dog](item)
-- eliminate [completely]{"entity": "number", "value": -1} the [vegetable smoothie](item) from the list
-- exclude [all]{"entity": "number", "value": -1} the [gefilte fish](item) from the ist
-- i would like to delete some [bananas](item) from the list
-- undo [macaroni or noodles](item)
-- i want to remove [an]{"entity": "number", "value": 1} [tamarind drink](item)
-- undo [fruit bar](item)
-- delete [apple-cherry juice](item)
-- erase [15](number) [fennel bulb](item) from the shopping list
-- i want to remove [all]{"entity": "number", "value": -1} the [mackerel](item)
-- cancel [all]{"entity": "number", "value": -1} [taco shell](item) from the list
-- exclude [sopa seca](item) from the ist
-- erase [the whole lot]{"entity": "number", "value": -1} of [peanut sauce](item)
-- eliminate [every]{"entity": "number", "value": -1} [hot thai sauce](item) from the list
-- i would like to cancel some [kung pao chicken](item) from the list
-- exclude [all]{"entity": "number", "value": -1} [french toast sticks](item) from the ist
-- erase [beef wellington](item) from the shopping list
-- exclude [each and every]{"entity": "number", "value": -1} [croissant](item) from the list
-- exclude [banana apple dessert](item) from the list
-- remove [all]{"entity": "number", "value": -1} the [beaver](item)
-- exclude [natto](item)
-- erase [wholly]{"entity": "number", "value": -1} the [egg salad sandwich](item) from the shopping list
-- cross out [all]{"entity": "number", "value": -1} [tomato](item)
-- delete [celery](item) from the list
-- erase [spaghetti sauce](item)
-- black out [teriyaki sauce](item)
-- exclude [fully]{"entity": "number", "value": -1} the [spinach quiche](item) from the list
-- exclude [all]{"entity": "number", "value": -1} the [margarine-oil blend](item)
-- i want to cancel some [prune juice](item)
-- cancel [wholly]{"entity": "number", "value": -1} the [swordfish](item) from the list
-- delete [cashew butter](item) from the shopping list
-- remove [entirely]{"entity": "number", "value": -1} the [rice with onions](item) from the lis
-- remove [pork skin](item)
-- cancel [firni](item)
-- cross out [lobster salad](item)
-- cancel [one]{"entity": "number", "value": 1} [chocolate dip](item) from the shopping list
-- delete [cheese enchilada](item) from the list
-- i would like to cancel some [miso](item) from the list
-- cancel [entirely]{"entity": "number", "value": -1} the [seafood newburg](item) from the lits
-- i would like to delete some [stewed goat](item) from the lits
-- eliminate [crisp](item)
+- cancel [lamb or mutton](item)
+- cancel [every]{"entity": "number", "value": -1} [snails](item) from the list
+- undo [all]{"entity": "number", "value": -1} the [100 grand bar](item)
+- eliminate [barley cereal](item) from the list
+- delete [any]{"entity": "number", "value": -1} [tuna salad](item) from the list
+- eliminate [rolo](item) from the lis
+- delete [any]{"entity": "number", "value": -1} [falafel](item) from the shopping list
+- cancel [seafood newburg](item)
+- cross out [the whole lot]{"entity": "number", "value": -1} of [gravy](item)
+- cancel [every single]{"entity": "number", "value": -1} [lamb hocks](item) from the list
+- cancel [each and every]{"entity": "number", "value": -1} [swordfish](item) from the list
+- exclude [totally]{"entity": "number", "value": -1} the [halibut](item) from the list
+- eliminate [rice meal fritter](item) from the shopping lis
+- cancel [a]{"entity": "number", "value": 1} [pastrami sandwich](item) from the list
+- i would like to remove [totally]{"entity": "number", "value": -1} the [tomato chili sauce](item) from the list
+- black out [quesadilla](item)
+- cancel [ocean perch](item) from the list
+- eliminate [wholly]{"entity": "number", "value": -1} the [italian ice](item) from the list
+- delete [infant formula](item) from the list
+- cross out [every single]{"entity": "number", "value": -1} [chicken kiev](item)
+- undo [cheese enchilada](item)
+- erase [wholly]{"entity": "number", "value": -1} the [pheasant](item) from the shopping lits
+- cross out [goat](item)
+- delete [the whole lot]{"entity": "number", "value": -1} of [milk](item) from the lis
+- cancel [chimichanga with chicken](item) from the shopping list
+- erase [one]{"entity": "number", "value": 1} [fudgesicle](item) from the shopping list
+- remove [fully]{"entity": "number", "value": -1} the [focaccia](item) from the list
+- i would like to remove [each]{"entity": "number", "value": -1} [liver](item) from the list
+- i would like to delete some [gizzard](item) from the lis
+- eliminate [beet greens](item)
+- remove [all]{"entity": "number", "value": -1} the [beef jerky](item)
+- cancel [twenty-five](number) [beef steak](item) from the ist
+- cancel [almond butter](item) from the shopping list
+- cross out [each]{"entity": "number", "value": -1} [cream puff](item)
+- exclude [szechuan beef](item)
+- delete [fondant](item) from the shopping list
+- delete [asparagus](item) from the shopping list
+- erase [every]{"entity": "number", "value": -1} [lentil soup](item) from the shopping list
+- eliminate [spinach quiche](item) from the list
+- exclude [pancake syrup](item)
+- erase [miso sauce](item) from the list
+- eliminate [each]{"entity": "number", "value": -1} [kibby](item) from the list
+- delete [stewed salmon](item)
+- erase [fruit supreme dessert](item) from the list
+- eliminate [every single]{"entity": "number", "value": -1} [tortilla](item) from the shopping lits
+- eliminate [stewed dried beef](item)
+- remove [cereal (kashi golean)](item)
+- delete [seafood restructured](item) from the shopping lis
+- delete [totally]{"entity": "number", "value": -1} the [jelly](item) from the list
+- cancel [oyster pie](item) from the list
+- exclude [completely]{"entity": "number", "value": -1} the [whiskey sour](item) from the shopping lits
+- cancel [chorizo](item) from the shopping list
+- erase [potato soup](item) from the list
+- exclude [completely]{"entity": "number", "value": -1} the [veal](item)
+- cancel [potato salad](item)
+- erase [an]{"entity": "number", "value": 1} [seafood salad](item)
+- erase [broccoli and cauliflower](item) from the shopping lis
+- erase [whiskey](item)
+- delete [energy drink (vault)](item)
+- cancel [baked beans](item) from the shopping list
+- erase [38](number) [crab](item) from the lis
+- delete [soup](item) from the shopping list
+- undo [italian dressing](item)
+- erase [any]{"entity": "number", "value": -1} [venison/deer](item)
+- remove [all]{"entity": "number", "value": -1} [gravy](item)
+- delete [every single]{"entity": "number", "value": -1} [cornmeal](item)
+- erase [garlic egg soup](item) from the list
+- delete [every]{"entity": "number", "value": -1} [sweet potatoes](item) from the shopping lis
+- exclude [mixed seeds](item)
+- black out [an]{"entity": "number", "value": 1} [raspberries](item)
+- delete [ham](item) from the lits
+- eliminate [totally]{"entity": "number", "value": -1} the [polish sausage](item) from the shopping list
+- erase [all]{"entity": "number", "value": -1} [turkey stick](item)
+- delete [a]{"entity": "number", "value": 1} [cassava pasteles](item) from the lis
+- remove [beef and vegetables](item)
+- remove [dill dip](item)
+- i would like to cancel some [stinger](item) from the list
+- exclude [mussels](item) from the list
+- exclude [one]{"entity": "number", "value": 1} [fry sauce](item)
+- i would like to cancel some [corn chips](item) from the list
+- undo [fifteen](number) [pepper](item)
+- delete [yuca fries](item)
+- delete [creme brulee](item) from the list
+- exclude [cactus](item)
+- exclude [entirely]{"entity": "number", "value": -1} the [dove](item) from the list
+- remove [all]{"entity": "number", "value": -1} the [wheat](item)
+- eliminate [frozen yogurt bar](item) from the list
+- cancel [beef stroganoff](item) from the shopping list
+- black out [chili con carne](item)
+- cross out [ladoo](item)
+- i want to delete [entirely]{"entity": "number", "value": -1} the [pastrami sandwich](item)
+- exclude [fully]{"entity": "number", "value": -1} the [chicken salad spread](item) from the list
+- cancel [one]{"entity": "number", "value": 1} [tuna salad sandwich](item) from the shopping list
+- exclude [palm hearts](item)
+- undo [fully]{"entity": "number", "value": -1} the [frozen coffee drink](item)
+- remove [all]{"entity": "number", "value": -1} [shrimp salad](item)
+- eliminate [lemon](item) from the shopping list
+- delete [ground hog](item)
+- erase [wholly]{"entity": "number", "value": -1} the [yogurt parfait](item) from the list
+- cancel [breakfast bar](item) from the shopping lis
+- exclude [fourteen](number) [pumpkin seeds](item) from the shopping list
+- black out [every]{"entity": "number", "value": -1} [whopper (burger king)](item)
+- eliminate [nachos with chicken](item) from the list
+- eliminate [wholly]{"entity": "number", "value": -1} the [frozen coffee drink](item) from the list
+- eliminate [chicken cornbread](item)
+- eliminate [alcoholic malt beverage](item) from the shopping list
+- exclude [tomato chili sauce](item) from the shopping list
+- delete [tuna salad](item) from the lits
+- black out [the whole lot]{"entity": "number", "value": -1} of [cornbread](item)
+- black out [alfalfa sprouts](item)
+- erase [each and every]{"entity": "number", "value": -1} [whiskey sour](item)
+- cancel [each and every]{"entity": "number", "value": -1} [pomegranate](item) from the list
+- cancel [an]{"entity": "number", "value": 1} [chitterlings](item) from the shopping list
+- erase [sturgeon](item)
+- cancel [bagel](item) from the shopping list
+- eliminate [one]{"entity": "number", "value": 1} [yellow string beans](item) from the shopping lis
+- exclude [totally]{"entity": "number", "value": -1} the [sausage and peppers](item) from the shopping list
+- eliminate [eggplant dip](item)
+- i want to remove [the whole lot]{"entity": "number", "value": -1} of [chicken salad spread](item)
+- erase [each and every]{"entity": "number", "value": -1} [papaya](item) from the list
+- i would like to remove [eight](number) [vegetable beef soup](item) from the lits
+- cancel [tom collins](item)
+- cancel [each and every]{"entity": "number", "value": -1} [cheese sauce](item) from the list
+- i want to remove [an]{"entity": "number", "value": 1} [instant soup](item)
+- eliminate [stew](item)
+- delete [spoonbread](item) from the list
+- exclude [oat bran cereal](item) from the list
+- erase [the whole lot]{"entity": "number", "value": -1} of [firni](item) from the list
+- cancel [all]{"entity": "number", "value": -1} the [mojito](item) from the shopping list
+- cancel [all]{"entity": "number", "value": -1} [chicken salad spread](item) from the list
+- undo [wholly]{"entity": "number", "value": -1} the [fish moochim](item)
+- delete [prunes with oatmeal](item) from the list
+- eliminate [totally]{"entity": "number", "value": -1} the [tuna](item) from the shopping list
+- exclude [an]{"entity": "number", "value": 1} [paella with meat](item)
+- undo [twenty-seven](number) [sunflower seeds](item)
+- exclude [all]{"entity": "number", "value": -1} [dressing with oysters](item) from the shopping list
+- eliminate [oyster stew](item)
+- eliminate [whatchamacallit](item)
+- exclude [every]{"entity": "number", "value": -1} [jelly](item)
+- i want to cancel some [chitterlings](item)
+- delete [one]{"entity": "number", "value": 1} [tzatziki dip](item) from the list
+- erase [squid](item) from the list
+- cancel [tomatoes](item) from the lits
+- delete [enchilada with chicken](item) from the ist
+- eliminate [each and every]{"entity": "number", "value": -1} [cheese spread](item)
+- black out [each]{"entity": "number", "value": -1} [bread](item)
+- i want to cancel some [tortilla chips](item)
+- black out [completely]{"entity": "number", "value": -1} the [cereal (kellogg's crispix)](item)
+- eliminate [palm hearts](item) from the ist
+- exclude [every single]{"entity": "number", "value": -1} [cocktail](item) from the shopping list
+- exclude [quesadilla with chicken](item) from the list
+- eliminate [entirely]{"entity": "number", "value": -1} the [arepa dominicana](item) from the shopping list
+- exclude [twenty-five](number) [borscht](item) from the list
+- remove [passion fruit](item) from the ist
+- eliminate [an]{"entity": "number", "value": 1} [yam](item)
+- delete [big mac (mcdonalds)](item) from the list
+- black out [rice noodles](item)
+- eliminate [fully]{"entity": "number", "value": -1} the [ham sandwich](item) from the list
+- black out [seven-layer salad](item)
+- remove [eleven](number) [corn beverage](item) from the list
+- remove [37](number) [ladoo](item)
+- erase [lime souffle](item)
+- eliminate [banana nectar](item) from the ist
+- eliminate [cheese dip](item) from the list
+- erase [seven](number) [corn chips](item) from the ist
 - black out [steak tartare](item)
-- exclude [fully]{"entity": "number", "value": -1} the [meat turnover](item) from the list
-- i would like to remove [each]{"entity": "number", "value": -1} [carbonated water](item) from the list
-- erase [fully]{"entity": "number", "value": -1} the [rice paper](item) from the shopping list
-- exclude [one]{"entity": "number", "value": 1} [guava](item) from the shopping list
-- i would like to cancel some [muffin](item) from the ist
-- remove [polish sausage](item) from the list
-- eliminate [wholly]{"entity": "number", "value": -1} the [mango dessert](item) from the shopping list
-- delete [61](number) [energy drink](item) from the list
-- eliminate [wholly]{"entity": "number", "value": -1} the [prune](item)
-- erase [apple cider](item) from the shopping list
-- i would like to remove [any]{"entity": "number", "value": -1} [enchilada with beans](item) from the list
-- i want to remove [59](number) [fruit snacks candy](item)
-- undo [cereal (post grape-nuts)](item)
-- delete [fried green beans](item) from the shopping lits
-- exclude [buckwheat groats](item)
-- i want to cancel some [collards](item) from the list
-- eliminate [potato pancake](item) from the list
-- cancel [crepe](item) from the shopping list
-- cancel [shrimp chips](item)
-- i would like to cancel some [spanish vegetable soup](item) from the list
-- delete [peanut brittle](item) from the shopping lis
-- erase [totally]{"entity": "number", "value": -1} the [lasagna with meat](item) from the ist
-- remove [an]{"entity": "number", "value": 1} [spinach soup](item) from the list
-- cancel [each and every]{"entity": "number", "value": -1} [water chesnut](item) from the list
-- exclude [goose](item)
-- erase [zucchini](item) from the shopping list
-- exclude [graham crackers](item)
-- i would like to cancel some [summer squash](item) from the list
-- cancel [wonton soup](item) from the shopping list
-- eliminate [all]{"entity": "number", "value": -1} [ice cream cake](item) from the shopping list
-- cancel [shrimp-egg patty](item) from the shopping list
-- cancel [each and every]{"entity": "number", "value": -1} [chives](item) from the shopping list
-- erase [steak teriyaki](item)
-- remove [each]{"entity": "number", "value": -1} [split peas](item) from the list
-- exclude [every single]{"entity": "number", "value": -1} [cheesecake with fruit](item) from the list
-- black out [pears](item)
-- cancel [veal](item) from the shopping list
-- undo [prune](item)
-- eliminate [fully]{"entity": "number", "value": -1} the [banana pudding](item) from the shopping list
-- eliminate [chicken dinner](item)
-- remove [parsnips](item) from the lits
-- erase [every]{"entity": "number", "value": -1} [meat sticks](item)
-- erase [cassava pasteles](item) from the shopping list
-- erase [sunflower oil](item) from the shopping list
-- i would like to cancel some [broccoli and chicken](item) from the list
-- erase [pea soup](item) from the list
-- eliminate [a]{"entity": "number", "value": 1} [snowpeas](item) from the shopping lis
-- erase [spinach quiche](item)
-- undo [each and every]{"entity": "number", "value": -1} [margarine-oil blend](item)
-- exclude [86](number) [cream](item)
-- i want to cancel some [corned beef sandwich](item)
-- eliminate [all]{"entity": "number", "value": -1} the [lamb or mutton](item)
-- erase [margarine-oil blend](item) from the list
-- erase [fully]{"entity": "number", "value": -1} the [stewed variety meats](item) from the list
-- erase [beans and franks](item)
-- eliminate [shrimp soup](item) from the shopping list
-- cancel [wholly]{"entity": "number", "value": -1} the [shrimp scampi](item) from the list
-- eliminate [totally]{"entity": "number", "value": -1} the [pineapple candy](item) from the shopping ist
-- undo [sausage on biscuit](item)
-- i want to cancel some [mussels](item) from the list
-- erase [all]{"entity": "number", "value": -1} the [rum and cola](item) from the list
-- erase [fully]{"entity": "number", "value": -1} the [vegetable lasagna](item) from the list
-- i would like to cancel some [danish pastry](item) from the list
-- delete [chicken soup](item) from the shopping ist
-- eliminate [entirely]{"entity": "number", "value": -1} the [edamame](item) from the list
-- black out [lotus root](item)
-- cross out [each and every]{"entity": "number", "value": -1} [melba toast](item)
-- erase [horchata beverage](item) from the shopping list
-- exclude [bananas](item)
-- cancel [baked beans](item)
-- erase [all]{"entity": "number", "value": -1} the [chicken leg](item) from the shopping ist
-- i want to cancel some [stuffed tomato](item) from the lits
-- erase [the whole lot]{"entity": "number", "value": -1} of [plum](item) from the list
-- black out [any]{"entity": "number", "value": -1} [long rice noodles](item)
-- i want to remove [wholly]{"entity": "number", "value": -1} the [duck](item)
-- i want to cancel some [vegetable smoothie](item)
-- cancel [totally]{"entity": "number", "value": -1} the [veal](item) from the shopping list
-- i want to delete [fully]{"entity": "number", "value": -1} the [pork sausage](item)
-- delete [spaghetti sauce](item)
-- undo [noodles](item)
-- erase [seventeen](number) [mustard](item) from the lits
-- remove [entirely]{"entity": "number", "value": -1} the [pike](item)
-- i would like to delete some [grilled cheese sandwich](item) from the list
-- cancel [casabe](item) from the shopping list
-- i would like to remove [all]{"entity": "number", "value": -1} the [mcdouble (mcdonalds)](item) from the lits
-- exclude [stuffed pot roast](item) from the shopping lis
-- erase [fried broccoli](item)
-- delete [venison/deer ribs](item)
-- erase [an]{"entity": "number", "value": 1} [cranberry sauce](item) from the lits
-- i want to remove [a]{"entity": "number", "value": 1} [crab soup](item)
-- i want to delete [the whole lot]{"entity": "number", "value": -1} of [chitterlings](item)
-- i want to cancel some [fudge](item)
-- i want to remove [thirty](number) [plantain soup](item)
-- eliminate [easter egg](item)
-- exclude [creamsicle](item) from the shopping list
-- delete [tomato](item) from the shopping list
-- i want to cancel some [summer squash](item)
-- i want to delete [each and every]{"entity": "number", "value": -1} [cookie](item)
-- exclude [hamburger (burger king)](item)
-- i want to delete [19](number) [cantaloupe](item)
-- exclude [every]{"entity": "number", "value": -1} [chickpeas](item) from the shopping list
-- black out [turkey with gravy](item)
-- exclude [dip](item)
-- exclude [entirely]{"entity": "number", "value": -1} the [spinach souffle](item)
-- exclude [a]{"entity": "number", "value": 1} [cereal (kellogg's crispix)](item) from the shopping list
-- eliminate [every single]{"entity": "number", "value": -1} [prunes](item) from the shopping list
-- remove [queso cotija](item)
-- i want to remove [twenty-seven](number) [cracker chips](item)
-- exclude [chicken rice soup](item)
-- i want to remove [totally]{"entity": "number", "value": -1} the [chicken dinner](item)
-- exclude [lard](item) from the list
-- delete [whiskey and water](item) from the shopping list
-- delete [twenty-one](number) [seven-layer salad](item)
-- black out [garlic](item)
-- eliminate [every]{"entity": "number", "value": -1} [dip](item) from the list
-- i want to delete [any]{"entity": "number", "value": -1} [infant formula](item)
-- eliminate [stewed rabbit](item) from the list
-- i want to cancel some [gizzard](item)
-- black out [injera](item)
-- remove [nachos with cheese](item) from the list
-- exclude [all]{"entity": "number", "value": -1} the [meat broth](item) from the list
-- delete [entirely]{"entity": "number", "value": -1} the [pasta with vegetables](item) from the list
-- exclude [cereal (kellogg's all-bran)](item) from the list
-- exclude [raccoon](item) from the shopping list
-- remove [guava paste](item)
-- i want to remove [fully]{"entity": "number", "value": -1} the [shrimp garden salad](item)
-- erase [entirely]{"entity": "number", "value": -1} the [hot peppers](item) from the list
-- i would like to delete some [nachos with chili](item) from the list
-- remove [every single]{"entity": "number", "value": -1} [papad](item) from the lis
-- exclude [bibimbap](item) from the shopping lis
-- i would like to cancel some [meat turnover](item) from the list
-- black out [moo shu pork](item)
-- eliminate [mexican chocolate](item)
-- eliminate [steak tartare](item) from the list
-- i want to cancel some [ice cream bar](item)
-- remove [a]{"entity": "number", "value": 1} [halvah](item)
-- cancel [pork](item) from the shopping list
-- erase [every single]{"entity": "number", "value": -1} [whatchamacallit](item) from the list
-- cancel [each]{"entity": "number", "value": -1} [mixed cereal](item) from the list
-- eliminate [all]{"entity": "number", "value": -1} the [pork stew](item) from the lis
-- undo [greek salad](item)
-- i would like to remove [each]{"entity": "number", "value": -1} [veal cordon bleu](item) from the list
-- i want to delete [wholly]{"entity": "number", "value": -1} the [caesar salad](item)
-- delete [an]{"entity": "number", "value": 1} [cobbler](item)
-- black out [completely]{"entity": "number", "value": -1} the [lima beans](item)
-- erase [nut roll](item)
-- cross out [long rice noodles](item)
-- cross out [totally]{"entity": "number", "value": -1} the [bluberries](item)
-- erase [6](number) [cake or cupcake](item)
-- cancel [entirely]{"entity": "number", "value": -1} the [apples and pears](item) from the shopping list
-- i would like to delete some [bacon](item) from the list
-- delete [fruit dessert](item) from the shopping list
-- i want to cancel some [cranberry juice](item) from the list
-- exclude [prunes](item)
-- i want to cancel some [natto](item) from the list
-- delete [wholly]{"entity": "number", "value": -1} the [cereal (kellogg's krave)](item)
-- cross out [every]{"entity": "number", "value": -1} [nachos with meat](item)
-- exclude [caramel](item) from the list
-- cross out [butterfinger](item)
-- erase [fruit](item) from the list
-- erase [potato patty](item) from the lis
-- delete [tzatziki dip](item) from the lits
-- remove [pupusa](item)
-- cancel [sausage sandwich](item) from the list
-- cancel [entirely]{"entity": "number", "value": -1} the [minestrone soup](item) from the list
-- eliminate [avocado dressing](item) from the shopping list
-- i would like to cancel some [pork](item) from the lis
-- erase [entirely]{"entity": "number", "value": -1} the [mint julep](item) from the lis
-- cancel [the whole lot]{"entity": "number", "value": -1} of [chimichanga with chicken](item) from the shopping list
-- i want to delete [each and every]{"entity": "number", "value": -1} [bison](item)
-- remove [prunes with oatmeal](item)
-- cross out [fully]{"entity": "number", "value": -1} the [venison/deer ribs](item)
-- eliminate [each]{"entity": "number", "value": -1} [tamale](item) from the list
-- i want to cancel some [coconut cream cake](item) from the list
-- exclude [every single]{"entity": "number", "value": -1} [vinegar](item) from the list
-- exclude [beef dinner](item) from the shopping ist
-- erase [thirteen](number) [whiskey and water](item) from the list
-- eliminate [fruit mixture](item) from the shopping list
-- remove [wonton soup](item)
-- i would like to delete some [roe](item) from the list
-- exclude [the whole lot]{"entity": "number", "value": -1} of [lima beans](item) from the shopping ist
-- erase [completely]{"entity": "number", "value": -1} the [apple yogurt dessert](item) from the lis
-- eliminate [each]{"entity": "number", "value": -1} [shrimp toast](item) from the shopping list
-- cancel [watercress](item) from the shopping list
-- eliminate [the whole lot]{"entity": "number", "value": -1} of [ravioli](item) from the list
-- eliminate [pesto sauce](item) from the lits
-- cancel [88](number) [yeast extract spread](item) from the shopping list
-- exclude [bluberries](item) from the shopping list
-- exclude [totally]{"entity": "number", "value": -1} the [vegetable submarine sandwich](item) from the shopping list
-- cancel [any]{"entity": "number", "value": -1} [pork stew](item)
-- eliminate [popsicle](item) from the shopping lits
-- eliminate [peanut butter sandwich](item) from the shopping list
-- remove [67](number) [fruit mixture](item)
-- exclude [a]{"entity": "number", "value": 1} [fruit mixture](item) from the shopping list
-- eliminate [rice noodles](item) from the shopping list
-- delete [nachos with meat](item)
-- remove [a]{"entity": "number", "value": 1} [radishes](item) from the list
-- i would like to remove [totally]{"entity": "number", "value": -1} the [shrimp chips](item) from the ist
-- erase [fish wrap sandwich](item) from the shopping list
-- eliminate [any]{"entity": "number", "value": -1} [potato patty](item) from the shopping list
-- cancel [fully]{"entity": "number", "value": -1} the [gordita](item)
-- erase [50](number) [cilantro](item) from the shopping list
-- eliminate [totally]{"entity": "number", "value": -1} the [stuffed pot roast](item) from the shopping list
-- erase [entirely]{"entity": "number", "value": -1} the [borscht](item)
-- erase [green bean casserole](item)
-- erase [17](number) [shrimp toast](item) from the list
-- eliminate [horchata beverage](item)
-- remove [dirty rice](item)
-- i want to cancel some [pupusa](item) from the list
-- erase [an]{"entity": "number", "value": 1} [marmalade](item) from the list
-- i want to remove [twenty-four](number) [heart](item)
-- erase [each]{"entity": "number", "value": -1} [pineapple candy](item) from the shopping list
-- erase [every single]{"entity": "number", "value": -1} [rum and cola](item) from the shopping list
-- i want to cancel some [wheat germ](item)
-- erase [eggplant dip](item) from the ist
-- cancel [pastry](item) from the shopping list
-- undo [spinach](item)
-- eliminate [stuffed jalapeno pepper](item) from the shopping list
-- remove [entirely]{"entity": "number", "value": -1} the [peas](item) from the lits
-- exclude [one]{"entity": "number", "value": 1} [sliced chicken sandwich](item) from the lits
-- i want to remove [any]{"entity": "number", "value": -1} [halvah](item)
-- undo [all]{"entity": "number", "value": -1} [onion dip](item)
-- cancel [mussels](item) from the list
-- delete [sunflower oil](item) from the lits
-- erase [an]{"entity": "number", "value": 1} [stewed goat](item)
-- remove [chocolate dip](item)
-- cancel [fruit butter](item) from the list
-- delete [sesame seeds](item) from the list
-- cancel [spinach](item) from the shopping list
-- cancel [tortellini](item)
-- delete [all]{"entity": "number", "value": -1} [butterscotch morsels](item) from the shopping list
-- erase [chicken wing](item) from the list
-- eliminate [jam](item) from the shopping list
-- undo [hamburger](item)
-- remove [twenty-seven](number) [shrimp creole](item)
-- i want to cancel some [cookies](item)
-- i would like to remove [a]{"entity": "number", "value": 1} [almond paste](item) from the list
-- eliminate [crepe](item) from the list
-- eliminate [pizza with pepperoni](item)
-- eliminate [vegetables and rice](item) from the list
-- erase [double cheeseburger (mcdonalds)](item) from the shopping list
-- undo [one]{"entity": "number", "value": 1} [goat head](item)
-- exclude [fish fillet](item)
-- exclude [each]{"entity": "number", "value": -1} [ice cream cake](item) from the shopping list
-- delete [all]{"entity": "number", "value": -1} [fruit butter](item) from the shopping list
-- exclude [soursop](item)
-- delete [wheat germ oil](item) from the list
-- i want to delete [fully]{"entity": "number", "value": -1} the [green bean casserole](item)
-- undo [each]{"entity": "number", "value": -1} [trail mix](item)
-- eliminate [ham salad spread](item) from the lits
-- erase [crepe](item)
-- delete [trail mix](item)
-- black out [each]{"entity": "number", "value": -1} [cheese spread](item)
-- erase [completely]{"entity": "number", "value": -1} the [ham salad spread](item) from the shopping ist
-- erase [shrimp](item)
-- black out [eight](number) [meat sticks](item)
-- delete [duck](item)
-- exclude [a]{"entity": "number", "value": 1} [ghee](item) from the shopping lis
-- eliminate [all]{"entity": "number", "value": -1} [radishes](item) from the shopping list
-- delete [greens](item) from the list
-- remove [wholly]{"entity": "number", "value": -1} the [kung pao chicken](item)
-- erase [fruit smoothie](item)
-- remove [each]{"entity": "number", "value": -1} [imitation cheese](item) from the lits
-- remove [any]{"entity": "number", "value": -1} [relish](item)
-- eliminate [sixteen](number) [pastry](item)
-- delete [100 grand bar](item) from the list
-- cancel [an]{"entity": "number", "value": 1} [pork chop](item) from the shopping list
-- exclude [olive oil](item) from the shopping list
-- delete [biscayne codfish](item) from the shopping list
-- eliminate [the whole lot]{"entity": "number", "value": -1} of [tortellini](item)
-- exclude [coconut cream cake](item)
-- erase [peanut butter sandwich](item)
-- i want to delete [wholly]{"entity": "number", "value": -1} the [quesadilla with meat](item)
-- eliminate [twenty-eight](number) [chicken kiev](item) from the shopping list
-- erase [singapore sling](item)
-- delete [soy chips](item)
-- cancel [cereal](item) from the list
-- undo [cantaloupe](item)
-- delete [egg foo yung](item) from the ist
-- i want to cancel some [celery soup](item) from the list
-- eliminate [any]{"entity": "number", "value": -1} [cereal (kellogg's crispix)](item)
-- i want to delete [the whole lot]{"entity": "number", "value": -1} of [stewed gizzards](item)
-- remove [thirty](number) [breakfast bar](item) from the list
-- i want to cancel some [grilled cheese sandwich](item)
-- exclude [queso cotija](item) from the shopping ist
-- eliminate [totally]{"entity": "number", "value": -1} the [fried rice](item) from the list
-- delete [every single]{"entity": "number", "value": -1} [marshmallow](item)
-- black out [nutritional powder mix](item)
-- i want to remove [fully]{"entity": "number", "value": -1} the [cheese souffle](item)
-- i want to remove [all]{"entity": "number", "value": -1} [pomegranate](item)
-- eliminate [an]{"entity": "number", "value": 1} [winter squash](item) from the shopping list
-- erase [fried mushrooms](item) from the ist
-- exclude [banana nectar](item)
-- eliminate [every]{"entity": "number", "value": -1} [prunes with oatmeal](item) from the ist
-- eliminate [olive tapenade](item) from the list
-- erase [every single]{"entity": "number", "value": -1} [freezer pop](item)
-- cancel [nine](number) [jelly](item) from the shopping list
-- exclude [prune juice](item) from the list
-- cancel [gelatin dessert](item) from the list
-- i would like to remove [all]{"entity": "number", "value": -1} [tropical fruit medley](item) from the list
-- cancel [fry sauce](item) from the lits
-- exclude [banana nectar](item) from the shopping list
-- eliminate [an]{"entity": "number", "value": 1} [lychee](item) from the shopping list
-- delete [soy chips](item) from the shopping list
-- erase [spanish stew](item)
-- cancel [each]{"entity": "number", "value": -1} [hors d'oeuvres](item) from the lis
-- eliminate [52](number) [vodka and water](item)
-- delete [black bean salad](item)
-- exclude [fully]{"entity": "number", "value": -1} the [chicken kiev](item) from the list
-- i would like to cancel some [chicken submarine sandwich](item) from the list
-- i want to cancel some [pickles](item) from the list
-- i would like to cancel some [macaroni or noodles](item) from the list
-- remove [refried beans](item) from the list
-- erase [31](number) [lobster](item) from the list
-- i want to cancel some [flan](item) from the list
-- exclude [every single]{"entity": "number", "value": -1} [turnip](item) from the list
-- exclude [a]{"entity": "number", "value": 1} [topping](item) from the shopping list
-- exclude [gelato](item) from the shopping ist
-- i want to cancel some [poke greens](item)
-- exclude [each]{"entity": "number", "value": -1} [mint julep](item) from the shopping lis
-- i want to cancel some [broccoli cheese soup](item)
-- cancel [the whole lot]{"entity": "number", "value": -1} of [fudge](item) from the list
-- eliminate [cracker chips](item)
-- eliminate [any]{"entity": "number", "value": -1} [firni](item) from the shopping list
-- remove [lo mein](item)
-- erase [every]{"entity": "number", "value": -1} [snow cone](item) from the list
-- erase [chitterlings](item) from the list
-- exclude [chicken curry](item)
-- remove [barfi or burfi](item)
-- erase [every single]{"entity": "number", "value": -1} [apple juice](item)
-- delete [lobster](item) from the shopping list
-- delete [crisp](item) from the shopping list
-- erase [each]{"entity": "number", "value": -1} [roe](item) from the list
-- exclude [fully]{"entity": "number", "value": -1} the [energy drink](item) from the shopping list
-- i would like to delete some [beans and franks](item) from the list
-- erase [entirely]{"entity": "number", "value": -1} the [pink beans](item) from the list
-- eliminate [fennel bulb](item) from the shopping lis
-- erase [all]{"entity": "number", "value": -1} the [apple-cherry juice](item)
-- eliminate [congee](item) from the list
-- i want to cancel some [carrot soup](item)
-- exclude [49](number) [bitter melon](item)
-- remove [any]{"entity": "number", "value": -1} [gumbo](item) from the list
-- erase [apple cider](item)
-- cancel [venison/deer steak](item) from the shopping list
-- i would like to remove [entirely]{"entity": "number", "value": -1} the [fruit salad](item) from the lis
-- i would like to delete some [cereal (post alpha-bits)](item) from the lits
-- delete [ham and pork](item)
-- erase [twenty-eight](number) [vegetables in pastry](item)
-- black out [21](number) [abalone](item)
-- cancel [moo shu pork](item) from the shopping list
-- exclude [spinach quiche](item) from the list
+- cross out [one]{"entity": "number", "value": 1} [mustard cabbage](item)
+- eliminate [croutons](item)
+- cancel [venison/deer](item) from the ist
+- black out [fully]{"entity": "number", "value": -1} the [stuffed green pepper](item)
+- exclude [lime souffle](item) from the shopping lis
+- delete [wholly]{"entity": "number", "value": -1} the [bean chips](item)
+- delete [fully]{"entity": "number", "value": -1} the [bacon sandwich](item) from the ist
+- eliminate [tuna salad](item)
+- i want to delete [entirely]{"entity": "number", "value": -1} the [dill dip](item)
+- exclude [beef jerky](item) from the shopping list
+- eliminate [chewing gum](item) from the shopping list
+- delete [every single]{"entity": "number", "value": -1} [tamarind](item) from the shopping list
+- i want to delete [every single]{"entity": "number", "value": -1} [cookie bar](item)
+- i want to remove [an]{"entity": "number", "value": 1} [rob roy](item)
+- exclude [chicken "wings"](item) from the list
+- i want to cancel some [fruit supreme dessert](item)
+- remove [a]{"entity": "number", "value": 1} [potato tots](item)
+- exclude [every]{"entity": "number", "value": -1} [bacardi cocktail](item) from the shopping list
+- delete [peanut bar](item) from the list
+- exclude [one]{"entity": "number", "value": 1} [puffs](item)
+- delete [any]{"entity": "number", "value": -1} [chimichanga with chicken](item) from the shopping list
+- erase [all]{"entity": "number", "value": -1} [lobster with sauce](item) from the shopping list
+- cross out [broccoli raab](item)
+- cancel [apple-sweet potato juice](item) from the shopping lits
+- eliminate [all]{"entity": "number", "value": -1} [cornmeal beverage](item)
+- erase [each]{"entity": "number", "value": -1} [oyster pie](item) from the list
+- erase [carbonated water](item) from the shopping list
+- exclude [each]{"entity": "number", "value": -1} [peas and carrots](item) from the list
+- erase [spinach quiche](item) from the list
+- undo [one]{"entity": "number", "value": 1} [seafood dip](item)
+- eliminate [garlic](item)
+- undo [all]{"entity": "number", "value": -1} [adobo](item)
+- remove [hot thai sauce](item)
+- i would like to delete some [cod](item) from the list
+- i want to delete [every single]{"entity": "number", "value": -1} [ham](item)
+- i would like to remove [an]{"entity": "number", "value": 1} [cranberry juice](item) from the list
+- erase [chiles rellenos](item) from the shopping list
+- cancel [dip](item) from the list
+- i would like to cancel some [arepa dominicana](item) from the ist
+- cancel [all]{"entity": "number", "value": -1} the [lobster salad](item) from the shopping list
+- erase [any]{"entity": "number", "value": -1} [beef stroganoff](item)
+- black out [iced coffee](item)
+- undo [stewed chitterlings](item)
+- exclude [mai tai](item) from the list
+- erase [completely]{"entity": "number", "value": -1} the [lobster newburg](item) from the shopping list
+- exclude [sauerkraut](item) from the lis
+- exclude [chicken "wings"](item) from the lits
 - delete [ham salad sandwich](item)
-- delete [any]{"entity": "number", "value": -1} [french toast sticks](item) from the shopping list
-- i want to delete [the whole lot]{"entity": "number", "value": -1} of [high ball](item)
-- black out [an]{"entity": "number", "value": 1} [cilantro](item)
-- remove [pumpkin](item)
-- cancel [gefilte fish](item) from the list
-- erase [veal](item) from the shopping list
-- eliminate [totally]{"entity": "number", "value": -1} the [nachos with chili](item) from the shopping list
-- erase [one]{"entity": "number", "value": 1} [nachos with meat](item) from the lis
-- eliminate [chicken submarine sandwich](item) from the shopping list
-- black out [prune](item)
-- cancel [every single]{"entity": "number", "value": -1} [butterfinger](item)
-- cross out [fish chowder](item)
-- exclude [all]{"entity": "number", "value": -1} the [firni](item) from the list
-- remove [stuffed jalapeno pepper](item)
-- cross out [every single]{"entity": "number", "value": -1} [enchilada with beans](item)
-- exclude [completely]{"entity": "number", "value": -1} the [yeast](item) from the shopping list
-- exclude [wholly]{"entity": "number", "value": -1} the [cornmeal beverage](item) from the shopping list
-- remove [green bean casserole](item)
-- exclude [twelve](number) [jam](item) from the list
-- remove [the whole lot]{"entity": "number", "value": -1} of [ground beef](item) from the list
-- erase [the whole lot]{"entity": "number", "value": -1} of [lotus root](item) from the shopping list
-- exclude [every single]{"entity": "number", "value": -1} [minestrone soup](item) from the shopping list
-- exclude [seven-layer salad](item)
-- black out [all]{"entity": "number", "value": -1} the [beef goulash](item)
-- cancel [one]{"entity": "number", "value": 1} [polish sausage](item) from the list
-- delete [sirloin](item)
-- undo [entirely]{"entity": "number", "value": -1} the [goat head](item)
-- black out [beef wellington](item)
-- delete [plum](item)
-- exclude [entirely]{"entity": "number", "value": -1} the [armadillo](item)
-- delete [beef and rice](item)
-- eliminate [fully]{"entity": "number", "value": -1} the [bacon on biscuit](item) from the list
-- erase [totally]{"entity": "number", "value": -1} the [fruit salad](item) from the shopping list
-- undo [caribou](item)
-- remove [melba toast](item)
-- i would like to delete some [ham salad sandwich](item) from the list
-- erase [all]{"entity": "number", "value": -1} [chimichanga with meat](item)
-- eliminate [water chesnut](item)
-- cancel [soybean oil](item) from the list
-- delete [gelato](item) from the list
-- undo [liver dumpling](item)
-- undo [potato pancake](item)
-- eliminate [an]{"entity": "number", "value": 1} [fruit](item) from the shopping ist
-- exclude [hamburger](item)
-- eliminate [edamame](item)
-- delete [fully]{"entity": "number", "value": -1} the [ham stroganoff](item) from the shopping list
-- erase [46](number) [sausage](item) from the shopping list
-- undo [hazelnuts](item)
-- undo [fully]{"entity": "number", "value": -1} the [corned beef sandwich](item)
-- eliminate [totally]{"entity": "number", "value": -1} the [fried bread](item) from the list
-- i want to delete [the whole lot]{"entity": "number", "value": -1} of [biscuit](item)
-- i want to delete [fully]{"entity": "number", "value": -1} the [whiskey and cola](item)
-- eliminate [fried broccoli](item) from the list
-- i would like to cancel some [mixed nuts](item) from the lis
-- eliminate [whiskey and cola](item) from the list
-- i want to cancel some [chimichanga with meat](item)
-- cancel [all]{"entity": "number", "value": -1} [ham salad sandwich](item) from the shopping list
-- black out [churros](item)
-- delete [rice with onions](item) from the list
-- eliminate [roe](item) from the shopping list
-- black out [all]{"entity": "number", "value": -1} the [nutritional powder mix](item)
-- delete [ham salad spread](item) from the shopping list
-- delete [almond paste](item)
-- delete [lamb or mutton](item)
-- delete [cashews](item) from the lis
-- delete [28](number) [sausage on biscuit](item) from the list
-- exclude [vinegar](item)
-- eliminate [snowpeas](item) from the list
-- exclude [all]{"entity": "number", "value": -1} the [cheese fondue](item)
-- remove [completely]{"entity": "number", "value": -1} the [goulash](item)
-- i want to cancel some [split peas](item) from the list
-- eliminate [noodles](item)
-- exclude [enchilada with meat](item) from the shopping list
-- eliminate [sweet potatoes](item)
-- cancel [fully]{"entity": "number", "value": -1} the [gefilte fish](item) from the list
-- cross out [every single]{"entity": "number", "value": -1} [general tso chicken](item)
-- cancel [bean sprouts](item)
-- eliminate [soursop](item)
-- black out [totally]{"entity": "number", "value": -1} the [greens](item)
-- i want to cancel some [zucchini](item)
-- eliminate [each]{"entity": "number", "value": -1} [lambsquarter](item)
-- cancel [fried green tomatoes](item) from the shopping list
-- remove [99](number) [banana chips](item) from the list
-- black out [chicken wing](item)
-- i would like to cancel some [grilled cheese sandwich](item) from the list
-- delete [cookies](item) from the shopping list
-- i want to remove [an]{"entity": "number", "value": 1} [veal marsala](item)
-- i would like to delete some [chestnuts](item) from the lis
-- erase [nineteen](number) [avocado](item)
-- i would like to remove [an]{"entity": "number", "value": 1} [sports drink (powerade)](item) from the list
-- exclude [all]{"entity": "number", "value": -1} [borscht](item)
-- undo [shrimp chips](item)
-- eliminate [the whole lot]{"entity": "number", "value": -1} of [slush frozen drink](item) from the shopping lis
-- eliminate [all]{"entity": "number", "value": -1} the [meat loaf](item) from the list
-- i want to cancel some [corn soup](item) from the lis
-- erase [every]{"entity": "number", "value": -1} [general tso chicken](item)
-- erase [orange blossom](item) from the list
-- delete [oat bran cereal](item) from the list
-- remove [59](number) [bluberries](item) from the list
-- exclude [any]{"entity": "number", "value": -1} [greens](item) from the shopping list
-- cancel [cilantro](item) from the list
-- cancel [entirely]{"entity": "number", "value": -1} the [brandy](item) from the list
-- erase [veal scallopini](item) from the ist
-- erase [twelve](number) [general tso chicken](item)
-- cancel [entirely]{"entity": "number", "value": -1} the [hors d'oeuvres](item) from the shopping list
-- exclude [every]{"entity": "number", "value": -1} [ice cream sundae](item) from the list
-- delete [all]{"entity": "number", "value": -1} the [orange blossom](item)
-- exclude [tortellini](item) from the list
-- black out [stuffed chicken](item)
-- black out [molasses](item)
-- cancel [one]{"entity": "number", "value": 1} [broccoli slaw salad](item)
-- i want to delete [every single]{"entity": "number", "value": -1} [cassaba melon](item)
-- remove [bacon on biscuit](item) from the list
-- cross out [wholly]{"entity": "number", "value": -1} the [fruit snacks candy](item)
-- erase [the whole lot]{"entity": "number", "value": -1} of [liverwurst](item) from the shopping list
-- exclude [snowpeas](item)
-- exclude [baked beans](item) from the shopping list
-- eliminate [an]{"entity": "number", "value": 1} [barfi or burfi](item)
-- i want to cancel some [bean sprouts](item)
-- delete [cereal](item) from the list
-- delete [any]{"entity": "number", "value": -1} [caribou](item)
-- i want to delete [every]{"entity": "number", "value": -1} [spanakopitta](item)
-- cancel [stewed gizzards](item)
-- erase [all]{"entity": "number", "value": -1} the [apple juice](item) from the list
-- i want to cancel some [spaghetti squash](item)
-- exclude [14](number) [tamarind drink](item) from the list
-- undo [ham or pork](item)
-- eliminate [twenty-three](number) [miso](item) from the shopping list
-- cancel [each and every]{"entity": "number", "value": -1} [kung pao shrimp](item) from the shopping lis
-- cancel [stuffed chicken](item)
-- exclude [one]{"entity": "number", "value": 1} [ginger root](item)
-- delete [tomato beef soup](item) from the lis
-- cancel [wholly]{"entity": "number", "value": -1} the [oats](item) from the list
-- exclude [any]{"entity": "number", "value": -1} [breakfast pastry](item) from the ist
-- delete [every]{"entity": "number", "value": -1} [potato pancake](item) from the list
-- black out [chicken leg](item)
-- exclude [fully]{"entity": "number", "value": -1} the [veal parmigiana](item) from the shopping list
-- erase [soy nut butter](item)
-- eliminate [every]{"entity": "number", "value": -1} [vegetable smoothie](item)
-- erase [cookies](item) from the list
-- black out [one]{"entity": "number", "value": 1} [pho](item)
-- exclude [double cheeseburger](item)
-- exclude [wine cooler](item)
-- i want to cancel some [greek salad](item)
-- cancel [ranch dip](item) from the shopping ist
-- i want to delete [completely]{"entity": "number", "value": -1} the [vinegar](item)
-- cancel [each]{"entity": "number", "value": -1} [soybean oil](item) from the lis
-- eliminate [a]{"entity": "number", "value": 1} [croaker](item)
-- remove [every single]{"entity": "number", "value": -1} [beef dinner](item) from the list
-- erase [singapore sling](item) from the shopping list
-- cross out [an]{"entity": "number", "value": 1} [reuben sandwich](item)
-- eliminate [fourteen](number) [yeast extract spread](item) from the shopping list
-- delete [fully]{"entity": "number", "value": -1} the [soybean curd](item)
-- eliminate [hot peppers](item)
-- exclude [one]{"entity": "number", "value": 1} [steak teriyaki](item)
-- erase [chicken soup](item) from the list
-- exclude [one]{"entity": "number", "value": 1} [olive oil](item)
-- exclude [vada](item)
-- exclude [stuffed jalapeno pepper](item)
-- remove [a]{"entity": "number", "value": 1} [oats](item)
+- exclude [every single]{"entity": "number", "value": -1} [oat bran cereal](item) from the list
+- erase [all]{"entity": "number", "value": -1} the [veal](item) from the shopping list
+- delete [each and every]{"entity": "number", "value": -1} [cocktail](item) from the shopping list
+- i want to delete [every]{"entity": "number", "value": -1} [cornmeal mush](item)
+- undo [shrimp salad](item)
+- i want to delete [every]{"entity": "number", "value": -1} [spanish rice](item)
+- delete [completely]{"entity": "number", "value": -1} the [bibimbap](item)
+- delete [fudgesicle](item) from the ist
+- eliminate [the whole lot]{"entity": "number", "value": -1} of [chicken fricassee](item) from the shopping list
+- eliminate [wholly]{"entity": "number", "value": -1} the [almond chicken](item)
+- i would like to cancel some [steak](item) from the list
+- eliminate [all]{"entity": "number", "value": -1} [lemon juice](item) from the list
+- remove [fruit smoothie](item)
+- cross out [canadian bacon](item)
+- cancel [an]{"entity": "number", "value": 1} [snack bar](item)
+- eliminate [guacamole](item)
+- cancel [an]{"entity": "number", "value": 1} [cream cheese](item) from the shopping list
+- erase [green peas](item) from the list
+- cancel [passion fruit nectar](item) from the list
+- delete [crab](item) from the shopping ist
+- exclude [thirty](number) [vegetable oil](item) from the shopping list
+- erase [each]{"entity": "number", "value": -1} [vegetarian stroganoff](item)
+- undo [wonton soup](item)
+- undo [an]{"entity": "number", "value": 1} [rice croquette](item)
+- erase [mimosa](item)
+- erase [fry sauce](item)
+- undo [oats](item)
+- exclude [soft fruit confections](item)
+- erase [a]{"entity": "number", "value": 1} [beans](item) from the shopping list
+- remove [fully]{"entity": "number", "value": -1} the [toffee](item)
+- i would like to cancel some [apple yogurt dessert](item) from the list
+- i want to remove [fully]{"entity": "number", "value": -1} the [cereal (kellogg's crispix)](item)
+- cancel [totally]{"entity": "number", "value": -1} the [cantaloupe nectar](item)
+- erase [peanut bar](item) from the shopping lis
+- eliminate [ham salad sandwich](item)
+- eliminate [lentil curry](item) from the lits
+- delete [one]{"entity": "number", "value": 1} [stew](item) from the shopping list
+- i want to cancel some [soursop](item) from the lis
+- exclude [all]{"entity": "number", "value": -1} the [grape juice drink](item) from the shopping list
+- cancel [one]{"entity": "number", "value": 1} [potato patty](item)
+- undo [peppers](item)
+- black out [entirely]{"entity": "number", "value": -1} the [turnip](item)
+- erase [entirely]{"entity": "number", "value": -1} the [mackerel](item) from the list
+- delete [squirrel](item)
+- i would like to delete some [shrimp chips](item) from the list
+- cancel [luncheon slice](item) from the shopping list
+- delete [baby ruth](item) from the shopping list
+- i want to cancel some [apple-grape juice](item) from the list
+- erase [entirely]{"entity": "number", "value": -1} the [kiwi fruit](item) from the shopping lis
+- erase [entirely]{"entity": "number", "value": -1} the [onion soup](item) from the shopping list
+- eliminate [cream of wheat](item) from the list
+- erase [vegetarian stroganoff](item)
+- cancel [cheese spread](item)
+- cancel [turnip](item)
+- cancel [oyster stew](item) from the shopping list
+- i want to remove [entirely]{"entity": "number", "value": -1} the [alcoholic malt beverage](item)
+- erase [an]{"entity": "number", "value": 1} [stewed variety meats](item) from the list
+- eliminate [beef enchilada dinner](item) from the list
+- delete [any]{"entity": "number", "value": -1} [whey](item) from the shopping list
+- cancel [any]{"entity": "number", "value": -1} [pumpkin seeds](item) from the shopping ist
+- cancel [completely]{"entity": "number", "value": -1} the [grapes](item) from the ist
+- remove [each]{"entity": "number", "value": -1} [caesar salad](item)
+- eliminate [all]{"entity": "number", "value": -1} the [szechuan beef](item) from the lits
+- erase [coconut candy](item)
+- i want to delete [every single]{"entity": "number", "value": -1} [chicken fricassee](item)
+- remove [yellow string beans](item) from the list
+- eliminate [any]{"entity": "number", "value": -1} [cherry vanilla pudding](item)
+- eliminate [every single]{"entity": "number", "value": -1} [swordfish](item) from the shopping list
+- eliminate [one]{"entity": "number", "value": 1} [soybean oil](item) from the ist
+- eliminate [completely]{"entity": "number", "value": -1} the [cornmeal mush](item) from the list
+- cancel [biryani with chicken](item) from the list
+- eliminate [caramel dip](item) from the shopping ist
+- i want to cancel some [oatmeal cereal](item) from the list
+- remove [51](number) [frozen yogurt](item) from the list
+- black out [shrimp gumbo](item)
+- delete [fully]{"entity": "number", "value": -1} the [coffee substitute](item)
+- erase [a]{"entity": "number", "value": 1} [christophine](item)
+- cancel [any]{"entity": "number", "value": -1} [biryani with vegetables](item) from the shopping list
+- remove [an]{"entity": "number", "value": 1} [corned beef sandwich](item) from the list
+- delete [fully]{"entity": "number", "value": -1} the [truffles](item) from the list
+- i want to delete [each]{"entity": "number", "value": -1} [meatball](item)
+- exclude [entirely]{"entity": "number", "value": -1} the [swordfish](item) from the shopping list
+- cancel [yogurt parfait](item) from the shopping list
+- undo [cornmeal](item)
+- eliminate [all]{"entity": "number", "value": -1} [banana pudding](item) from the shopping list
+- black out [entirely]{"entity": "number", "value": -1} the [tortilla chips](item)
+- cancel [poi](item) from the shopping lis
+- delete [all]{"entity": "number", "value": -1} [lamb or mutton](item) from the list
+- delete [wheat bran](item) from the shopping ist
+- remove [liverwurst](item)
+- black out [meatball soup](item)
+- cross out [all]{"entity": "number", "value": -1} the [cereal (post alpha-bits)](item)
+- delete [coffee](item) from the shopping list
+- remove [all]{"entity": "number", "value": -1} the [light ice cream](item)
+- remove [pinto beans](item)
+- cancel [any]{"entity": "number", "value": -1} [kung pao chicken](item)
+- erase [vinegar](item)
+- i would like to cancel some [nuts](item) from the list
+- remove [margarine-oil blend](item)
+- eliminate [coconut cream cake](item) from the list
+- exclude [an]{"entity": "number", "value": 1} [broccoli](item)
+- erase [every single]{"entity": "number", "value": -1} [canola oil](item) from the shopping list
+- erase [any]{"entity": "number", "value": -1} [scone](item) from the shopping list
+- delete [a]{"entity": "number", "value": 1} [vegetable broth](item) from the list
+- remove [completely]{"entity": "number", "value": -1} the [fajita with vegetables](item) from the list
+- eliminate [coconut water](item) from the shopping list
+- eliminate [completely]{"entity": "number", "value": -1} the [whiskey and soda](item) from the list
+- exclude [seventeen](number) [lime](item) from the shopping list
+- cancel [fully]{"entity": "number", "value": -1} the [ratatouille](item)
+- cancel [pear juice](item)
+- remove [cherry cobbler](item)
+- i want to cancel some [meringues](item)
+- cancel [55](number) [cantaloupe nectar](item)
+- delete [totally]{"entity": "number", "value": -1} the [stuffed tannier fritters](item) from the lits
+- remove [entirely]{"entity": "number", "value": -1} the [chocolate milk](item) from the list
+- eliminate [entirely]{"entity": "number", "value": -1} the [fish sandwich](item) from the lits
+- exclude [potato patty](item)
+- exclude [completely]{"entity": "number", "value": -1} the [yellow string beans](item) from the list
+- delete [fried broccoli](item) from the shopping list
+- exclude [an]{"entity": "number", "value": 1} [biscayne codfish](item) from the lis
+- erase [totally]{"entity": "number", "value": -1} the [sweet potato chips](item) from the shopping list
+- exclude [each and every]{"entity": "number", "value": -1} [pasta](item)
+- black out [all]{"entity": "number", "value": -1} [nougat](item)
+- i want to cancel some [cherry vanilla pudding](item)
+- cancel [cilantro](item) from the shopping list
+- cancel [vegetable beef soup](item)
+- eliminate [puerto rican stew](item) from the shopping list
+- exclude [hot thai sauce](item)
+- exclude [each]{"entity": "number", "value": -1} [beef burgundy](item) from the list
+- delete [every]{"entity": "number", "value": -1} [passion fruit nectar](item) from the list
+- remove [any]{"entity": "number", "value": -1} [egg salad](item) from the list
+- exclude [an]{"entity": "number", "value": 1} [polish sausage](item) from the shopping list
+- i would like to remove [one]{"entity": "number", "value": 1} [peanut bar](item) from the list
+- black out [szechuan beef](item)
+- delete [calzone](item) from the shopping list
+- cancel [borscht](item) from the list
+- delete [a]{"entity": "number", "value": 1} [rice milk](item) from the list
+- remove [entirely]{"entity": "number", "value": -1} the [ripe plantain fritters](item) from the list
+- remove [the whole lot]{"entity": "number", "value": -1} of [garlic egg soup](item)
+- cancel [dressing with oysters](item)
+- cancel [eel](item) from the list
+- erase [one]{"entity": "number", "value": 1} [safflower oil](item) from the list
+- eliminate [margarine-oil blend](item) from the list
+- i want to cancel some [mixed salad greens](item) from the list
+- cancel [chewing gum](item) from the list
+- undo [chorizo](item)
+- exclude [completely]{"entity": "number", "value": -1} the [margarine-oil blend](item) from the list
+- erase [the whole lot]{"entity": "number", "value": -1} of [stuffed tannier fritters](item) from the shopping list
+- exclude [white beans](item) from the shopping list
+- remove [stewed potatoes](item) from the list
+- cancel [vegetable oil](item)
+- eliminate [wholly]{"entity": "number", "value": -1} the [kiwi fruit](item) from the shopping list
+- erase [biscayne codfish](item) from the shopping lis
+- erase [pear juice](item) from the shopping lits
+- remove [entirely]{"entity": "number", "value": -1} the [shrimp gumbo](item) from the lis
+- erase [ground hog](item) from the list
+- delete [any]{"entity": "number", "value": -1} [shrimp salad](item) from the shopping list
+- exclude [a]{"entity": "number", "value": 1} [bacardi cocktail](item)
+- eliminate [chicken with gravy](item) from the lis
+- delete [watermelon](item) from the shopping list
+- erase [corned beef sandwich](item)
+- i would like to remove [entirely]{"entity": "number", "value": -1} the [cantaloupe](item) from the lits
+- cancel [guacamole](item)
+- delete [each and every]{"entity": "number", "value": -1} [licuado or batido](item) from the shopping ist
+- i want to cancel some [liver](item)
+- i would like to delete some [vegetable and chicken](item) from the list
+- i would like to cancel some [jelly](item) from the list
+- erase [lentil curry](item)
+- eliminate [energy drink (vault)](item)
+- erase [one]{"entity": "number", "value": 1} [snails](item) from the shopping list
+- i want to remove [any]{"entity": "number", "value": -1} [meat pie](item)
+- exclude [each and every]{"entity": "number", "value": -1} [hollandaise sauce](item)
+- erase [fully]{"entity": "number", "value": -1} the [raspberries](item) from the shopping list
+- eliminate [mushrooms](item)
+- cancel [gimlet](item)
+- remove [an]{"entity": "number", "value": 1} [turnip](item) from the list
+- cancel [fully]{"entity": "number", "value": -1} the [marshmallow](item)
+- cross out [fully]{"entity": "number", "value": -1} the [mackerel](item)
+- remove [stewed chitterlings](item)
+- delete [one]{"entity": "number", "value": 1} [mussels](item) from the shopping list
+- undo [fajita with vegetables](item)
+- eliminate [cape cod](item)
+- i want to cancel some [mousse](item)
+- exclude [ham luncheon meat](item)
+- cancel [gordita/sope shell](item)
+- remove [every single]{"entity": "number", "value": -1} [kefir](item) from the ist
+- i would like to remove [every]{"entity": "number", "value": -1} [bean chips](item) from the list
+- undo [fig](item)
+- erase [69](number) [croissant](item)
+- eliminate [sesame seeds](item) from the shopping list
+- exclude [every]{"entity": "number", "value": -1} [barfi or burfi](item) from the shopping list
+- cross out [fully]{"entity": "number", "value": -1} the [frozen daiquiri](item)
+- black out [a]{"entity": "number", "value": 1} [beef with vegetable](item)
+- delete [one]{"entity": "number", "value": 1} [kibby](item)
+- i want to cancel some [meat pie](item) from the list
+- erase [62](number) [currants](item)
+- black out [any]{"entity": "number", "value": -1} [pear](item)
+- erase [wholly]{"entity": "number", "value": -1} the [lamb hocks](item) from the shopping list
+- black out [all]{"entity": "number", "value": -1} [sesame dressing](item)
+- exclude [completely]{"entity": "number", "value": -1} the [stewed salmon](item) from the list
+- i want to cancel some [natto](item)
+- remove [pears and pineapple](item) from the list
+- cross out [cactus](item)
+- i want to cancel some [shrimp and noodles](item) from the list
+- eliminate [completely]{"entity": "number", "value": -1} the [passion fruit](item)
+- undo [reese's pieces](item)
+- cancel [bacon soup](item) from the list
+- undo [tom collins](item)
+- cancel [bean soup](item) from the list
+- cancel [one]{"entity": "number", "value": 1} [soy nuts](item) from the shopping lis
+- erase [meat loaf dinner](item) from the shopping lis
+- i would like to delete some [vegetarian pot pie](item) from the list
+- erase [one]{"entity": "number", "value": 1} [energy drink (vault)](item) from the lits
+- delete [cheese sauce](item)
+- eliminate [cheesecake](item) from the lis
+- erase [each]{"entity": "number", "value": -1} [crackers](item)
+- remove [pie shell](item) from the list
+- cross out [entirely]{"entity": "number", "value": -1} the [ground beef patty](item)
+- cross out [totally]{"entity": "number", "value": -1} the [currants](item)
+- cancel [potato patty](item)
+- i want to cancel some [fat back](item)
+- cross out [salmon soup](item)
+- i want to cancel some [kung pao shrimp](item)
+- cancel [stewed variety meats](item) from the shopping list
+- erase [all]{"entity": "number", "value": -1} [applesauce](item)
+- eliminate [churros](item) from the shopping list
+- remove [pizza](item) from the list
+- cancel [carrot soup](item) from the shopping list
+- erase [any]{"entity": "number", "value": -1} [bacon sandwich](item)
+- delete [almond butter](item)
+- erase [cornbread](item) from the list
+- eliminate [one]{"entity": "number", "value": 1} [vegetable and beef](item)
+- delete [taro](item) from the shopping lis
+- i would like to cancel some [calzone](item) from the list
+- exclude [any]{"entity": "number", "value": -1} [veal](item) from the list
+- cancel [every single]{"entity": "number", "value": -1} [sausage and peppers](item) from the lis
+- exclude [biryani with vegetables](item) from the shopping list
+- black out [one]{"entity": "number", "value": 1} [beef burgundy](item)
+- delete [fondant](item)
+- i want to remove [fully]{"entity": "number", "value": -1} the [snickers bar](item)
+- delete [vegetable and chicken](item)
+- cancel [each]{"entity": "number", "value": -1} [croissant](item) from the list
+- eliminate [cornmeal coconut dessert](item) from the list
+- delete [one]{"entity": "number", "value": 1} [corn beverage](item) from the shopping list
+- cancel [escarole](item)
+- delete [coconut oil](item) from the list
+- erase [an]{"entity": "number", "value": 1} [soybean soup](item) from the shopping list
+- cancel [basil](item)
+- erase [fully]{"entity": "number", "value": -1} the [almond chicken](item)
+- exclude [an]{"entity": "number", "value": 1} [pears and pineapple](item) from the shopping list
+- black out [soft fruit confections](item)
+- eliminate [all]{"entity": "number", "value": -1} [eel](item) from the list
+- i want to delete [57](number) [chili con carne](item)
+- i would like to remove [an]{"entity": "number", "value": 1} [churros](item) from the list
+- cancel [any]{"entity": "number", "value": -1} [empanada](item)
+- cross out [one]{"entity": "number", "value": 1} [dove](item)
+- erase [potato tots](item) from the shopping ist
+- exclude [stuffed pork roast](item) from the shopping list
+- delete [fried green tomatoes](item)
+- i want to remove [every single]{"entity": "number", "value": -1} [goat head](item)
+- exclude [apple](item)
+- i want to remove [the whole lot]{"entity": "number", "value": -1} of [pepperoni](item)
+- i want to delete [the whole lot]{"entity": "number", "value": -1} of [chicken fillet biscuit](item)
+- exclude [frozen daiquiri](item) from the list
+- eliminate [popsicle](item) from the list
+- i would like to delete some [rice noodles](item) from the lis
+- exclude [62](number) [fig](item) from the list
+- remove [one]{"entity": "number", "value": 1} [mango](item)
+- i want to cancel some [wheat bran](item) from the list
+- remove [all]{"entity": "number", "value": -1} the [tahini](item)
+- remove [crayfish](item) from the list
+- exclude [wholly]{"entity": "number", "value": -1} the [sweet potato](item)
+- i want to delete [each and every]{"entity": "number", "value": -1} [shrimp and noodles](item)
+- remove [hash](item)
+- delete [each and every]{"entity": "number", "value": -1} [goat](item) from the list
+- erase [all]{"entity": "number", "value": -1} the [sweet potato chips](item) from the list
+- remove [fully]{"entity": "number", "value": -1} the [carrot soup](item) from the list
+- cancel [chicken fillet biscuit](item)
+- exclude [any]{"entity": "number", "value": -1} [granola](item) from the shopping list
+- delete [each]{"entity": "number", "value": -1} [mojito](item) from the list
+- delete [spinach](item) from the list
+- delete [apple-banana juice](item) from the shopping list
+- eliminate [all]{"entity": "number", "value": -1} [cherry vanilla pudding](item) from the lits
+- cancel [one]{"entity": "number", "value": 1} [baby ruth](item) from the shopping lis
+- exclude [sesame seeds](item) from the list
+- delete [one]{"entity": "number", "value": 1} [ham luncheon meat](item) from the list
+- remove [each]{"entity": "number", "value": -1} [coconut candy](item) from the list
+- cancel [seafood restructured](item) from the shopping lits
+- cross out [beef and vegetables](item)
+- i want to cancel some [egg salad](item) from the lis
+- eliminate [pakora](item) from the list
+- eliminate [yogurt parfait](item) from the shopping list
+- remove [carbonated water](item)
+- cancel [vegetarian chili](item)
+- eliminate [totally]{"entity": "number", "value": -1} the [strawberry beverage powder](item)
+- delete [lemon juice](item)
+- i want to cancel some [kung pao shrimp](item) from the ist
+- cross out [pimiento](item)
+- cross out [barley soup](item)
+- undo [each and every]{"entity": "number", "value": -1} [beef and noodles](item)
+- i want to cancel some [whiskey and soda](item)
+- remove [all]{"entity": "number", "value": -1} [green beans](item)
+- erase [snickers bar](item) from the lits
+- i want to cancel some [clementine](item)
+- delete [tomato soup](item) from the shopping list
+- erase [lemon juice](item) from the shopping list
+- erase [cereal (kellogg's smorz)](item)
+- i would like to remove [a]{"entity": "number", "value": 1} [sauerkraut](item) from the list
+- eliminate [93](number) [cheese](item) from the shopping list
+- eliminate [the whole lot]{"entity": "number", "value": -1} of [turnover or dumpling](item) from the list
+- cross out [rice milk](item)
+- cancel [entirely]{"entity": "number", "value": -1} the [crab cake](item) from the list
+- i would like to remove [an]{"entity": "number", "value": 1} [orange blossom](item) from the lis
+- black out [meat loaf dinner](item)
+- remove [one]{"entity": "number", "value": 1} [truffles](item)
+- delete [pie shell](item)
+- eliminate [mimosa](item) from the ist
+- exclude [the whole lot]{"entity": "number", "value": -1} of [rabbit](item) from the shopping list
+- erase [an]{"entity": "number", "value": 1} [whiskey](item) from the shopping list
+- exclude [every]{"entity": "number", "value": -1} [carrot juice](item) from the shopping list
+- eliminate [the whole lot]{"entity": "number", "value": -1} of [breadfruit](item) from the shopping list
+- i would like to cancel some [rice meal fritter](item) from the list
+- exclude [the whole lot]{"entity": "number", "value": -1} of [pepper](item) from the shopping list
+- erase [an]{"entity": "number", "value": 1} [strawberry beverage powder](item)
+- delete [cactus](item) from the list
+- delete [a]{"entity": "number", "value": 1} [100 grand bar](item) from the shopping list
+- exclude [the whole lot]{"entity": "number", "value": -1} of [bacardi cocktail](item)
+- cross out [completely]{"entity": "number", "value": -1} the [sun-dried tomatoes](item)
+- i would like to remove [a]{"entity": "number", "value": 1} [tuna](item) from the list
+- undo [potato soup](item)
+- cancel [completely]{"entity": "number", "value": -1} the [broccoli raab](item) from the shopping list
+- i want to delete [each and every]{"entity": "number", "value": -1} [pizza](item)
+- cancel [the whole lot]{"entity": "number", "value": -1} of [breakfast pastry](item) from the shopping list
+- black out [all]{"entity": "number", "value": -1} the [french toast](item)
+- i want to cancel some [cornmeal beverage](item)
+- remove [fully]{"entity": "number", "value": -1} the [pork roast](item) from the list
+- cross out [croissant sandwich](item)
+- cancel [kung pao chicken](item) from the list
+- remove [five](number) [garlic](item) from the ist
+- i want to delete [an]{"entity": "number", "value": 1} [meatball soup](item)
+- cancel [potato skins](item)
+- erase [completely]{"entity": "number", "value": -1} the [ham salad sandwich](item) from the shopping lits
+- erase [each and every]{"entity": "number", "value": -1} [orange chicken](item)
+- black out [fried onion rings](item)
+- exclude [every]{"entity": "number", "value": -1} [stuffed pork roast](item) from the shopping lis
+- erase [entirely]{"entity": "number", "value": -1} the [seafood sauce](item)
+- cancel [the whole lot]{"entity": "number", "value": -1} of [squirrel](item) from the shopping list
+- i would like to remove [thirteen](number) [mimosa](item) from the list
+- remove [sunflower seeds](item) from the list
+- i would like to cancel some [peruvian beans](item) from the list
+- i want to cancel some [grapes](item) from the lis
+- remove [totally]{"entity": "number", "value": -1} the [beef with vegetable](item)
+- exclude [vegetable beef soup](item)
+- eliminate [reuben sandwich](item)
+- i want to cancel some [wine cooler](item) from the list
+- erase [twenty-six](number) [yam](item) from the list
+- cancel [totally]{"entity": "number", "value": -1} the [whatchamacallit](item) from the shopping lits
+- remove [cabbage](item) from the list
+- exclude [every single]{"entity": "number", "value": -1} [double hamburger](item)
+- cancel [32](number) [cabbage](item) from the lis
+- black out [ratatouille](item)
+- remove [parsnips](item) from the list
+- cancel [cornmeal](item)
+- erase [a]{"entity": "number", "value": 1} [cake](item) from the shopping list
+- exclude [reese's pieces](item)
+- exclude [the whole lot]{"entity": "number", "value": -1} of [eggplant dip](item) from the shopping lis
+- erase [completely]{"entity": "number", "value": -1} the [beef brisket](item) from the list
+- eliminate [miso sauce](item) from the list
+- eliminate [all]{"entity": "number", "value": -1} the [sports drink](item) from the list
+- i want to delete [a]{"entity": "number", "value": 1} [vegetarian vegetable soup](item)
+- exclude [noodles](item) from the list
+- i want to cancel some [apple-grape juice](item)
+- delete [entirely]{"entity": "number", "value": -1} the [persimmon](item) from the shopping list
+- remove [whopper (burger king)](item)
+- cancel [soft fruit confections](item) from the shopping list
+- i want to remove [every single]{"entity": "number", "value": -1} [beets](item)
+- exclude [gin fizz](item) from the list
+- delete [coconut cream cake](item)
+- cancel [tongue](item)
+- eliminate [egg white](item) from the shopping list
+- erase [every single]{"entity": "number", "value": -1} [pie shell](item)
+- eliminate [sports drink](item)
+- erase [fully]{"entity": "number", "value": -1} the [chicken with gravy](item)
+- cancel [one]{"entity": "number", "value": 1} [canola oil](item) from the shopping ist
+- undo [codfish fritter](item)
+- erase [cassaba melon](item) from the list
+- cancel [a]{"entity": "number", "value": 1} [papaya](item) from the list
+- i want to remove [each]{"entity": "number", "value": -1} [popcorn chips](item)
+- erase [steak](item)
+- exclude [completely]{"entity": "number", "value": -1} the [steak](item) from the list
+- exclude [greek salad](item)
+- remove [fourteen](number) [spoonbread](item) from the list
+- eliminate [all]{"entity": "number", "value": -1} the [fried green tomatoes](item)
+- erase [every]{"entity": "number", "value": -1} [kung pao shrimp](item)
+- eliminate [every single]{"entity": "number", "value": -1} [beet juice](item) from the shopping list
+- i would like to cancel some [goulash](item) from the list
+- remove [a]{"entity": "number", "value": 1} [cassaba melon](item) from the list
+- cancel [wholly]{"entity": "number", "value": -1} the [seaweed soup](item) from the shopping list
+- exclude [the whole lot]{"entity": "number", "value": -1} of [chicken kiev](item)
+- i want to delete [every single]{"entity": "number", "value": -1} [pea soup](item)
+- erase [icing](item) from the list
+- undo [all]{"entity": "number", "value": -1} [chili with beans](item)
+- remove [fruit smoothie](item) from the list
+- undo [completely]{"entity": "number", "value": -1} the [hamburger](item)
+- eliminate [the whole lot]{"entity": "number", "value": -1} of [crayfish](item) from the shopping lits
+- i want to cancel some [granola](item) from the list
+- cancel [squid](item)
+- eliminate [each]{"entity": "number", "value": -1} [reuben sandwich](item) from the list
+- eliminate [83](number) [wheat cereal](item)
+- erase [bison](item)
+- exclude [yuca fries](item) from the lits
+- cancel [beet juice](item)
+- remove [greek salad](item) from the list
+- exclude [entirely]{"entity": "number", "value": -1} the [energy drink](item)
+- i want to cancel some [gimlet](item)
+- cancel [egg white](item) from the list
+- i would like to cancel some [vegetarian chili](item) from the lits
+- cancel [55](number) [pineapple candy](item) from the list
+- cross out [all]{"entity": "number", "value": -1} [quesadilla with chicken](item)
+- i want to cancel some [coconut oil](item) from the list
+- eliminate [entirely]{"entity": "number", "value": -1} the [simple syrup](item) from the lits
+- cancel [stewed dried beef](item) from the list
+- black out [three](number) [grilled cheese sandwich](item)
+- cancel [burrito with meat](item)
+- black out [salsify](item)
+- exclude [fully]{"entity": "number", "value": -1} the [tiramisu](item) from the ist
+- cancel [rolo](item) from the shopping list
+- eliminate [all]{"entity": "number", "value": -1} [liverwurst](item) from the shopping list
+- undo [barfi or burfi](item)
+- delete [turnip greens](item) from the list
+- eliminate [entirely]{"entity": "number", "value": -1} the [barley cereal](item) from the list
+- delete [fully]{"entity": "number", "value": -1} the [fish moochim](item)
+- exclude [cheese pastry puffs](item) from the list
+- remove [wholly]{"entity": "number", "value": -1} the [taro leaves](item)
+- delete [all]{"entity": "number", "value": -1} [mortadella](item) from the shopping list
+- exclude [tortilla](item)
+- erase [apple-sweet potato juice](item)
+- i want to remove [every single]{"entity": "number", "value": -1} [moose](item)
+- cancel [iced coffee](item)
+- erase [nachos with chicken](item) from the shopping list
+- cancel [all]{"entity": "number", "value": -1} [stuffed tannier fritters](item)
+- cancel [all]{"entity": "number", "value": -1} the [cornmeal coconut dessert](item) from the shopping list
+- exclude [syrup](item)
+- undo [one]{"entity": "number", "value": 1} [falafel](item)
+- i would like to delete some [bluberries](item) from the list
+- erase [soup](item)
+- remove [each]{"entity": "number", "value": -1} [ratatouille](item) from the list
+- cross out [clementine](item)
+- exclude [all]{"entity": "number", "value": -1} the [cheesecake](item) from the list
+- remove [totally]{"entity": "number", "value": -1} the [walnut oil](item) from the list
+- eliminate [blueberries](item) from the list
+- exclude [waffle](item)
+- exclude [cream puff](item)
+- i would like to delete some [barley cereal](item) from the list
+- exclude [any]{"entity": "number", "value": -1} [wheat cereal](item) from the list
+- erase [each and every]{"entity": "number", "value": -1} [cheesecake](item) from the shopping list
+- delete [cranberry juice drink](item) from the shopping ist
+- black out [the whole lot]{"entity": "number", "value": -1} of [sweet potato](item)
+- cancel [chocolate syrup](item) from the shopping list
+- erase [welsh rarebit](item) from the list
+- exclude [an]{"entity": "number", "value": 1} [breakfast bar](item) from the list
+- cancel [one]{"entity": "number", "value": 1} [salmon loaf](item) from the list
+- eliminate [every]{"entity": "number", "value": -1} [cheese enchilada](item)
+- i want to cancel some [quail](item)
+- cancel [completely]{"entity": "number", "value": -1} the [papaya nectar](item) from the list
+- cancel [tamarind](item)
+- black out [beef vegetable soup](item)
+- erase [any]{"entity": "number", "value": -1} [cashews](item) from the list
+- exclude [entirely]{"entity": "number", "value": -1} the [cheese](item) from the shopping lis
+- eliminate [goat head](item)
+- i want to cancel some [veal cordon bleu](item) from the list
+- delete [twenty-three](number) [shark](item) from the lits
+- eliminate [peruvian beans](item)
+- eliminate [the whole lot]{"entity": "number", "value": -1} of [hash](item)
+- cancel [any]{"entity": "number", "value": -1} [lard](item)
+- cancel [sesame crunch](item) from the shopping list
+- remove [each]{"entity": "number", "value": -1} [instant soup](item) from the lits
+- eliminate [poi](item) from the shopping list
+- i want to remove [every single]{"entity": "number", "value": -1} [cornbread](item)
+- cross out [pepper steak](item)
+- cancel [twelve](number) [lobster bisque](item) from the list
+- eliminate [cocktail](item) from the list
+- black out [completely]{"entity": "number", "value": -1} the [carrot juice](item)
+- i want to cancel some [soft serve](item)
+- exclude [cornmeal mush](item)
+- cancel [completely]{"entity": "number", "value": -1} the [fondant](item) from the list
+- cross out [eighteen](number) [double hamburger](item)
+- i want to delete [any]{"entity": "number", "value": -1} [pomegranate](item)
+- delete [pasta](item)
+- eliminate [20](number) [chives](item)
+- i want to cancel some [dove](item) from the list
+- eliminate [fully]{"entity": "number", "value": -1} the [garlic](item)
+- eliminate [flavored rice mixture](item) from the shopping list
+- delete [all]{"entity": "number", "value": -1} [peanut oil](item)
+- erase [all]{"entity": "number", "value": -1} the [biscuit with fruit](item)
+- exclude [vegetarian vegetable soup](item)
+- eliminate [cheese pastry puffs](item)
+- remove [blintz](item)
+- i would like to cancel some [cilantro](item) from the list
+- eliminate [entirely]{"entity": "number", "value": -1} the [nougat](item) from the shopping list
+- erase [an]{"entity": "number", "value": 1} [marshmallow](item) from the shopping list
+- erase [quail](item) from the shopping list
+- remove [the whole lot]{"entity": "number", "value": -1} of [cape cod](item)
+- exclude [a]{"entity": "number", "value": 1} [chinese pancake](item) from the shopping lis
+- i want to cancel some [ham or pork](item) from the list
+- eliminate [all]{"entity": "number", "value": -1} [coffee and chicory](item)
+- i want to remove [completely]{"entity": "number", "value": -1} the [pastrami sandwich](item)
+- cross out [all]{"entity": "number", "value": -1} [frozen yogurt bar](item)
+- remove [a]{"entity": "number", "value": 1} [ray](item)
+- exclude [italian ice](item) from the shopping list
+- exclude [a]{"entity": "number", "value": 1} [bluberries](item)
+- eliminate [meatball soup](item) from the shopping list
+- i would like to remove [each]{"entity": "number", "value": -1} [mustard cabbage](item) from the list
+- remove [completely]{"entity": "number", "value": -1} the [double hamburger](item) from the list
+- delete [wheat](item) from the list
+- black out [each and every]{"entity": "number", "value": -1} [papaya nectar](item)
+- cancel [cream of wheat](item) from the shopping list
+- remove [one]{"entity": "number", "value": 1} [pepper](item) from the lits
+- exclude [caramel dip](item)
+- remove [88](number) [bread](item) from the list
+- i would like to cancel some [orange blossom](item) from the list
+- eliminate [creme brulee](item) from the shopping list
+- eliminate [escarole](item) from the list
+- i want to cancel some [cabbage](item) from the list
+- delete [cassava pasteles](item)
+- eliminate [borscht](item)
+- cancel [every single]{"entity": "number", "value": -1} [tomatoes](item)
+- exclude [each and every]{"entity": "number", "value": -1} [hayacas](item)
+- i want to remove [wholly]{"entity": "number", "value": -1} the [nuts](item)
+- i would like to cancel some [oyster pie](item) from the lits
+- black out [an]{"entity": "number", "value": 1} [bibimbap](item)
+- cancel [one]{"entity": "number", "value": 1} [banana nectar](item) from the list
+- delete [peas and carrots](item) from the list
+- exclude [wholly]{"entity": "number", "value": -1} the [rice noodles](item) from the shopping list
+- i want to delete [each and every]{"entity": "number", "value": -1} [squirrel](item)
+- cancel [tomatoes](item)
+- erase [corn syrup](item)
+- eliminate [each and every]{"entity": "number", "value": -1} [gizzard](item)
+- i want to cancel some [frozen yogurt](item) from the ist
+- erase [coffee](item)
+- undo [peanut butter morsels](item)
+- cross out [thirteen](number) [chocolate milk](item)
+- eliminate [raspberries](item) from the lits
+- cross out [every]{"entity": "number", "value": -1} [barley soup](item)
+- exclude [fully]{"entity": "number", "value": -1} the [crab cake](item) from the list
+- erase [every]{"entity": "number", "value": -1} [blintz](item) from the shopping ist
+- i would like to cancel some [fried chicken chunks](item) from the list
+- remove [entirely]{"entity": "number", "value": -1} the [brazil nuts](item)
+- exclude [bagel](item) from the ist
+- delete [waffle](item)
+- remove [each]{"entity": "number", "value": -1} [lemon](item) from the list
+- exclude [entirely]{"entity": "number", "value": -1} the [lamb or mutton](item) from the list
+- erase [adobo](item) from the shopping list
+- undo [each]{"entity": "number", "value": -1} [sausage gravy](item)
+- eliminate [cereal (post alpha-bits)](item) from the list
+- i would like to delete some [pear](item) from the ist
+- erase [all]{"entity": "number", "value": -1} [cashews](item) from the list
+- cross out [every]{"entity": "number", "value": -1} [broccoli and cauliflower](item)
+- undo [cassaba melon](item)
+- exclude [a]{"entity": "number", "value": 1} [frozen yogurt](item) from the shopping lis
+- remove [each]{"entity": "number", "value": -1} [banana yogurt dessert](item)
+- delete [licuado or batido](item) from the shopping list
+- eliminate [pineapple candy](item) from the ist
 - eliminate [eggplant dip](item) from the list
-- delete [one]{"entity": "number", "value": 1} [mushroom](item) from the list
-- delete [scrambled egg sandwich](item)
-- i would like to remove [each and every]{"entity": "number", "value": -1} [imitation cheese](item) from the list
-- eliminate [every single]{"entity": "number", "value": -1} [ice cream sundae](item) from the shopping list
-- erase [tomato juice cocktail](item) from the ist
-- erase [all]{"entity": "number", "value": -1} [parsnips](item)
-- exclude [veal marsala](item)
-- remove [baby ruth](item) from the list
-- exclude [an]{"entity": "number", "value": 1} [canadian bacon](item)
-- eliminate [each and every]{"entity": "number", "value": -1} [banana pudding](item) from the list
-- cancel [totally]{"entity": "number", "value": -1} the [chips](item) from the shopping lis
-- cancel [one]{"entity": "number", "value": 1} [pomegranate](item) from the shopping list
-- delete [gumbo](item)
-- delete [every single]{"entity": "number", "value": -1} [mixed cereal](item) from the list
-- eliminate [banana chips](item) from the shopping list
-- cancel [39](number) [cranberry juice](item) from the list
-- exclude [whatchamacallit](item) from the shopping list
-- delete [garlic](item) from the shopping list
-- exclude [stuffed tomato](item) from the shopping list
-- erase [a]{"entity": "number", "value": 1} [paella with meat](item)
-- cancel [tahini](item) from the shopping list
-- black out [queso cotija](item)
-- i want to cancel some [peruvian beans](item) from the list
-- erase [sausage](item) from the shopping list
-- cross out [rum cake](item)
-- erase [meatballs](item)
-- exclude [one]{"entity": "number", "value": 1} [radishes](item) from the shopping ist
-- delete [each]{"entity": "number", "value": -1} [venison/deer steak](item) from the list
-- eliminate [every]{"entity": "number", "value": -1} [apples and chicken](item)
-- erase [mcdouble (mcdonalds)](item) from the lits
-- remove [four](number) [snowpea](item) from the list
-- undo [pumpkin](item)
-- cancel [an]{"entity": "number", "value": 1} [molasses](item) from the shopping list
-- i want to remove [entirely]{"entity": "number", "value": -1} the [relish](item)
-- cancel [one]{"entity": "number", "value": 1} [pork skin](item)
-- cancel [the whole lot]{"entity": "number", "value": -1} of [stewed chitterlings](item)
-- cancel [hot peppers](item) from the list
-- undo [each]{"entity": "number", "value": -1} [cereal (kellogg's crispix)](item)
-- cancel [croissant](item) from the list
-- exclude [cheeseburger (burger king)](item)
-- exclude [every single]{"entity": "number", "value": -1} [old fashioned](item) from the list
-- cancel [jagerbomb](item) from the shopping list
-- undo [one]{"entity": "number", "value": 1} [meat](item)
-- cancel [snow cone](item) from the list
-- exclude [any]{"entity": "number", "value": -1} [marshmallow](item) from the list
-- erase [sopa seca](item) from the list
-- exclude [poppy seed dressing](item) from the list
-- undo [each and every]{"entity": "number", "value": -1} [truffles](item)
-- erase [turkey](item) from the shopping ist
-- delete [peach](item) from the list
-- i would like to cancel some [deer sausage](item) from the list
-- undo [fully]{"entity": "number", "value": -1} the [thousand island dressing](item)
-- delete [apple cider](item) from the list
-- i would like to cancel some [sugar cane beverage](item) from the lis
-- cross out [hamburger](item)
-- i would like to remove [entirely]{"entity": "number", "value": -1} the [spaghetti sauce](item) from the list
-- delete [an]{"entity": "number", "value": 1} [chitterlings](item) from the shopping lits
-- eliminate [stuffed chicken](item)
-- delete [cassaba melon](item) from the list
-- delete [dirty rice](item) from the list
-- delete [twenty-nine](number) [masa harina](item) from the list
-- delete [completely]{"entity": "number", "value": -1} the [fried rice](item)
-- i would like to cancel some [bean chips](item) from the list
-- remove [fried green beans](item)
-- i want to cancel some [veal cordon bleu](item)
-- remove [completely]{"entity": "number", "value": -1} the [beets](item)
-- cancel [an]{"entity": "number", "value": 1} [adobo](item)
-- cancel [tamale with chicken](item) from the list
-- erase [every single]{"entity": "number", "value": -1} [slush frozen drink](item)
-- delete [cheesecake with fruit](item) from the lits
-- eliminate [one]{"entity": "number", "value": 1} [coconut](item) from the list
-- cancel [cereal (post alpha-bits)](item) from the shopping list
-- remove [black bean salad](item) from the list
-- erase [dosa (indian)](item) from the shopping lits
-- cancel [entirely]{"entity": "number", "value": -1} the [natto](item) from the list
-- cancel [vegetable and chicken](item) from the list
-- i want to cancel some [old fashioned](item) from the ist
-- eliminate [all]{"entity": "number", "value": -1} [bamboo shoots](item)
-- i would like to cancel some [cashews](item) from the list
-- erase [beans and rice](item) from the shopping list
-- eliminate [mixed nuts](item) from the list
-- undo [entirely]{"entity": "number", "value": -1} the [pheasant](item)
-- eliminate [wholly]{"entity": "number", "value": -1} the [graham crackers](item) from the shopping list
-- delete [wholly]{"entity": "number", "value": -1} the [crayfish](item) from the list
-- i would like to remove [totally]{"entity": "number", "value": -1} the [shrimp creole](item) from the list
-- black out [the whole lot]{"entity": "number", "value": -1} of [kumquat](item)
-- cross out [entirely]{"entity": "number", "value": -1} the [blackberries](item)
-- delete [potato patty](item) from the list
-- eliminate [all]{"entity": "number", "value": -1} the [wine cooler](item) from the shopping lis
-- exclude [entirely]{"entity": "number", "value": -1} the [gelatin dessert](item) from the list
-- exclude [rutabaga](item) from the shopping list
-- i want to delete [each]{"entity": "number", "value": -1} [fried eggplant](item)
-- erase [taco shell](item) from the shopping list
-- exclude [beaver](item) from the shopping list
-- i would like to remove [thirteen](number) [barfi or burfi](item) from the list
-- delete [biscuit](item) from the shopping list
-- cross out [russian dressing](item)
-- erase [every single]{"entity": "number", "value": -1} [coffee cake](item)
-- i want to remove [77](number) [bibimbap](item)
-- cross out [completely]{"entity": "number", "value": -1} the [shrimp garden salad](item)
-- delete [apple-banana juice](item)
-- cancel [frozen yogurt sandwich](item) from the list
-- exclude [pink beans](item) from the list
-- remove [an]{"entity": "number", "value": 1} [water](item)
-- delete [popsicle](item) from the shopping list
-- undo [fifteen](number) [pork jerky](item)
-- exclude [the whole lot]{"entity": "number", "value": -1} of [pork jerky](item) from the shopping list
-- cross out [enchilada with beans](item)
-- delete [buckwheat groats](item) from the list
-- undo [pizza with pepperoni](item)
-- erase [kimchi](item) from the list
-- i would like to remove [an]{"entity": "number", "value": 1} [fat back](item) from the list
-- black out [vodka and tonic](item)
-- delete [the whole lot]{"entity": "number", "value": -1} of [fondant](item) from the shopping list
-- exclude [whiskey and water](item) from the shopping lis
-- exclude [cheese enchilada](item) from the list
-- i would like to remove [completely]{"entity": "number", "value": -1} the [chocolate](item) from the list
-- i would like to delete some [brunswick stew](item) from the lis
-- eliminate [an]{"entity": "number", "value": 1} [cucumber salad](item)
-- remove [meatballs](item)
-- cross out [fennel bulb](item)
-- erase [completely]{"entity": "number", "value": -1} the [cheesecake](item) from the list
-- remove [all]{"entity": "number", "value": -1} the [seaweed soup](item) from the list
-- erase [sausage on biscuit](item)
-- cancel [wholly]{"entity": "number", "value": -1} the [yeast](item)
-- delete [pasta with vegetables](item) from the list
-- eliminate [celery](item) from the list
-- remove [an]{"entity": "number", "value": 1} [banana chips](item)
-- i want to delete [fourteen](number) [shrimp](item)
-- remove [an]{"entity": "number", "value": 1} [soybean oil](item) from the list
-- delete [each]{"entity": "number", "value": -1} [knish](item) from the list
-- cancel [totally]{"entity": "number", "value": -1} the [egg white omelet](item) from the list
-- remove [a]{"entity": "number", "value": 1} [turkey](item)
-- eliminate [seafood souffle](item)
-- eliminate [bibimbap](item) from the shopping list
-- i want to remove [any]{"entity": "number", "value": -1} [mexican chocolate](item)
-- erase [each and every]{"entity": "number", "value": -1} [reuben sandwich](item) from the list
-- erase [deer sausage](item)
-- i would like to remove [each]{"entity": "number", "value": -1} [golden cadillac](item) from the list
-- cross out [the whole lot]{"entity": "number", "value": -1} of [mayonnaise-type salad dressing](item)
-- cancel [every]{"entity": "number", "value": -1} [flax seeds](item)
-- cancel [a]{"entity": "number", "value": 1} [grape juice](item) from the shopping list
-- erase [a]{"entity": "number", "value": 1} [pork sausage](item)
-- delete [fruit bar](item)
-- cross out [bacon](item)
-- delete [an]{"entity": "number", "value": 1} [liverwurst](item) from the shopping list
-- exclude [the whole lot]{"entity": "number", "value": -1} of [rice paper](item)
-- cancel [twenty](number) [blackberries](item) from the shopping list
-- exclude [an]{"entity": "number", "value": 1} [goose](item) from the list
-- delete [any]{"entity": "number", "value": -1} [meat](item) from the shopping list
-- eliminate [coconut oil](item) from the shopping list
-- cross out [cheese pastry puffs](item)
-- eliminate [graham crackers](item)
-- eliminate [chickpeas](item) from the shopping list
-- i want to delete [the whole lot]{"entity": "number", "value": -1} of [turkey with vegetable](item)
-- eliminate [entirely]{"entity": "number", "value": -1} the [muffin](item) from the shopping list
-- eliminate [completely]{"entity": "number", "value": -1} the [freezer pop](item) from the list
-- cross out [15](number) [cheese pastry puffs](item)
-- delete [sour cream](item) from the shopping list
-- delete [a]{"entity": "number", "value": 1} [fondant](item) from the shopping list
-- eliminate [all]{"entity": "number", "value": -1} the [pinto beans](item)
-- cross out [steak tartare](item)
-- i want to delete [each and every]{"entity": "number", "value": -1} [reese's sticks](item)
-- delete [one]{"entity": "number", "value": 1} [cabbage](item) from the shopping list
-- i want to delete [thirty](number) [passion fruit juice](item)
-- delete [brunswick stew](item)
-- i want to delete [all]{"entity": "number", "value": -1} the [vodka and water](item)
-- delete [knockwurst](item) from the shopping list
-- erase [adobo](item)
-- cross out [apple-fruit juice blend](item)
-- remove [one]{"entity": "number", "value": 1} [chestnuts](item) from the list
-- eliminate [butter](item)
-- cancel [completely]{"entity": "number", "value": -1} the [rutabaga](item)
-- eliminate [every single]{"entity": "number", "value": -1} [armadillo](item)
-- erase [completely]{"entity": "number", "value": -1} the [cornmeal dumpling](item) from the list
-- cancel [every]{"entity": "number", "value": -1} [creamsicle](item)
-- erase [fully]{"entity": "number", "value": -1} the [seafood souffle](item) from the list
-- cancel [fruit snacks candy](item)
-- erase [churros](item) from the list
-- i would like to remove [the whole lot]{"entity": "number", "value": -1} of [seafood dip](item) from the list
-- exclude [entirely]{"entity": "number", "value": -1} the [cornmeal beverage](item)
-- eliminate [quesadilla with chicken](item)
-- remove [masa harina](item) from the list
-- cross out [entirely]{"entity": "number", "value": -1} the [poppy seed dressing](item)
-- exclude [spanakopitta](item) from the shopping list
-- erase [any]{"entity": "number", "value": -1} [watermelon juice](item)
-- cancel [soy chips](item)
-- eliminate [fruit juice](item) from the lis
-- erase [coffee creamer](item) from the shopping list
-- exclude [an]{"entity": "number", "value": 1} [sirloin](item) from the shopping list
-- eliminate [carbonated water](item) from the shopping list
-- eliminate [rice noodles](item) from the list
-- erase [two](number) [peanut brittle](item) from the list
-- cancel [soursop](item) from the lis
-- i want to cancel some [lomi salmon](item)
-- delete [totally]{"entity": "number", "value": -1} the [avocado dressing](item) from the list
-- eliminate [cucumber salad](item)
-- i want to cancel some [sweet potatoes](item) from the list
-- delete [each and every]{"entity": "number", "value": -1} [hors d'oeuvres](item) from the shopping list
-- exclude [lychee](item) from the list
-- i want to remove [fully]{"entity": "number", "value": -1} the [cobbler](item)
-- exclude [an]{"entity": "number", "value": 1} [tomato juice cocktail](item) from the shopping list
-- eliminate [meat broth](item)
-- cancel [adobo](item)
-- cancel [goulash](item) from the shopping list
-- delete [finger foods](item)
-- undo [reese's sticks](item)
-- black out [bean soup](item)
-- delete [all]{"entity": "number", "value": -1} the [cranberry sauce](item) from the shopping list
-- erase [mango dessert](item) from the list
-- remove [fully]{"entity": "number", "value": -1} the [oats](item) from the list
-- cancel [one]{"entity": "number", "value": 1} [grape juice](item) from the list
-- eliminate [each]{"entity": "number", "value": -1} [bratwurst](item) from the lits
-- exclude [pepper steak](item) from the list
-- undo [bison](item)
-- exclude [peach](item) from the shopping list
-- cross out [an]{"entity": "number", "value": 1} [venison/deer jerky](item)
-- exclude [spinach soup](item)
-- eliminate [an]{"entity": "number", "value": 1} [soybean curd](item) from the shopping list
-- delete [fruit](item)
-- eliminate [totally]{"entity": "number", "value": -1} the [ginger root](item) from the shopping list
-- eliminate [chives](item)
-- cancel [nachos with cheese](item) from the shopping lits
-- eliminate [every]{"entity": "number", "value": -1} [egg salad sandwich](item) from the list
-- eliminate [peruvian beans](item) from the list
-- i would like to remove [any]{"entity": "number", "value": -1} [baklava](item) from the list
-- eliminate [the whole lot]{"entity": "number", "value": -1} of [refried beans](item)
-- exclude [jam](item) from the shopping list
-- undo [marshmallow](item)
-- cancel [a]{"entity": "number", "value": 1} [cabbage](item) from the list
-- erase [old fashioned](item)
-- eliminate [every single]{"entity": "number", "value": -1} [pears](item) from the lits
+- cross out [an]{"entity": "number", "value": 1} [papaya](item)
+- eliminate [totally]{"entity": "number", "value": -1} the [sesame crunch](item) from the list
+- cancel [focaccia](item) from the shopping list
+- i want to remove [the whole lot]{"entity": "number", "value": -1} of [flavored rice mixture](item)
+- delete [the whole lot]{"entity": "number", "value": -1} of [black bean salad](item) from the shopping list
+- exclude [puerto rican pasteles](item)
+- cancel [entirely]{"entity": "number", "value": -1} the [paella with meat](item) from the lis
+- undo [crab imperial](item)
+- eliminate [watermelon](item)
+- delete [completely]{"entity": "number", "value": -1} the [apple yogurt dessert](item) from the list
+- i want to remove [wholly]{"entity": "number", "value": -1} the [haupia](item)
+- delete [all]{"entity": "number", "value": -1} the [kit kat white](item) from the shopping list
+- undo [all]{"entity": "number", "value": -1} the [empanada](item)
+- delete [ray](item) from the shopping lis
+- eliminate [winter melon](item) from the shopping list
+- undo [basbousa](item)
+- i want to delete [one]{"entity": "number", "value": 1} [coffee substitute](item)
+- remove [stuffed green pepper](item) from the ist
+- i want to cancel some [kit kat white](item) from the list
+- eliminate [wholly]{"entity": "number", "value": -1} the [popsicle](item) from the shopping ist
+- delete [mortadella](item) from the shopping list
+- black out [completely]{"entity": "number", "value": -1} the [hayacas](item)
+- remove [each and every]{"entity": "number", "value": -1} [fried chicken chunks](item) from the lis
+- remove [the whole lot]{"entity": "number", "value": -1} of [lobster newburg](item)
+- cross out [taro](item)
+- cancel [codfish fritter](item)
+- cancel [every]{"entity": "number", "value": -1} [bratwurst](item)
+- cancel [bison](item)
+- i want to cancel some [oats](item) from the list
+- exclude [ocean perch](item) from the shopping list
+- eliminate [every]{"entity": "number", "value": -1} [chicken cornbread](item) from the list
+- cancel [beef vegetable soup](item)
+- cancel [one]{"entity": "number", "value": 1} [biryani with vegetables](item)
+- eliminate [the whole lot]{"entity": "number", "value": -1} of [corn chips](item) from the shopping list
+- remove [vinegar](item) from the lits
+- exclude [steak tartare](item) from the shopping ist
+- erase [asparagus](item)
+- cross out [fully]{"entity": "number", "value": -1} the [clementine](item)
+- delete [the whole lot]{"entity": "number", "value": -1} of [palm hearts](item)
+- remove [cheese dip](item) from the list
+- erase [completely]{"entity": "number", "value": -1} the [pomegranate](item) from the shopping list
+- cancel [sturgeon](item) from the list
+- exclude [vegetable and turkey](item) from the ist
+- black out [safflower oil](item)
+- delete [seven-layer salad](item)
+- cancel [fifteen](number) [light ice cream](item)
+- i would like to cancel some [italian dressing](item) from the list
+- cross out [corned beef sandwich](item)
+- undo [cornmeal beverage](item)
+- delete [each]{"entity": "number", "value": -1} [blintz](item) from the list
+- i want to remove [totally]{"entity": "number", "value": -1} the [biscuit with fruit](item)
+- cancel [peanut butter](item) from the list
+- undo [stinger](item)
+- cancel [fish moochim](item) from the shopping list
+- delete [one]{"entity": "number", "value": 1} [fish wrap sandwich](item)
+- delete [each and every]{"entity": "number", "value": -1} [apple-grape juice](item) from the list
+- cancel [goat ribs](item) from the shopping list
+- undo [gravy](item)
+- eliminate [peanut oil](item) from the lis
+- exclude [gerber finger foods](item)
+- delete [every]{"entity": "number", "value": -1} [fish wrap sandwich](item)
+- exclude [potato skins](item)
+- delete [all]{"entity": "number", "value": -1} [cookie bar](item) from the list
+- delete [three](number) [baby ruth](item)
+- cancel [any]{"entity": "number", "value": -1} [crab imperial](item) from the shopping list
+- delete [entirely]{"entity": "number", "value": -1} the [almond chicken](item) from the shopping list
+- i want to delete [twelve](number) [quesadilla](item)
+- remove [any]{"entity": "number", "value": -1} [french toast](item)
+- cancel [the whole lot]{"entity": "number", "value": -1} of [danish pastry](item)
+- undo [one]{"entity": "number", "value": 1} [trout](item)
+- remove [apple](item)
+- erase [sausage gravy](item) from the shopping list
+- remove [beet greens](item)
+- delete [beet juice](item) from the list
+- i want to cancel some [cream of wheat](item)
+- remove [all]{"entity": "number", "value": -1} the [beef and noodles](item)
+- exclude [marshmallow](item)
+- remove [an]{"entity": "number", "value": 1} [mai tai](item)
+- exclude [big mac (mcdonalds)](item) from the list
+- erase [turtle](item) from the shopping list
+- erase [tahini](item)
+- cross out [lentil soup](item)
+- cross out [a]{"entity": "number", "value": 1} [bagel](item)
+- cancel [each]{"entity": "number", "value": -1} [energy drink (monster)](item) from the shopping list
+- delete [a]{"entity": "number", "value": 1} [black bean salad](item) from the shopping ist
+- eliminate [bacon soup](item) from the shopping list
+- delete [one]{"entity": "number", "value": 1} [corn syrup](item) from the list
+- eliminate [cake](item) from the list
+- eliminate [fudgesicle](item) from the shopping list
+- erase [walnut oil](item) from the shopping list
+- undo [any]{"entity": "number", "value": -1} [ice cream sundae](item)
+- remove [natto](item) from the list
+- remove [croutons](item)
+- delete [fried broccoli](item) from the list
+- erase [chocolate syrup](item)
+- black out [pinto beans](item)
+- erase [completely]{"entity": "number", "value": -1} the [seafood newburg](item)
+- erase [fish curry](item)
+- erase [fully]{"entity": "number", "value": -1} the [vegetable and turkey](item) from the list
+- erase [the whole lot]{"entity": "number", "value": -1} of [prune](item)
+- eliminate [lambsquarter](item)
+- cross out [each]{"entity": "number", "value": -1} [lambsquarter](item)
+- i want to delete [each]{"entity": "number", "value": -1} [seafood salad](item)
+- erase [bean soup](item)
+- black out [wholly]{"entity": "number", "value": -1} the [dip](item)
+- eliminate [twenty-three](number) [gimlet](item)
+- exclude [any]{"entity": "number", "value": -1} [pretzel](item)
+- remove [an]{"entity": "number", "value": 1} [hamburger](item) from the list
+- delete [ripe plantain fritters](item)
+- eliminate [cranberry juice](item) from the shopping ist
+- eliminate [cream cheese](item)
+- i want to cancel some [caesar salad](item) from the list
+- i would like to delete some [goat head](item) from the list
+- erase [strawberry juice](item)
+- erase [each]{"entity": "number", "value": -1} [chicken fricassee](item)
+- remove [all]{"entity": "number", "value": -1} the [biryani with chicken](item) from the list
+- remove [a]{"entity": "number", "value": 1} [macaroni and cheese](item)
+- cancel [olives](item) from the list
+- i want to cancel some [salsify](item) from the lis
+- cancel [totally]{"entity": "number", "value": -1} the [chiles rellenos](item) from the shopping list
+- eliminate [an]{"entity": "number", "value": 1} [beef steak](item) from the shopping lis
+- remove [a]{"entity": "number", "value": 1} [cereal (kashi golean)](item) from the ist
+- i want to cancel some [stuffed green pepper](item) from the list
+- eliminate [broccoli](item)
+- undo [tongue](item)
+- i want to cancel some [wonton soup](item)
+- delete [luncheon slice](item) from the shopping ist
+- delete [every single]{"entity": "number", "value": -1} [double cheeseburger](item)
+- cancel [pheasant](item)
+- eliminate [every single]{"entity": "number", "value": -1} [licuado or batido](item) from the shopping list
+- remove [dip](item)
+- remove [blueberries](item)
+- cancel [a]{"entity": "number", "value": 1} [couscous](item) from the list
+- i would like to remove [each and every]{"entity": "number", "value": -1} [ground beef patty](item) from the list
+- undo [wheat germ](item)
+- remove [fully]{"entity": "number", "value": -1} the [christophine](item) from the list
+- i would like to remove [entirely]{"entity": "number", "value": -1} the [sun-dried tomatoes](item) from the list
+- cancel [a]{"entity": "number", "value": 1} [turtle](item) from the list
+- eliminate [every]{"entity": "number", "value": -1} [winter melon](item) from the lits
+- eliminate [haupia](item) from the list
+- cancel [sunflower seeds](item) from the shopping list
+- remove [gin rickey](item)
+- remove [totally]{"entity": "number", "value": -1} the [goulash](item) from the list
+- erase [seventeen](number) [blueberries](item)
+- exclude [kefir](item) from the list
+- exclude [twenty-three](number) [prune](item) from the list
+- eliminate [scone](item) from the list
+- cross out [all]{"entity": "number", "value": -1} the [peanut butter](item)
+- erase [vegetable and turkey](item) from the list
+- exclude [grape juice drink](item) from the list
+- remove [wheat germ](item)
+- black out [fully]{"entity": "number", "value": -1} the [sesame dressing](item)
+- black out [spinach quiche](item)
+- eliminate [a]{"entity": "number", "value": 1} [taro leaves](item) from the shopping list
+- eliminate [alcoholic malt beverage](item)
+- eliminate [bluberries](item) from the list
+- erase [beef and noodles](item) from the shopping list
+- erase [stewed potatoes](item) from the ist
+- eliminate [whatchamacallit](item) from the shopping list
+- delete [bratwurst](item) from the list
+- cancel [milk](item)
+- delete [cocktail sauce](item) from the list
+- i want to cancel some [puerto rican pasteles](item) from the list
+- cross out [strawberry juice](item)
+- delete [all]{"entity": "number", "value": -1} the [prune juice](item)
+- eliminate [an]{"entity": "number", "value": 1} [cereal (kashi golean)](item) from the list
+- undo [turnover or dumpling](item)
+- delete [burrito with meat](item)
+- delete [couscous](item) from the lits
+- cancel [completely]{"entity": "number", "value": -1} the [goat ribs](item) from the shopping list
+- eliminate [entirely]{"entity": "number", "value": -1} the [mushrooms](item)
+- delete [every]{"entity": "number", "value": -1} [broccoli](item) from the shopping ist
+- erase [cheese spread](item) from the list
+- cancel [mackerel](item) from the lits
+- undo [one]{"entity": "number", "value": 1} [adobo](item)
+- undo [biscayne codfish](item)
+- remove [beef brisket](item) from the lis
+- eliminate [coconut water](item)
+- erase [every single]{"entity": "number", "value": -1} [ham sandwich](item) from the lis
+- i would like to cancel some [yam](item) from the ist
+- cancel [each and every]{"entity": "number", "value": -1} [syrup](item) from the shopping list
+- eliminate [all]{"entity": "number", "value": -1} the [gin fizz](item) from the list
+- i would like to delete some [tortilla](item) from the list
+- eliminate [taro](item) from the list
+- delete [every]{"entity": "number", "value": -1} [wheat bran](item)
+- delete [totally]{"entity": "number", "value": -1} the [garlic sauce](item)
+- erase [92](number) [pimiento](item) from the list
+- eliminate [catfish](item)
+- cancel [safflower oil](item)
+- cross out [an]{"entity": "number", "value": 1} [sliced chicken sandwich](item)
+- remove [the whole lot]{"entity": "number", "value": -1} of [sun-dried tomatoes](item)
+- cancel [coconut cream cake](item)
+- remove [cheese](item)
+- remove [oatmeal cereal](item) from the list
+- i want to cancel some [infant formula](item)
+- cancel [turnip greens](item)
+- i want to cancel some [chewing gum](item)
+- i would like to delete some [simple syrup](item) from the list
+- delete [peanut butter](item) from the list
+- delete [wheat cereal](item) from the shopping list
+- delete [meatball](item) from the lits
+- black out [completely]{"entity": "number", "value": -1} the [fish wrap sandwich](item)
+- i want to cancel some [kale](item) from the list
+- eliminate [the whole lot]{"entity": "number", "value": -1} of [frozen daiquiri](item)
+- cancel [fully]{"entity": "number", "value": -1} the [barfi or burfi](item) from the shopping lits
+- delete [prune juice](item)
+- delete [a]{"entity": "number", "value": 1} [natto](item)
+- i want to cancel some [squid](item)
+- i want to cancel some [prune](item)
+- cancel [all]{"entity": "number", "value": -1} the [garlic egg soup](item) from the shopping list
+- delete [moose](item) from the shopping list
+- i want to cancel some [spinach](item) from the list
+- cancel [crackers](item) from the list
+- remove [all]{"entity": "number", "value": -1} [pretzel](item) from the list
+- eliminate [fully]{"entity": "number", "value": -1} the [spinach dip](item) from the shopping list
+- undo [fully]{"entity": "number", "value": -1} the [tzatziki dip](item)
+- cross out [lobster with sauce](item)
+- delete [pancake syrup](item) from the list
+- eliminate [snails](item)
+- exclude [taro leaves](item) from the list
+- delete [all]{"entity": "number", "value": -1} [peruvian beans](item) from the list
+- eliminate [every single]{"entity": "number", "value": -1} [noodles](item) from the list
+- erase [breakfast pastry](item) from the shopping list
+- i want to delete [wholly]{"entity": "number", "value": -1} the [fried eggplant](item)
+- eliminate [salmon soup](item)
+- remove [banana yogurt dessert](item) from the list
+- cancel [rice croquette](item) from the list
+- i would like to cancel some [broccoli and chicken](item) from the list
+- remove [entirely]{"entity": "number", "value": -1} the [turkey stick](item)
+- eliminate [all]{"entity": "number", "value": -1} the [basbousa](item) from the list
+- delete [all]{"entity": "number", "value": -1} the [persimmon](item) from the list
+- erase [every]{"entity": "number", "value": -1} [yuca fries](item) from the list
+- delete [lobster bisque](item) from the list
+- i would like to delete some [scone](item) from the list
+- delete [each]{"entity": "number", "value": -1} [creme brulee](item) from the shopping list
+- cross out [meringues](item)
+- erase [totally]{"entity": "number", "value": -1} the [gordita/sope shell](item) from the list
+- undo [fat back](item)
+- cross out [a]{"entity": "number", "value": 1} [bread](item)
+- delete [an]{"entity": "number", "value": 1} [tomato rice soup](item) from the shopping list
+- erase [entirely]{"entity": "number", "value": -1} the [tuna](item) from the shopping list
+- exclude [each and every]{"entity": "number", "value": -1} [mango](item)
+- remove [goat ribs](item)
+- exclude [beef burgundy](item)
+- remove [green beans](item) from the lis
+- i would like to remove [thirteen](number) [banana nectar](item) from the list
+- exclude [each]{"entity": "number", "value": -1} [coconut milk](item) from the list
+- erase [coconut water](item) from the shopping ist
+- i want to cancel some [tomato soup](item)
+- cross out [kit kat white](item)
+- i would like to remove [each]{"entity": "number", "value": -1} [fruit nectar](item) from the lis
+- remove [chinese pancake](item)
+- erase [every single]{"entity": "number", "value": -1} [polish sausage](item) from the shopping list
+- exclude [an]{"entity": "number", "value": 1} [trout](item) from the shopping list
+- eliminate [chives](item) from the shopping lis
+- i would like to cancel some [kale](item) from the ist
+- eliminate [potato salad](item)
+- erase [the whole lot]{"entity": "number", "value": -1} of [goulash](item) from the shopping list
+- eliminate [fish stick](item) from the list
+- i want to cancel some [sweet potatoes](item)
+- remove [completely]{"entity": "number", "value": -1} the [chocolate syrup](item) from the ist
+- remove [yogurt dressing](item)
+- erase [thirty-one](number) [danish pastry](item)
+- i want to delete [fully]{"entity": "number", "value": -1} the [fat back](item)
+- erase [70](number) [shark](item) from the shopping list
+- eliminate [nineteen](number) [basil](item) from the shopping list
+- erase [waffle](item) from the list
+- i would like to remove [eight](number) [sweet potatoes](item) from the list
+- erase [all]{"entity": "number", "value": -1} the [flavored rice](item) from the shopping list
+- undo [orange chicken](item)
+- eliminate [pineapple](item)
+- exclude [24](number) [miso sauce](item)
+- eliminate [fruit nectar](item) from the shopping list
+- eliminate [rabbit](item) from the shopping list
+- delete [cantaloupe](item)
+- delete [salmon loaf](item)
+- delete [chipotle dip](item) from the shopping lits
+- cross out [seafood dip](item)
+- cancel [crab](item) from the shopping list
+- exclude [totally]{"entity": "number", "value": -1} the [vegetable broth](item)
+- eliminate [each]{"entity": "number", "value": -1} [chitterlings](item) from the list
+- eliminate [one]{"entity": "number", "value": 1} [whey](item) from the shopping list
+- cancel [100 grand bar](item) from the list
+- undo [each and every]{"entity": "number", "value": -1} [energy drink](item)
+- cancel [frozen coffee drink](item)
+- cancel [ground hog](item) from the shopping list
+- delete [one]{"entity": "number", "value": 1} [banana yogurt dessert](item) from the shopping list
+- delete [mixed seeds](item) from the list
+- delete [lemon](item) from the shopping lits
+- i would like to remove [any]{"entity": "number", "value": -1} [fish sandwich](item) from the list
+- i want to delete [wholly]{"entity": "number", "value": -1} the [sliced chicken sandwich](item)
+- remove [shrimp chips](item)
+- i want to cancel some [canadian bacon](item)
+- cancel [rob roy](item)
+- eliminate [beef steak](item)
+- exclude [liver](item) from the shopping list
+- exclude [the whole lot]{"entity": "number", "value": -1} of [beef vegetable soup](item) from the list
+- delete [47](number) [tiramisu](item)
+- eliminate [pancakes and sausage](item) from the shopping list
+- undo [welsh rarebit](item)
+- remove [wine cooler](item)
+- erase [84](number) [pea soup](item)
+- delete [chipotle dip](item)
+- cross out [wholly]{"entity": "number", "value": -1} the [quesadilla with chicken](item)
+- eliminate [trout](item) from the list
+- eliminate [wholly]{"entity": "number", "value": -1} the [firni](item) from the shopping list
+- remove [one]{"entity": "number", "value": 1} [lime](item) from the list
+- cancel [mixed nuts](item)
+- erase [strawberry juice](item) from the shopping list
+- i want to delete [totally]{"entity": "number", "value": -1} the [cereal (kellogg's crispix)](item)
+- i want to cancel some [croissant sandwich](item)
+- undo [toffee](item)
+- cancel [pakora](item) from the lits
+- eliminate [coffee and chicory](item) from the shopping list
+- erase [one]{"entity": "number", "value": 1} [oat bran cereal](item)
+- erase [parsnips](item)
+- eliminate [puffs](item) from the lits
+- erase [ham luncheon meat](item)
+- eliminate [mussels](item)
+- remove [flavored rice](item) from the ist
+- remove [noodles](item)
+- cancel [every]{"entity": "number", "value": -1} [poi](item) from the shopping list
+- exclude [mango](item)
+- eliminate [all]{"entity": "number", "value": -1} [pork roast](item) from the list
+- exclude [all]{"entity": "number", "value": -1} [ice cream sundae](item) from the list
+- cancel [each and every]{"entity": "number", "value": -1} [mixed salad greens](item) from the list
+- remove [sliced chicken sandwich](item)
+- i would like to delete some [beef enchilada dinner](item) from the list
+- delete [gin rickey](item)
+- cancel [fully]{"entity": "number", "value": -1} the [yogurt dressing](item) from the shopping list
+- eliminate [wholly]{"entity": "number", "value": -1} the [macaroni and cheese](item) from the shopping list
+- delete [salmon loaf](item) from the list
+- eliminate [all]{"entity": "number", "value": -1} [seaweed soup](item) from the lis
+- delete [every]{"entity": "number", "value": -1} [whiskey sour](item)
+- i want to cancel some [breakfast bar](item)
+- i want to cancel some [broccoli raab](item)
+- eliminate [an]{"entity": "number", "value": 1} [fried onion rings](item) from the list
+- cancel [pepperoni](item)
+- exclude [focaccia](item) from the list
+- black out [one]{"entity": "number", "value": 1} [spoonbread](item)
+- i want to delete [all]{"entity": "number", "value": -1} [coconut oil](item)
+- eliminate [an]{"entity": "number", "value": 1} [peppers](item)
+- i would like to remove [wholly]{"entity": "number", "value": -1} the [tzatziki dip](item) from the list
+- exclude [one]{"entity": "number", "value": 1} [tomato rice soup](item) from the list
+- i would like to remove [each]{"entity": "number", "value": -1} [broccoli cheese soup](item) from the list
+- exclude [danish pastry](item) from the shopping list
+- erase [apple-banana juice](item) from the list
+- cancel [one]{"entity": "number", "value": 1} [arepa dominicana](item)
+- i want to cancel some [corn beverage](item) from the list
+- black out [mixed seeds](item)
+- remove [89](number) [grape juice drink](item)
+- erase [papaya nectar](item)
+- black out [every]{"entity": "number", "value": -1} [nuts](item)
+- exclude [all]{"entity": "number", "value": -1} the [stewed potatoes](item) from the shopping list
+- cancel [cantaloupe nectar](item) from the list
+- eliminate [spanish rice](item) from the shopping list
+- i would like to delete some [rice with raisins](item) from the list
+- i would like to remove [ten](number) [halibut](item) from the list
+- cancel [an]{"entity": "number", "value": 1} [vegetable broth](item)
+- i would like to cancel some [quesadilla](item) from the list
+- cross out [croissant](item)
+- black out [turkey stick](item)
+- exclude [one]{"entity": "number", "value": 1} [basbousa](item) from the list
+- remove [sesame crunch](item) from the list
+- exclude [pumpkin seeds](item) from the shopping list
+- i would like to cancel some [meatball](item) from the list
+- delete [all]{"entity": "number", "value": -1} the [cod](item)
+- remove [entirely]{"entity": "number", "value": -1} the [rob roy](item)
+- eliminate [cheese sauce](item) from the list
 - delete [double cheeseburger](item)
-- delete [brunswick stew](item) from the lis
-- delete [venison/deer jerky](item) from the list
-- eliminate [any]{"entity": "number", "value": -1} [lambsquarter](item) from the list
-- erase [salmon salad](item) from the list
-- cancel [wholly]{"entity": "number", "value": -1} the [cornbread stuffing](item)
-- i want to delete [the whole lot]{"entity": "number", "value": -1} of [cheeseburger](item)
-- cross out [apple-banana juice](item)
-- erase [apples and pears](item)
-- i want to cancel some [big mac (mcdonalds)](item)
-- i want to cancel some [lemonade](item)
-- cancel [each and every]{"entity": "number", "value": -1} [vegetable and chicken](item) from the shopping list
-- black out [sunflower oil](item)
-- exclude [twenty-one](number) [fish chowder](item) from the shopping lits
-- i want to cancel some [sports drink (powerade)](item) from the list
-- remove [every]{"entity": "number", "value": -1} [flan](item) from the lits
-- remove [one]{"entity": "number", "value": 1} [lobster salad](item) from the list
-- i want to cancel some [meat sandwich](item) from the lits
-- exclude [fully]{"entity": "number", "value": -1} the [mixed nuts](item) from the list
-- exclude [a]{"entity": "number", "value": 1} [beans and rice](item) from the shopping list
-- i would like to cancel some [topping](item) from the list
-- black out [frozen dessert](item)
-- i would like to cancel some [seabreeze](item) from the list
-- remove [entirely]{"entity": "number", "value": -1} the [crayfish](item)
-- cancel [fruit punch](item)
-- erase [one]{"entity": "number", "value": 1} [pheasant](item) from the lis
-- i would like to cancel some [swordfish](item) from the lits
-- exclude [each]{"entity": "number", "value": -1} [kumquat](item)
-- delete [breakfast pastry](item) from the shopping list
-- cross out [trail mix](item)
-- delete [sausage sandwich](item)
-- cancel [mustard](item) from the list
-- cancel [ravioli](item) from the list
-- delete [fully]{"entity": "number", "value": -1} the [watermelon juice](item) from the list
-- erase [a]{"entity": "number", "value": 1} [fried bread](item) from the list
-- delete [rutabaga](item)
-- cancel [each]{"entity": "number", "value": -1} [abalone](item)
-- exclude [any]{"entity": "number", "value": -1} [sunflower seeds](item)
-- undo [veal scallopini](item)
-- delete [every]{"entity": "number", "value": -1} [mayonnaise-type salad dressing](item) from the list
-- cancel [butterfinger](item) from the lits
-- cancel [entirely]{"entity": "number", "value": -1} the [cranberry sauce](item) from the list
-- erase [pork chop](item) from the list
-- eliminate [fried rice](item)
-- i would like to remove [any]{"entity": "number", "value": -1} [avocado](item) from the lis
-- exclude [chicken fillet biscuit](item) from the list
-- exclude [raccoon](item) from the list
-- erase [blueberries](item)
-- remove [totally]{"entity": "number", "value": -1} the [blackberries](item) from the lits
-- eliminate [wholly]{"entity": "number", "value": -1} the [croaker](item)
-- eliminate [hot thai sauce](item) from the shopping list
-- black out [winter squash](item)
-- erase [beef goulash](item) from the list
-- black out [completely]{"entity": "number", "value": -1} the [snickers bar](item)
-- i want to cancel some [russian dressing](item)
-- cancel [chicken fillet biscuit](item) from the shopping list
-- cross out [wholly]{"entity": "number", "value": -1} the [shrimp-egg patty](item)
-- remove [all]{"entity": "number", "value": -1} the [breakfast bar](item) from the list
-- delete [the whole lot]{"entity": "number", "value": -1} of [spanakopitta](item)
-- eliminate [brandy and cola](item) from the list
-- cross out [all]{"entity": "number", "value": -1} [veal patty](item)
-- delete [snickers bar](item) from the list
-- remove [every]{"entity": "number", "value": -1} [infant formula](item) from the list
+- i want to delete [any]{"entity": "number", "value": -1} [fish stick](item)
+- exclude [gerber finger foods](item) from the list
+- i want to remove [twenty-seven](number) [fish curry](item)
+- exclude [totally]{"entity": "number", "value": -1} the [veal cordon bleu](item) from the lits
+- remove [91](number) [seafood salad](item)
+- delete [nine](number) [iced coffee](item)
+- remove [98](number) [spanish rice](item) from the list
+- delete [banana pudding](item)
+- i want to cancel some [seafood sauce](item)
+- remove [applesauce](item)
+- exclude [entirely]{"entity": "number", "value": -1} the [garlic sauce](item) from the shopping list
+- delete [soy nuts](item)
+- delete [kibby](item) from the shopping lits
+- erase [all]{"entity": "number", "value": -1} [catfish](item)
+- i want to cancel some [french toast](item)
+- eliminate [cheese enchilada](item) from the list
+- cancel [peas and carrots](item) from the list
+- eliminate [the whole lot]{"entity": "number", "value": -1} of [prunes with oatmeal](item) from the shopping list
+- erase [33](number) [moose](item) from the shopping lits
